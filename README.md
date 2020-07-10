@@ -10,6 +10,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [datasette-configure-fts 1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - 2020-07-06
 * [datasette-search-all 0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - 2020-07-06
 <!-- recent_releases ends -->
+More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top">
 
 ### On my blog

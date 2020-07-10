@@ -33,6 +33,8 @@ query {
       }
       nodes {
         name
+        description
+        url
         releases(last:1) {
           totalCount
           nodes {
@@ -72,6 +74,8 @@ def fetch_releases(oauth_token):
                 releases.append(
                     {
                         "repo": repo["name"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"],
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
@@ -110,6 +114,7 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
@@ -120,6 +125,21 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
+
+    # Write out full project-releases.md file
+    project_releases_md = "\n".join(
+        [
+            (
+                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+                "<br>{description}"
+            ).format(**release)
+            for release in releases
+        ]
+    )
+    project_releases_content = project_releases.open().read()
+    project_releases.open("w").write(
+        replace_chunk(project_releases_content, "recent_releases", project_releases_md)
+    )
 
     tils = fetch_tils()
     tils_md = "\n".join(
