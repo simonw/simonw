@@ -33,3 +33,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
+
+<a href="https://github.com/simonw/simonw/actions">![Build README](https://github.com/simonw/simonw/workflows/Build%20README/badge.svg)</a>
+
