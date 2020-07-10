@@ -30,6 +30,7 @@ Currently mostly working on [Datasette](https://github.com/simonw/datasette) and
 * [Weeknotes: Datasette 0.43](http://simonwillison.net/2020/May/29/weeknotes-datasette-043/) - 2020-05-29
 * [Using SQL to find my best photo of a pelican according to Apple Photos](http://simonwillison.net/2020/May/21/dogsheep-photos/) - 2020-05-21
 <!-- blog ends -->
+More on [simonwillison.net](https://simonwilliso.net/)
 </td><td valign="top">
 
 ### TIL
@@ -45,4 +46,5 @@ Currently mostly working on [Datasette](https://github.com/simonw/datasette) and
 * [Use setup.py to install platform-specific dependencies](https://github.com/simonw/til/blob/master/python/platform-specific-dependencies.md) - 2020-05-05
 * [Search across all loaded resources in Firefox](https://github.com/simonw/til/blob/master/firefox/search-across-all-resources.md) - 2020-05-05
 <!-- tils ends -->
+More on [til.simonwillison.net](https://til.simonwilliso.net/)
 </td></tr></table>

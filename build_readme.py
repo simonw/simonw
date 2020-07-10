@@ -89,7 +89,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 10"
+    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
     return httpx.get(
         "https://til.simonwillison.net/til.json",
         params={"sql": sql, "_shape": "array",},
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:10]
+            for release in releases[:5]
         ]
     )
     readme_contents = readme.open().read()
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "tils", tils_md)
 
-    entries = fetch_blog_entries()[:10]
+    entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
