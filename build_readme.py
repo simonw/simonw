@@ -1,6 +1,7 @@
 from python_graphql_client import GraphqlClient
 import feedparser
 import httpx
+import json
 import pathlib
 import re
 import os
@@ -61,6 +62,9 @@ def fetch_releases(oauth_token):
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
+        print()
+        print(json.dumps(data, indent=4))
+        print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
