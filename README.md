@@ -25,11 +25,11 @@ More on [simonwillison.net](https://simonwilliso.net/)
 
 ### TIL
 <!-- tils starts -->
+* [Paginating through the GitHub GraphQL API with Python](https://github.com/simonw/til/blob/master/github/graphql-pagination-python.md) - 2020-07-10
 * [Writing tests for the ASGI lifespan protocol with HTTPX](https://github.com/simonw/til/blob/master/asgi/lifespan-test-httpx.md) - 2020-06-29
 * [Using LD_PRELOAD to run any version of SQLite with Python](https://github.com/simonw/til/blob/master/sqlite/ld-preload.md) - 2020-06-17
 * [Asserting a dictionary is a subset of another dictionary](https://github.com/simonw/til/blob/master/pytest/assert-dictionary-subset.md) - 2020-05-28
 * [Introspecting Python function parameters](https://github.com/simonw/til/blob/master/python/introspect-function-parameters.md) - 2020-05-27
-* [Adding project links to PyPI](https://github.com/simonw/til/blob/master/pypi/project-links.md) - 2020-05-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwilliso.net/)
 </td></tr></table>
