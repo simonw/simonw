@@ -4,7 +4,16 @@ Currently mostly working on [Datasette](https://github.com/simonw/datasette) and
 
 ### Recent releases
 <!-- recent_releases starts -->
-
+* [github-to-sqlite 2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
+* [sqlite-utils 2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
+* [datasette-media 0.3](https://github.com/simonw/datasette-media/releases/tag/0.3) - 2020-07-08
+* [datasette-configure-fts 1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - 2020-07-06
+* [datasette-search-all 0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - 2020-07-06
+* [datasette-edit-tables 0.2a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.2a) - 2020-07-06
+* [datasette 0.45](https://github.com/simonw/datasette/releases/tag/0.45) - 2020-07-01
+* [asgi-csrf 0.6](https://github.com/simonw/asgi-csrf/releases/tag/0.6) - 2020-07-01
+* [datasette-auth-tokens 0.2.1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.1) - 2020-07-01
+* [datasette-saved-queries 0.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2) - 2020-07-01
 <!-- recent_releases ends -->
 </td><td valign="top">
 
