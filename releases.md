@@ -1,4 +1,4 @@
-# Projects
+# Released projects
 
 All of my released projects, ordered by the date of their most recent release.
 
