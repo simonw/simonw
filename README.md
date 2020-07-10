@@ -20,7 +20,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate](http://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/) - 2020-06-26
 * [A cookiecutter template for writing Datasette plugins](http://simonwillison.net/2020/Jun/20/cookiecutter-plugins/) - 2020-06-20
 <!-- blog ends -->
-More on [simonwillison.net](https://simonwilliso.net/)
+More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top">
 
 ### TIL
@@ -31,5 +31,5 @@ More on [simonwillison.net](https://simonwilliso.net/)
 * [Asserting a dictionary is a subset of another dictionary](https://github.com/simonw/til/blob/master/pytest/assert-dictionary-subset.md) - 2020-05-28
 * [Introspecting Python function parameters](https://github.com/simonw/til/blob/master/python/introspect-function-parameters.md) - 2020-05-27
 <!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwilliso.net/)
+More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
