@@ -1,4 +1,4 @@
-Currently mostly working on [Datasette](https://github.com/simonw/datasette) and associated projects.
+Currently working on [Datasette](https://github.com/simonw/datasette) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 
 <table><tr><td valign="top">
 
