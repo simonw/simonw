@@ -1,6 +1,6 @@
 # Released projects
 
-All of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->68<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09

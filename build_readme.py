@@ -13,12 +13,14 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 TOKEN = os.environ.get("SIMONW_TOKEN", "")
 
 
-def replace_chunk(content, marker, chunk):
+def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
     )
-    chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
+    if not inline:
+        chunk = "\n{}\n".format(chunk)
+    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
 
@@ -137,9 +139,13 @@ if __name__ == "__main__":
         ]
     )
     project_releases_content = project_releases.open().read()
-    project_releases.open("w").write(
-        replace_chunk(project_releases_content, "recent_releases", project_releases_md)
+    project_releases_content = replace_chunk(
+        project_releases_content, "recent_releases", project_releases_md
     )
+    project_releases_content = replace_chunk(
+        project_releases_content, "release_count", str(len(releases)), inline=True
+    )
+    project_releases.open("w").write(project_releases_content)
 
     tils = fetch_tils()
     tils_md = "\n".join(
