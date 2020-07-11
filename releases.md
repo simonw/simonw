@@ -3,6 +3,8 @@
 All <!-- release_count starts -->68<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
+<br>Datasette plugin for publishing data using Fly
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
 <br>Save data from GitHub to a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
@@ -83,8 +85,6 @@ All <!-- release_count starts -->68<!-- release_count ends --> of my released pr
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.1](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1) - 2020-03-28
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/0.2) - 2020-03-25
-<br>Datasette plugin for publishing data using Fly
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
 <br>Create a SQLite database containing your observation history from iNaturalist
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [0.1.2](https://github.com/simonw/datasette-render-html/releases/tag/0.1.2) - 2020-03-21
