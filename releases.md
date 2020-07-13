@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->68<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->69<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.1) - 2020-07-13
+<br>Datasette plugin for authentication using passwords
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
