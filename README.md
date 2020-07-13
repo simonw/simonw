@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [datasette-auth-passwords 0.2.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.2.1) - 2020-07-13
+* [datasette-auth-passwords 0.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3) - 2020-07-13
 * [datasette-publish-fly 1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 * [github-to-sqlite 2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
 * [sqlite-utils 2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
