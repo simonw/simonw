@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [datasette-plugin-demos 0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 * [datasette-auth-passwords 0.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3) - 2020-07-13
 * [datasette-publish-fly 1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 * [github-to-sqlite 2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
 * [sqlite-utils 2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
-* [datasette-media 0.3](https://github.com/simonw/datasette-media/releases/tag/0.3) - 2020-07-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top">
