@@ -26,11 +26,11 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+* [Password hashing in Python with pbkdf2](https://github.com/simonw/til/blob/master/python/password-hashing-with-pbkdf2.md) - 2020-07-14
 * [Using heroku pg:pull to restore a backup to a macOS laptop](https://github.com/simonw/til/blob/master/heroku/pg-pull.md) - 2020-07-11
 * [Paginating through the GitHub GraphQL API with Python](https://github.com/simonw/til/blob/master/github/graphql-pagination-python.md) - 2020-07-10
 * [Writing tests for the ASGI lifespan protocol with HTTPX](https://github.com/simonw/til/blob/master/asgi/lifespan-test-httpx.md) - 2020-06-29
 * [Using LD_PRELOAD to run any version of SQLite with Python](https://github.com/simonw/til/blob/master/sqlite/ld-preload.md) - 2020-06-17
-* [Asserting a dictionary is a subset of another dictionary](https://github.com/simonw/til/blob/master/pytest/assert-dictionary-subset.md) - 2020-05-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
