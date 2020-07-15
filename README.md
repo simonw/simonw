@@ -1,6 +1,6 @@
 Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="33%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -11,7 +11,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [sqlite-utils 2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top">
+</td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
@@ -22,7 +22,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 * [A cookiecutter template for writing Datasette plugins](http://simonwillison.net/2020/Jun/20/cookiecutter-plugins/) - 2020-06-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
-</td><td valign="top">
+</td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
