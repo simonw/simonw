@@ -122,7 +122,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:5]
+            for release in releases[:8]
         ]
     )
     readme_contents = readme.open().read()
