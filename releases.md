@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->70<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->71<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-update-api](https://github.com/simonw/datasette-update-api)**: [0.1a](https://github.com/simonw/datasette-update-api/releases/tag/0.1a) - 2020-07-17
+<br>Datasette plugin providing an API for updating data
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br>Some examples plugins for Datasette
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3) - 2020-07-13
