@@ -3,6 +3,10 @@
 All <!-- release_count starts -->71<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
+<br>Save data from Twitter to a SQLite database
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - 2020-07-18
+<br>Save data from GitHub to a SQLite database
 * **[datasette-update-api](https://github.com/simonw/datasette-update-api)**: [0.1a](https://github.com/simonw/datasette-update-api/releases/tag/0.1a) - 2020-07-17
 <br>Datasette plugin providing an API for updating data
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
@@ -11,8 +15,6 @@ All <!-- release_count starts -->71<!-- release_count ends --> of my released pr
 <br>Datasette plugin for authentication using passwords
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.3) - 2020-07-09
-<br>Save data from GitHub to a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.3](https://github.com/simonw/datasette-media/releases/tag/0.3) - 2020-07-08
@@ -69,8 +71,6 @@ All <!-- release_count starts -->71<!-- release_count ends --> of my released pr
 <br>Datasette plugin that shows a cluster map for any data with latitude/longitude columns
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - 2020-05-02
 <br>Datasette plugin for rendering Markdown
-* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.1](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.1) - 2020-04-30
-<br>Save data from Twitter to a SQLite database
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.2a](https://github.com/simonw/conditional-get/releases/tag/0.2a) - 2020-04-30
 <br>CLI tool for fetching data using HTTP conditional get
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.1](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.1) - 2020-04-22
