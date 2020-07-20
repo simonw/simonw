@@ -3,6 +3,8 @@
 All <!-- release_count starts -->71<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
+<br>Datasette plugin for authenticating access using API tokens
 * **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.3](https://github.com/simonw/datasette-insert-api/releases/tag/0.3) - 2020-07-20
 <br>Datasette plugin providing an API for inserting and updating data
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
@@ -29,8 +31,6 @@ All <!-- release_count starts -->71<!-- release_count ends --> of my released pr
 <br>An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6](https://github.com/simonw/asgi-csrf/releases/tag/0.6) - 2020-07-01
 <br>ASGI middleware for protecting against CSRF attacks
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.1) - 2020-07-01
-<br>Datasette plugin for authenticating access using API tokens
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2) - 2020-07-01
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - 2020-07-01
