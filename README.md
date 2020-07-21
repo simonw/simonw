@@ -5,13 +5,13 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 ### Recent releases
 <!-- recent_releases starts -->
 * [datasette-insert-api 0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
+* [datasette-copyable 0.1](https://github.com/simonw/datasette-copyable/releases/tag/0.1) - 2020-07-21
 * [datasette-auth-tokens 0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
 * [twitter-to-sqlite 0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
 * [github-to-sqlite 2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - 2020-07-18
 * [datasette-plugin-demos 0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 * [datasette-auth-passwords 0.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3) - 2020-07-13
 * [datasette-publish-fly 1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
-* [sqlite-utils 2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

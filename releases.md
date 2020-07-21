@@ -1,10 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->71<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
 <br>Datasette plugin providing an API for inserting and updating data
+* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.1](https://github.com/simonw/datasette-copyable/releases/tag/0.1) - 2020-07-21
+<br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
 <br>Datasette plugin for authenticating access using API tokens
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
