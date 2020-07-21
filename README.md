@@ -4,8 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [datasette-insert-api 0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
 * [datasette-auth-tokens 0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
-* [datasette-insert-api 0.3](https://github.com/simonw/datasette-insert-api/releases/tag/0.3) - 2020-07-20
 * [twitter-to-sqlite 0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
 * [github-to-sqlite 2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - 2020-07-18
 * [datasette-plugin-demos 0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
@@ -29,11 +29,11 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+* [Registering temporary pluggy plugins inside tests](https://github.com/simonw/til/blob/master/pytest/registering-plugins-in-tests.md) - 2020-07-21
 * [Upgrading a Heroku PostgreSQL database with pg:copy](https://github.com/simonw/til/blob/master/heroku/pg-upgrade.md) - 2020-07-20
 * [Password hashing in Python with pbkdf2](https://github.com/simonw/til/blob/master/python/password-hashing-with-pbkdf2.md) - 2020-07-14
 * [Using heroku pg:pull to restore a backup to a macOS laptop](https://github.com/simonw/til/blob/master/heroku/pg-pull.md) - 2020-07-11
 * [Paginating through the GitHub GraphQL API with Python](https://github.com/simonw/til/blob/master/github/graphql-pagination-python.md) - 2020-07-10
-* [Writing tests for the ASGI lifespan protocol with HTTPX](https://github.com/simonw/til/blob/master/asgi/lifespan-test-httpx.md) - 2020-06-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

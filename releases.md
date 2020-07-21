@@ -3,10 +3,10 @@
 All <!-- release_count starts -->71<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
+<br>Datasette plugin providing an API for inserting and updating data
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
 <br>Datasette plugin for authenticating access using API tokens
-* **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.3](https://github.com/simonw/datasette-insert-api/releases/tag/0.3) - 2020-07-20
-<br>Datasette plugin providing an API for inserting and updating data
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
 <br>Save data from Twitter to a SQLite database
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - 2020-07-18
