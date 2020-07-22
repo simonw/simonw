@@ -3,6 +3,8 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - 2020-07-22
+<br>Create a local copy of database files from a Datasette instance
 * **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
 <br>Datasette plugin providing an API for inserting and updating data
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.2](https://github.com/simonw/datasette-copyable/releases/tag/0.2) - 2020-07-21
@@ -83,8 +85,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Command-line tool for fetching JSON from paginated APIs
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2) - 2020-04-14
 <br>Datasette plugin that masks specified database columns
-* **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.4.1](https://github.com/simonw/datasette-clone/releases/tag/0.4.1) - 2020-04-14
-<br>Create a local copy of database files from a Datasette instance
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.12](https://github.com/simonw/datasette-auth-github/releases/tag/0.12) - 2020-04-10
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
