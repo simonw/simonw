@@ -3,6 +3,8 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
+<br>Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - 2020-07-22
 <br>Create a local copy of database files from a Datasette instance
 * **[datasette-insert-api](https://github.com/simonw/datasette-insert-api)**: [0.4](https://github.com/simonw/datasette-insert-api/releases/tag/0.4) - 2020-07-21
@@ -11,8 +13,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - 2020-07-20
 <br>Datasette plugin for authenticating access using API tokens
-* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.2](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2) - 2020-07-18
-<br>Save data from Twitter to a SQLite database
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - 2020-07-18
 <br>Save data from GitHub to a SQLite database
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
