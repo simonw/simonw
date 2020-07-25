@@ -29,11 +29,11 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+* [PostgreSQL full-text search in the Django Admin](https://github.com/simonw/til/blob/master/django/postgresql-full-text-search-admin.md) - 2020-07-25
 * [Implementing a "copy to clipboard" button](https://github.com/simonw/til/blob/master/javascript/copy-button.md) - 2020-07-23
 * [Updating a Markdown table of contents with a GitHub Action](https://github.com/simonw/til/blob/master/github-actions/markdown-table-of-contents.md) - 2020-07-22
 * [Registering temporary pluggy plugins inside tests](https://github.com/simonw/til/blob/master/pytest/registering-plugins-in-tests.md) - 2020-07-21
 * [Upgrading a Heroku PostgreSQL database with pg:copy](https://github.com/simonw/til/blob/master/heroku/pg-upgrade.md) - 2020-07-20
-* [Password hashing in Python with pbkdf2](https://github.com/simonw/til/blob/master/python/password-hashing-with-pbkdf2.md) - 2020-07-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
