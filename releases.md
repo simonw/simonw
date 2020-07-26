@@ -3,6 +3,8 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
+<br>Datasette plugin for authentication using passwords
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
 <br>Datasette plugin for inserting and updating data
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
@@ -17,8 +19,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Save data from GitHub to a SQLite database
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br>Some examples plugins for Datasette
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3) - 2020-07-13
-<br>Datasette plugin for authentication using passwords
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.11](https://github.com/simonw/sqlite-utils/releases/tag/2.11) - 2020-07-08
