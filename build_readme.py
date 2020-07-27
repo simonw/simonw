@@ -122,7 +122,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            "* [{repo} {release}]({url}) - {published_day}".format(**release)
             for release in releases[:8]
         ]
     )
