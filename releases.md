@@ -3,12 +3,12 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
+<br>Datasette plugin for serving files from disk based on a SQL query
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.12](https://github.com/simonw/sqlite-utils/releases/tag/2.12) - 2020-07-27
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
 <br>Datasette plugin that renders binary blob images using data-uris
-* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
-<br>Datasette plugin for serving files from disk based on a SQL query
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
 <br>Datasette plugin for authentication using passwords
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
@@ -27,24 +27,24 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
+* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.2a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.2a) - 2020-07-06
+<br>Datasette plugin for renaming and deleting tables and columns and changing column types
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - 2020-07-06
 <br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - 2020-07-06
 <br>Datasette plugin for searching all searchable tables at once
-* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.2a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.2a) - 2020-07-06
-<br>Datasette plugin for renaming and deleting tables and columns and changing column types
-* **[datasette](https://github.com/simonw/datasette)**: [0.45](https://github.com/simonw/datasette/releases/tag/0.45) - 2020-07-01
-<br>An open source multi-tool for exploring and publishing data
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6](https://github.com/simonw/asgi-csrf/releases/tag/0.6) - 2020-07-01
-<br>ASGI middleware for protecting against CSRF attacks
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - 2020-07-01
+<br>Datasette plugin providing a UI for writing to the database
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2) - 2020-07-01
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - 2020-07-01
 <br>Utilities to help run Datasette on Glitch
 * **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - 2020-07-01
 <br>Ensure specific tables and views exist on startup
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - 2020-07-01
-<br>Datasette plugin providing a UI for writing to the database
+* **[datasette](https://github.com/simonw/datasette)**: [0.45](https://github.com/simonw/datasette/releases/tag/0.45) - 2020-07-01
+<br>An open source multi-tool for exploring and publishing data
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6](https://github.com/simonw/asgi-csrf/releases/tag/0.6) - 2020-07-01
+<br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1) - 2020-06-30
 <br>Always allow access to /-/permissions, for debugging
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [0.1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/0.1.1) - 2020-06-29
@@ -89,18 +89,18 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
-* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - 2020-03-28
-<br>Convert an Apple Healthkit export zip to a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.1](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1) - 2020-03-28
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
+* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - 2020-03-28
+<br>Convert an Apple Healthkit export zip to a SQLite database
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
 <br>Create a SQLite database containing your observation history from iNaturalist
+* **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - 2020-03-21
+<br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [0.1.2](https://github.com/simonw/datasette-render-html/releases/tag/0.1.2) - 2020-03-21
 <br>Plugin for selectively rendering the HTML is specific columns
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - 2020-03-21
 <br>Datasette plugin for rendering timestamps
-* **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - 2020-03-21
-<br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-show-errors](https://github.com/simonw/datasette-show-errors)**: [0.2](https://github.com/simonw/datasette-show-errors/releases/tag/0.2) - 2020-03-21
 <br>Datasette plugin for displaying error tracebacks
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.1a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.1a) - 2020-03-09
