@@ -7,6 +7,8 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
 <br>Datasette plugin that renders binary blob images using data-uris
+* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
+<br>Datasette plugin for serving files from disk based on a SQL query
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
 <br>Datasette plugin for authentication using passwords
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
@@ -25,8 +27,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
-* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.3](https://github.com/simonw/datasette-media/releases/tag/0.3) - 2020-07-08
-<br>Datasette plugin for serving files from disk based on a SQL query
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - 2020-07-06
 <br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - 2020-07-06
