@@ -81,7 +81,8 @@ def fetch_releases(oauth_token):
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
+                        "published_day": repo["releases"]["nodes"][0][
                             "publishedAt"
                         ].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
@@ -132,7 +133,7 @@ if __name__ == "__main__":
     project_releases_md = "\n".join(
         [
             (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_day}\n"
                 "<br>{description}"
             ).format(**release)
             for release in releases
