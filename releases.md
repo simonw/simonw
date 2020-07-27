@@ -3,7 +3,7 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3](https://github.com/simonw/datasette-render-images/releases/tag/0.3) - 2020-07-27
+* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
 <br>Datasette plugin for authentication using passwords
