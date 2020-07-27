@@ -4,6 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [db-to-sqlite 1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27
 * [datasette-media 0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
 * [sqlite-utils 2.12](https://github.com/simonw/sqlite-utils/releases/tag/2.12) - 2020-07-27
 * [datasette-render-images 0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
@@ -11,7 +12,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [datasette-insert 0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
 * [twitter-to-sqlite 0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
 * [datasette-clone 0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - 2020-07-22
-* [datasette-copyable 0.2](https://github.com/simonw/datasette-copyable/releases/tag/0.2) - 2020-07-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

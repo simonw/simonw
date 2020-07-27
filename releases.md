@@ -3,6 +3,8 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27
+<br>CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
 <br>Datasette plugin for serving files from disk based on a SQL query
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.12](https://github.com/simonw/sqlite-utils/releases/tag/2.12) - 2020-07-27
@@ -67,8 +69,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>ASGI middleware that authenticates users against GitHub
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.4](https://github.com/simonw/datasette-ics/releases/tag/0.4) - 2020-05-29
 <br>Datasette plugin for outputting iCalendar files
-* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.2.1](https://github.com/simonw/db-to-sqlite/releases/tag/1.2.1) - 2020-05-28
-<br>CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.6](https://github.com/simonw/datasette-atom/releases/tag/0.6) - 2020-05-28
 <br>Datasette plugin that adds a .atom output format
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.10](https://github.com/simonw/datasette-cluster-map/releases/tag/0.10) - 2020-05-21
