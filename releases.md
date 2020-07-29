@@ -3,10 +3,10 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - 2020-07-29
+<br>Datasette plugin for serving files from disk based on a SQL query
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27
 <br>CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.4](https://github.com/simonw/datasette-media/releases/tag/0.4) - 2020-07-27
-<br>Datasette plugin for serving files from disk based on a SQL query
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.12](https://github.com/simonw/sqlite-utils/releases/tag/2.12) - 2020-07-27
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
