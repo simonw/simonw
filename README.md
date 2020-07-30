@@ -18,11 +18,11 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+* [Fun with binary data and SQLite](http://simonwillison.net/2020/Jul/30/fun-binary-data-and-sqlite/) - 2020-07-30
 * [Weeknotes: datasette-copyable, datasette-insert-api](http://simonwillison.net/2020/Jul/23/datasette-copyable-datasette-insert-api/) - 2020-07-23
 * [Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more](http://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/) - 2020-07-17
 * [Building a self-updating profile README for GitHub](http://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - 2020-07-10
 * [Weeknotes: SBA Covid-19 PPP loans, Datasette talks, Datasette plugin upgrades](http://simonwillison.net/2020/Jul/9/sba-covid-19-ppp-loans/) - 2020-07-09
-* [Datasette 0.45: The annotated release notes](http://simonwillison.net/2020/Jul/1/datasette-045/) - 2020-07-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
