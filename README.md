@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [sqlite-utils 2.13](https://github.com/simonw/sqlite-utils/releases/tag/2.13) - 2020-07-30
 * [datasette-media 0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - 2020-07-29
 * [db-to-sqlite 1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27
-* [sqlite-utils 2.12](https://github.com/simonw/sqlite-utils/releases/tag/2.12) - 2020-07-27
 * [datasette-render-images 0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
 * [datasette-auth-passwords 0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
 * [datasette-insert 0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
