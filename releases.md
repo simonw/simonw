@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->73<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
+<br>Unsafe permissions for datasette-insert - allows all actions without authentication
+* **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - 2020-07-31
+<br>Datasette plugin for inserting and updating data
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.7](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7) - 2020-07-31
 <br>Datasette plugin for publishing data using Vercel
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.13](https://github.com/simonw/sqlite-utils/releases/tag/2.13) - 2020-07-30
@@ -15,8 +19,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1) - 2020-07-26
 <br>Datasette plugin for authentication using passwords
-* **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.5](https://github.com/simonw/datasette-insert/releases/tag/0.5) - 2020-07-25
-<br>Datasette plugin for inserting and updating data
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - 2020-07-23
 <br>Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - 2020-07-22
