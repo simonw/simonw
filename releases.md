@@ -3,6 +3,8 @@
 All <!-- release_count starts -->72<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.7](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7) - 2020-07-31
+<br>Datasette plugin for publishing data using Vercel
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.13](https://github.com/simonw/sqlite-utils/releases/tag/2.13) - 2020-07-30
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - 2020-07-29
@@ -59,8 +61,6 @@ All <!-- release_count starts -->72<!-- release_count ends --> of my released pr
 <br>Demo for https://github.com/simonw/click-app
 * **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
 <br>Demonstrating https://github.com/simonw/datasette-plugin
-* **[datasette-publish-now](https://github.com/simonw/datasette-publish-now)**: [0.6](https://github.com/simonw/datasette-publish-now/releases/tag/0.6) - 2020-06-18
-<br>Datasette plugin for publishing data using Vercel
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - 2020-06-13
 <br>Datasette plugin adding a /-/psutil debugging endpoint
 * **[datasette-permissions-sql](https://github.com/simonw/datasette-permissions-sql)**: [0.3a](https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a) - 2020-06-12
