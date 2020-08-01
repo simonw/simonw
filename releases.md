@@ -3,14 +3,14 @@
 All <!-- release_count starts -->73<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.14](https://github.com/simonw/sqlite-utils/releases/tag/2.14) - 2020-08-01
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br>Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - 2020-07-31
 <br>Datasette plugin for inserting and updating data
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.7](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7) - 2020-07-31
 <br>Datasette plugin for publishing data using Vercel
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.13](https://github.com/simonw/sqlite-utils/releases/tag/2.13) - 2020-07-30
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - 2020-07-29
 <br>Datasette plugin for serving files from disk based on a SQL query
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27

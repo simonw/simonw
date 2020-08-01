@@ -4,10 +4,10 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [sqlite-utils 2.14](https://github.com/simonw/sqlite-utils/releases/tag/2.14) - 2020-08-01
 * [datasette-insert-unsafe 0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 * [datasette-insert 0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - 2020-07-31
 * [datasette-publish-vercel 0.7](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7) - 2020-07-31
-* [sqlite-utils 2.13](https://github.com/simonw/sqlite-utils/releases/tag/2.13) - 2020-07-30
 * [datasette-media 0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - 2020-07-29
 * [db-to-sqlite 1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - 2020-07-27
 * [datasette-render-images 0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - 2020-07-27
