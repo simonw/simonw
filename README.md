@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [datasette-graphql 0.1a2](https://github.com/simonw/datasette-graphql/releases/tag/0.1a2) - 2020-08-02
+* [datasette-graphql 0.1a3](https://github.com/simonw/datasette-graphql/releases/tag/0.1a3) - 2020-08-02
 * [sqlite-utils 2.14](https://github.com/simonw/sqlite-utils/releases/tag/2.14) - 2020-08-01
 * [datasette-insert-unsafe 0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 * [datasette-insert 0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - 2020-07-31
