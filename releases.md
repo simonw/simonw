@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->73<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->74<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.1a](https://github.com/simonw/datasette-graphql/releases/tag/0.1a) - 2020-08-02
+<br>A GraphQL endpoint for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.14](https://github.com/simonw/sqlite-utils/releases/tag/2.14) - 2020-08-01
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
