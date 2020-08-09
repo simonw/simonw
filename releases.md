@@ -3,6 +3,8 @@
 All <!-- release_count starts -->74<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - 2020-08-09
+<br>Datasette plugin for rendering HTML based on JSON values
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - 2020-08-09
 <br>Convert CSV files into a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.46](https://github.com/simonw/datasette/releases/tag/0.46) - 2020-08-09
@@ -139,8 +141,6 @@ All <!-- release_count starts -->74<!-- release_count ends --> of my released pr
 <br>Datasette plugin for configuring CORS headers
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2](https://github.com/simonw/sqlite-diffable/releases/tag/0.2) - 2019-07-04
 <br>Tools for dumping/loading a SQLite database to diffable directory structure
-* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.5 - tooltips and demos](https://github.com/simonw/datasette-json-html/releases/tag/0.5) - 2019-06-14
-<br>Datasette plugin for rendering HTML based on JSON values
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3](https://github.com/simonw/datasette-render-binary/releases/tag/0.3) - 2019-06-13
 <br>Datasette plugin for rendering binary data
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
