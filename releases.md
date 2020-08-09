@@ -3,6 +3,8 @@
 All <!-- release_count starts -->74<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.46](https://github.com/simonw/datasette/releases/tag/0.46) - 2020-08-09
+<br>An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6.1](https://github.com/simonw/asgi-csrf/releases/tag/0.6.1) - 2020-08-09
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.11](https://github.com/simonw/datasette-graphql/releases/tag/0.11) - 2020-08-09
@@ -51,8 +53,6 @@ All <!-- release_count starts -->74<!-- release_count ends --> of my released pr
 <br>Utilities to help run Datasette on Glitch
 * **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - 2020-07-01
 <br>Ensure specific tables and views exist on startup
-* **[datasette](https://github.com/simonw/datasette)**: [0.45](https://github.com/simonw/datasette/releases/tag/0.45) - 2020-07-01
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1) - 2020-06-30
 <br>Always allow access to /-/permissions, for debugging
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [0.1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/0.1.1) - 2020-06-29
