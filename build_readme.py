@@ -24,11 +24,9 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-def make_query(after_cursor=None):
-    return """
-query {
-  viewer {
-    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
+organization_graphql = """
+  organization(login: "dogsheep") {
+    repositories(first: 100, privacy: PUBLIC) {
       pageInfo {
         hasNextPage
         endCursor
@@ -37,7 +35,35 @@ query {
         name
         description
         url
-        releases(last:1) {
+        releases(last: 1) {
+          totalCount
+          nodes {
+            name
+            publishedAt
+            url
+          }
+        }
+      }
+    }
+  }
+"""
+
+
+def make_query(after_cursor=None, include_organization=False):
+    return """
+query {
+  ORGANIZATION
+  viewer {
+    repositories(first: 100, privacy: PUBLIC, after: AFTER) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      nodes {
+        name
+        description
+        url
+        releases(last: 1) {
           totalCount
           nodes {
             name
@@ -51,6 +77,8 @@ query {
 }
 """.replace(
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    ).replace(
+        "ORGANIZATION", organization_graphql if include_organization else "",
     )
 
 
@@ -61,15 +89,21 @@ def fetch_releases(oauth_token):
     has_next_page = True
     after_cursor = None
 
+    first = True
+
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor),
+            query=make_query(after_cursor, include_organization=first),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
+        first = False
         print()
         print(json.dumps(data, indent=4))
         print()
-        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+        repo_nodes = data["data"]["viewer"]["repositories"]["nodes"]
+        if "organization" in data["data"]:
+            repo_nodes += data["data"]["organization"]["repositories"]["nodes"]
+        for repo in repo_nodes:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
