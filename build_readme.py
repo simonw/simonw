@@ -86,6 +86,7 @@ def fetch_releases(oauth_token):
                             "publishedAt"
                         ].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
+                        "total_releases": repo["releases"]["totalCount"],
                     }
                 )
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
@@ -133,9 +134,16 @@ if __name__ == "__main__":
     project_releases_md = "\n".join(
         [
             (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_day}\n"
+                "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
                 "<br>{description}"
-            ).format(**release)
+            ).format(
+                total_releases_md="- ([{} releases]({}/releases)) ".format(
+                    release["total_releases"], release["repo_url"]
+                )
+                if release["total_releases"] > 1
+                else "",
+                **release
+            )
             for release in releases
         ]
     )
