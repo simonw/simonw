@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->74<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->76<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
@@ -79,6 +79,8 @@ All <!-- release_count starts -->74<!-- release_count ends --> of my released pr
 <br>Datasette plugin for outputting iCalendar files
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.6](https://github.com/simonw/datasette-atom/releases/tag/0.6) - ([8 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-05-28
 <br>Datasette plugin that adds a .atom output format
+* **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
+<br>Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.10](https://github.com/simonw/datasette-cluster-map/releases/tag/0.10) - ([5 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-05-21
 <br>Datasette plugin that shows a cluster map for any data with latitude/longitude columns
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - ([6 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-05-02
@@ -101,6 +103,8 @@ All <!-- release_count starts -->74<!-- release_count ends --> of my released pr
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - ([7 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-03-28
 <br>Convert an Apple Healthkit export zip to a SQLite database
+* **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-03-27
+<br>Create a SQLite database containing data from your Pocket account
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
 <br>Create a SQLite database containing your observation history from iNaturalist
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2020-03-21
