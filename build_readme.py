@@ -155,9 +155,9 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n".join(
+    md = "\n\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_day}".format(**release)
+            "[{repo} {release}]({url}) - {published_day}".format(**release)
             for release in releases[:8]
         ]
     )
@@ -191,9 +191,9 @@ if __name__ == "__main__":
     project_releases.open("w").write(project_releases_content)
 
     tils = fetch_tils()
-    tils_md = "\n".join(
+    tils_md = "\n\n".join(
         [
-            "* [{title}]({url}) - {created_at}".format(
+            "[{title}]({url}) - {created_at}".format(
                 title=til["title"],
                 url=til["url"],
                 created_at=til["created_utc"].split("T")[0],
@@ -204,8 +204,8 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "tils", tils_md)
 
     entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
+    entries_md = "\n\n".join(
+        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
