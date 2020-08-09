@@ -3,6 +3,8 @@
 All <!-- release_count starts -->74<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - 2020-08-09
+<br>Convert CSV files into a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.46](https://github.com/simonw/datasette/releases/tag/0.46) - 2020-08-09
 <br>An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6.1](https://github.com/simonw/asgi-csrf/releases/tag/0.6.1) - 2020-08-09
@@ -133,8 +135,6 @@ All <!-- release_count starts -->74<!-- release_count ends --> of my released pr
 <br>Import your genome into a SQLite database
 * **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - 2019-09-11
 <br>Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
-* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.0](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.0) - 2019-08-03
-<br>Convert CSV files into a SQLite database
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [0.3](https://github.com/simonw/datasette-cors/releases/tag/0.3) - 2019-07-11
 <br>Datasette plugin for configuring CORS headers
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2](https://github.com/simonw/sqlite-diffable/releases/tag/0.2) - 2019-07-04
