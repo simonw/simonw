@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->76<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+<!-- releases_count starts -->444<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09

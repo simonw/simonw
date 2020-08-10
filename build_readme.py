@@ -186,7 +186,13 @@ if __name__ == "__main__":
         project_releases_content, "recent_releases", project_releases_md
     )
     project_releases_content = replace_chunk(
-        project_releases_content, "release_count", str(len(releases)), inline=True
+        project_releases_content, "project_count", str(len(releases)), inline=True
+    )
+    project_releases_content = replace_chunk(
+        project_releases_content,
+        "releases_count",
+        str(sum(r["total_releases"] for r in releases)),
+        inline=True,
     )
     project_releases.open("w").write(project_releases_content)
 
