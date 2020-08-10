@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->444<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->445<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.15](https://github.com/simonw/sqlite-utils/releases/tag/2.15) - ([52 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-10
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
 <br>Datasette plugin for rendering HTML based on JSON values
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - ([11 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-08-09
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->444<!-- releases_count ends --> releases a
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.11](https://github.com/simonw/datasette-graphql/releases/tag/0.11) - ([15 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-09
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.14.1](https://github.com/simonw/sqlite-utils/releases/tag/2.14.1) - ([51 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-06
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br>Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
