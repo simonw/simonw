@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Attaching a bash shell to a running Docker container](https://github.com/simonw/til/blob/master/docker/attach-bash-to-running-container.md) - 2020-08-10
+
 [Enabling WAL mode for SQLite database files](https://github.com/simonw/til/blob/master/sqlite/enabling-wal-mode.md) - 2020-08-10
 
 [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [SQLite BLOB literals](https://github.com/simonw/til/blob/master/sqlite/blob-literals.md) - 2020-07-29
 
 [PostgreSQL full-text search in the Django Admin](https://github.com/simonw/til/blob/master/django/postgresql-full-text-search-admin.md) - 2020-07-25
-
-[Implementing a "copy to clipboard" button](https://github.com/simonw/til/blob/master/javascript/copy-button.md) - 2020-07-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
