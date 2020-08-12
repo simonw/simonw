@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.47](https://github.com/simonw/datasette/releases/tag/0.47) - 2020-08-12
+
 [sqlite-utils 2.15](https://github.com/simonw/sqlite-utils/releases/tag/2.15) - 2020-08-10
 
 [datasette-json-html 0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - 2020-08-09
 
 [csvs-to-sqlite 1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - 2020-08-09
-
-[datasette 0.46](https://github.com/simonw/datasette/releases/tag/0.46) - 2020-08-09
 
 [asgi-csrf 0.6.1](https://github.com/simonw/asgi-csrf/releases/tag/0.6.1) - 2020-08-09
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[How to call pip programatically from Python](https://github.com/simonw/til/blob/master/python/call-pip-programatically.md) - 2020-08-12
+
 [Packaging a Python CLI tool for Homebrew](https://github.com/simonw/til/blob/master/homebrew/packaging-python-cli-for-homebrew.md) - 2020-08-11
 
 [Attaching a bash shell to a running Docker container](https://github.com/simonw/til/blob/master/docker/attach-bash-to-running-container.md) - 2020-08-10
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Enabling WAL mode for SQLite database files](https://github.com/simonw/til/blob/master/sqlite/enabling-wal-mode.md) - 2020-08-10
 
 [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
-
-[SQLite BLOB literals](https://github.com/simonw/til/blob/master/sqlite/blob-literals.md) - 2020-07-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

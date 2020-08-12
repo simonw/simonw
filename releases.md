@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->445<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->446<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.47](https://github.com/simonw/datasette/releases/tag/0.47) - ([55 releases](https://github.com/simonw/datasette/releases)) - 2020-08-12
+<br>An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.15](https://github.com/simonw/sqlite-utils/releases/tag/2.15) - ([52 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-10
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
 <br>Datasette plugin for rendering HTML based on JSON values
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - ([11 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-08-09
 <br>Convert CSV files into a SQLite database
-* **[datasette](https://github.com/simonw/datasette)**: [0.46](https://github.com/simonw/datasette/releases/tag/0.46) - ([54 releases](https://github.com/simonw/datasette/releases)) - 2020-08-09
-<br>An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.6.1](https://github.com/simonw/asgi-csrf/releases/tag/0.6.1) - ([11 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-09
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.11](https://github.com/simonw/datasette-graphql/releases/tag/0.11) - ([15 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-09
