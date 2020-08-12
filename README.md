@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.47](https://github.com/simonw/datasette/releases/tag/0.47) - 2020-08-12
+[datasette 0.47.1](https://github.com/simonw/datasette/releases/tag/0.47.1) - 2020-08-12
 
 [sqlite-utils 2.15](https://github.com/simonw/sqlite-utils/releases/tag/2.15) - 2020-08-10
 
