@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->450<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->451<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12](https://github.com/simonw/datasette-graphql/releases/tag/0.12) - ([16 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - ([17 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.47.2](https://github.com/simonw/datasette/releases/tag/0.47.2) - ([57 releases](https://github.com/simonw/datasette/releases)) - 2020-08-12
 <br>An open source multi-tool for exploring and publishing data
