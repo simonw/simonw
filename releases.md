@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->451<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->452<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.11](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11) - ([6 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-14
+<br>Datasette plugin that shows a cluster map for any data with latitude/longitude columns
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - ([17 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.47.2](https://github.com/simonw/datasette/releases/tag/0.47.2) - ([57 releases](https://github.com/simonw/datasette/releases)) - 2020-08-12
@@ -81,8 +83,6 @@ Listing <!-- releases_count starts -->451<!-- releases_count ends --> releases a
 <br>Datasette plugin that adds a .atom output format
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br>Upload your photos to S3 and import metadata about them into a SQLite database
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.10](https://github.com/simonw/datasette-cluster-map/releases/tag/0.10) - ([5 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-05-21
-<br>Datasette plugin that shows a cluster map for any data with latitude/longitude columns
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - ([6 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-05-02
 <br>Datasette plugin for rendering Markdown
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.2a](https://github.com/simonw/conditional-get/releases/tag/0.2a) - ([3 releases](https://github.com/simonw/conditional-get/releases)) - 2020-04-30
