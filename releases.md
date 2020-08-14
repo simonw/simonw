@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->452<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.11](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11) - ([6 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-14
-<br>Datasette plugin that shows a cluster map for any data with latitude/longitude columns
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - ([17 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.47.2](https://github.com/simonw/datasette/releases/tag/0.47.2) - ([57 releases](https://github.com/simonw/datasette/releases)) - 2020-08-12
