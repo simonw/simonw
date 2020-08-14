@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Pointing a custom subdomain at Read the Docs](https://github.com/simonw/til/blob/main/readthedocs/custom-subdomain.md) - 2020-08-14
+
 [Customizing my zsh prompt](https://github.com/simonw/til/blob/main/zsh/custom-zsh-prompt.md) - 2020-08-12
 
 [How to call pip programatically from Python](https://github.com/simonw/til/blob/main/python/call-pip-programatically.md) - 2020-08-12
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Packaging a Python CLI tool for Homebrew](https://github.com/simonw/til/blob/main/homebrew/packaging-python-cli-for-homebrew.md) - 2020-08-11
 
 [Attaching a bash shell to a running Docker container](https://github.com/simonw/til/blob/main/docker/attach-bash-to-running-container.md) - 2020-08-10
-
-[Enabling WAL mode for SQLite database files](https://github.com/simonw/til/blob/main/sqlite/enabling-wal-mode.md) - 2020-08-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
