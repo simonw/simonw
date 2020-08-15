@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->456<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->457<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.47.3](https://github.com/simonw/datasette/releases/tag/0.47.3) - ([58 releases](https://github.com/simonw/datasette/releases)) - 2020-08-15
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
 <br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - ([13 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-15
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->456<!-- releases_count ends --> releases a
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - ([17 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[datasette](https://github.com/simonw/datasette)**: [0.47.2](https://github.com/simonw/datasette/releases/tag/0.47.2) - ([57 releases](https://github.com/simonw/datasette/releases)) - 2020-08-12
-<br>An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.15.1](https://github.com/simonw/sqlite-utils/releases/tag/2.15.1) - ([53 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-12
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
