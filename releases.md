@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->455<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->456<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
+<br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - ([13 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-15
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.11.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11.1) - ([7 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-14
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->455<!-- releases_count ends --> releases a
 <br>Experimental plugin that adds a column inspector
 * **[fec-to-sqlite](https://github.com/simonw/fec-to-sqlite)**: [0.2](https://github.com/simonw/fec-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/simonw/fec-to-sqlite/releases)) - 2020-03-07
 <br>Save FEC campaign finance data to a SQLite database
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.4](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.4) - ([4 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-03-03
-<br>Datasette plugin for uploading CSV files and converting them to a database table
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [0.6](https://github.com/simonw/csv-diff/releases/tag/0.6) - ([7 releases](https://github.com/simonw/csv-diff/releases)) - 2020-02-29
 <br>Python CLI tool and library for diffing CSV files
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
