@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->454<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->455<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7a0](https://github.com/simonw/asgi-csrf/releases/tag/0.7a0) - ([12 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-15
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - ([13 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-15
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.11.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11.1) - ([7 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-14
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
