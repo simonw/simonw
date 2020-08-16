@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->458<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->459<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.2](https://github.com/simonw/datasette-graphql/releases/tag/0.12.2) - ([18 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-16
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette](https://github.com/simonw/datasette)**: [0.47.3](https://github.com/simonw/datasette/releases/tag/0.47.3) - ([58 releases](https://github.com/simonw/datasette/releases)) - 2020-08-15
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->458<!-- releases_count ends --> releases a
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.11.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11.1) - ([7 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-14
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - ([17 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-13
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.15.1](https://github.com/simonw/sqlite-utils/releases/tag/2.15.1) - ([53 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-12
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
