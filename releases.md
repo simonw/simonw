@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->457<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->458<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
+<br>Datasette plugin that lets users save and execute queries
 * **[datasette](https://github.com/simonw/datasette)**: [0.47.3](https://github.com/simonw/datasette/releases/tag/0.47.3) - ([58 releases](https://github.com/simonw/datasette/releases)) - 2020-08-15
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
@@ -55,8 +57,6 @@ Listing <!-- releases_count starts -->457<!-- releases_count ends --> releases a
 <br>Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-write/releases)) - 2020-07-01
 <br>Datasette plugin providing a UI for writing to the database
-* **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-07-01
-<br>Datasette plugin that lets users save and execute queries
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01
 <br>Utilities to help run Datasette on Glitch
 * **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - ([4 releases](https://github.com/simonw/datasette-init/releases)) - 2020-07-01
