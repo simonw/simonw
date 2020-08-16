@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.48](https://github.com/simonw/datasette/releases/tag/0.48) - 2020-08-16
+
 [datasette-graphql 0.12.2](https://github.com/simonw/datasette-graphql/releases/tag/0.12.2) - 2020-08-16
 
 [datasette-saved-queries 0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - 2020-08-15
-
-[datasette 0.47.3](https://github.com/simonw/datasette/releases/tag/0.47.3) - 2020-08-15
 
 [datasette-upload-csvs 0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - 2020-08-15
 

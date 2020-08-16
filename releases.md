@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->459<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->460<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.48](https://github.com/simonw/datasette/releases/tag/0.48) - ([59 releases](https://github.com/simonw/datasette/releases)) - 2020-08-16
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.2](https://github.com/simonw/datasette-graphql/releases/tag/0.12.2) - ([18 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-16
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
-* **[datasette](https://github.com/simonw/datasette)**: [0.47.3](https://github.com/simonw/datasette/releases/tag/0.47.3) - ([58 releases](https://github.com/simonw/datasette/releases)) - 2020-08-15
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
 <br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - ([13 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-15
