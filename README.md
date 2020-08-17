@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - 2020-08-17
+
 [datasette-cluster-map 0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - 2020-08-16
 
 [datasette 0.48](https://github.com/simonw/datasette/releases/tag/0.48) - 2020-08-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [asgi-csrf 0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - 2020-08-15
 
 [sqlite-utils 2.15.1](https://github.com/simonw/sqlite-utils/releases/tag/2.15.1) - 2020-08-12
-
-[datasette-json-html 0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - 2020-08-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

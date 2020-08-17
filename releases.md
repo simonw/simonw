@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->461<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->462<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
+<br>Datasette plugin for publishing data using Vercel
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - ([8 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-16
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette](https://github.com/simonw/datasette)**: [0.48](https://github.com/simonw/datasette/releases/tag/0.48) - ([59 releases](https://github.com/simonw/datasette/releases)) - 2020-08-16
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->461<!-- releases_count ends --> releases a
 <br>Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
 <br>Datasette plugin for inserting and updating data
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.7](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7) - ([10 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-07-31
-<br>Datasette plugin for publishing data using Vercel
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
 <br>Datasette plugin for serving files from disk based on a SQL query
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - ([15 releases](https://github.com/simonw/db-to-sqlite/releases)) - 2020-07-27
