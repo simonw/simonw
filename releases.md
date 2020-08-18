@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->462<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->463<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - ([16 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-08-18
+<br>Save data from GitHub to a SQLite database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
 <br>Datasette plugin for publishing data using Vercel
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - ([8 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-16
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->462<!-- releases_count ends --> releases a
 <br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - ([6 releases](https://github.com/simonw/datasette-auth-tokens/releases)) - 2020-07-20
 <br>Datasette plugin for authenticating access using API tokens
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.4](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.4) - ([15 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-07-18
-<br>Save data from GitHub to a SQLite database
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - ([3 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-07-11
