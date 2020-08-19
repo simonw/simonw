@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-schema-versions 0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
+
 [datasette-graphql 0.12.3](https://github.com/simonw/datasette-graphql/releases/tag/0.12.3) - 2020-08-19
 
 [github-to-sqlite 2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - 2020-08-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-saved-queries 0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - 2020-08-15
 
 [datasette-upload-csvs 0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - 2020-08-15
-
-[asgi-csrf 0.7](https://github.com/simonw/asgi-csrf/releases/tag/0.7) - 2020-08-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
