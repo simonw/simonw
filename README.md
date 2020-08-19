@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-graphql 0.12.3](https://github.com/simonw/datasette-graphql/releases/tag/0.12.3) - 2020-08-19
+
 [github-to-sqlite 2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - 2020-08-18
 
 [datasette-publish-vercel 0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - 2020-08-17
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-cluster-map 0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - 2020-08-16
 
 [datasette 0.48](https://github.com/simonw/datasette/releases/tag/0.48) - 2020-08-16
-
-[datasette-graphql 0.12.2](https://github.com/simonw/datasette-graphql/releases/tag/0.12.2) - 2020-08-16
 
 [datasette-saved-queries 0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - 2020-08-15
 

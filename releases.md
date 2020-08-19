@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->463<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->464<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.3](https://github.com/simonw/datasette-graphql/releases/tag/0.12.3) - ([19 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-19
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - ([16 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-08-18
 <br>Save data from GitHub to a SQLite database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->463<!-- releases_count ends --> releases a
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette](https://github.com/simonw/datasette)**: [0.48](https://github.com/simonw/datasette/releases/tag/0.48) - ([59 releases](https://github.com/simonw/datasette/releases)) - 2020-08-16
 <br>An open source multi-tool for exploring and publishing data
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.12.2](https://github.com/simonw/datasette-graphql/releases/tag/0.12.2) - ([18 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-16
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
