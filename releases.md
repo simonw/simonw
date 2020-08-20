@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->466<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->467<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.13](https://github.com/simonw/datasette-graphql/releases/tag/0.13) - ([20 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-19
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.14](https://github.com/simonw/datasette-graphql/releases/tag/0.14) - ([21 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-20
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
