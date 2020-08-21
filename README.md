@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Rocky Beaches, Datasette 0.48, a commit history of my database](http://simonwillison.net/2020/Aug/21/weeknotes-rocky-beaches/) - 2020-08-21
+
 [Weeknotes: Installing Datasette with Homebrew, more GraphQL, WAL in SQLite](http://simonwillison.net/2020/Aug/13/weeknotes-datasette-homebrew-graphql/) - 2020-08-13
 
 [GraphQL in Datasette with the new datasette-graphql plugin](http://simonwillison.net/2020/Aug/7/datasette-graphql/) - 2020-08-07
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Fun with binary data and SQLite](http://simonwillison.net/2020/Jul/30/fun-binary-data-and-sqlite/) - 2020-07-30
 
 [Weeknotes: datasette-copyable, datasette-insert-api](http://simonwillison.net/2020/Jul/23/datasette-copyable-datasette-insert-api/) - 2020-07-23
-
-[Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more](http://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/) - 2020-07-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
