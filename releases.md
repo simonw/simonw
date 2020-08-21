@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->468<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->469<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.5](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
+<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - ([54 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-21
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.14](https://github.com/simonw/datasette-graphql/releases/tag/0.14) - ([21 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-20
@@ -137,8 +139,6 @@ Listing <!-- releases_count starts -->468<!-- releases_count ends --> releases a
 <br>Utility for converting YAML files to SQLite
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3](https://github.com/simonw/sqlite-transform/releases/tag/0.3) - ([3 releases](https://github.com/simonw/sqlite-transform/releases)) - 2019-11-04
 <br>Tool for running transformations on columns in a SQLite database
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.4](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.4) - ([2 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2019-11-02
-<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
 <br>Import your genome into a SQLite database
 * **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-rure/releases)) - 2019-09-11
