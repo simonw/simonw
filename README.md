@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Working around the size limit for nodeValue in the DOM](https://github.com/simonw/til/blob/main/javascript/working-around-nodevalue-size-limit.md) - 2020-08-21
+
 [Using grep to write tests in CI](https://github.com/simonw/til/blob/main/github-actions/grep-tests.md) - 2020-08-20
 
 [Finding the largest SQLite files on a Mac](https://github.com/simonw/til/blob/main/macos/find-largest-sqlite.md) - 2020-08-19
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Programatically accessing Heroku PostgreSQL from GitHub Actions](https://github.com/simonw/til/blob/main/heroku/programatic-access-postgresql.md) - 2020-08-18
 
 [Read the Docs Search API](https://github.com/simonw/til/blob/main/readthedocs/readthedocs-search-api.md) - 2020-08-16
-
-[Code coverage using pytest and codecov.io](https://github.com/simonw/til/blob/main/pytest/pytest-code-coverage.md) - 2020-08-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
