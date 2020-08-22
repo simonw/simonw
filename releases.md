@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->469<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->471<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.5](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
+* **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.3](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.3) - ([3 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-22
+<br>Load shapefiles into a SQLite (optionally SpatiaLite) database
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - ([4 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - ([54 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-21
 <br>Python CLI utility and library for manipulating SQLite databases
@@ -129,8 +131,6 @@ Listing <!-- releases_count starts -->469<!-- releases_count ends --> releases a
 <br>Python CLI tool and library for diffing CSV files
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
 <br>ASGI middleware for logging traffic to a SQLite database
-* **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-02-19
-<br>Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.2](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.2) - ([5 releases](https://github.com/simonw/geojson-to-sqlite/releases)) - 2020-02-11
 <br>CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.1.1](https://github.com/simonw/datasette-sentry/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-sentry/releases)) - 2020-01-29

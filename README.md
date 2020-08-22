@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-leaflet-geojson 0.5](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.5) - 2020-08-21
+[shapefile-to-sqlite 0.3](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.3) - 2020-08-22
+
+[datasette-leaflet-geojson 0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - 2020-08-21
 
 [sqlite-utils 2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - 2020-08-21
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-publish-vercel 0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - 2020-08-17
 
 [datasette-cluster-map 0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - 2020-08-16
-
-[datasette 0.48](https://github.com/simonw/datasette/releases/tag/0.48) - 2020-08-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
