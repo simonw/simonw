@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
+<br>Datasette plugin that renders binary blob images using data-uris
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - ([9 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-08-23
 <br>Datasette plugin that adds a .atom output format
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases a
 <br>Datasette plugin for serving files from disk based on a SQL query
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - ([15 releases](https://github.com/simonw/db-to-sqlite/releases)) - 2020-07-27
 <br>CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.1](https://github.com/simonw/datasette-render-images/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-07-27
-<br>Datasette plugin that renders binary blob images using data-uris
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - ([26 releases](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2020-07-23
 <br>Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
