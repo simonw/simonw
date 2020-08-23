@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-auth-passwords 0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - 2020-08-22
+[shapefile-to-sqlite 0.4](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4) - 2020-08-23
 
-[shapefile-to-sqlite 0.3](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.3) - 2020-08-22
+[datasette-auth-passwords 0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - 2020-08-22
 
 [datasette-leaflet-geojson 0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - 2020-08-21
 
