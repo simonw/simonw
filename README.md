@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-graphql 0.15](https://github.com/simonw/datasette-graphql/releases/tag/0.15) - 2020-08-23
+
 [datasette-render-images 0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - 2020-08-23
 
 [datasette-atom 0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - 2020-08-23
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-leaflet-geojson 0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - 2020-08-21
 
 [sqlite-utils 2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - 2020-08-21
-
-[datasette-graphql 0.14](https://github.com/simonw/datasette-graphql/releases/tag/0.14) - 2020-08-20
 
 [datasette-schema-versions 0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <!-- recent_releases ends -->

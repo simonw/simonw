@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->477<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.15](https://github.com/simonw/datasette-graphql/releases/tag/0.15) - ([22 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-23
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - ([9 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-08-23
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - ([54 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-21
 <br>Python CLI utility and library for manipulating SQLite databases
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.14](https://github.com/simonw/datasette-graphql/releases/tag/0.14) - ([21 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-20
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - ([16 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-08-18
