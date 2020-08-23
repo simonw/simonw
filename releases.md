@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->474<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - ([9 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-08-23
+<br>Datasette plugin that adds a .atom output format
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br>Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - ([7 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-08-22
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->474<!-- releases_count ends --> releases a
 <br>ASGI middleware that authenticates users against GitHub
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.4](https://github.com/simonw/datasette-ics/releases/tag/0.4) - ([2 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-05-29
 <br>Datasette plugin for outputting iCalendar files
-* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.6](https://github.com/simonw/datasette-atom/releases/tag/0.6) - ([8 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-05-28
-<br>Datasette plugin that adds a .atom output format
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br>Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - ([6 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-05-02
