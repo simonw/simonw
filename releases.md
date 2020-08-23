@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->474<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4) - ([4 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
+* **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br>Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - ([7 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-08-22
 <br>Datasette plugin for authentication using passwords
