@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->477<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->478<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [0.15](https://github.com/simonw/datasette-graphql/releases/tag/0.15) - ([22 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-23
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.0](https://github.com/simonw/datasette-graphql/releases/tag/1.0) - ([23 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-23
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
