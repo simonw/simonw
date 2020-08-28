@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Browsing your local git checkout of homebrew-core](https://github.com/simonw/til/blob/main/homebrew/homebrew-core-local-git-checkout.md) - 2020-08-28
+
 [Piping echo to a file owned by root using sudo and tee](https://github.com/simonw/til/blob/main/linux/echo-pipe-to-file-su.md) - 2020-08-25
 
 [Rendering Markdown with the GitHub Markdown API](https://github.com/simonw/til/blob/main/markdown/github-markdown-api.md) - 2020-08-23
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Skipping a GitHub Actions step without failing](https://github.com/simonw/til/blob/main/github-actions/continue-on-error.md) - 2020-08-23
 
 [Creating a dynamic line chart with SVG](https://github.com/simonw/til/blob/main/svg/dynamic-line-chart.md) - 2020-08-22
-
-[Providing a "subscribe in Google Calendar" link for an ics feed](https://github.com/simonw/til/blob/main/ics/google-calendar-ics-subscribe-link.md) - 2020-08-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
