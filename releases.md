@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->480<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->481<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16.1](https://github.com/simonw/sqlite-utils/releases/tag/2.16.1) - ([55 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-28
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - ([14 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-27
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - ([24 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-24
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->480<!-- releases_count ends --> releases a
 <br>Datasette plugin for authentication using passwords
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - ([4 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16](https://github.com/simonw/sqlite-utils/releases/tag/2.16) - ([54 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-21
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - ([16 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-08-18
