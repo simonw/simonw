@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->486<!-- releases_count ends --> releases across <!-- project_count starts -->78<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->487<!-- releases_count ends --> releases across <!-- project_count starts -->78<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.3](https://github.com/simonw/airtable-export/releases/tag/0.3) - ([4 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-29
+* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.3.1](https://github.com/simonw/airtable-export/releases/tag/0.3.1) - ([5 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-29
 <br>Export Airtable data to YAML files on disk
 * **[datasette](https://github.com/simonw/datasette)**: [0.49a0](https://github.com/simonw/datasette/releases/tag/0.49a0) - ([60 releases](https://github.com/simonw/datasette/releases)) - 2020-08-28
 <br>An open source multi-tool for exploring and publishing data
