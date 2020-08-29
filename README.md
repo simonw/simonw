@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[airtable-to-yaml 0.1.1](https://github.com/simonw/airtable-to-yaml/releases/tag/0.1.1) - 2020-08-29
+[airtable-export 0.2](https://github.com/simonw/airtable-export/releases/tag/0.2) - 2020-08-29
 
 [datasette 0.49a0](https://github.com/simonw/datasette/releases/tag/0.49a0) - 2020-08-28
 
