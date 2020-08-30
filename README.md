@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Minifying JavaScript with npx uglify-js](https://github.com/simonw/til/blob/main/javascript/minifying-uglify-npx.md) - 2020-08-30
+
 [Converting Airtable JSON for use with sqlite-utils using jq](https://github.com/simonw/til/blob/main/jq/reformatting-airtable-json.md) - 2020-08-29
 
 [Browsing your local git checkout of homebrew-core](https://github.com/simonw/til/blob/main/homebrew/homebrew-core-local-git-checkout.md) - 2020-08-28
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Piping echo to a file owned by root using sudo and tee](https://github.com/simonw/til/blob/main/linux/echo-pipe-to-file-su.md) - 2020-08-25
 
 [Rendering Markdown with the GitHub Markdown API](https://github.com/simonw/til/blob/main/markdown/github-markdown-api.md) - 2020-08-23
-
-[Skipping a GitHub Actions step without failing](https://github.com/simonw/til/blob/main/github-actions/continue-on-error.md) - 2020-08-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
