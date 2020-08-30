@@ -6,7 +6,7 @@ Listing <!-- releases_count starts -->488<!-- releases_count ends --> releases a
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
 <br>Export Datasette records as YAML
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.3.1](https://github.com/simonw/airtable-export/releases/tag/0.3.1) - ([5 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-29
-<br>Export Airtable data to YAML files on disk
+<br>Export Airtable data to YAML or JSON files on disk
 * **[datasette](https://github.com/simonw/datasette)**: [0.49a0](https://github.com/simonw/datasette/releases/tag/0.49a0) - ([60 releases](https://github.com/simonw/datasette/releases)) - 2020-08-28
 <br>An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.16.1](https://github.com/simonw/sqlite-utils/releases/tag/2.16.1) - ([55 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-08-28
