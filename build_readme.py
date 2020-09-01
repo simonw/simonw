@@ -201,6 +201,7 @@ if __name__ == "__main__":
         [
             "[{title}](https://til.simonwillison.net/til/til/{path}) - {created_at}".format(
                 title=til["title"],
+                path=til["path"],
                 url=til["url"],
                 created_at=til["created_utc"].split("T")[0],
             )
