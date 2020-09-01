@@ -131,7 +131,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
+    sql = "select path, title, url, created_utc from til order by created_utc desc limit 5"
     return httpx.get(
         "https://til.simonwillison.net/til.json",
         params={"sql": sql, "_shape": "array",},
