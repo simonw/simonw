@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[beta 0.1a](https://github.com/dogsheep/beta/releases/tag/0.1a) - 2020-09-01
+
 [airtable-export 0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - 2020-08-30
 
 [datasette-yaml 0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-graphql 1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - 2020-08-24
 
 [datasette-render-images 0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - 2020-08-23
-
-[datasette-atom 0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - 2020-08-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

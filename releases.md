@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->489<!-- releases_count ends --> releases across <!-- project_count starts -->79<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->490<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[beta](https://github.com/dogsheep/beta)**: [0.1a](https://github.com/dogsheep/beta/releases/tag/0.1a) - 2020-09-01
+<br>Search index for Dogsheep
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
 <br>Export Airtable data to YAML or JSON files on disk
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
