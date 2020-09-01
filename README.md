@@ -40,15 +40,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Start a server in a subprocess during a pytest session](https://github.com/simonw/til/blob/main/pytest/subprocess-server.md) - 2020-09-01
+[Start a server in a subprocess during a pytest session](https://til.simonwillison.net/til/til/pytest_subprocess-server.md) - 2020-09-01
 
-[Minifying JavaScript with npx uglify-js](https://github.com/simonw/til/blob/main/javascript/minifying-uglify-npx.md) - 2020-08-30
+[Minifying JavaScript with npx uglify-js](https://til.simonwillison.net/til/til/javascript_minifying-uglify-npx.md) - 2020-08-30
 
-[Converting Airtable JSON for use with sqlite-utils using jq](https://github.com/simonw/til/blob/main/jq/reformatting-airtable-json.md) - 2020-08-29
+[Converting Airtable JSON for use with sqlite-utils using jq](https://til.simonwillison.net/til/til/jq_reformatting-airtable-json.md) - 2020-08-29
 
-[Browsing your local git checkout of homebrew-core](https://github.com/simonw/til/blob/main/homebrew/homebrew-core-local-git-checkout.md) - 2020-08-28
+[Browsing your local git checkout of homebrew-core](https://til.simonwillison.net/til/til/homebrew_homebrew-core-local-git-checkout.md) - 2020-08-28
 
-[Piping echo to a file owned by root using sudo and tee](https://github.com/simonw/til/blob/main/linux/echo-pipe-to-file-su.md) - 2020-08-25
+[Piping echo to a file owned by root using sudo and tee](https://til.simonwillison.net/til/til/linux_echo-pipe-to-file-su.md) - 2020-08-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
