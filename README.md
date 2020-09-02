@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[The "await me maybe" pattern for Python asyncio](http://simonwillison.net/2020/Sep/2/await-me-maybe/) - 2020-09-02
+
 [Mexican bean shakshuka](http://simonwillison.net/2020/Aug/28/mexican-bean-shakshuka/) - 2020-08-28
 
 [Weeknotes: California Protected Areas in Datasette](http://simonwillison.net/2020/Aug/28/weeknotes-cpad/) - 2020-08-28
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Rocky Beaches, Datasette 0.48, a commit history of my database](http://simonwillison.net/2020/Aug/21/weeknotes-rocky-beaches/) - 2020-08-21
 
 [Weeknotes: Installing Datasette with Homebrew, more GraphQL, WAL in SQLite](http://simonwillison.net/2020/Aug/13/weeknotes-datasette-homebrew-graphql/) - 2020-08-13
-
-[GraphQL in Datasette with the new datasette-graphql plugin](http://simonwillison.net/2020/Aug/7/datasette-graphql/) - 2020-08-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
