@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dogsheep-beta 0.4a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4a0) - 2020-09-03
+[dogsheep-beta 0.4a1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4a1) - 2020-09-03
 
 [airtable-export 0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - 2020-08-30
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Debugging a Click application using pdb](https://til.simonwillison.net/til/til/python_debug-click-with-pdb.md) - 2020-09-03
+
 [Using the gcloud run services list command](https://til.simonwillison.net/til/til/cloudrun_gcloud-run-services-list.md) - 2020-09-02
 
 [Looping over comma-separated values in Bash](https://til.simonwillison.net/til/til/bash_loop-over-csv.md) - 2020-09-02
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Start a server in a subprocess during a pytest session](https://til.simonwillison.net/til/til/pytest_subprocess-server.md) - 2020-09-01
 
 [Minifying JavaScript with npx uglify-js](https://til.simonwillison.net/til/til/javascript_minifying-uglify-npx.md) - 2020-08-30
-
-[Converting Airtable JSON for use with sqlite-utils using jq](https://til.simonwillison.net/til/til/jq_reformatting-airtable-json.md) - 2020-08-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
