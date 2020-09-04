@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dogsheep-beta 0.4.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4.1) - 2020-09-03
+[dogsheep-beta 0.5](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.5) - 2020-09-04
 
 [airtable-export 0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - 2020-08-30
 
