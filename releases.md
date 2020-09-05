@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->500<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->501<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.2](https://github.com/simonw/datasette-block-robots/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-block-robots/releases)) - 2020-09-05
+<br>Datasette plugin that blocks all robots using robots.txt
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.6](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6) - ([11 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-05
 <br>Search index for Dogsheep
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
@@ -81,8 +83,6 @@ Listing <!-- releases_count starts -->500<!-- releases_count ends --> releases a
 <br>Datasette plugin for dumping out the ASGI scope
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br>Tool for generating demo SQLite databases
-* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-block-robots/releases)) - 2020-06-23
-<br>Datasette plugin that blocks all robots using robots.txt
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
 <br>Demo for https://github.com/simonw/click-app
 * **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
