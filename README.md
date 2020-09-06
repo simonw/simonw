@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-backup 0.1a](https://github.com/simonw/datasette-backup/releases/tag/0.1a) - 2020-09-06
+
 [datasette-block-robots 0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - 2020-09-06
 
 [dogsheep-beta 0.6](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6) - 2020-09-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [sqlite-utils 2.16.1](https://github.com/simonw/sqlite-utils/releases/tag/2.16.1) - 2020-08-28
 
 [asgi-csrf 0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - 2020-08-27
-
-[datasette-graphql 1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - 2020-08-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

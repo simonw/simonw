@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->502<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->503<!-- releases_count ends --> releases across <!-- project_count starts -->81<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1a](https://github.com/simonw/datasette-backup/releases/tag/0.1a) - 2020-09-06
+<br>Plugin adding backup options to Datasette
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-block-robots/releases)) - 2020-09-06
 <br>Datasette plugin that blocks all robots using robots.txt
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.6](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6) - ([11 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-05
