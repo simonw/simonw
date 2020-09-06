@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-block-robots 0.2](https://github.com/simonw/datasette-block-robots/releases/tag/0.2) - 2020-09-05
+[datasette-block-robots 0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - 2020-09-06
 
 [dogsheep-beta 0.6](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6) - 2020-09-05
 
