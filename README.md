@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Very basic tsc usage](https://til.simonwillison.net/til/til/typescript_basic-tsc.md) - 2020-09-06
+
 [Debugging a Click application using pdb](https://til.simonwillison.net/til/til/python_debug-click-with-pdb.md) - 2020-09-03
 
 [Using the gcloud run services list command](https://til.simonwillison.net/til/til/cloudrun_gcloud-run-services-list.md) - 2020-09-02
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Looping over comma-separated values in Bash](https://til.simonwillison.net/til/til/bash_loop-over-csv.md) - 2020-09-02
 
 [Start a server in a subprocess during a pytest session](https://til.simonwillison.net/til/til/pytest_subprocess-server.md) - 2020-09-01
-
-[Minifying JavaScript with npx uglify-js](https://til.simonwillison.net/til/til/javascript_minifying-uglify-npx.md) - 2020-08-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
