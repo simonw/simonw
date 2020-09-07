@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->505<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->506<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1) - ([2 releases](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
+* **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
 <br>An improved version of .iterdump() for sqlite3
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1a](https://github.com/simonw/datasette-backup/releases/tag/0.1a) - 2020-09-06
 <br>Plugin adding backup options to Datasette
