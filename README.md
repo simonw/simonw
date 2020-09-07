@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 2.17](https://github.com/simonw/sqlite-utils/releases/tag/2.17) - 2020-09-07
+
 [datasette-backup 0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - 2020-09-07
 
 [sqlite-dump 0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - 2020-09-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-yaml 0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
 
 [datasette 0.49a0](https://github.com/simonw/datasette/releases/tag/0.49a0) - 2020-08-28
-
-[sqlite-utils 2.16.1](https://github.com/simonw/sqlite-utils/releases/tag/2.16.1) - 2020-08-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
