@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-dump 0.1a](https://github.com/simonw/sqlite-dump/releases/tag/0.1a) - 2020-09-06
+[sqlite-dump 0.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1) - 2020-09-07
 
 [datasette-backup 0.1a](https://github.com/simonw/datasette-backup/releases/tag/0.1a) - 2020-09-06
 
