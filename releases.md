@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->508<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.17](https://github.com/simonw/sqlite-utils/releases/tag/2.17) - ([56 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-07
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - ([57 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
 <br>Plugin adding backup options to Datasette
