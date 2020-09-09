@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->510<!-- releases_count ends --> releases across <!-- project_count starts -->82<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - ([12 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-09
+<br>Search index for Dogsheep
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - ([57 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases a
 <br>An improved version of .iterdump() for sqlite3
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-block-robots/releases)) - 2020-09-06
 <br>Datasette plugin that blocks all robots using robots.txt
-* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.6](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6) - ([11 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-05
-<br>Search index for Dogsheep
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
 <br>Export Airtable data to YAML or JSON files on disk
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
