@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-dns 0.1a0](https://github.com/simonw/datasette-dns/releases/tag/0.1a0) - 2020-09-10
+[datasette-dns 0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - 2020-09-10
 
 [dogsheep-beta 0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - 2020-09-09
 
