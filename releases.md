@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->512<!-- releases_count ends --> releases across <!-- project_count starts -->83<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->513<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a0) - 2020-09-11
+<br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br>Custom SQL function for making DNS lookups
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - ([12 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-09
