@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->514<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->515<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.49a1](https://github.com/simonw/datasette/releases/tag/0.49a1) - ([61 releases](https://github.com/simonw/datasette/releases)) - 2020-09-14
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->514<!-- releases_count ends --> releases a
 <br>Export Airtable data to YAML or JSON files on disk
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
 <br>Export Datasette records as YAML
-* **[datasette](https://github.com/simonw/datasette)**: [0.49a0](https://github.com/simonw/datasette/releases/tag/0.49a0) - ([60 releases](https://github.com/simonw/datasette/releases)) - 2020-08-28
-<br>An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - ([14 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-27
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - ([24 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-24
