@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Open a debugging shell in GitHub Actions with tmate](https://til.simonwillison.net/til/til/github-actions_debug-tmate.md) - 2020-09-14
+
 [Basic strace to see what a process is doing](https://til.simonwillison.net/til/til/linux_basic-strace.md) - 2020-09-07
 
 [Display EC2 instance costs per month](https://til.simonwillison.net/til/til/aws_instance-costs-per-month.md) - 2020-09-07
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Very basic tsc usage](https://til.simonwillison.net/til/til/typescript_basic-tsc.md) - 2020-09-06
 
 [Debugging a Click application using pdb](https://til.simonwillison.net/til/til/python_debug-click-with-pdb.md) - 2020-09-03
-
-[Using the gcloud run services list command](https://til.simonwillison.net/til/til/cloudrun_gcloud-run-services-list.md) - 2020-09-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
