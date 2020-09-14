@@ -4,6 +4,14 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-ics 0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - 2020-09-14
+
+[datasette-copyable 0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - 2020-09-14
+
+[datasette-atom 0.8](https://github.com/simonw/datasette-atom/releases/tag/0.8) - 2020-09-14
+
+[datasette-yaml 0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - 2020-09-14
+
 [datasette 0.49](https://github.com/simonw/datasette/releases/tag/0.49) - 2020-09-14
 
 [datasette-seaborn 0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - 2020-09-11
@@ -11,14 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-dns 0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - 2020-09-10
 
 [dogsheep-beta 0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - 2020-09-09
-
-[sqlite-utils 2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - 2020-09-08
-
-[datasette-backup 0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - 2020-09-07
-
-[sqlite-dump 0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - 2020-09-07
-
-[datasette-block-robots 0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - 2020-09-06
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

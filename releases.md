@@ -1,8 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->520<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
+<br>Datasette plugin for outputting iCalendar files
+* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-09-14
+<br>Datasette plugin for outputting tables in formats suitable for copy and paste
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8](https://github.com/simonw/datasette-atom/releases/tag/0.8) - ([10 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-09-14
+<br>Datasette plugin that adds a .atom output format
+* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-09-14
+<br>Export Datasette records as YAML
 * **[datasette](https://github.com/simonw/datasette)**: [0.49](https://github.com/simonw/datasette/releases/tag/0.49) - ([62 releases](https://github.com/simonw/datasette/releases)) - 2020-09-14
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11
@@ -21,16 +29,12 @@ Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases a
 <br>Datasette plugin that blocks all robots using robots.txt
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
 <br>Export Airtable data to YAML or JSON files on disk
-* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
-<br>Export Datasette records as YAML
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - ([14 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-27
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - ([24 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-24
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
-* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.7](https://github.com/simonw/datasette-atom/releases/tag/0.7) - ([9 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-08-23
-<br>Datasette plugin that adds a .atom output format
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br>Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - ([7 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-08-22
@@ -65,8 +69,6 @@ Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases a
 <br>Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
 <br>Create a local copy of database files from a Datasette instance
-* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.2](https://github.com/simonw/datasette-copyable/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-07-21
-<br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - ([6 releases](https://github.com/simonw/datasette-auth-tokens/releases)) - 2020-07-20
 <br>Datasette plugin for authenticating access using API tokens
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases a
 <br>Datasette plugin for configuring permission checks using SQL queries
 * **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
 <br>ASGI middleware that authenticates users against GitHub
-* **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.4](https://github.com/simonw/datasette-ics/releases/tag/0.4) - ([2 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-05-29
-<br>Datasette plugin for outputting iCalendar files
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br>Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - ([6 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-05-02
