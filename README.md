@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.49a1](https://github.com/simonw/datasette/releases/tag/0.49a1) - 2020-09-14
+[datasette 0.49](https://github.com/simonw/datasette/releases/tag/0.49) - 2020-09-14
 
 [datasette-seaborn 0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - 2020-09-11
 
