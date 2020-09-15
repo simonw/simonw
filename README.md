@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.49.1](https://github.com/simonw/datasette/releases/tag/0.49.1) - 2020-09-15
+
 [datasette-ics 0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - 2020-09-14
 
 [datasette-copyable 0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - 2020-09-14
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-atom 0.8](https://github.com/simonw/datasette-atom/releases/tag/0.8) - 2020-09-14
 
 [datasette-yaml 0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - 2020-09-14
-
-[datasette 0.49](https://github.com/simonw/datasette/releases/tag/0.49) - 2020-09-14
 
 [datasette-seaborn 0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - 2020-09-11
 

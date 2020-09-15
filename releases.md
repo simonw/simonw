@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->520<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->521<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.49.1](https://github.com/simonw/datasette/releases/tag/0.49.1) - ([63 releases](https://github.com/simonw/datasette/releases)) - 2020-09-15
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-09-14
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->520<!-- releases_count ends --> releases a
 <br>Datasette plugin that adds a .atom output format
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-09-14
 <br>Export Datasette records as YAML
-* **[datasette](https://github.com/simonw/datasette)**: [0.49](https://github.com/simonw/datasette/releases/tag/0.49) - ([62 releases](https://github.com/simonw/datasette/releases)) - 2020-09-14
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
