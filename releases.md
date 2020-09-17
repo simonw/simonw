@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->521<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
+<br>Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.49.1](https://github.com/simonw/datasette/releases/tag/0.49.1) - ([63 releases](https://github.com/simonw/datasette/releases)) - 2020-09-15
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->521<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.5](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.5) - ([16 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-08-18
-<br>Save data from GitHub to a SQLite database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
 <br>Datasette plugin for publishing data using Vercel
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - ([8 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-16
