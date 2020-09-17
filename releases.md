@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->523<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7) - ([13 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-17
+<br>Search index for Dogsheep
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
 <br>Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.49.1](https://github.com/simonw/datasette/releases/tag/0.49.1) - ([63 releases](https://github.com/simonw/datasette/releases)) - 2020-09-15
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases a
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br>Custom SQL function for making DNS lookups
-* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - ([12 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-09
-<br>Search index for Dogsheep
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - ([57 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
