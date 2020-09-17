@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->523<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->524<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7) - ([13 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-17
+* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.7.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7.1) - ([14 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-17
 <br>Search index for Dogsheep
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
 <br>Save data from GitHub to a SQLite database

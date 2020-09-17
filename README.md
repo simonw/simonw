@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dogsheep-beta 0.7](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7) - 2020-09-17
+[dogsheep-beta 0.7.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7.1) - 2020-09-17
 
 [github-to-sqlite 2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - 2020-09-17
 
