@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-seaborn, fivethirtyeight-polls](http://simonwillison.net/2020/Sep/18/weeknotes-datasette-seaborn/) - 2020-09-18
+
 [Datasette 0.49: The annotated release notes](http://simonwillison.net/2020/Sep/15/datasette-0-49/) - 2020-09-15
 
 [Weeknotes: datasette-dump, sqlite-backup, talks](http://simonwillison.net/2020/Sep/11/weeknotes-sqlite-dump/) - 2020-09-11
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: airtable-export, generating screenshots in GitHub Actions, Dogsheep!](http://simonwillison.net/2020/Sep/3/weeknotes-airtable-screenshots-dogsheep/) - 2020-09-03
 
 [The "await me maybe" pattern for Python asyncio](http://simonwillison.net/2020/Sep/2/await-me-maybe/) - 2020-09-02
-
-[Mexican bean shakshuka](http://simonwillison.net/2020/Aug/28/mexican-bean-shakshuka/) - 2020-08-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
