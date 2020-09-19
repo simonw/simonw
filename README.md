@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Compiling the SQLite spellfix.c module on macOS](https://til.simonwillison.net/til/til/sqlite_compile-spellfix-osx.md) - 2020-09-19
+
 [Turning on Jinja autoescaping when using Template() directly](https://til.simonwillison.net/til/til/jinja_autoescape-template.md) - 2020-09-18
 
 [Talking to a PostgreSQL service container from inside a Docker container](https://til.simonwillison.net/til/til/github-actions_service-containers-docker.md) - 2020-09-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Open a debugging shell in GitHub Actions with tmate](https://til.simonwillison.net/til/til/github-actions_debug-tmate.md) - 2020-09-14
 
 [Basic strace to see what a process is doing](https://til.simonwillison.net/til/til/linux_basic-strace.md) - 2020-09-07
-
-[Display EC2 instance costs per month](https://til.simonwillison.net/til/til/aws_instance-costs-per-month.md) - 2020-09-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
