@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->525<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->526<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.19](https://github.com/simonw/sqlite-utils/releases/tag/2.19) - ([58 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-20
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.8](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.8) - ([15 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-18
 <br>Search index for Dogsheep
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->525<!-- releases_count ends --> releases a
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br>Custom SQL function for making DNS lookups
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - ([57 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-08
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
 <br>Plugin adding backup options to Datasette
 * **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
