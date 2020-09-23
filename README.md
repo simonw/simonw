@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Refactoring databases with sqlite-utils extract](http://simonwillison.net/2020/Sep/23/sqlite-utils-extract/) - 2020-09-23
+
 [Executing advanced ALTER TABLE operations in SQLite](http://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/) - 2020-09-23
 
 [Weeknotes: datasette-seaborn, fivethirtyeight-polls](http://simonwillison.net/2020/Sep/18/weeknotes-datasette-seaborn/) - 2020-09-18
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 0.49: The annotated release notes](http://simonwillison.net/2020/Sep/15/datasette-0-49/) - 2020-09-15
 
 [Weeknotes: datasette-dump, sqlite-backup, talks](http://simonwillison.net/2020/Sep/11/weeknotes-sqlite-dump/) - 2020-09-11
-
-[Weeknotes: airtable-export, generating screenshots in GitHub Actions, Dogsheep!](http://simonwillison.net/2020/Sep/3/weeknotes-airtable-screenshots-dogsheep/) - 2020-09-03
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
