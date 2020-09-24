@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 2.20](https://github.com/simonw/sqlite-utils/releases/tag/2.20) - 2020-09-23
+[sqlite-utils 2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - 2020-09-24
 
 [dogsheep-beta 0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - 2020-09-20
 

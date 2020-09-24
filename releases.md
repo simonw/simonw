@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->528<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->529<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.20](https://github.com/simonw/sqlite-utils/releases/tag/2.20) - ([59 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-23
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - ([60 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-24
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - ([16 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-20
 <br>Search index for Dogsheep
