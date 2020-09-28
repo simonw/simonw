@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->530<!-- releases_count ends --> releases across <!-- project_count starts -->85<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.1a2](https://github.com/simonw/datasette-import-table/releases/tag/0.1a2) - ([3 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
+<br>Datasette plugin for importing tables from other Datasette instances
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.1) - 2020-09-28
 <br>dateutil functions for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - ([60 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-24
