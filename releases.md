@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->529<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->530<!-- releases_count ends --> releases across <!-- project_count starts -->85<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.1) - 2020-09-28
+<br>dateutil functions for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - ([60 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-09-24
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - ([16 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-20
