@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->538<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->539<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.3a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a) - ([3 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-09-30
+* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.3a1](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a1) - ([4 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-09-30
 <br>Datasette plugin for renaming and deleting tables and columns and changing column types
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br>dateutil functions for Datasette
