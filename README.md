@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-dateutil 0.2](https://github.com/simonw/datasette-dateutil/releases/tag/0.2) - 2020-09-29
+[datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
 
 [datasette-import-table 0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - 2020-09-28
 

@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->536<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->537<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2](https://github.com/simonw/datasette-dateutil/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-29
+* **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
 <br>Datasette plugin for importing tables from other Datasette instances
