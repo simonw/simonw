@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->537<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->538<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.3a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a) - ([3 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-09-30
+<br>Datasette plugin for renaming and deleting tables and columns and changing column types
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->537<!-- releases_count ends --> releases a
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - ([3 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
-* **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.2a](https://github.com/simonw/datasette-edit-tables/releases/tag/0.2a) - ([2 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-07-06
-<br>Datasette plugin for renaming and deleting tables and columns and changing column types
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - ([9 releases](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-07-06
 <br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - ([5 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-07-06
