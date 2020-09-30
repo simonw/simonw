@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->539<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->540<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.1) - ([9 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-09-30
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.3a1](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a1) - ([4 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-09-30
 <br>Datasette plugin for renaming and deleting tables and columns and changing column types
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->539<!-- releases_count ends --> releases a
 <br>Datasette plugin that shows the schema version of every attached database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
 <br>Datasette plugin for publishing data using Vercel
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12) - ([8 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-08-16
-<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
