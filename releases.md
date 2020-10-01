@@ -6,7 +6,7 @@ Listing <!-- releases_count starts -->542<!-- releases_count ends --> releases a
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12.3](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.3) - ([11 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-01
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-edit-tables](https://github.com/simonw/datasette-edit-tables)**: [0.3a1](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a1) - ([4 releases](https://github.com/simonw/datasette-edit-tables/releases)) - 2020-09-30
-<br>Datasette plugin for renaming and deleting tables and columns and changing column types
+<br>Datasette plugin for modifying table schemas
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
