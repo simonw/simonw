@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-cluster-map 0.12.3](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.3) - 2020-10-01
+[datasette-edit-schema 0.3a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.3a2) - 2020-10-01
 
-[datasette-edit-tables 0.3a1](https://github.com/simonw/datasette-edit-tables/releases/tag/0.3a1) - 2020-09-30
+[datasette-cluster-map 0.12.3](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.3) - 2020-10-01
 
 [datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
 
