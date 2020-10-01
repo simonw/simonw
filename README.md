@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Escaping strings in Bash using !:q](https://til.simonwillison.net/til/til/bash_escaping-a-string.md) - 2020-10-01
+
 [Figuring out if a text value in SQLite is a valid integer or float](https://til.simonwillison.net/til/til/sqlite_text-value-is-integer-or-float.md) - 2020-09-27
 
 [Understanding option names in Click](https://til.simonwillison.net/til/til/python_click-option-names.md) - 2020-09-22
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Compiling the SQLite spellfix.c module on macOS](https://til.simonwillison.net/til/til/sqlite_compile-spellfix-osx.md) - 2020-09-19
 
 [Turning on Jinja autoescaping when using Template() directly](https://til.simonwillison.net/til/til/jinja_autoescape-template.md) - 2020-09-18
-
-[Talking to a PostgreSQL service container from inside a Docker container](https://til.simonwillison.net/til/til/github-actions_service-containers-docker.md) - 2020-09-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
