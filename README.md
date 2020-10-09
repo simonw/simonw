@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette 0.50: The annotated release notes](http://simonwillison.net/2020/Oct/9/datasette-0-50/) - 2020-10-09
+
 [Git scraping: track changes over time by scraping to a Git repository](http://simonwillison.net/2020/Oct/9/git-scraping/) - 2020-10-09
 
 [Weeknotes: Datasette column actions, plus three new plugins](http://simonwillison.net/2020/Oct/2/datasette-column-actions/) - 2020-10-02
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: software carpentry, compiling modules for SQLite](http://simonwillison.net/2020/Sep/26/weeknotes-software-carpentry-sqlite/) - 2020-09-26
 
 [Refactoring databases with sqlite-utils extract](http://simonwillison.net/2020/Sep/23/sqlite-utils-extract/) - 2020-09-23
-
-[Executing advanced ALTER TABLE operations in SQLite](http://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/) - 2020-09-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
