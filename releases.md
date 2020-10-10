@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->549<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->550<!-- releases_count ends --> releases across <!-- project_count starts -->86<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [0.50.1](https://github.com/simonw/datasette/releases/tag/0.50.1) - ([67 releases](https://github.com/simonw/datasette/releases)) - 2020-10-10
+* **[datasette](https://github.com/simonw/datasette)**: [0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - ([68 releases](https://github.com/simonw/datasette/releases)) - 2020-10-10
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12.4](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4) - ([12 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-01
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
