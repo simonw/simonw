@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Searching for repositories by topic using the GitHub GraphQL API](https://til.simonwillison.net/til/til/github_graphql-search-topics.md) - 2020-10-10
+
 [Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md) - 2020-10-07
 
 [Manipulating query strings with URLSearchParams](https://til.simonwillison.net/til/til/javascript_manipulating-query-params.md) - 2020-10-04
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using async/await in JavaScript in Selenium](https://til.simonwillison.net/til/til/selenium_async-javascript-in-selenium.md) - 2020-10-02
 
 [Installing Selenium for Python on macOS with ChromeDriver](https://til.simonwillison.net/til/til/selenium_selenium-python-macos.md) - 2020-10-02
-
-[Escaping strings in Bash using !:q](https://til.simonwillison.net/til/til/bash_escaping-a-string.md) - 2020-10-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
