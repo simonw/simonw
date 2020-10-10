@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.50](https://github.com/simonw/datasette/releases/tag/0.50) - 2020-10-09
+[datasette 0.50.1](https://github.com/simonw/datasette/releases/tag/0.50.1) - 2020-10-10
 
 [datasette-cluster-map 0.12.4](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4) - 2020-10-01
 
