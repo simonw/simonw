@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[evernote-to-sqlite 0.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.1) - 2020-10-11
+
 [xml-analyser 1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 
 [datasette-json-preview 0.1](https://github.com/simonw/datasette-json-preview/releases/tag/0.1) - 2020-10-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
 
 [datasette-import-table 0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - 2020-09-28
-
-[sqlite-utils 2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - 2020-09-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
