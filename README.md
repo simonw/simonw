@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[xml-analyser 1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
+
 [datasette-json-preview 0.1](https://github.com/simonw/datasette-json-preview/releases/tag/0.1) - 2020-10-11
 
 [datasette 0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - 2020-10-10
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-import-table 0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - 2020-09-28
 
 [sqlite-utils 2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - 2020-09-24
-
-[dogsheep-beta 0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - 2020-09-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->551<!-- releases_count ends --> releases across <!-- project_count starts -->87<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->552<!-- releases_count ends --> releases across <!-- project_count starts -->88<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
+<br>Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.1](https://github.com/simonw/datasette-json-preview/releases/tag/0.1) - 2020-10-11
 <br>Preview of new JSON default format for Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - ([68 releases](https://github.com/simonw/datasette/releases)) - 2020-10-10
