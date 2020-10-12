@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->554<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->555<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - ([5 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2020-10-12
+<br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2020-10-12
 <br>Tools for converting Evernote content to SQLite
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
@@ -131,8 +133,6 @@ Listing <!-- releases_count starts -->554<!-- releases_count ends --> releases a
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
-* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.1](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2020-03-28
-<br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - ([7 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-03-28
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-03-27
