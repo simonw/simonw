@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[evernote-to-sqlite 0.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.1) - 2020-10-11
+[evernote-to-sqlite 0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - 2020-10-12
 
 [xml-analyser 1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 
