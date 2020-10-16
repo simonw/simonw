@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building an Evernote to SQLite exporter](http://simonwillison.net/2020/Oct/16/building-evernote-sqlite-exporter/) - 2020-10-16
+
 [Weeknotes: Mainly Datasette 0.50](http://simonwillison.net/2020/Oct/10/weeknotes-mainly-datasette-050/) - 2020-10-10
 
 [Datasette 0.50: The annotated release notes](http://simonwillison.net/2020/Oct/9/datasette-0-50/) - 2020-10-09
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Git scraping: track changes over time by scraping to a Git repository](http://simonwillison.net/2020/Oct/9/git-scraping/) - 2020-10-09
 
 [Weeknotes: Datasette column actions, plus three new plugins](http://simonwillison.net/2020/Oct/2/datasette-column-actions/) - 2020-10-02
-
-[Weeknotes: software carpentry, compiling modules for SQLite](http://simonwillison.net/2020/Sep/26/weeknotes-software-carpentry-sqlite/) - 2020-09-26
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
