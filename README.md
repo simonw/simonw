@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[csv-diff 1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - 2020-10-16
+
 [swarm-to-sqlite 0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - 2020-10-12
 
 [evernote-to-sqlite 0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - 2020-10-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-cluster-map 0.12.4](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4) - 2020-10-01
 
 [datasette-edit-schema 0.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.3) - 2020-10-01
-
-[datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

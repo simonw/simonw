@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->555<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->556<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
+<br>Python CLI tool and library for diffing CSV files
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - ([5 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2020-10-12
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2020-10-12
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->555<!-- releases_count ends --> releases a
 <br>Experimental plugin that adds a column inspector
 * **[fec-to-sqlite](https://github.com/simonw/fec-to-sqlite)**: [0.2](https://github.com/simonw/fec-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/simonw/fec-to-sqlite/releases)) - 2020-03-07
 <br>Save FEC campaign finance data to a SQLite database
-* **[csv-diff](https://github.com/simonw/csv-diff)**: [0.6](https://github.com/simonw/csv-diff/releases/tag/0.6) - ([7 releases](https://github.com/simonw/csv-diff/releases)) - 2020-02-29
-<br>Python CLI tool and library for diffing CSV files
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
 <br>ASGI middleware for logging traffic to a SQLite database
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.2](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.2) - ([5 releases](https://github.com/simonw/geojson-to-sqlite/releases)) - 2020-02-11
