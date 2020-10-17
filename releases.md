@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->557<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->558<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
+<br>Convert an Apple Healthkit export zip to a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.22](https://github.com/simonw/sqlite-utils/releases/tag/2.22) - ([61 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-16
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
@@ -135,8 +137,6 @@ Listing <!-- releases_count starts -->557<!-- releases_count ends --> releases a
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
-* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [0.5](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5) - ([7 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-03-28
-<br>Convert an Apple Healthkit export zip to a SQLite database
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-03-27
 <br>Create a SQLite database containing data from your Pocket account
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
