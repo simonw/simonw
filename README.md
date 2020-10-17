@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[dogsheep-beta 0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - 2020-10-17
+
 [healthkit-to-sqlite 1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - 2020-10-17
 
 [sqlite-utils 2.22](https://github.com/simonw/sqlite-utils/releases/tag/2.22) - 2020-10-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [xml-analyser 1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 
 [datasette-json-preview 0.1](https://github.com/simonw/datasette-json-preview/releases/tag/0.1) - 2020-10-11
-
-[datasette 0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - 2020-10-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

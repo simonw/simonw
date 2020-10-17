@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->558<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->559<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - ([17 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-10-17
+<br>Search index for Dogsheep
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.22](https://github.com/simonw/sqlite-utils/releases/tag/2.22) - ([61 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-16
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->558<!-- releases_count ends --> releases a
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
 <br>Datasette plugin for importing tables from other Datasette instances
-* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - ([16 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-09-20
-<br>Search index for Dogsheep
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
 <br>Save data from GitHub to a SQLite database
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
