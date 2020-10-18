@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->559<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->560<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a) - 2020-10-18
+<br>Create a SQLite database from Sphinx documentation
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - ([17 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-10-17
 <br>Search index for Dogsheep
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
