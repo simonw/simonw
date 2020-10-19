@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->561<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->562<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.13](https://github.com/simonw/datasette-cluster-map/releases/tag/0.13) - ([13 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-19
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - ([18 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-10-19
 <br>Save data from GitHub to a SQLite database
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a) - 2020-10-18
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->561<!-- releases_count ends --> releases a
 <br>Preview of new JSON default format for Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - ([68 releases](https://github.com/simonw/datasette/releases)) - 2020-10-10
 <br>An open source multi-tool for exploring and publishing data
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.12.4](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4) - ([12 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-01
-<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.3) - ([6 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-01
 <br>Datasette plugin for modifying table schemas
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
