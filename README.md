@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[github-to-sqlite 2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - 2020-10-19
+
 [sphinx-to-sqlite 0.1a](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a) - 2020-10-18
 
 [dogsheep-beta 0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - 2020-10-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [swarm-to-sqlite 0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - 2020-10-12
 
 [evernote-to-sqlite 0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - 2020-10-12
-
-[xml-analyser 1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

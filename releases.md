@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->560<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->561<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - ([18 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-10-19
+<br>Save data from GitHub to a SQLite database
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a) - 2020-10-18
 <br>Create a SQLite database from Sphinx documentation
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - ([17 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-10-17
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->560<!-- releases_count ends --> releases a
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
 <br>Datasette plugin for importing tables from other Datasette instances
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - ([17 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-09-17
-<br>Save data from GitHub to a SQLite database
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-09-14
