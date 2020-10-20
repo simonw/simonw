@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.51a0](https://github.com/simonw/datasette/releases/tag/0.51a0) - 2020-10-20
+
 [datasette-json-preview 0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - 2020-10-20
 
 [datasette-cluster-map 0.13](https://github.com/simonw/datasette-cluster-map/releases/tag/0.13) - 2020-10-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [healthkit-to-sqlite 1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - 2020-10-17
 
 [sqlite-utils 2.22](https://github.com/simonw/sqlite-utils/releases/tag/2.22) - 2020-10-16
-
-[csv-diff 1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - 2020-10-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
