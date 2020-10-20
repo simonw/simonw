@@ -82,7 +82,7 @@ Listing <!-- releases_count starts -->564<!-- releases_count ends --> releases a
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
 <br>Datasette plugin for inserting and updating data
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
-<br>Datasette plugin for serving files from disk based on a SQL query
+<br>Datasette plugin for serving media based on a SQL query
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - ([15 releases](https://github.com/simonw/db-to-sqlite/releases)) - 2020-07-27
 <br>CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - ([26 releases](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2020-07-23
