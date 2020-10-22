@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cluster-map 0.14](https://github.com/simonw/datasette-cluster-map/releases/tag/0.14) - 2020-10-22
+
 [inaturalist-to-sqlite 0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - 2020-10-22
 
 [pocket-to-sqlite 0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - 2020-10-22
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette 0.51a0](https://github.com/simonw/datasette/releases/tag/0.51a0) - 2020-10-20
 
 [datasette-json-preview 0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - 2020-10-20
-
-[datasette-cluster-map 0.13](https://github.com/simonw/datasette-cluster-map/releases/tag/0.13) - 2020-10-19
 
 [github-to-sqlite 2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - 2020-10-19
 
