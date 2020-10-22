@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->564<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->566<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
+<br>Create a SQLite database containing your observation history from iNaturalist
+* **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
+<br>Create a SQLite database containing data from your Pocket account
 * **[datasette](https://github.com/simonw/datasette)**: [0.51a0](https://github.com/simonw/datasette/releases/tag/0.51a0) - ([69 releases](https://github.com/simonw/datasette/releases)) - 2020-10-20
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2020-10-20
@@ -139,10 +143,6 @@ Listing <!-- releases_count starts -->564<!-- releases_count ends --> releases a
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
-* **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-03-27
-<br>Create a SQLite database containing data from your Pocket account
-* **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2) - 2020-03-24
-<br>Create a SQLite database containing your observation history from iNaturalist
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2020-03-21
 <br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [0.1.2](https://github.com/simonw/datasette-render-html/releases/tag/0.1.2) - ([3 releases](https://github.com/simonw/datasette-render-html/releases)) - 2020-03-21
