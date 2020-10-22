@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Writing JavaScript that responds to media queries](https://til.simonwillison.net/til/til/javascript_javascript-that-responds-to-media-queries.md) - 2020-10-22
+
 [Explicit file encodings using click.File](https://til.simonwillison.net/til/til/python_click-file-encoding.md) - 2020-10-16
 
 [Upgrading Python Homebrew packages using pip](https://til.simonwillison.net/til/til/homebrew_upgrading-python-homebrew-packages.md) - 2020-10-14
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Searching for repositories by topic using the GitHub GraphQL API](https://til.simonwillison.net/til/til/github_graphql-search-topics.md) - 2020-10-10
 
 [Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md) - 2020-10-07
-
-[Manipulating query strings with URLSearchParams](https://til.simonwillison.net/til/til/javascript_manipulating-query-params.md) - 2020-10-04
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
