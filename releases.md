@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->568<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->569<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database from Sphinx documentation
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.14](https://github.com/simonw/datasette-cluster-map/releases/tag/0.14) - ([14 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-22
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->568<!-- releases_count ends --> releases a
 <br>Search index for Dogsheep
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
 <br>Convert an Apple Healthkit export zip to a SQLite database
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.22](https://github.com/simonw/sqlite-utils/releases/tag/2.22) - ([61 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-16
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
 <br>Python CLI tool and library for diffing CSV files
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - ([5 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2020-10-12
