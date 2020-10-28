@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->569<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->570<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
+<br>Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
@@ -127,8 +129,6 @@ Listing <!-- releases_count starts -->569<!-- releases_count ends --> releases a
 <br>ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br>Upload your photos to S3 and import metadata about them into a SQLite database
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2) - ([6 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-05-02
-<br>Datasette plugin for rendering Markdown
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.2a](https://github.com/simonw/conditional-get/releases/tag/0.2a) - ([3 releases](https://github.com/simonw/conditional-get/releases)) - 2020-04-30
 <br>CLI tool for fetching data using HTTP conditional get
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.1](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2020-04-22
