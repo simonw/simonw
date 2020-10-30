@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->570<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->571<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.51a1](https://github.com/simonw/datasette/releases/tag/0.51a1) - ([70 releases](https://github.com/simonw/datasette/releases)) - 2020-10-30
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
 <br>Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->570<!-- releases_count ends --> releases a
 <br>Create a SQLite database containing your observation history from iNaturalist
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database containing data from your Pocket account
-* **[datasette](https://github.com/simonw/datasette)**: [0.51a0](https://github.com/simonw/datasette/releases/tag/0.51a0) - ([69 releases](https://github.com/simonw/datasette/releases)) - 2020-10-20
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2020-10-20
 <br>Preview of new JSON default format for Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - ([18 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-10-19
