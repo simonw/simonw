@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->571<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->572<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0) - ([7 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-30
+<br>Datasette plugin for modifying table schemas
 * **[datasette](https://github.com/simonw/datasette)**: [0.51a1](https://github.com/simonw/datasette/releases/tag/0.51a1) - ([70 releases](https://github.com/simonw/datasette/releases)) - 2020-10-30
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->571<!-- releases_count ends --> releases a
 <br>Tools for converting Evernote content to SQLite
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 <br>Simple command line tool for quickly analysing the structure of an arbitrary XML file
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.3) - ([6 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-01
-<br>Datasette plugin for modifying table schemas
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br>dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
