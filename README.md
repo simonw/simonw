@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-edit-schema 0.4a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0) - 2020-10-30
+[datasette 0.51a2](https://github.com/simonw/datasette/releases/tag/0.51a2) - 2020-10-30
 
-[datasette 0.51a1](https://github.com/simonw/datasette/releases/tag/0.51a1) - 2020-10-30
+[datasette-edit-schema 0.4a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0) - 2020-10-30
 
 [datasette-render-markdown 1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - 2020-10-28
 

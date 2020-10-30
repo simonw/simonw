@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->572<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->573<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.51a2](https://github.com/simonw/datasette/releases/tag/0.51a2) - ([71 releases](https://github.com/simonw/datasette/releases)) - 2020-10-30
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0) - ([7 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-30
 <br>Datasette plugin for modifying table schemas
-* **[datasette](https://github.com/simonw/datasette)**: [0.51a1](https://github.com/simonw/datasette/releases/tag/0.51a1) - ([70 releases](https://github.com/simonw/datasette/releases)) - 2020-10-30
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
 <br>Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
