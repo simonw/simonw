@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->574<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->575<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-10-31
+<br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette](https://github.com/simonw/datasette)**: [0.51](https://github.com/simonw/datasette/releases/tag/0.51) - ([72 releases](https://github.com/simonw/datasette/releases)) - 2020-10-31
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0) - ([7 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-30
@@ -77,8 +79,6 @@ Listing <!-- releases_count starts -->574<!-- releases_count ends --> releases a
 <br>Datasette plugin for publishing data using Vercel
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.5](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5) - ([5 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-08-15
-<br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
 <br>Datasette plugin for rendering HTML based on JSON values
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - ([11 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-08-09
