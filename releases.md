@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->578<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->579<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.51.1](https://github.com/simonw/datasette/releases/tag/0.51.1) - ([73 releases](https://github.com/simonw/datasette/releases)) - 2020-11-01
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
 <br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.1](https://github.com/simonw/datasette-graphql/releases/tag/1.1) - ([25 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-01
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->578<!-- releases_count ends --> releases a
 <br>Datasette plugin for modifying table schemas
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-10-31
 <br>Datasette plugin for uploading CSV files and converting them to database tables
-* **[datasette](https://github.com/simonw/datasette)**: [0.51](https://github.com/simonw/datasette/releases/tag/0.51) - ([72 releases](https://github.com/simonw/datasette/releases)) - 2020-10-31
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
 <br>Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
