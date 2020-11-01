@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->577<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->578<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
+<br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.1](https://github.com/simonw/datasette-graphql/releases/tag/1.1) - ([25 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-01
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - ([8 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-31
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->577<!-- releases_count ends --> releases a
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - ([3 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.0) - ([9 releases](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-07-06
-<br>Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - ([5 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-07-06
 <br>Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-write/releases)) - 2020-07-01
