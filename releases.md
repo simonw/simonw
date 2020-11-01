@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->576<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->577<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.1](https://github.com/simonw/datasette-graphql/releases/tag/1.1) - ([25 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-01
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - ([8 releases](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-31
 <br>Datasette plugin for modifying table schemas
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-upload-csvs/releases)) - 2020-10-31
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->576<!-- releases_count ends --> releases a
 <br>Export Airtable data to YAML or JSON files on disk
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - ([14 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-27
 <br>ASGI middleware for protecting against CSRF attacks
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.0.1](https://github.com/simonw/datasette-graphql/releases/tag/1.0.1) - ([24 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-08-24
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23

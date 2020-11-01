@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-graphql 1.1](https://github.com/simonw/datasette-graphql/releases/tag/1.1) - 2020-11-01
+
 [datasette-edit-schema 0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - 2020-10-31
 
 [datasette-upload-csvs 0.6](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6) - 2020-10-31
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [sphinx-to-sqlite 0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - 2020-10-22
 
 [datasette-cluster-map 0.14](https://github.com/simonw/datasette-cluster-map/releases/tag/0.14) - 2020-10-22
-
-[inaturalist-to-sqlite 0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - 2020-10-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
