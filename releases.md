@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->579<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->580<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - ([12 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-11-03
+<br>Convert CSV files into a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.51.1](https://github.com/simonw/datasette/releases/tag/0.51.1) - ([73 releases](https://github.com/simonw/datasette/releases)) - 2020-11-01
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->579<!-- releases_count ends --> releases a
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
 <br>Datasette plugin for rendering HTML based on JSON values
-* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - ([11 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-08-09
-<br>Convert CSV files into a SQLite database
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br>Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
