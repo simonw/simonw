@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->580<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->582<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
+<br>Custom Python functions for working with SQLite FTS4
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - ([12 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-11-03
 <br>Convert CSV files into a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.51.1](https://github.com/simonw/datasette/releases/tag/0.51.1) - ([73 releases](https://github.com/simonw/datasette/releases)) - 2020-11-01
@@ -179,8 +181,6 @@ Listing <!-- releases_count starts -->580<!-- releases_count ends --> releases a
 <br>Datasette plugin for working with Apple's binary plist format
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.2](https://github.com/simonw/asgi-cors/releases/tag/0.2) - ([2 releases](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
 <br>ASGI middleware for applying CORS headers to an ASGI application
-* **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [0.5.2](https://github.com/simonw/sqlite-fts4/releases/tag/0.5.2) - 2019-01-09
-<br>Custom Python functions for working with SQLite FTS4
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
 <br>Datasette plugin for visualizing data using Vega
 <!-- recent_releases ends -->
