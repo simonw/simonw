@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->582<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->583<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0a0](https://github.com/simonw/sqlite-utils/releases/tag/3.0a0) - ([63 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-07
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
 <br>Custom Python functions for working with SQLite FTS4
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - ([12 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-11-03
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->582<!-- releases_count ends --> releases a
 <br>Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
 <br>Datasette plugin for rendering Markdown
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [2.23](https://github.com/simonw/sqlite-utils/releases/tag/2.23) - ([62 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-10-28
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database from Sphinx documentation
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.14](https://github.com/simonw/datasette-cluster-map/releases/tag/0.14) - ([14 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-22
