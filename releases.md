@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->583<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->584<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0a0](https://github.com/simonw/sqlite-utils/releases/tag/3.0a0) - ([63 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-07
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - ([64 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
 <br>Custom Python functions for working with SQLite FTS4
