@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->584<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->585<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0](https://github.com/simonw/datasette-search-all/releases/tag/1.0) - ([6 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-11-12
+<br>Datasette plugin for searching all searchable tables at once
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - ([64 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
@@ -105,8 +107,6 @@ Listing <!-- releases_count starts -->584<!-- releases_count ends --> releases a
 <br>Some examples plugins for Datasette
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - ([3 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-07-11
 <br>Datasette plugin for publishing data using Fly
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [0.3](https://github.com/simonw/datasette-search-all/releases/tag/0.3) - ([5 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-07-06
-<br>Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-write/releases)) - 2020-07-01
 <br>Datasette plugin providing a UI for writing to the database
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01

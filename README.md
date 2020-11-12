@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-search-all 1.0](https://github.com/simonw/datasette-search-all/releases/tag/1.0) - 2020-11-12
+
 [sqlite-utils 3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - 2020-11-08
 
 [sqlite-fts4 1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - 2020-11-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-graphql 1.1](https://github.com/simonw/datasette-graphql/releases/tag/1.1) - 2020-11-01
 
 [datasette-edit-schema 0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - 2020-10-31
-
-[datasette-upload-csvs 0.6](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6) - 2020-10-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
