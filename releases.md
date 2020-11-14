@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->585<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->586<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
+<br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0](https://github.com/simonw/datasette-search-all/releases/tag/1.0) - ([6 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-11-12
 <br>Datasette plugin for searching all searchable tables at once
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - ([64 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-08
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->585<!-- releases_count ends --> releases a
 <br>Datasette plugin for importing tables from other Datasette instances
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
-* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-09-14
-<br>Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8](https://github.com/simonw/datasette-atom/releases/tag/0.8) - ([10 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-09-14
 <br>Datasette plugin that adds a .atom output format
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-09-14
