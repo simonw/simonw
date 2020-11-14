@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Personal Data Warehouses: Reclaiming Your Data](http://simonwillison.net/2020/Nov/14/personal-data-warehouses/) - 2020-11-14
+
 [Weeknotes: sqlite-utils 3.0 alpha, Git scraping in the zeitgeist](http://simonwillison.net/2020/Nov/7/weeknotes-sqlite-utils-git-scraping/) - 2020-11-07
 
 [Datasette 0.51 (plus weeknotes)](http://simonwillison.net/2020/Nov/1/datasette-0-51/) - 2020-11-01
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: incremental improvements](http://simonwillison.net/2020/Oct/24/weeknotes-incremental-improvements/) - 2020-10-24
 
 [Weeknotes: evernote-to-sqlite, Datasette Weekly, scrapers, csv-diff, sqlite-utils](http://simonwillison.net/2020/Oct/16/weeknotes-evernote-datasette-weekly/) - 2020-10-16
-
-[Building an Evernote to SQLite exporter](http://simonwillison.net/2020/Oct/16/building-evernote-sqlite-exporter/) - 2020-10-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
