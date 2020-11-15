@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-indieauth 0.1a0](https://github.com/simonw/datasette-indieauth/releases/tag/0.1a0) - 2020-11-15
+[datasette-indieauth 0.2a0](https://github.com/simonw/datasette-indieauth/releases/tag/0.2a0) - 2020-11-15
 
 [datasette-copyable 0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - 2020-11-14
 
