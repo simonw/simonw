@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->591<!-- releases_count ends --> releases across <!-- project_count starts -->91<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->592<!-- releases_count ends --> releases across <!-- project_count starts -->91<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [0.3.1](https://github.com/simonw/datasette-indieauth/releases/tag/0.3.1) - ([5 releases](https://github.com/simonw/datasette-indieauth/releases)) - 2020-11-18
+* **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [0.3.2](https://github.com/simonw/datasette-indieauth/releases/tag/0.3.2) - ([6 releases](https://github.com/simonw/datasette-indieauth/releases)) - 2020-11-18
 <br>Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
 <br>Datasette plugin for outputting tables in formats suitable for copy and paste
