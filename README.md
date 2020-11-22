@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-indieauth, datasette-graphql, PyCon Argentina](http://simonwillison.net/2020/Nov/22/weeknotes/) - 2020-11-22
+
 [Implementing IndieAuth for Datasette](http://simonwillison.net/2020/Nov/18/indieauth/) - 2020-11-18
 
 [Personal Data Warehouses: Reclaiming Your Data](http://simonwillison.net/2020/Nov/14/personal-data-warehouses/) - 2020-11-14
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: sqlite-utils 3.0 alpha, Git scraping in the zeitgeist](http://simonwillison.net/2020/Nov/7/weeknotes-sqlite-utils-git-scraping/) - 2020-11-07
 
 [Datasette 0.51 (plus weeknotes)](http://simonwillison.net/2020/Nov/1/datasette-0-51/) - 2020-11-01
-
-[Weeknotes: incremental improvements](http://simonwillison.net/2020/Oct/24/weeknotes-incremental-improvements/) - 2020-10-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
