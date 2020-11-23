@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '8,28,48 * * * *'
+    - cron: '8,28,48 * * * *'
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: 3.9
     - uses: actions/cache@v2
       name: Configure pip caching
       with:
