@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->599<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->600<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
+<br>Datasette plugin that adds a .atom output format
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.1a1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-25
 <br>Configurable Datasette plugin running ripgrep
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.2.1](https://github.com/simonw/datasette-graphql/releases/tag/1.2.1) - ([27 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-24
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->599<!-- releases_count ends --> releases a
 <br>Datasette plugin for importing tables from other Datasette instances
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
-* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8](https://github.com/simonw/datasette-atom/releases/tag/0.8) - ([10 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-09-14
-<br>Datasette plugin that adds a .atom output format
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-09-14
 <br>Export Datasette records as YAML
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11

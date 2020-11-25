@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-atom 0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - 2020-11-25
+
 [datasette-ripgrep 0.1a1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a1) - 2020-11-25
 
 [datasette-graphql 1.2.1](https://github.com/simonw/datasette-graphql/releases/tag/1.2.1) - 2020-11-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [sqlite-utils 3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - 2020-11-08
 
 [sqlite-fts4 1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - 2020-11-06
-
-[csvs-to-sqlite 1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - 2020-11-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Redirects for Datasette](https://til.simonwillison.net/til/til/datasette_redirects-for-datasette.md) - 2020-11-25
+
 [Dropdown menu with details summary](https://til.simonwillison.net/til/til/javascript_dropdown-menu-with-details-summary.md) - 2020-11-01
 
 [Decorators with optional arguments](https://til.simonwillison.net/til/til/python_decorators-with-optional-arguments.md) - 2020-10-28
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Writing JavaScript that responds to media queries](https://til.simonwillison.net/til/til/javascript_javascript-that-responds-to-media-queries.md) - 2020-10-22
 
 [Explicit file encodings using click.File](https://til.simonwillison.net/til/til/python_click-file-encoding.md) - 2020-10-16
-
-[Upgrading Python Homebrew packages using pip](https://til.simonwillison.net/til/til/homebrew_upgrading-python-homebrew-packages.md) - 2020-10-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
