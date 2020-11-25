@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->598<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->599<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.1a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a0) - 2020-11-25
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.1a1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-25
 <br>Configurable Datasette plugin running ripgrep
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.2.1](https://github.com/simonw/datasette-graphql/releases/tag/1.2.1) - ([27 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-24
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
