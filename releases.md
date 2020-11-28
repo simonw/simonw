@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->603<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->604<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.2.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.2.1) - ([5 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.3](https://github.com/simonw/datasette-ripgrep/releases/tag/0.3) - ([6 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
 <br>Configurable Datasette plugin running ripgrep
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
 <br>Datasette plugin that adds a .atom output format
