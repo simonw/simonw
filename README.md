@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-ripgrep 0.6](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6) - 2020-11-28
+[datasette-ripgrep 0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - 2020-11-28
 
 [datasette-atom 0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - 2020-11-25
 
