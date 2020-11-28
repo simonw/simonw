@@ -1,10 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->606<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->607<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.5](https://github.com/simonw/datasette-ripgrep/releases/tag/0.5) - ([8 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
-<br>Configurable Datasette plugin running ripgrep
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6) - ([9 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
+<br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
 <br>Datasette plugin that adds a .atom output format
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.2.1](https://github.com/simonw/datasette-graphql/releases/tag/1.2.1) - ([27 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-24
