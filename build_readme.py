@@ -199,10 +199,10 @@ if __name__ == "__main__":
     tils = fetch_tils()
     tils_md = "\n\n".join(
         [
-            "[{title}](https://til.simonwillison.net/til/til/{path}) - {created_at}".format(
+            "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
                 title=til["title"],
-                path=til["path"],
-                url=til["url"],
+                topic=til["topic"],
+                slug=til["slug"],
                 created_at=til["created_utc"].split("T")[0],
             )
             for til in tils
