@@ -40,15 +40,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Redirects for Datasette](https://til.simonwillison.net/til/til/datasette_redirects-for-datasette.md) - 2020-11-25
+[Redirects for Datasette](https://til.simonwillison.net/datasette/redirects-for-datasette) - 2020-11-25
 
-[Dropdown menu with details summary](https://til.simonwillison.net/til/til/javascript_dropdown-menu-with-details-summary.md) - 2020-11-01
+[Dropdown menu with details summary](https://til.simonwillison.net/javascript/dropdown-menu-with-details-summary) - 2020-11-01
 
-[Decorators with optional arguments](https://til.simonwillison.net/til/til/python_decorators-with-optional-arguments.md) - 2020-10-28
+[Decorators with optional arguments](https://til.simonwillison.net/python/decorators-with-optional-arguments) - 2020-10-28
 
-[Writing JavaScript that responds to media queries](https://til.simonwillison.net/til/til/javascript_javascript-that-responds-to-media-queries.md) - 2020-10-22
+[Writing JavaScript that responds to media queries](https://til.simonwillison.net/javascript/javascript-that-responds-to-media-queries) - 2020-10-22
 
-[Explicit file encodings using click.File](https://til.simonwillison.net/til/til/python_click-file-encoding.md) - 2020-10-16
+[Explicit file encodings using click.File](https://til.simonwillison.net/python/click-file-encoding) - 2020-10-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
