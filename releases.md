@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->612<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->613<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3](https://github.com/simonw/datasette-graphql/releases/tag/1.3) - ([28 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - ([20 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
 <br>Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.1](https://github.com/simonw/datasette/releases/tag/0.52.1) - ([75 releases](https://github.com/simonw/datasette/releases)) - 2020-11-29
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->612<!-- releases_count ends --> releases a
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
 <br>Datasette plugin that adds a .atom output format
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.2.1](https://github.com/simonw/datasette-graphql/releases/tag/1.2.1) - ([27 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-24
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2) - ([9 releases](https://github.com/simonw/datasette-indieauth/releases)) - 2020-11-19
 <br>Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
