@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-graphql 1.3](https://github.com/simonw/datasette-graphql/releases/tag/1.3) - 2020-11-30
+[datasette-graphql 1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - 2020-11-30
 
 [github-to-sqlite 2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - 2020-11-30
 

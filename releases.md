@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->613<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->614<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3](https://github.com/simonw/datasette-graphql/releases/tag/1.3) - ([28 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - ([29 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - ([20 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
 <br>Save data from GitHub to a SQLite database
