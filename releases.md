@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->610<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->611<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8) - ([19 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
+<br>Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.1](https://github.com/simonw/datasette/releases/tag/0.52.1) - ([75 releases](https://github.com/simonw/datasette/releases)) - 2020-11-29
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - ([10 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
@@ -41,8 +43,6 @@ Listing <!-- releases_count starts -->610<!-- releases_count ends --> releases a
 <br>Create a SQLite database containing data from your Pocket account
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2020-10-20
 <br>Preview of new JSON default format for Datasette
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.7](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.7) - ([18 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-10-19
-<br>Save data from GitHub to a SQLite database
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.9](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9) - ([17 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-10-17
 <br>Search index for Dogsheep
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
