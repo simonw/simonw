@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->611<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->612<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8) - ([19 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - ([20 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
 <br>Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.1](https://github.com/simonw/datasette/releases/tag/0.52.1) - ([75 releases](https://github.com/simonw/datasette/releases)) - 2020-11-29
 <br>An open source multi-tool for exploring and publishing data
