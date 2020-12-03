@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->616<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->617<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [0.52.2](https://github.com/simonw/datasette/releases/tag/0.52.2) - ([76 releases](https://github.com/simonw/datasette/releases)) - 2020-12-03
+* **[datasette](https://github.com/simonw/datasette)**: [0.52.3](https://github.com/simonw/datasette/releases/tag/0.52.3) - ([77 releases](https://github.com/simonw/datasette/releases)) - 2020-12-03
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br>Export Datasette records as YAML
