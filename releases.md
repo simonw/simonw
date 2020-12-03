@@ -1,14 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->614<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->616<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.52.2](https://github.com/simonw/datasette/releases/tag/0.52.2) - ([76 releases](https://github.com/simonw/datasette/releases)) - 2020-12-03
+<br>An open source multi-tool for exploring and publishing data
+* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
+<br>Export Datasette records as YAML
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - ([29 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - ([20 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
 <br>Save data from GitHub to a SQLite database
-* **[datasette](https://github.com/simonw/datasette)**: [0.52.1](https://github.com/simonw/datasette/releases/tag/0.52.1) - ([75 releases](https://github.com/simonw/datasette/releases)) - 2020-11-29
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - ([10 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->614<!-- releases_count ends --> releases a
 <br>Datasette plugin for importing tables from other Datasette instances
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
-* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-09-14
-<br>Export Datasette records as YAML
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
