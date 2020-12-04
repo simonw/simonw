@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->617<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->618<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
+<br>Datasette plugin for searching all searchable tables at once
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.3](https://github.com/simonw/datasette/releases/tag/0.52.3) - ([77 releases](https://github.com/simonw/datasette/releases)) - 2020-12-03
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->617<!-- releases_count ends --> releases a
 <br>Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
 <br>Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0](https://github.com/simonw/datasette-search-all/releases/tag/1.0) - ([6 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-11-12
-<br>Datasette plugin for searching all searchable tables at once
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - ([64 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-08
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
