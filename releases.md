@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->618<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->619<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - ([78 releases](https://github.com/simonw/datasette/releases)) - 2020-12-05
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
 <br>Datasette plugin for searching all searchable tables at once
-* **[datasette](https://github.com/simonw/datasette)**: [0.52.3](https://github.com/simonw/datasette/releases/tag/0.52.3) - ([77 releases](https://github.com/simonw/datasette/releases)) - 2020-12-03
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br>Export Datasette records as YAML
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - ([29 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30

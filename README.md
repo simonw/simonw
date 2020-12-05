@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-search-all 1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - 2020-12-04
+[datasette 0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - 2020-12-05
 
-[datasette 0.52.3](https://github.com/simonw/datasette/releases/tag/0.52.3) - 2020-12-03
+[datasette-search-all 1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - 2020-12-04
 
 [datasette-yaml 0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - 2020-12-03
 
