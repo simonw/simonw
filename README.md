@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-seaborn 0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - 2020-12-07
+
 [datasette 0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - 2020-12-05
 
 [datasette-search-all 1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - 2020-12-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-ripgrep 0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - 2020-11-28
 
 [datasette-atom 0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - 2020-11-25
-
-[datasette-indieauth 1.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2) - 2020-11-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Python code in a subprocess with a time limit](https://til.simonwillison.net/python/subprocess-time-limit) - 2020-12-07
+
 [Redirects for Datasette](https://til.simonwillison.net/datasette/redirects-for-datasette) - 2020-11-25
 
 [Dropdown menu with details summary](https://til.simonwillison.net/javascript/dropdown-menu-with-details-summary) - 2020-11-01
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Decorators with optional arguments](https://til.simonwillison.net/python/decorators-with-optional-arguments) - 2020-10-28
 
 [Writing JavaScript that responds to media queries](https://til.simonwillison.net/javascript/javascript-that-responds-to-media-queries) - 2020-10-22
-
-[Explicit file encodings using click.File](https://til.simonwillison.net/python/click-file-encoding) - 2020-10-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->619<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->620<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
+<br>Statistical visualizations for Datasette using Seaborn
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - ([78 releases](https://github.com/simonw/datasette/releases)) - 2020-12-05
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->619<!-- releases_count ends --> releases a
 <br>Datasette plugin for importing tables from other Datasette instances
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br>Datasette plugin for outputting iCalendar files
-* **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.1a1](https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-09-11
-<br>Statistical visualizations for Datasette using Seaborn
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br>Custom SQL function for making DNS lookups
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
