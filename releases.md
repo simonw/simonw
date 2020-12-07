@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->620<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->621<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/yaml-to-sqlite/releases)) - 2020-12-07
+<br>Utility for converting YAML files to SQLite
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br>Statistical visualizations for Datasette using Seaborn
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - ([78 releases](https://github.com/simonw/datasette/releases)) - 2020-12-05
@@ -167,8 +169,6 @@ Listing <!-- releases_count starts -->620<!-- releases_count ends --> releases a
 <br>CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.1.1](https://github.com/simonw/datasette-sentry/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-sentry/releases)) - 2020-01-29
 <br>Datasette plugin for configuring Sentry
-* **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [0.3](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3) - ([3 releases](https://github.com/simonw/yaml-to-sqlite/releases)) - 2019-11-29
-<br>Utility for converting YAML files to SQLite
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3](https://github.com/simonw/sqlite-transform/releases/tag/0.3) - ([3 releases](https://github.com/simonw/sqlite-transform/releases)) - 2019-11-04
 <br>Tool for running transformations on columns in a SQLite database
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
