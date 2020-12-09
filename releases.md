@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->621<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->622<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - ([79 releases](https://github.com/simonw/datasette/releases)) - 2020-12-09
+<br>An open source multi-tool for exploring and publishing data
 * **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/yaml-to-sqlite/releases)) - 2020-12-07
 <br>Utility for converting YAML files to SQLite
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br>Statistical visualizations for Datasette using Seaborn
-* **[datasette](https://github.com/simonw/datasette)**: [0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - ([78 releases](https://github.com/simonw/datasette/releases)) - 2020-12-05
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
 <br>Datasette plugin for searching all searchable tables at once
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03

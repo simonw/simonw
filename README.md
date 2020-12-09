@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - 2020-12-09
+
 [yaml-to-sqlite 0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - 2020-12-07
 
 [datasette-seaborn 0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - 2020-12-07
-
-[datasette 0.52.4](https://github.com/simonw/datasette/releases/tag/0.52.4) - 2020-12-05
 
 [datasette-search-all 1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - 2020-12-04
 
