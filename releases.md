@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->623<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->624<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
+<br>Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
 <br>Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - ([79 releases](https://github.com/simonw/datasette/releases)) - 2020-12-09
@@ -161,8 +163,6 @@ Listing <!-- releases_count starts -->623<!-- releases_count ends --> releases a
 <br>Datasette plugin for rendering timestamps
 * **[datasette-show-errors](https://github.com/simonw/datasette-show-errors)**: [0.2](https://github.com/simonw/datasette-show-errors/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-show-errors/releases)) - 2020-03-21
 <br>Datasette plugin for displaying error tracebacks
-* **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.1a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.1a) - 2020-03-09
-<br>Experimental plugin that adds a column inspector
 * **[fec-to-sqlite](https://github.com/simonw/fec-to-sqlite)**: [0.2](https://github.com/simonw/fec-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/simonw/fec-to-sqlite/releases)) - 2020-03-07
 <br>Save FEC campaign finance data to a SQLite database
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-column-inspect 0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - 2020-12-09
+
 [datasette-pretty-json 0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
 
 [datasette 0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - 2020-12-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 [datasette-yaml 0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - 2020-12-03
 
 [datasette-graphql 1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - 2020-11-30
-
-[github-to-sqlite 2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - 2020-11-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
