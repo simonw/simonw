@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->622<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->623<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
+<br>Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette](https://github.com/simonw/datasette)**: [0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - ([79 releases](https://github.com/simonw/datasette/releases)) - 2020-12-09
 <br>An open source multi-tool for exploring and publishing data
 * **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/yaml-to-sqlite/releases)) - 2020-12-07
