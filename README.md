@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.53](https://github.com/simonw/datasette/releases/tag/0.53) - 2020-12-11
+
 [datasette-column-inspect 0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - 2020-12-09
 
 [datasette-pretty-json 0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
-
-[datasette 0.52.5](https://github.com/simonw/datasette/releases/tag/0.52.5) - 2020-12-09
 
 [yaml-to-sqlite 0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - 2020-12-07
 
