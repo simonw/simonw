@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-passwords 0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - 2020-12-11
+
 [datasette 0.53](https://github.com/simonw/datasette/releases/tag/0.53) - 2020-12-11
 
 [datasette-column-inspect 0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - 2020-12-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-search-all 1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - 2020-12-04
 
 [datasette-yaml 0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - 2020-12-03
-
-[datasette-graphql 1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - 2020-11-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

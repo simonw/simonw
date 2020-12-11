@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->625<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->626<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - ([8 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-12-11
+<br>Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.53](https://github.com/simonw/datasette/releases/tag/0.53) - ([80 releases](https://github.com/simonw/datasette/releases)) - 2020-12-11
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->625<!-- releases_count ends --> releases a
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br>Load shapefiles into a SQLite (optionally SpatiaLite) database
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.2](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2) - ([7 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-08-22
-<br>Datasette plugin for authentication using passwords
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - ([4 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
