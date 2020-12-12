@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->626<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->627<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
+<br>Datasette plugin for publishing data using Fly
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - ([8 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-12-11
 <br>Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.53](https://github.com/simonw/datasette/releases/tag/0.53) - ([80 releases](https://github.com/simonw/datasette/releases)) - 2020-12-11
@@ -115,8 +117,6 @@ Listing <!-- releases_count starts -->626<!-- releases_count ends --> releases a
 <br>Datasette plugin for authenticating access using API tokens
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br>Some examples plugins for Datasette
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0) - ([3 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-07-11
-<br>Datasette plugin for publishing data using Fly
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-write/releases)) - 2020-07-01
 <br>Datasette plugin providing a UI for writing to the database
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01
