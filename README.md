@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Skipping CSV rows with odd numbers of quotes using ripgrep](https://til.simonwillison.net/bash/skip-csv-rows-with-odd-numbers) - 2020-12-12
+
 [Escaping a SQL query to use with curl and Datasette](https://til.simonwillison.net/bash/escaping-sql-for-curl-to-datasette) - 2020-12-08
 
 [Controlling the style of dumped YAML using PyYAML](https://til.simonwillison.net/python/style-yaml-dump) - 2020-12-07
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using custom Sphinx templates on Read the Docs](https://til.simonwillison.net/readthedocs/custom-sphinx-templates) - 2020-12-07
 
 [Running Python code in a subprocess with a time limit](https://til.simonwillison.net/python/subprocess-time-limit) - 2020-12-07
-
-[Redirects for Datasette](https://til.simonwillison.net/datasette/redirects-for-datasette) - 2020-11-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
