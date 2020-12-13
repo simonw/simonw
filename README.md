@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Build v.s. buy: how billing models affect your internal culture](http://simonwillison.net/2020/Dec/13/build-vs-buy/) - 2020-12-13
+
 [Weeknotes: datasette.io, an official project website for Datasette](http://simonwillison.net/2020/Dec/13/datasette-io/) - 2020-12-13
 
 [Weeknotes: github-to-sqlite workflows, datasette-ripgrep enhancements, Datasette 0.52](http://simonwillison.net/2020/Dec/6/weeknotes/) - 2020-12-06
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [datasette-ripgrep: deploy a regular expression search engine for your source code](http://simonwillison.net/2020/Nov/28/datasette-ripgrep/) - 2020-11-28
 
 [Weeknotes: datasette-indieauth, datasette-graphql, PyCon Argentina](http://simonwillison.net/2020/Nov/22/weeknotes/) - 2020-11-22
-
-[Implementing IndieAuth for Datasette](http://simonwillison.net/2020/Nov/18/indieauth/) - 2020-11-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
