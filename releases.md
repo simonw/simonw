@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->627<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->628<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - ([65 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-12-13
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
 <br>Datasette plugin for publishing data using Fly
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - ([8 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-12-11
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->627<!-- releases_count ends --> releases a
 <br>Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
 <br>Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.0](https://github.com/simonw/sqlite-utils/releases/tag/3.0) - ([64 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-11-08
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
 <br>Custom Python functions for working with SQLite FTS4
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - ([12 releases](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-11-03
