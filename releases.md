@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->628<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->629<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - ([12 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-14
+<br>Datasette plugin for publishing data using Vercel
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - ([65 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-12-13
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
@@ -95,8 +97,6 @@ Listing <!-- releases_count starts -->628<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.8](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8) - ([11 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-08-17
-<br>Datasette plugin for publishing data using Vercel
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br>Datasette plugin that lets users save and execute queries
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
