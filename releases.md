@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->629<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->630<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
+<br>Save data from GitHub to a SQLite database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - ([12 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-14
 <br>Datasette plugin for publishing data using Vercel
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - ([65 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-12-13
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->629<!-- releases_count ends --> releases a
 <br>Export Datasette records as YAML
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - ([29 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.1) - ([20 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-11-30
-<br>Save data from GitHub to a SQLite database
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - ([10 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
