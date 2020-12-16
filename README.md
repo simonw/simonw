@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[dogsheep-beta 0.10](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10) - 2020-12-16
+
 [github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
 
 [datasette-publish-vercel 0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - 2020-12-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.53](https://github.com/simonw/datasette/releases/tag/0.53) - 2020-12-11
 
 [datasette-column-inspect 0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - 2020-12-09
-
-[datasette-pretty-json 0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
