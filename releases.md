@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->631<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10) - ([18 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-16
-<br>Search index for Dogsheep
+<br>Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
 <br>Save data from GitHub to a SQLite database
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - ([12 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-14
