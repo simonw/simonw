@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->631<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->632<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10) - ([18 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-16
+* **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - ([19 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-19
 <br>Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
 <br>Save data from GitHub to a SQLite database

@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dogsheep-beta 0.10](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10) - 2020-12-16
+[dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
 
 [github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
 
