@@ -29,7 +29,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Build v.s. buy: how billing models affect your internal culture](http://simonwillison.net/2020/Dec/13/build-vs-buy/) - 2020-12-13
 
-[Weeknotes: datasette.io, an official project website for Datasette](http://simonwillison.net/2020/Dec/13/datasette-io/) - 2020-12-13
+[datasette.io, an official project website for Datasette](http://simonwillison.net/2020/Dec/13/datasette-io/) - 2020-12-13
 
 [Weeknotes: github-to-sqlite workflows, datasette-ripgrep enhancements, Datasette 0.52](http://simonwillison.net/2020/Dec/6/weeknotes/) - 2020-12-06
 
