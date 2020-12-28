@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
+
 [dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
 
 [github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
-
-[datasette-publish-vercel 0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - 2020-12-14
 
 [sqlite-utils 3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - 2020-12-13
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Replicating SQLite with rqlite](https://til.simonwillison.net/sqlite/replicating-rqlite) - 2020-12-28
+
 [Skipping CSV rows with odd numbers of quotes using ripgrep](https://til.simonwillison.net/bash/skip-csv-rows-with-odd-numbers) - 2020-12-12
 
 [Escaping a SQL query to use with curl and Datasette](https://til.simonwillison.net/bash/escaping-sql-for-curl-to-datasette) - 2020-12-08
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Controlling the style of dumped YAML using PyYAML](https://til.simonwillison.net/python/style-yaml-dump) - 2020-12-07
 
 [Using custom Sphinx templates on Read the Docs](https://til.simonwillison.net/readthedocs/custom-sphinx-templates) - 2020-12-07
-
-[Running Python code in a subprocess with a time limit](https://til.simonwillison.net/python/subprocess-time-limit) - 2020-12-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

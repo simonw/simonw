@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->632<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->633<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - ([13 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-28
+<br>Datasette plugin for publishing data using Vercel
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - ([19 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-19
 <br>Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
 <br>Save data from GitHub to a SQLite database
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9) - ([12 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-14
-<br>Datasette plugin for publishing data using Vercel
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - ([65 releases](https://github.com/simonw/sqlite-utils/releases)) - 2020-12-13
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
