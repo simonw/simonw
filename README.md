@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.1.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1.1) - 2021-01-01
+
 [datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
 
 [dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
 
 [github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
-
-[sqlite-utils 3.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1) - 2020-12-13
 
 [datasette-publish-fly 1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - 2020-12-12
 
