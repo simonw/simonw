@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 3.1.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1.1) - 2021-01-01
+[sqlite-utils 3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - 2021-01-03
 
 [datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
 

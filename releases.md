@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->634<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->635<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.1.1](https://github.com/simonw/sqlite-utils/releases/tag/3.1.1) - ([66 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-01
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - ([67 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-03
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - ([13 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-28
 <br>Datasette plugin for publishing data using Vercel
