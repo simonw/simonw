@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Packaging a Python app as a standalone binary with PyInstaller](https://til.simonwillison.net/python/packaging-pyinstaller) - 2021-01-04
+
 [Using Prettier to check JavaScript code style in GitHub Actions](https://til.simonwillison.net/github-actions/prettier-github-actions) - 2020-12-31
 
 [Using Jest without a package.json](https://til.simonwillison.net/javascript/jest-without-package-json) - 2020-12-30
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Relinquishing control in Python asyncio](https://til.simonwillison.net/python/yielding-in-asyncio) - 2020-12-29
 
 [Replicating SQLite with rqlite](https://til.simonwillison.net/sqlite/replicating-rqlite) - 2020-12-28
-
-[Skipping CSV rows with odd numbers of quotes using ripgrep](https://til.simonwillison.net/bash/skip-csv-rows-with-odd-numbers) - 2020-12-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
