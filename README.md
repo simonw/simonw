@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-css-properties 0.1](https://github.com/simonw/datasette-css-properties/releases/tag/0.1) - 2021-01-05
+
 [sqlite-utils 3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - 2021-01-03
 
 [datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-auth-passwords 0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - 2020-12-11
 
 [datasette 0.53](https://github.com/simonw/datasette/releases/tag/0.53) - 2020-12-11
-
-[datasette-column-inspect 0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - 2020-12-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
