@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->638<!-- releases_count ends --> releases across <!-- project_count starts -->95<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->639<!-- releases_count ends --> releases across <!-- project_count starts -->95<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.1.1](https://github.com/simonw/datasette-css-properties/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
+* **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br>Experimental Datasette output plugin using CSS properties
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/0.1) - 2021-01-06
 <br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
