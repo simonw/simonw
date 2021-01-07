@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-export-notebook 0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/0.1) - 2021-01-06
+[datasette-css-properties 0.1.1](https://github.com/simonw/datasette-css-properties/releases/tag/0.1.1) - 2021-01-07
 
-[datasette-css-properties 0.1](https://github.com/simonw/datasette-css-properties/releases/tag/0.1) - 2021-01-05
+[datasette-export-notebook 0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/0.1) - 2021-01-06
 
 [sqlite-utils 3.2](https://github.com/simonw/sqlite-utils/releases/tag/3.2) - 2021-01-03
 
