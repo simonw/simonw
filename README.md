@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[APIs from CSS without JavaScript: the datasette-css-properties plugin](http://simonwillison.net/2021/Jan/7/css-apis-no-javascript/) - 2021-01-07
+
 [Weeknotes: A flurry of not-quite-finished features](http://simonwillison.net/2021/Jan/3/weeknotes/) - 2021-01-03
 
 [Weeknotes: Datasette internals](http://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/) - 2020-12-27
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building a search engine for datasette.io](http://simonwillison.net/2020/Dec/19/dogsheep-beta/) - 2020-12-19
 
 [Build v.s. buy: how billing models affect your internal culture](http://simonwillison.net/2020/Dec/13/build-vs-buy/) - 2020-12-13
-
-[datasette.io, an official project website for Datasette](http://simonwillison.net/2020/Dec/13/datasette-io/) - 2020-12-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
