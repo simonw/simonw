@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[markdown-to-sqlite 0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
+
 [sqlite-utils 3.2.1](https://github.com/simonw/sqlite-utils/releases/tag/3.2.1) - 2021-01-12
 
 [datasette-export-notebook 0.2](https://github.com/simonw/datasette-export-notebook/releases/tag/0.2) - 2021-01-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [github-to-sqlite 2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - 2020-12-16
 
 [datasette-publish-fly 1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - 2020-12-12
-
-[datasette-auth-passwords 0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - 2020-12-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
