@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Recovering data from AWS Lightsail using EC2](https://til.simonwillison.net/aws/recovering-lightsail-data) - 2021-01-16
+
 [Identifying column combination patterns in a SQLite table](https://til.simonwillison.net/sqlite/column-combinations) - 2021-01-12
 
 [Packaging a Python app as a standalone binary with PyInstaller](https://til.simonwillison.net/python/packaging-pyinstaller) - 2021-01-04
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using Prettier to check JavaScript code style in GitHub Actions](https://til.simonwillison.net/github-actions/prettier-github-actions) - 2020-12-31
 
 [Using Jest without a package.json](https://til.simonwillison.net/javascript/jest-without-package-json) - 2020-12-30
-
-[Relinquishing control in Python asyncio](https://til.simonwillison.net/python/yielding-in-asyncio) - 2020-12-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
