@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Still pretty distracted](http://simonwillison.net/2021/Jan/17/weeknotes-still-pretty-distracted/) - 2021-01-17
+
 [Weeknotes: datasette-export-notebook, PyInstaller packaged Datasette, CBSAs](http://simonwillison.net/2021/Jan/10/weeknotes/) - 2021-01-10
 
 [APIs from CSS without JavaScript: the datasette-css-properties plugin](http://simonwillison.net/2021/Jan/7/css-apis-no-javascript/) - 2021-01-07
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: A flurry of not-quite-finished features](http://simonwillison.net/2021/Jan/3/weeknotes/) - 2021-01-03
 
 [Weeknotes: Datasette internals](http://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/) - 2020-12-27
-
-[Building a search engine for datasette.io](http://simonwillison.net/2020/Dec/19/dogsheep-beta/) - 2020-12-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
