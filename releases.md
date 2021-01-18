@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->646<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->647<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.15](https://github.com/simonw/datasette-cluster-map/releases/tag/0.15) - ([15 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-18
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
 <br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->646<!-- releases_count ends --> releases a
 <br>Datasette plugin for rendering Markdown
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database from Sphinx documentation
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.14](https://github.com/simonw/datasette-cluster-map/releases/tag/0.14) - ([14 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2020-10-22
-<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database containing your observation history from iNaturalist
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cluster-map 0.15](https://github.com/simonw/datasette-cluster-map/releases/tag/0.15) - 2021-01-18
+
 [sqlite-transform 0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - 2021-01-18
 
 [swarm-to-sqlite 0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - 2021-01-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-css-properties 0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - 2021-01-07
 
 [datasette-publish-vercel 0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - 2020-12-28
-
-[dogsheep-beta 0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - 2020-12-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
