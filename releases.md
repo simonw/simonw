@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->643<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->645<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
+<br>Create a SQLite database containing your checkin history from Foursquare Swarm
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.3](https://github.com/simonw/sqlite-utils/releases/tag/3.3) - ([69 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-18
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
 <br>CLI tool for loading markdown files into a SQLite database
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.2.1](https://github.com/simonw/sqlite-utils/releases/tag/3.2.1) - ([68 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-12
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.2](https://github.com/simonw/datasette-export-notebook/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-11
 <br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
@@ -71,8 +73,6 @@ Listing <!-- releases_count starts -->643<!-- releases_count ends --> releases a
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
 <br>Python CLI tool and library for diffing CSV files
-* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.2](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2) - ([5 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2020-10-12
-<br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2020-10-12
 <br>Tools for converting Evernote content to SQLite
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
