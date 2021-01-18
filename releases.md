@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->645<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->646<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
+<br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.3](https://github.com/simonw/sqlite-utils/releases/tag/3.3) - ([69 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-18
@@ -177,8 +179,6 @@ Listing <!-- releases_count starts -->645<!-- releases_count ends --> releases a
 <br>CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.1.1](https://github.com/simonw/datasette-sentry/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-sentry/releases)) - 2020-01-29
 <br>Datasette plugin for configuring Sentry
-* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3](https://github.com/simonw/sqlite-transform/releases/tag/0.3) - ([3 releases](https://github.com/simonw/sqlite-transform/releases)) - 2019-11-04
-<br>Tool for running transformations on columns in a SQLite database
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
 <br>Import your genome into a SQLite database
 * **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-rure/releases)) - 2019-09-11
