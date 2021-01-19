@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->647<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->648<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - ([81 releases](https://github.com/simonw/datasette/releases)) - 2021-01-19
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.15](https://github.com/simonw/datasette-cluster-map/releases/tag/0.15) - ([15 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-18
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->647<!-- releases_count ends --> releases a
 <br>Datasette plugin for publishing data using Fly
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - ([8 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-12-11
 <br>Datasette plugin for authentication using passwords
-* **[datasette](https://github.com/simonw/datasette)**: [0.53](https://github.com/simonw/datasette/releases/tag/0.53) - ([80 releases](https://github.com/simonw/datasette/releases)) - 2020-12-11
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
 <br>Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
