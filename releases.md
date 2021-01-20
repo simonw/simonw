@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->651<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->652<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.2](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.2) - ([3 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-20
+* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3) - ([4 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-20
 <br>Draw polygons on maps in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - ([81 releases](https://github.com/simonw/datasette/releases)) - 2021-01-19
 <br>An open source multi-tool for exploring and publishing data
