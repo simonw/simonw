@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->652<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->653<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
+<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3) - ([4 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-20
 <br>Draw polygons on maps in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - ([81 releases](https://github.com/simonw/datasette/releases)) - 2021-01-19
@@ -103,8 +105,6 @@ Listing <!-- releases_count starts -->652<!-- releases_count ends --> releases a
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br>Load shapefiles into a SQLite (optionally SpatiaLite) database
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.6](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6) - ([4 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2020-08-21
-<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
 <br>Datasette plugin that shows the schema version of every attached database
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
