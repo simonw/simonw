@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Embedding JavaScript in a Jupyter notebook](https://til.simonwillison.net/jupyter/javascript-in-a-jupyter-notebook) - 2021-01-22
+
 [Syntax highlighting Python console examples with GFM](https://til.simonwillison.net/github/syntax-highlighting-python-console) - 2021-01-19
 
 [Fixing broken text encodings with sqlite-transform and ftfy](https://til.simonwillison.net/sqlite/fixing-column-encoding-with-ftfy-and-sqlite-transform) - 2021-01-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Bulk fetching repository details with the GitHub GraphQL API](https://til.simonwillison.net/github/bulk-repo-github-graphql) - 2021-01-17
 
 [Recovering data from AWS Lightsail using EC2](https://til.simonwillison.net/aws/recovering-lightsail-data) - 2021-01-16
-
-[Identifying column combination patterns in a SQLite table](https://til.simonwillison.net/sqlite/column-combinations) - 2021-01-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
