@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->653<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->654<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13a0](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a0) - ([21 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-22
+<br>Datasette plugin that authenticates users against GitHub
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3) - ([4 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-20
@@ -161,8 +163,6 @@ Listing <!-- releases_count starts -->653<!-- releases_count ends --> releases a
 <br>Command-line tool for fetching JSON from paginated APIs
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-mask-columns/releases)) - 2020-04-14
 <br>Datasette plugin that masks specified database columns
-* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.12](https://github.com/simonw/datasette-auth-github/releases/tag/0.12) - ([20 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2020-04-10
-<br>Datasette plugin that authenticates users against GitHub
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2020-03-21
