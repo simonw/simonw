@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->654<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->655<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13a0](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a0) - ([21 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-22
+* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13a1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a1) - ([22 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-22
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.

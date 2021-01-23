@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-auth-github 0.13a0](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a0) - 2021-01-22
+[datasette-auth-github 0.13a1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a1) - 2021-01-22
 
 [datasette-leaflet-geojson 0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - 2021-01-20
 
