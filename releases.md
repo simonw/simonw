@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->656<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->657<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.2](https://github.com/simonw/asgi-csrf/releases/tag/0.7.2) - ([15 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
+<br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13a2](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a2) - ([23 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-23
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->656<!-- releases_count ends --> releases a
 <br>Datasette plugin that blocks all robots using robots.txt
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
 <br>Export Airtable data to YAML or JSON files on disk
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.1](https://github.com/simonw/asgi-csrf/releases/tag/0.7.1) - ([14 releases](https://github.com/simonw/asgi-csrf/releases)) - 2020-08-27
-<br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
