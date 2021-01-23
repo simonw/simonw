@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->657<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->659<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.7.2](https://github.com/simonw/asgi-csrf/releases/tag/0.7.2) - ([15 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.16](https://github.com/simonw/datasette-cluster-map/releases/tag/0.16) - ([16 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-23
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13a2](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a2) - ([23 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-23
 <br>Datasette plugin that authenticates users against GitHub
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->657<!-- releases_count ends --> releases a
 <br>Draw polygons on maps in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - ([81 releases](https://github.com/simonw/datasette/releases)) - 2021-01-19
 <br>An open source multi-tool for exploring and publishing data
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.15](https://github.com/simonw/datasette-cluster-map/releases/tag/0.15) - ([15 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-18
-<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
 <br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
