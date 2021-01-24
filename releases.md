@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->660<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->661<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.4](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.4) - ([5 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-24
+<br>Draw polygons on maps in Datasette
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - ([24 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-24
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.16](https://github.com/simonw/datasette-cluster-map/releases/tag/0.16) - ([16 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-23
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->660<!-- releases_count ends --> releases a
 <br>ASGI middleware for protecting against CSRF attacks
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.1.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3) - ([4 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-20
-<br>Draw polygons on maps in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - ([81 releases](https://github.com/simonw/datasette/releases)) - 2021-01-19
 <br>An open source multi-tool for exploring and publishing data
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18

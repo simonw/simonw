@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-leaflet-freedraw 0.1.4](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.4) - 2021-01-24
+
 [datasette-auth-github 0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - 2021-01-24
 
 [datasette-cluster-map 0.16](https://github.com/simonw/datasette-cluster-map/releases/tag/0.16) - 2021-01-23
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [asgi-csrf 0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - 2021-01-23
 
 [datasette-leaflet-geojson 0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - 2021-01-20
-
-[datasette-leaflet-freedraw 0.1.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3) - 2021-01-20
 
 [datasette 0.54a0](https://github.com/simonw/datasette/releases/tag/0.54a0) - 2021-01-19
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Drawing shapes on a map to query a SpatiaLite database (and other weeknotes)](http://simonwillison.net/2021/Jan/24/drawing-shapes-spatialite/) - 2021-01-24
+
 [Weeknotes: Still pretty distracted](http://simonwillison.net/2021/Jan/17/weeknotes-still-pretty-distracted/) - 2021-01-17
 
 [Weeknotes: datasette-export-notebook, PyInstaller packaged Datasette, CBSAs](http://simonwillison.net/2021/Jan/10/weeknotes/) - 2021-01-10
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [APIs from CSS without JavaScript: the datasette-css-properties plugin](http://simonwillison.net/2021/Jan/7/css-apis-no-javascript/) - 2021-01-07
 
 [Weeknotes: A flurry of not-quite-finished features](http://simonwillison.net/2021/Jan/3/weeknotes/) - 2021-01-03
-
-[Weeknotes: Datasette internals](http://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/) - 2020-12-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
