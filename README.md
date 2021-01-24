@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-github 0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - 2021-01-24
+
 [datasette-cluster-map 0.16](https://github.com/simonw/datasette-cluster-map/releases/tag/0.16) - 2021-01-23
 
 [asgi-csrf 0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - 2021-01-23
-
-[datasette-auth-github 0.13a2](https://github.com/simonw/datasette-auth-github/releases/tag/0.13a2) - 2021-01-23
 
 [datasette-leaflet-geojson 0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - 2021-01-20
 
