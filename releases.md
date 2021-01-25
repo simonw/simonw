@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->665<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->666<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2) - ([6 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
+* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br>Draw polygons on maps in Datasette
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-01-25
 <br>Datasette plugin adding the Leaflet JavaScript library

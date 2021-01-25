@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-leaflet-freedraw 0.2](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2) - 2021-01-25
+[datasette-leaflet-freedraw 0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - 2021-01-25
 
 [datasette-leaflet 0.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2) - 2021-01-25
 
