@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->666<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->667<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
+<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br>Draw polygons on maps in Datasette
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-01-25
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->666<!-- releases_count ends --> releases a
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
 <br>ASGI middleware for protecting against CSRF attacks
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.7](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7) - ([5 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-20
-<br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
 <br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
