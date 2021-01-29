@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-debug-asgi 1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - 2021-01-29
+
 [datasette-template-sql 1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - 2021-01-29
 
 [datasette-cluster-map 0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - 2021-01-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.54](https://github.com/simonw/datasette/releases/tag/0.54) - 2021-01-25
 
 [datasette-auth-github 0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - 2021-01-24
-
-[asgi-csrf 0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - 2021-01-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

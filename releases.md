@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->670<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->671<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - ([2 releases](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-01-29
+<br>Datasette plugin for dumping out the ASGI scope
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br>Datasette plugin for executing SQL queries from templates
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - ([18 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-29
@@ -141,8 +143,6 @@ Listing <!-- releases_count starts -->670<!-- releases_count ends --> releases a
 <br>Ensure specific tables and views exist on startup
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1) - 2020-06-30
 <br>Always allow access to /-/permissions, for debugging
-* **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [0.1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/0.1.1) - 2020-06-29
-<br>Datasette plugin for dumping out the ASGI scope
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br>Tool for generating demo SQLite databases
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
