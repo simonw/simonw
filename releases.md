@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->669<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->670<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
+<br>Datasette plugin for executing SQL queries from templates
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - ([18 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-29
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
@@ -157,8 +159,6 @@ Listing <!-- releases_count starts -->669<!-- releases_count ends --> releases a
 <br>Upload your photos to S3 and import metadata about them into a SQLite database
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.2a](https://github.com/simonw/conditional-get/releases/tag/0.2a) - ([3 releases](https://github.com/simonw/conditional-get/releases)) - 2020-04-30
 <br>CLI tool for fetching data using HTTP conditional get
-* **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.1](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.1) - ([3 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2020-04-22
-<br>Datasette plugin for executing SQL queries from templates
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [0.7](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.7) - ([10 releases](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2020-04-15
 <br>Datasette plugin that authenticates users based on existing domain cookies
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3](https://github.com/simonw/paginate-json/releases/tag/0.3) - 2020-04-14
