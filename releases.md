@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->668<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->669<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17a0) - ([17 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-26
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - ([18 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-29
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
