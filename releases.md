@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->671<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->672<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-29
+<br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - ([2 releases](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-01-29
 <br>Datasette plugin for dumping out the ASGI scope
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->671<!-- releases_count ends --> releases a
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
 <br>CLI tool for loading markdown files into a SQLite database
-* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.2](https://github.com/simonw/datasette-export-notebook/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-11
-<br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br>Experimental Datasette output plugin using CSS properties
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - ([13 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-28
