@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-leaflet, datasette-plugin cookiecutter upgrades](http://simonwillison.net/2021/Jan/31/weeknotes/) - 2021-01-31
+
 [Datasette 0.54, the annotated release notes](http://simonwillison.net/2021/Jan/25/datasette/) - 2021-01-25
 
 [Drawing shapes on a map to query a SpatiaLite database (and other weeknotes)](http://simonwillison.net/2021/Jan/24/drawing-shapes-spatialite/) - 2021-01-24
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Still pretty distracted](http://simonwillison.net/2021/Jan/17/weeknotes-still-pretty-distracted/) - 2021-01-17
 
 [Weeknotes: datasette-export-notebook, PyInstaller packaged Datasette, CBSAs](http://simonwillison.net/2021/Jan/10/weeknotes/) - 2021-01-10
-
-[APIs from CSS without JavaScript: the datasette-css-properties plugin](http://simonwillison.net/2021/Jan/7/css-apis-no-javascript/) - 2021-01-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
