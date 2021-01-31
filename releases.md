@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->672<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->673<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.1](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-01-31
+<br>Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-29
 <br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - ([2 releases](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-01-29
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->672<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br>Draw polygons on maps in Datasette
-* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-01-25
-<br>Datasette plugin adding the Leaflet JavaScript library
 * **[datasette](https://github.com/simonw/datasette)**: [0.54](https://github.com/simonw/datasette/releases/tag/0.54) - ([82 releases](https://github.com/simonw/datasette/releases)) - 2021-01-25
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - ([24 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-24
