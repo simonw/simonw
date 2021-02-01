@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Splitting on commas in SQLite](https://til.simonwillison.net/sqlite/splitting-commas-sqlite) - 2021-02-01
+
 [Conditionally creating directories in cookiecutter](https://til.simonwillison.net/cookiecutter/conditionally-creating-directories) - 2021-01-27
 
 [Testing cookiecutter templates with pytest](https://til.simonwillison.net/cookiecutter/pytest-for-cookiecutter) - 2021-01-27
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Embedding JavaScript in a Jupyter notebook](https://til.simonwillison.net/jupyter/javascript-in-a-jupyter-notebook) - 2021-01-22
 
 [Syntax highlighting Python console examples with GFM](https://til.simonwillison.net/github/syntax-highlighting-python-console) - 2021-01-19
-
-[Fixing broken text encodings with sqlite-transform and ftfy](https://til.simonwillison.net/sqlite/fixing-column-encoding-with-ftfy-and-sqlite-transform) - 2021-01-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
