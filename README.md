@@ -4,15 +4,15 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-leaflet 0.2.1](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.1) - 2021-01-31
+[datasette-cluster-map 0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - 2021-02-01
+
+[datasette-leaflet 0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - 2021-02-01
 
 [datasette-export-notebook 0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - 2021-01-29
 
 [datasette-debug-asgi 1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - 2021-01-29
 
 [datasette-template-sql 1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - 2021-01-29
-
-[datasette-cluster-map 0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - 2021-01-29
 
 [datasette-leaflet-geojson 0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - 2021-01-26
 

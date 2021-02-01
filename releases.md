@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->673<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->675<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.1](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-01-31
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - ([19 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-02-01
+<br>Datasette plugin that shows a map for any data with latitude/longitude columns
+* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
 <br>Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-29
 <br>Datasette plugin providing instructions for exporting data to Jupyter or Observable
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->673<!-- releases_count ends --> releases a
 <br>Datasette plugin for dumping out the ASGI scope
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br>Datasette plugin for executing SQL queries from templates
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17) - ([18 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-01-29
-<br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
