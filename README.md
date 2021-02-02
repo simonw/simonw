@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[download-tiles 0.1](https://github.com/simonw/download-tiles/releases/tag/0.1) - 2021-02-02
+
 [datasette-basemap 0.1](https://github.com/simonw/datasette-basemap/releases/tag/0.1) - 2021-02-02
 
 [datasette-tiles 0.1.1](https://github.com/simonw/datasette-tiles/releases/tag/0.1.1) - 2021-02-02
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-debug-asgi 1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - 2021-01-29
 
 [datasette-template-sql 1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - 2021-01-29
-
-[datasette-leaflet-geojson 0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - 2021-01-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
