@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->677<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->678<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.1](https://github.com/simonw/datasette-tiles/releases/tag/0.1) - 2021-02-02
+<br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.1a1](https://github.com/simonw/datasette-basemap/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br>A basemap for Datasette and datasette-leaflet
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - ([19 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-02-01
