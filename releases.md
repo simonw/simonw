@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->675<!-- releases_count ends --> releases across <!-- project_count starts -->98<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->677<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.1a1](https://github.com/simonw/datasette-basemap/releases/tag/0.1a1) - ([2 releases](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
+<br>A basemap for Datasette and datasette-leaflet
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - ([19 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-02-01
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01

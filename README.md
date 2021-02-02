@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-basemap 0.1a1](https://github.com/simonw/datasette-basemap/releases/tag/0.1a1) - 2021-02-02
+
 [datasette-cluster-map 0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - 2021-02-01
 
 [datasette-leaflet 0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - 2021-02-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-leaflet-geojson 0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - 2021-01-26
 
 [datasette-leaflet-freedraw 0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - 2021-01-25
-
-[datasette 0.54](https://github.com/simonw/datasette/releases/tag/0.54) - 2021-01-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
