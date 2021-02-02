@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->683<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->684<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.54.1](https://github.com/simonw/datasette/releases/tag/0.54.1) - ([83 releases](https://github.com/simonw/datasette/releases)) - 2021-02-02
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.2](https://github.com/simonw/datasette-tiles/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-02
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.2](https://github.com/simonw/download-tiles/releases/tag/0.2) - ([2 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-02
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->683<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br>Draw polygons on maps in Datasette
-* **[datasette](https://github.com/simonw/datasette)**: [0.54](https://github.com/simonw/datasette/releases/tag/0.54) - ([82 releases](https://github.com/simonw/datasette/releases)) - 2021-01-25
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - ([24 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-24
 <br>Datasette plugin that authenticates users against GitHub
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
