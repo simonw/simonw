@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->681<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->682<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[download-tiles](https://github.com/simonw/download-tiles)**: [0.1](https://github.com/simonw/download-tiles/releases/tag/0.1) - 2021-02-02
+* **[download-tiles](https://github.com/simonw/download-tiles)**: [0.2](https://github.com/simonw/download-tiles/releases/tag/0.2) - ([2 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-02
 <br>Download map tiles and store them in an MBTiles database
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.1](https://github.com/simonw/datasette-basemap/releases/tag/0.1) - ([3 releases](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br>A basemap for Datasette and datasette-leaflet
