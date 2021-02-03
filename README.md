@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[download-tiles 0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - 2021-02-03
+[datasette-tiles 0.4](https://github.com/simonw/datasette-tiles/releases/tag/0.4) - 2021-02-03
 
-[datasette-tiles 0.3](https://github.com/simonw/datasette-tiles/releases/tag/0.3) - 2021-02-02
+[download-tiles 0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - 2021-02-03
 
 [datasette-basemap 0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - 2021-02-02
 
