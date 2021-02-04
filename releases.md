@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->689<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->690<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.4](https://github.com/simonw/datasette-tiles/releases/tag/0.4) - ([5 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-03
+* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.5](https://github.com/simonw/datasette-tiles/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-04
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - ([4 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-03
 <br>Download map tiles and store them in an MBTiles database
