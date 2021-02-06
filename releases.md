@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->690<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->691<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.4](https://github.com/simonw/sqlite-utils/releases/tag/3.4) - ([70 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-06
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.5](https://github.com/simonw/datasette-tiles/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-04
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - ([4 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-03
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->690<!-- releases_count ends --> releases a
 <br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.3](https://github.com/simonw/sqlite-utils/releases/tag/3.3) - ([69 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-01-18
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
 <br>CLI tool for loading markdown files into a SQLite database
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07

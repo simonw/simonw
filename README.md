@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.4](https://github.com/simonw/sqlite-utils/releases/tag/3.4) - 2021-02-06
+
 [datasette-tiles 0.5](https://github.com/simonw/datasette-tiles/releases/tag/0.5) - 2021-02-04
 
 [download-tiles 0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - 2021-02-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-leaflet 0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - 2021-02-01
 
 [datasette-export-notebook 0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - 2021-01-29
-
-[datasette-debug-asgi 1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - 2021-01-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
