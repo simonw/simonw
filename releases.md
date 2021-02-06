@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->691<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->692<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [1.0](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0) - 2021-02-06
+<br>Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.4](https://github.com/simonw/sqlite-utils/releases/tag/3.4) - ([70 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-06
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.5](https://github.com/simonw/datasette-tiles/releases/tag/0.5) - ([6 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-04
