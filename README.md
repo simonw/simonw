@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Shrinking PNG files with pngquant and oxipng](https://til.simonwillison.net/macos/shrinking-pngs-with-pngquant-and-oxipng) - 2021-02-07
+
 [Downloading MapZen elevation tiles](https://til.simonwillison.net/gis/mapzen-elevation-tiles) - 2021-02-04
 
 [Serving MBTiles with datasette-media](https://til.simonwillison.net/datasette/serving-mbtiles) - 2021-02-03
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Splitting on commas in SQLite](https://til.simonwillison.net/sqlite/splitting-commas-sqlite) - 2021-02-01
 
 [Conditionally creating directories in cookiecutter](https://til.simonwillison.net/cookiecutter/conditionally-creating-directories) - 2021-01-27
-
-[Testing cookiecutter templates with pytest](https://til.simonwillison.net/cookiecutter/pytest-for-cookiecutter) - 2021-01-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
