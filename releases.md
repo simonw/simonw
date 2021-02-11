@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->697<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->698<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3) - ([3 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
+* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
 <br>Tools for converting Evernote content to SQLite
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages

@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[evernote-to-sqlite 0.3](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3) - 2021-02-11
+[evernote-to-sqlite 0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - 2021-02-11
 
 [datasette-tiles 0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - 2021-02-11
 
