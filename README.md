@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[evernote-to-sqlite 0.3](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3) - 2021-02-11
+
 [datasette-tiles 0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - 2021-02-11
 
 [datasette-jellyfish 1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - 2021-02-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.54.1](https://github.com/simonw/datasette/releases/tag/0.54.1) - 2021-02-02
 
 [datasette-cluster-map 0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - 2021-02-01
-
-[datasette-leaflet 0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - 2021-02-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

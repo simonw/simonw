@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->696<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->697<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3) - ([3 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
+<br>Tools for converting Evernote content to SQLite
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - ([2 releases](https://github.com/simonw/datasette-jellyfish/releases)) - 2021-02-06
@@ -97,8 +99,6 @@ Listing <!-- releases_count starts -->696<!-- releases_count ends --> releases a
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
 <br>Python CLI tool and library for diffing CSV files
-* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2) - ([2 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2020-10-12
-<br>Tools for converting Evernote content to SQLite
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
 <br>Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
