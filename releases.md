@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->698<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->699<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.5](https://github.com/simonw/sqlite-utils/releases/tag/3.5) - ([72 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-14
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
 <br>Tools for converting Evernote content to SQLite
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
 <br>Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - ([2 releases](https://github.com/simonw/datasette-jellyfish/releases)) - 2021-02-06
 <br>Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.4.1](https://github.com/simonw/sqlite-utils/releases/tag/3.4.1) - ([71 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-06
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - ([4 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-03
 <br>Download map tiles and store them in an MBTiles database
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
