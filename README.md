@@ -40,15 +40,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using io.BufferedReader to peek against a non-peekable stream](https://til.simonwillison.net/python/io-bufferedreader) - 2021-02-15
+
+[Handling CSV files with wide columns in Python](https://til.simonwillison.net/python/csv-error-column-too-large) - 2021-02-15
+
 [Shrinking PNG files with pngquant and oxipng](https://til.simonwillison.net/macos/shrinking-pngs-with-pngquant-and-oxipng) - 2021-02-07
 
 [Downloading MapZen elevation tiles](https://til.simonwillison.net/gis/mapzen-elevation-tiles) - 2021-02-04
 
 [Serving MBTiles with datasette-media](https://til.simonwillison.net/datasette/serving-mbtiles) - 2021-02-03
-
-[Splitting on commas in SQLite](https://til.simonwillison.net/sqlite/splitting-commas-sqlite) - 2021-02-01
-
-[Conditionally creating directories in cookiecutter](https://til.simonwillison.net/cookiecutter/conditionally-creating-directories) - 2021-01-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
