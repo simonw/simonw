@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->700<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->701<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
+<br>Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br>Download map tiles and store them in an MBTiles database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.5](https://github.com/simonw/sqlite-utils/releases/tag/3.5) - ([72 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-14
