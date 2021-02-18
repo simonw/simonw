@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->701<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->702<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - ([30 releases](https://github.com/simonw/datasette-graphql/releases)) - 2021-02-18
+<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
 <br>Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->701<!-- releases_count ends --> releases a
 <br>Datasette plugin for searching all searchable tables at once
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br>Export Datasette records as YAML
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.3.1](https://github.com/simonw/datasette-graphql/releases/tag/1.3.1) - ([29 releases](https://github.com/simonw/datasette-graphql/releases)) - 2020-11-30
-<br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - ([10 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
