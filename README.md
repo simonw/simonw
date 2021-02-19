@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - 2021-02-19
+
 [datasette 0.55](https://github.com/simonw/datasette/releases/tag/0.55) - 2021-02-19
 
 [datasette-graphql 1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - 2021-02-18
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [higher-lower 0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
 
 [download-tiles 0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - 2021-02-16
-
-[sqlite-utils 3.5](https://github.com/simonw/sqlite-utils/releases/tag/3.5) - 2021-02-14
 
 [evernote-to-sqlite 0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - 2021-02-11
 

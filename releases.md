@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->703<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->704<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - ([73 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-19
+<br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.55](https://github.com/simonw/datasette/releases/tag/0.55) - ([84 releases](https://github.com/simonw/datasette/releases)) - 2021-02-19
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - ([30 releases](https://github.com/simonw/datasette-graphql/releases)) - 2021-02-18
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->703<!-- releases_count ends --> releases a
 <br>Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br>Download map tiles and store them in an MBTiles database
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.5](https://github.com/simonw/sqlite-utils/releases/tag/3.5) - ([72 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-14
-<br>Python CLI utility and library for manipulating SQLite databases
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
 <br>Tools for converting Evernote content to SQLite
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
