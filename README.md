@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Open source projects should run office hours](http://simonwillison.net/2021/Feb/19/office-hours/) - 2021-02-19
+
 [Weeknotes: Finally, an intro video for Datasette](http://simonwillison.net/2021/Feb/14/weeknotes/) - 2021-02-14
 
 [Video introduction to Datasette and sqlite-utils](http://simonwillison.net/2021/Feb/7/video/) - 2021-02-07
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Mostly messing around with map tiles](http://simonwillison.net/2021/Feb/7/weeknotes/) - 2021-02-07
 
 [Serving map tiles from SQLite with MBTiles and datasette-tiles](http://simonwillison.net/2021/Feb/4/datasette-tiles/) - 2021-02-04
-
-[Weeknotes: datasette-leaflet, datasette-plugin cookiecutter upgrades](http://simonwillison.net/2021/Jan/31/weeknotes/) - 2021-01-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
