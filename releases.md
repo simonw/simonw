@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->702<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->703<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.55](https://github.com/simonw/datasette/releases/tag/0.55) - ([84 releases](https://github.com/simonw/datasette/releases)) - 2021-02-19
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - ([30 releases](https://github.com/simonw/datasette-graphql/releases)) - 2021-02-18
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->702<!-- releases_count ends --> releases a
 <br>Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br>A basemap for Datasette and datasette-leaflet
-* **[datasette](https://github.com/simonw/datasette)**: [0.54.1](https://github.com/simonw/datasette/releases/tag/0.54.1) - ([83 releases](https://github.com/simonw/datasette/releases)) - 2021-02-02
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - ([19 releases](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-02-01
 <br>Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
