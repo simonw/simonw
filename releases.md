@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->704<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->705<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
+<br>Preview of new JSON default format for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - ([73 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-19
 <br>Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.55](https://github.com/simonw/datasette/releases/tag/0.55) - ([84 releases](https://github.com/simonw/datasette/releases)) - 2021-02-19
@@ -95,8 +97,6 @@ Listing <!-- releases_count starts -->704<!-- releases_count ends --> releases a
 <br>Create a SQLite database containing your observation history from iNaturalist
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
 <br>Create a SQLite database containing data from your Pocket account
-* **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.2](https://github.com/simonw/datasette-json-preview/releases/tag/0.2) - ([2 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2020-10-20
-<br>Preview of new JSON default format for Datasette
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
 <br>Convert an Apple Healthkit export zip to a SQLite database
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.0](https://github.com/simonw/csv-diff/releases/tag/1.0) - ([8 releases](https://github.com/simonw/csv-diff/releases)) - 2020-10-16
