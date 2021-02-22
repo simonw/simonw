@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[airtable-export 0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - 2021-02-22
+
 [datasette-json-preview 0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - 2021-02-20
 
 [sqlite-utils 3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - 2021-02-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [download-tiles 0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - 2021-02-16
 
 [evernote-to-sqlite 0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - 2021-02-11
-
-[datasette-tiles 0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - 2021-02-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

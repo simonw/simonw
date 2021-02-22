@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->705<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->706<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - ([7 releases](https://github.com/simonw/airtable-export/releases)) - 2021-02-22
+<br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
 <br>Preview of new JSON default format for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - ([73 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-19
@@ -117,8 +119,6 @@ Listing <!-- releases_count starts -->705<!-- releases_count ends --> releases a
 <br>An improved version of .iterdump() for sqlite3
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - ([4 releases](https://github.com/simonw/datasette-block-robots/releases)) - 2020-09-06
 <br>Datasette plugin that blocks all robots using robots.txt
-* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - ([6 releases](https://github.com/simonw/airtable-export/releases)) - 2020-08-30
-<br>Export Airtable data to YAML or JSON files on disk
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br>Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
