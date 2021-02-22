@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->706<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->707<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - ([5 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-02-22
+<br>Tool for running transformations on columns in a SQLite database
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - ([7 releases](https://github.com/simonw/airtable-export/releases)) - 2021-02-22
 <br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->706<!-- releases_count ends --> releases a
 <br>Datasette plugin that authenticates users against GitHub
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
 <br>ASGI middleware for protecting against CSRF attacks
-* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.3.1](https://github.com/simonw/sqlite-transform/releases/tag/0.3.1) - ([4 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-01-18
-<br>Tool for running transformations on columns in a SQLite database
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br>Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
