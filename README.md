@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[csv-diff 1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - 2021-02-23
+
 [sqlite-transform 0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - 2021-02-22
 
 [airtable-export 0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - 2021-02-22
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-graphql 1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - 2021-02-18
 
 [higher-lower 0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
-
-[download-tiles 0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - 2021-02-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
