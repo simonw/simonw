@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Show the SQL schema for a PostgreSQL database](https://til.simonwillison.net/postgresql/show-schema) - 2021-02-24
+
 [Using sphinx.ext.extlinks for issue links](https://til.simonwillison.net/sphinx/sphinx-ext-extlinks) - 2021-02-18
 
 [Loading radio.garden into SQLite using jq](https://til.simonwillison.net/jq/radio-garden-jq) - 2021-02-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using io.BufferedReader to peek against a non-peekable stream](https://til.simonwillison.net/python/io-bufferedreader) - 2021-02-15
 
 [Handling CSV files with wide columns in Python](https://til.simonwillison.net/python/csv-error-column-too-large) - 2021-02-15
-
-[Shrinking PNG files with pngquant and oxipng](https://til.simonwillison.net/macos/shrinking-pngs-with-pngquant-and-oxipng) - 2021-02-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
