@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->708<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->709<!-- releases_count ends --> releases across <!-- project_count starts -->104<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
+<br>Python class for reading and writing data to a GitHub repository
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - ([9 releases](https://github.com/simonw/csv-diff/releases)) - 2021-02-23
 <br>Python CLI tool and library for diffing CSV and JSON files
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - ([5 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-02-22
