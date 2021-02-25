@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->712<!-- releases_count ends --> releases across <!-- project_count starts -->105<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->713<!-- releases_count ends --> releases across <!-- project_count starts -->106<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
+<br>Given a JSON list of objects, flatten any keys which always contain single item arrays to just a single value
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - ([25 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-02-25
 <br>Datasette plugin that authenticates users against GitHub
 * **[datasette-block](https://github.com/simonw/datasette-block)**: [0.1.1](https://github.com/simonw/datasette-block/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-block/releases)) - 2021-02-25
