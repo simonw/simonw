@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->710<!-- releases_count ends --> releases across <!-- project_count starts -->105<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->711<!-- releases_count ends --> releases across <!-- project_count starts -->105<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-block](https://github.com/simonw/datasette-block)**: [0.1](https://github.com/simonw/datasette-block/releases/tag/0.1) - 2021-02-25
+* **[datasette-block](https://github.com/simonw/datasette-block)**: [0.1.1](https://github.com/simonw/datasette-block/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-block/releases)) - 2021-02-25
 <br>Block all access to specific path prefixes
 * **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
 <br>Python class for reading and writing data to a GitHub repository

@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-block 0.1](https://github.com/simonw/datasette-block/releases/tag/0.1) - 2021-02-25
+[datasette-block 0.1.1](https://github.com/simonw/datasette-block/releases/tag/0.1.1) - 2021-02-25
 
 [github-contents 0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
 
