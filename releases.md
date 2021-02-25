@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->711<!-- releases_count ends --> releases across <!-- project_count starts -->105<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->712<!-- releases_count ends --> releases across <!-- project_count starts -->105<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - ([25 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-02-25
+<br>Datasette plugin that authenticates users against GitHub
 * **[datasette-block](https://github.com/simonw/datasette-block)**: [0.1.1](https://github.com/simonw/datasette-block/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-block/releases)) - 2021-02-25
 <br>Block all access to specific path prefixes
 * **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->711<!-- releases_count ends --> releases a
 <br>Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br>Draw polygons on maps in Datasette
-* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13](https://github.com/simonw/datasette-auth-github/releases/tag/0.13) - ([24 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-01-24
-<br>Datasette plugin that authenticates users against GitHub
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
 <br>ASGI middleware for protecting against CSRF attacks
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
