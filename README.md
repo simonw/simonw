@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Adding extra read-only information to a Django change page](https://til.simonwillison.net/django/extra-read-only-admin-information) - 2021-02-26
+
 [Running tests against PostgreSQL in a service container](https://til.simonwillison.net/github-actions/postgresq-service-container) - 2021-02-24
 
 [Show the SQL schema for a PostgreSQL database](https://til.simonwillison.net/postgresql/show-schema) - 2021-02-24
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using sphinx.ext.extlinks for issue links](https://til.simonwillison.net/sphinx/sphinx-ext-extlinks) - 2021-02-18
 
 [Loading radio.garden into SQLite using jq](https://til.simonwillison.net/jq/radio-garden-jq) - 2021-02-18
-
-[Using io.BufferedReader to peek against a non-peekable stream](https://til.simonwillison.net/python/io-bufferedreader) - 2021-02-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
