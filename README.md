@@ -42,7 +42,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils starts -->
 [Granting a PostgreSQL user read-only access to some tables](https://til.simonwillison.net/postgresql/read-only-postgresql-user) - 2021-02-26
 
-[Adding extra read-only information to a Django change page](https://til.simonwillison.net/django/extra-read-only-admin-information) - 2021-02-26
+[Adding extra read-only information to a Django admin change page](https://til.simonwillison.net/django/extra-read-only-admin-information) - 2021-02-26
 
 [Running tests against PostgreSQL in a service container](https://til.simonwillison.net/github-actions/postgresq-service-container) - 2021-02-24
 
