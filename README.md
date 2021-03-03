@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Show the timezone for datetimes in the Django admin](https://til.simonwillison.net/django/show-timezone-in-django-admin) - 2021-03-03
+
 [Writing tests for the Django admin with pytest-django](https://til.simonwillison.net/django/testing-django-admin-with-pytest) - 2021-03-02
 
 [Granting a PostgreSQL user read-only access to some tables](https://til.simonwillison.net/postgresql/read-only-postgresql-user) - 2021-02-26
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Adding extra read-only information to a Django admin change page](https://til.simonwillison.net/django/extra-read-only-admin-information) - 2021-02-26
 
 [Running tests against PostgreSQL in a service container](https://til.simonwillison.net/github-actions/postgresq-service-container) - 2021-02-24
-
-[Show the SQL schema for a PostgreSQL database](https://til.simonwillison.net/postgresql/show-schema) - 2021-02-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
