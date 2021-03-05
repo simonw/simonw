@@ -31,7 +31,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Cross-database queries in SQLite (and weeknotes)](http://simonwillison.net/2021/Feb/21/cross-database-queries/) - 2021-02-21
 
-[Open source projects should run office hours](http://simonwillison.net/2021/Feb/19/office-hours/) - 2021-02-19
+[Open source projects: consider running office hours](http://simonwillison.net/2021/Feb/19/office-hours/) - 2021-02-19
 
 [Weeknotes: Finally, an intro video for Datasette](http://simonwillison.net/2021/Feb/14/weeknotes/) - 2021-02-14
 <!-- blog ends -->
