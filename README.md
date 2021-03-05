@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Git scraping, the five minute lightning talk](http://simonwillison.net/2021/Mar/5/git-scraping/) - 2021-03-05
+
 [Trying to end the pandemic a little earlier with VaccinateCA](http://simonwillison.net/2021/Feb/28/vaccinateca/) - 2021-02-28
 
 [Cross-database queries in SQLite (and weeknotes)](http://simonwillison.net/2021/Feb/21/cross-database-queries/) - 2021-02-21
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Open source projects should run office hours](http://simonwillison.net/2021/Feb/19/office-hours/) - 2021-02-19
 
 [Weeknotes: Finally, an intro video for Datasette](http://simonwillison.net/2021/Feb/14/weeknotes/) - 2021-02-14
-
-[Video introduction to Datasette and sqlite-utils](http://simonwillison.net/2021/Feb/7/video/) - 2021-02-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
