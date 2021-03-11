@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->716<!-- releases_count ends --> releases across <!-- project_count starts -->107<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->717<!-- releases_count ends --> releases across <!-- project_count starts -->107<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
+<br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - ([3 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-11
 <br>Fetch data from Tableau into a SQLite database
 * **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->716<!-- releases_count ends --> releases a
 <br>Datasette plugin for searching all searchable tables at once
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br>Export Datasette records as YAML
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.6.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1) - ([10 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2020-11-28
-<br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
 <br>Datasette plugin that adds a .atom output format
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2) - ([9 releases](https://github.com/simonw/datasette-indieauth/releases)) - 2020-11-19

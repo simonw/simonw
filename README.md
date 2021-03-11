@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-ripgrep 0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - 2021-03-11
+
 [tableau-to-sqlite 0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - 2021-03-11
 
 [flatten-single-item-arrays 0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [csv-diff 1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - 2021-02-23
 
 [sqlite-transform 0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - 2021-02-22
-
-[airtable-export 0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - 2021-02-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
