@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[tableau-to-sqlite 0.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.1) - 2021-03-11
+[tableau-to-sqlite 0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - 2021-03-11
 
 [flatten-single-item-arrays 0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
 
