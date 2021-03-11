@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Converting no-decimal-point latitudes and longitudes using jq](https://til.simonwillison.net/jq/convert-no-decimal-point-latitude-jq) - 2021-03-11
+
 [Flattening nested JSON objects with jq](https://til.simonwillison.net/jq/flatten-nested-json-objects-jq) - 2021-03-11
 
 [Pretty-printing all read-only JSON in the Django admin](https://til.simonwillison.net/django/pretty-print-json-admin) - 2021-03-08
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [How to run MediaWiki with SQLite on a macOS laptop](https://til.simonwillison.net/mediawiki/mediawiki-sqlite-macos) - 2021-03-07
 
 [Show the timezone for datetimes in the Django admin](https://til.simonwillison.net/django/show-timezone-in-django-admin) - 2021-03-03
-
-[Writing tests for the Django admin with pytest-django](https://til.simonwillison.net/django/testing-django-admin-with-pytest) - 2021-03-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
