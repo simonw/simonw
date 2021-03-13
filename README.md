@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Querying for items stored in UTC that were created on a Thursday in PST](https://til.simonwillison.net/sqlite/utc-items-on-thursday-in-pst) - 2021-03-13
+
 [Querying for GitHub issues open for less than 60 seconds](https://til.simonwillison.net/datasette/issues-open-for-less-than-x-seconds) - 2021-03-12
 
 [How to almost get facet counts in the Django admin](https://til.simonwillison.net/django/almost-facet-counts-django-admin) - 2021-03-11
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Converting no-decimal-point latitudes and longitudes using jq](https://til.simonwillison.net/jq/convert-no-decimal-point-latitude-jq) - 2021-03-11
 
 [Flattening nested JSON objects with jq](https://til.simonwillison.net/jq/flatten-nested-json-objects-jq) - 2021-03-11
-
-[Pretty-printing all read-only JSON in the Django admin](https://til.simonwillison.net/django/pretty-print-json-admin) - 2021-03-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
