@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-sql-dashboard 0.1a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a2) - 2021-03-13
+
 [datasette-ripgrep 0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - 2021-03-11
 
 [tableau-to-sqlite 0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - 2021-03-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [github-contents 0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
 
 [csv-diff 1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - 2021-02-23
-
-[sqlite-transform 0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - 2021-02-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
