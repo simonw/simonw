@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->720<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->721<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
+<br>Create a SQLite database containing data pulled from Hacker News
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.1a3](https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a3) - ([3 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-13
 <br>Django app for building dashboards using raw SQL queries
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
@@ -187,8 +189,6 @@ Listing <!-- releases_count starts -->720<!-- releases_count ends --> releases a
 <br>Datasette plugin that masks specified database columns
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br>Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
-* **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.3.1](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1) - ([4 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2020-03-21
-<br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [0.1.2](https://github.com/simonw/datasette-render-html/releases/tag/0.1.2) - ([3 releases](https://github.com/simonw/datasette-render-html/releases)) - 2020-03-21
 <br>Plugin for selectively rendering the HTML is specific columns
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-render-timestamps/releases)) - 2020-03-21
