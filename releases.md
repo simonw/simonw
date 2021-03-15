@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->721<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->722<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.2a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.2a0) - ([4 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-15
+<br>Django app for building dashboards using raw SQL queries
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br>Create a SQLite database containing data pulled from Hacker News
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.1a3](https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a3) - ([3 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-13
-<br>Django app for building dashboards using raw SQL queries
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - ([3 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-11
