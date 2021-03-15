@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->724<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->725<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.2a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.2a2) - ([6 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-15
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.3a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.3a0) - ([7 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-15
 <br>Django app for building dashboards using raw SQL queries
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br>Create a SQLite database containing data pulled from Hacker News
