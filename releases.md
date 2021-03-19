@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->727<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->728<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - ([9 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-03-19
+<br>Datasette plugin for authentication using passwords
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a0) - ([9 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-19
 <br>Django app for building dashboards using raw SQL queries
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->727<!-- releases_count ends --> releases a
 <br>Save data from GitHub to a SQLite database
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
 <br>Datasette plugin for publishing data using Fly
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.3.3](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3) - ([8 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2020-12-11
-<br>Datasette plugin for authentication using passwords
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
 <br>Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
