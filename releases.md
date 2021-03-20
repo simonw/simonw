@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->728<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->729<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - ([14 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-20
+<br>Datasette plugin for publishing data using Vercel
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - ([9 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-03-19
 <br>Datasette plugin for authentication using passwords
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a0) - ([9 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-19
@@ -69,8 +71,6 @@ Listing <!-- releases_count starts -->728<!-- releases_count ends --> releases a
 <br>CLI tool for loading markdown files into a SQLite database
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br>Experimental Datasette output plugin using CSS properties
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1) - ([13 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2020-12-28
-<br>Datasette plugin for publishing data using Vercel
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - ([19 releases](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-19
 <br>Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
