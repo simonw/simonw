@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->729<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->730<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a1) - ([10 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-21
+<br>Django app for building dashboards using raw SQL queries
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - ([14 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-20
 <br>Datasette plugin for publishing data using Vercel
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - ([9 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-03-19
 <br>Datasette plugin for authentication using passwords
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a0) - ([9 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-19
-<br>Django app for building dashboards using raw SQL queries
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11

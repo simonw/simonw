@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-sql-dashboard 0.4a1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a1) - 2021-03-21
+
 [datasette-publish-vercel 0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - 2021-03-20
 
 [datasette-auth-passwords 0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - 2021-03-19
-
-[django-sql-dashboard 0.4a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a0) - 2021-03-19
 
 [hacker-news-to-sqlite 0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - 2021-03-13
 
