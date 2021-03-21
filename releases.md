@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->731<!-- releases_count ends --> releases across <!-- project_count starts -->108<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->732<!-- releases_count ends --> releases across <!-- project_count starts -->109<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[c64](https://github.com/simonw/c64)**: [0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
+<br>Experimental package of ASGI utilities extracted from Datasette
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a2) - ([11 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-21
 <br>Django app for building dashboards using raw SQL queries
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - ([14 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-20

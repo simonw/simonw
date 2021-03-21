@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[c64 0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
+
 [django-sql-dashboard 0.4a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a2) - 2021-03-21
 
 [datasette-publish-vercel 0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - 2021-03-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [tableau-to-sqlite 0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - 2021-03-11
 
 [flatten-single-item-arrays 0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
-
-[datasette-auth-github 0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - 2021-02-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
