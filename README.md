@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: django-sql-dashboard widgets](http://simonwillison.net/2021/Mar/21/django-sql-dashboard-widgets/) - 2021-03-21
+
 [Weeknotes: tableau-to-sqlite, django-sql-dashboard](http://simonwillison.net/2021/Mar/14/weeknotes/) - 2021-03-14
 
 [Weeknotes: Datasette and Git scraping at NICAR, VaccinateCA](http://simonwillison.net/2021/Mar/7/weeknotes/) - 2021-03-07
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Git scraping, the five minute lightning talk](http://simonwillison.net/2021/Mar/5/git-scraping/) - 2021-03-05
 
 [Trying to end the pandemic a little earlier with VaccinateCA](http://simonwillison.net/2021/Feb/28/vaccinateca/) - 2021-02-28
-
-[Cross-database queries in SQLite (and weeknotes)](http://simonwillison.net/2021/Feb/21/cross-database-queries/) - 2021-02-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
