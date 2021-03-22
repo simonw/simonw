@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->732<!-- releases_count ends --> releases across <!-- project_count starts -->109<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->733<!-- releases_count ends --> releases across <!-- project_count starts -->109<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22
+<br>Fetch data from Tableau into a SQLite database
 * **[c64](https://github.com/simonw/c64)**: [0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
 <br>Experimental package of ASGI utilities extracted from Datasette
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a2) - ([11 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-21
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->732<!-- releases_count ends --> releases a
 <br>Create a SQLite database containing data pulled from Hacker News
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
 <br>Web interface for searching your code using ripgrep, built as a Datasette plugin
-* **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2) - ([3 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-11
-<br>Fetch data from Tableau into a SQLite database
 * **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
 <br>Given a JSON list of objects, flatten any keys which always contain single item arrays to just a single value
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - ([25 releases](https://github.com/simonw/datasette-auth-github/releases)) - 2021-02-25
