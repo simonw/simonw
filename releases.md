@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->734<!-- releases_count ends --> releases across <!-- project_count starts -->110<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->735<!-- releases_count ends --> releases across <!-- project_count starts -->110<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.5a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.5a0) - ([12 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-24
+<br>Django app for building dashboards using raw SQL queries
 * **[iam-to-sqlite](https://github.com/simonw/iam-to-sqlite)**: [0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
 <br>Load Amazon IAM data into a SQLite database
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22
 <br>Fetch data from Tableau into a SQLite database
 * **[c64](https://github.com/simonw/c64)**: [0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
 <br>Experimental package of ASGI utilities extracted from Datasette
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.4a2](https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a2) - ([11 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-21
-<br>Django app for building dashboards using raw SQL queries
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - ([14 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-20
 <br>Datasette plugin for publishing data using Vercel
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - ([9 releases](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-03-19
