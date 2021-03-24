@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->735<!-- releases_count ends --> releases across <!-- project_count starts -->110<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->736<!-- releases_count ends --> releases across <!-- project_count starts -->110<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - ([6 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-03-24
+<br>Tool for running transformations on columns in a SQLite database
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.5a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.5a0) - ([12 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-24
 <br>Django app for building dashboards using raw SQL queries
 * **[iam-to-sqlite](https://github.com/simonw/iam-to-sqlite)**: [0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->735<!-- releases_count ends --> releases a
 <br>Python class for reading and writing data to a GitHub repository
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - ([9 releases](https://github.com/simonw/csv-diff/releases)) - 2021-02-23
 <br>Python CLI tool and library for diffing CSV and JSON files
-* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.4](https://github.com/simonw/sqlite-transform/releases/tag/0.4) - ([5 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-02-22
-<br>Tool for running transformations on columns in a SQLite database
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.5](https://github.com/simonw/airtable-export/releases/tag/0.5) - ([7 releases](https://github.com/simonw/airtable-export/releases)) - 2021-02-22
 <br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
