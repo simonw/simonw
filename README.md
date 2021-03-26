@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - 2021-03-26
+
 [sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
 
 [django-sql-dashboard 0.5a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.5a0) - 2021-03-24
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [tableau-to-sqlite 0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - 2021-03-22
 
 [c64 0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
-
-[datasette-publish-vercel 0.9.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2) - 2021-03-20
 
 [datasette-auth-passwords 0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - 2021-03-19
 
