@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Redirecting all paths on a Vercel instance](https://til.simonwillison.net/zeit-now/redirecting-all-paths-on-vercel) - 2021-03-27
+
 [Closest locations to a point](https://til.simonwillison.net/postgresql/closest-locations-to-a-point) - 2021-03-23
 
 [Installing packages from Debian unstable in a Docker image based on stable](https://til.simonwillison.net/docker/debian-unstable-packages) - 2021-03-22
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Tracing every executed Python statement](https://til.simonwillison.net/python/tracing-every-statement) - 2021-03-22
 
 [Running gdb against a Python process in a running Docker container](https://til.simonwillison.net/docker/gdb-python-docker) - 2021-03-22
-
-[Querying for items stored in UTC that were created on a Thursday in PST](https://til.simonwillison.net/sqlite/utc-items-on-thursday-in-pst) - 2021-03-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
