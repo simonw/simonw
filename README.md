@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-azure 0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
+
 [datasette-publish-vercel 0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - 2021-03-26
 
 [sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [c64 0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
 
 [datasette-auth-passwords 0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - 2021-03-19
-
-[hacker-news-to-sqlite 0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - 2021-03-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
+
 [Weeknotes: django-sql-dashboard widgets](http://simonwillison.net/2021/Mar/21/django-sql-dashboard-widgets/) - 2021-03-21
 
 [Weeknotes: tableau-to-sqlite, django-sql-dashboard](http://simonwillison.net/2021/Mar/14/weeknotes/) - 2021-03-14
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette and Git scraping at NICAR, VaccinateCA](http://simonwillison.net/2021/Mar/7/weeknotes/) - 2021-03-07
 
 [Git scraping, the five minute lightning talk](http://simonwillison.net/2021/Mar/5/git-scraping/) - 2021-03-05
-
-[Trying to end the pandemic a little earlier with VaccinateCA](http://simonwillison.net/2021/Feb/28/vaccinateca/) - 2021-02-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

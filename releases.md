@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->737<!-- releases_count ends --> releases across <!-- project_count starts -->110<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->738<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
+<br>Publish Datasette instances to Azure Functions (in progress)
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - ([15 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-26
 <br>Datasette plugin for publishing data using Vercel
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - ([6 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-03-24
