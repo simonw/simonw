@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.56](https://github.com/simonw/datasette/releases/tag/0.56) - 2021-03-29
+
 [datasette-publish-azure 0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 
 [datasette-publish-vercel 0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - 2021-03-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [tableau-to-sqlite 0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - 2021-03-22
 
 [c64 0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
-
-[datasette-auth-passwords 0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - 2021-03-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

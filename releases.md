@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->738<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->739<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.56](https://github.com/simonw/datasette/releases/tag/0.56) - ([85 releases](https://github.com/simonw/datasette/releases)) - 2021-03-29
+<br>An open source multi-tool for exploring and publishing data
 * **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 <br>Publish Datasette instances to Azure Functions (in progress)
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - ([15 releases](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-26
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->738<!-- releases_count ends --> releases a
 <br>Preview of new JSON default format for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.6](https://github.com/simonw/sqlite-utils/releases/tag/3.6) - ([73 releases](https://github.com/simonw/sqlite-utils/releases)) - 2021-02-19
 <br>Python CLI utility and library for manipulating SQLite databases
-* **[datasette](https://github.com/simonw/datasette)**: [0.55](https://github.com/simonw/datasette/releases/tag/0.55) - ([84 releases](https://github.com/simonw/datasette/releases)) - 2021-02-19
-<br>An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - ([30 releases](https://github.com/simonw/datasette-graphql/releases)) - 2021-02-18
 <br>Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
