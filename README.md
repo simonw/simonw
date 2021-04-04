@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Language-specific indentation settings in VS Code](https://til.simonwillison.net/vscode/language-specific-indentation-settings) - 2021-04-04
+
 [Useful Markdown extensions in Python](https://til.simonwillison.net/markdown/markdown-extensions-python) - 2021-04-04
 
 [Writing an Azure Function that serves all traffic to a subdomain](https://til.simonwillison.net/azure/all-traffic-to-subdomain) - 2021-03-28
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Redirecting all paths on a Vercel instance](https://til.simonwillison.net/zeit-now/redirecting-all-paths-on-vercel) - 2021-03-27
 
 [Closest locations to a point](https://til.simonwillison.net/postgresql/closest-locations-to-a-point) - 2021-03-23
-
-[Installing packages from Debian unstable in a Docker image based on stable](https://til.simonwillison.net/docker/debian-unstable-packages) - 2021-03-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
