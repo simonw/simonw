@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Animated choropleth of vaccinations by US county](http://simonwillison.net/2021/Apr/4/animated-choropleth-of-vaccinations-by-us-county/) - 2021-04-04
+
 [Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
 
 [Weeknotes: django-sql-dashboard widgets](http://simonwillison.net/2021/Mar/21/django-sql-dashboard-widgets/) - 2021-03-21
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: tableau-to-sqlite, django-sql-dashboard](http://simonwillison.net/2021/Mar/14/weeknotes/) - 2021-03-14
 
 [Weeknotes: Datasette and Git scraping at NICAR, VaccinateCA](http://simonwillison.net/2021/Mar/7/weeknotes/) - 2021-03-07
-
-[Git scraping, the five minute lightning talk](http://simonwillison.net/2021/Mar/5/git-scraping/) - 2021-03-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
