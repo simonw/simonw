@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[airtable-export 0.6](https://github.com/simonw/airtable-export/releases/tag/0.6) - 2021-04-02
+[airtable-export 0.7](https://github.com/simonw/airtable-export/releases/tag/0.7) - 2021-04-08
 
 [datasette 0.56](https://github.com/simonw/datasette/releases/tag/0.56) - 2021-03-29
 
