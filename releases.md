@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->741<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->742<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.6a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.6a0) - ([13 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-04-09
+<br>Django app for building dashboards using raw SQL queries
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7](https://github.com/simonw/airtable-export/releases/tag/0.7) - ([9 releases](https://github.com/simonw/airtable-export/releases)) - 2021-04-08
 <br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette](https://github.com/simonw/datasette)**: [0.56](https://github.com/simonw/datasette/releases/tag/0.56) - ([85 releases](https://github.com/simonw/datasette/releases)) - 2021-03-29
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->741<!-- releases_count ends --> releases a
 <br>Datasette plugin for publishing data using Vercel
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - ([6 releases](https://github.com/simonw/sqlite-transform/releases)) - 2021-03-24
 <br>Tool for running transformations on columns in a SQLite database
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.5a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.5a0) - ([12 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-03-24
-<br>Django app for building dashboards using raw SQL queries
 * **[iam-to-sqlite](https://github.com/simonw/iam-to-sqlite)**: [0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
 <br>Load Amazon IAM data into a SQLite database
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22
