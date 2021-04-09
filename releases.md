@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->742<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->743<!-- releases_count ends --> releases across <!-- project_count starts -->111<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - ([10 releases](https://github.com/simonw/airtable-export/releases)) - 2021-04-09
+<br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.6a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.6a0) - ([13 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-04-09
 <br>Django app for building dashboards using raw SQL queries
-* **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7](https://github.com/simonw/airtable-export/releases/tag/0.7) - ([9 releases](https://github.com/simonw/airtable-export/releases)) - 2021-04-08
-<br>Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette](https://github.com/simonw/datasette)**: [0.56](https://github.com/simonw/datasette/releases/tag/0.56) - ([85 releases](https://github.com/simonw/datasette/releases)) - 2021-03-29
 <br>An open source multi-tool for exploring and publishing data
 * **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
