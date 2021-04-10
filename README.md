@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using unnest() to use a comma-separated string as the input to an IN query](https://til.simonwillison.net/postgresql/unnest-csv) - 2021-04-10
+
 [Efficient bulk deletions in Django](https://til.simonwillison.net/django/efficient-bulk-deletions-in-django) - 2021-04-09
 
 [Language-specific indentation settings in VS Code](https://til.simonwillison.net/vscode/language-specific-indentation-settings) - 2021-04-04
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Useful Markdown extensions in Python](https://til.simonwillison.net/markdown/markdown-extensions-python) - 2021-04-04
 
 [Writing an Azure Function that serves all traffic to a subdomain](https://til.simonwillison.net/azure/all-traffic-to-subdomain) - 2021-03-28
-
-[Redirecting all paths on a Vercel instance](https://til.simonwillison.net/zeit-now/redirecting-all-paths-on-vercel) - 2021-03-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
