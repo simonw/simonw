@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->744<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[json-post](https://github.com/simonw/json-post)**: [0.1a0](https://github.com/simonw/json-post/releases/tag/0.1a0) - 2021-04-10
+* **[json-post](https://github.com/simonw/json-post)**: [0.2a0](https://github.com/simonw/json-post/releases/tag/0.2a0) - ([2 releases](https://github.com/simonw/json-post/releases)) - 2021-04-11
 <br>Tool for posting JSON to an API, broken into pages
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - ([10 releases](https://github.com/simonw/airtable-export/releases)) - 2021-04-09
 <br>Export Airtable data to YAML, JSON or SQLite files on disk
