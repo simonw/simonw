@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-sql-dashboard 0.7a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.7a0) - 2021-04-12
+
 [json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
 
 [airtable-export 0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - 2021-04-09
-
-[django-sql-dashboard 0.6a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.6a0) - 2021-04-09
 
 [datasette 0.56](https://github.com/simonw/datasette/releases/tag/0.56) - 2021-03-29
 
