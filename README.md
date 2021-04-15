@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Listing files uploaded to Cloud Build](https://til.simonwillison.net/cloudrun/listing-cloudbuild-files) - 2021-04-15
+
 [Using json_extract_path in PostgreSQL](https://til.simonwillison.net/postgresql/json-extract-path) - 2021-04-14
 
 [Using unnest() to use a comma-separated string as the input to an IN query](https://til.simonwillison.net/postgresql/unnest-csv) - 2021-04-10
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Efficient bulk deletions in Django](https://til.simonwillison.net/django/efficient-bulk-deletions-in-django) - 2021-04-09
 
 [Language-specific indentation settings in VS Code](https://til.simonwillison.net/vscode/language-specific-indentation-settings) - 2021-04-04
-
-[Useful Markdown extensions in Python](https://til.simonwillison.net/markdown/markdown-extensions-python) - 2021-04-04
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
