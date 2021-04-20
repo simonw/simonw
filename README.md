@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
+
 [Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
 
 [Listing files uploaded to Cloud Build](https://til.simonwillison.net/cloudrun/listing-cloudbuild-files) - 2021-04-15
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using json_extract_path in PostgreSQL](https://til.simonwillison.net/postgresql/json-extract-path) - 2021-04-14
 
 [Using unnest() to use a comma-separated string as the input to an IN query](https://til.simonwillison.net/postgresql/unnest-csv) - 2021-04-10
-
-[Efficient bulk deletions in Django](https://til.simonwillison.net/django/efficient-bulk-deletions-in-django) - 2021-04-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
