@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Django Admin action for exporting selected rows as CSV](https://til.simonwillison.net/django/export-csv-from-django-admin) - 2021-04-26
+
 [Constructing GeoJSON in PostgreSQL](https://til.simonwillison.net/postgresql/constructing-geojson-in-postgresql) - 2021-04-24
 
 [Filter by comma-separated values in the Django admin](https://til.simonwillison.net/django/filter-by-comma-separated-values) - 2021-04-21
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
 
 [Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
-
-[Listing files uploaded to Cloud Build](https://til.simonwillison.net/cloudrun/listing-cloudbuild-files) - 2021-04-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
