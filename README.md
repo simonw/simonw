@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[One year of TILs](http://simonwillison.net/2021/May/2/one-year-of-tils/) - 2021-05-02
+
 [Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
 
 [Weeknotes: The Aftermath](http://simonwillison.net/2021/Apr/18/weeknotes-the-aftermath/) - 2021-04-18
@@ -32,14 +34,14 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Porting VaccinateCA to Django](http://simonwillison.net/2021/Apr/12/porting-vaccinateca-to-django/) - 2021-04-12
 
 [Animated choropleth of vaccinations by US county](http://simonwillison.net/2021/Apr/4/animated-choropleth-of-vaccinations-by-us-county/) - 2021-04-04
-
-[Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
+[migrations.RunSQL.noop for reversible SQL migrations](https://til.simonwillison.net/django/migrations-runsql-noop) - 2021-05-02
+
 [Django Admin action for exporting selected rows as CSV](https://til.simonwillison.net/django/export-csv-from-django-admin) - 2021-04-26
 
 [Constructing GeoJSON in PostgreSQL](https://til.simonwillison.net/postgresql/constructing-geojson-in-postgresql) - 2021-04-24
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Filter by comma-separated values in the Django admin](https://til.simonwillison.net/django/filter-by-comma-separated-values) - 2021-04-21
 
 [Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
-
-[Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
