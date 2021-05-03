@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Adding GeoDjango to an existing Django project](http://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/) - 2021-05-03
+
 [One year of TILs](http://simonwillison.net/2021/May/2/one-year-of-tils/) - 2021-05-02
 
 [Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: The Aftermath](http://simonwillison.net/2021/Apr/18/weeknotes-the-aftermath/) - 2021-04-18
 
 [Porting VaccinateCA to Django](http://simonwillison.net/2021/Apr/12/porting-vaccinateca-to-django/) - 2021-04-12
-
-[Animated choropleth of vaccinations by US county](http://simonwillison.net/2021/Apr/4/animated-choropleth-of-vaccinations-by-us-county/) - 2021-04-04
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
