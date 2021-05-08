@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Scroll page to form if there are errors](https://til.simonwillison.net/javascript/scroll-to-form-if-errors) - 2021-05-08
+
 [Running Datasette on Replit](https://til.simonwillison.net/datasette/datasette-on-replit) - 2021-05-02
 
 [migrations.RunSQL.noop for reversible SQL migrations](https://til.simonwillison.net/django/migrations-runsql-noop) - 2021-05-02
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Django Admin action for exporting selected rows as CSV](https://til.simonwillison.net/django/export-csv-from-django-admin) - 2021-04-26
 
 [Constructing GeoJSON in PostgreSQL](https://til.simonwillison.net/postgresql/constructing-geojson-in-postgresql) - 2021-04-24
-
-[Filter by comma-separated values in the Django admin](https://til.simonwillison.net/django/filter-by-comma-separated-values) - 2021-04-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
