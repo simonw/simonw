@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[django-sql-dashboard 0.13](https://github.com/simonw/django-sql-dashboard/releases/tag/0.13) - 2021-05-10
+[django-sql-dashboard 0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - 2021-05-16
 
 [json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
 

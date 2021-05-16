@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->760<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->761<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.13](https://github.com/simonw/django-sql-dashboard/releases/tag/0.13) - ([27 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-10
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - ([28 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-16
 <br>Django app for building dashboards using raw SQL queries
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases](https://github.com/simonw/json-post/releases)) - 2021-04-11
 <br>Tool for posting JSON to an API, broken into pages
