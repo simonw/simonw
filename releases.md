@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->761<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->762<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3) - ([6 releases](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-17
+<br>CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - ([28 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-16
 <br>Django app for building dashboards using raw SQL queries
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases](https://github.com/simonw/json-post/releases)) - 2021-04-11
@@ -207,8 +209,6 @@ Listing <!-- releases_count starts -->761<!-- releases_count ends --> releases a
 <br>Save FEC campaign finance data to a SQLite database
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
 <br>ASGI middleware for logging traffic to a SQLite database
-* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.2](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.2) - ([5 releases](https://github.com/simonw/geojson-to-sqlite/releases)) - 2020-02-11
-<br>CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.1.1](https://github.com/simonw/datasette-sentry/releases/tag/0.1.1) - ([2 releases](https://github.com/simonw/datasette-sentry/releases)) - 2020-01-29
 <br>Datasette plugin for configuring Sentry
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
