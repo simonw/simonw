@@ -40,15 +40,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[KNN queries with SpatiaLite](https://til.simonwillison.net/spatialite/knn) - 2021-05-17
+
+[Enabling a gin index for faster LIKE queries](https://til.simonwillison.net/django/enabling-gin-index) - 2021-05-17
+
 [Vega-Lite bar charts in the same order as the data](https://til.simonwillison.net/vega/bar-chart-ordering) - 2021-05-16
 
 [The Wikipedia page stats API](https://til.simonwillison.net/wikipedia/page-stats-api) - 2021-05-13
 
 [Scroll page to form if there are errors](https://til.simonwillison.net/javascript/scroll-to-form-if-errors) - 2021-05-08
-
-[Running Datasette on Replit](https://til.simonwillison.net/datasette/datasette-on-replit) - 2021-05-02
-
-[migrations.RunSQL.noop for reversible SQL migrations](https://til.simonwillison.net/django/migrations-runsql-noop) - 2021-05-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
