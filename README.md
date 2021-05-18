@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Velma, more Django SQL Dashboard](http://simonwillison.net/2021/May/18/weeknotes-velma/) - 2021-05-18
+
 [Django SQL Dashboard](http://simonwillison.net/2021/May/10/django-sql-dashboard/) - 2021-05-10
 
 [Adding GeoDjango to an existing Django project](http://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/) - 2021-05-03
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [One year of TILs](http://simonwillison.net/2021/May/2/one-year-of-tils/) - 2021-05-02
 
 [Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
-
-[Weeknotes: The Aftermath](http://simonwillison.net/2021/Apr/18/weeknotes-the-aftermath/) - 2021-04-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
