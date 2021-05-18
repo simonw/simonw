@@ -169,9 +169,9 @@ if __name__ == "__main__":
         [
             (
                 "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
-                "<br>{description}"
+                "<br />{description}"
             ).format(
-                total_releases_md="- ([{} releases]({}/releases)) ".format(
+                total_releases_md="- ([{} releases total]({}/releases)) ".format(
                     release["total_releases"], release["repo_url"]
                 )
                 if release["total_releases"] > 1
