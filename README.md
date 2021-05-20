@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Finding duplicate records by matching name and nearby distance](https://til.simonwillison.net/sql/finding-dupes-by-name-and-distance) - 2021-05-20
+
 [Switching between gcloud accounts](https://til.simonwillison.net/cloudrun/multiple-gcloud-accounts) - 2021-05-18
 
 [Django data migration using a PostgreSQL CTE](https://til.simonwillison.net/django/migration-using-cte) - 2021-05-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [KNN queries with SpatiaLite](https://til.simonwillison.net/spatialite/knn) - 2021-05-17
 
 [Enabling a gin index for faster LIKE queries](https://til.simonwillison.net/django/enabling-gin-index) - 2021-05-17
-
-[Vega-Lite bar charts in the same order as the data](https://til.simonwillison.net/vega/bar-chart-ordering) - 2021-05-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
