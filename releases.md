@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->762<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->763<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-17
+* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - ([28 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-16
 <br />Django app for building dashboards using raw SQL queries
