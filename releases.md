@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->763<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->764<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.57a0](https://github.com/simonw/datasette/releases/tag/0.57a0) - ([86 releases total](https://github.com/simonw/datasette/releases)) - 2021-05-23
+<br />An open source multi-tool for exploring and publishing data
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - ([28 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-16
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->763<!-- releases_count ends --> releases a
 <br />Tool for posting JSON to an API, broken into pages
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - ([10 releases total](https://github.com/simonw/airtable-export/releases)) - 2021-04-09
 <br />Export Airtable data to YAML, JSON or SQLite files on disk
-* **[datasette](https://github.com/simonw/datasette)**: [0.56](https://github.com/simonw/datasette/releases/tag/0.56) - ([85 releases total](https://github.com/simonw/datasette/releases)) - 2021-03-29
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 <br />Publish Datasette instances to Azure Functions (in progress)
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - ([15 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-26

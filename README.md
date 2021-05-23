@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.57a0](https://github.com/simonw/datasette/releases/tag/0.57a0) - 2021-05-23
+
 [geojson-to-sqlite 0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - 2021-05-20
 
 [django-sql-dashboard 0.14](https://github.com/simonw/django-sql-dashboard/releases/tag/0.14) - 2021-05-16
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
 
 [airtable-export 0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - 2021-04-09
-
-[datasette 0.56](https://github.com/simonw/datasette/releases/tag/0.56) - 2021-03-29
 
 [datasette-publish-azure 0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 
