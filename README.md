@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Docker on a remote M1 Mac](https://til.simonwillison.net/macos/running-docker-on-remote-m1) - 2021-05-25
+
 [Turning an array of arrays into objects with jq](https://til.simonwillison.net/jq/array-of-array-to-objects) - 2021-05-25
 
 [Docker Compose for Django development](https://til.simonwillison.net/docker/docker-compose-for-django-development) - 2021-05-25
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Finding duplicate records by matching name and nearby distance](https://til.simonwillison.net/sql/finding-dupes-by-name-and-distance) - 2021-05-20
 
 [Switching between gcloud accounts](https://til.simonwillison.net/cloudrun/multiple-gcloud-accounts) - 2021-05-18
-
-[Django data migration using a PostgreSQL CTE](https://til.simonwillison.net/django/migration-using-cte) - 2021-05-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
