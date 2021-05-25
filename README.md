@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Spinning back up on Datasette](http://simonwillison.net/2021/May/25/weeknotes-spinning-back-up-on-datasette/) - 2021-05-25
+
 [Weeknotes: Velma, more Django SQL Dashboard](http://simonwillison.net/2021/May/18/weeknotes-velma/) - 2021-05-18
 
 [Django SQL Dashboard](http://simonwillison.net/2021/May/10/django-sql-dashboard/) - 2021-05-10
@@ -32,14 +34,14 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Adding GeoDjango to an existing Django project](http://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/) - 2021-05-03
 
 [One year of TILs](http://simonwillison.net/2021/May/2/one-year-of-tils/) - 2021-05-02
-
-[Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
+[Docker Compose for Django development](https://til.simonwillison.net/docker/docker-compose-for-django-development) - 2021-05-25
+
 [Finding duplicate records by matching name and nearby distance](https://til.simonwillison.net/sql/finding-dupes-by-name-and-distance) - 2021-05-20
 
 [Switching between gcloud accounts](https://til.simonwillison.net/cloudrun/multiple-gcloud-accounts) - 2021-05-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Django data migration using a PostgreSQL CTE](https://til.simonwillison.net/django/migration-using-cte) - 2021-05-18
 
 [KNN queries with SpatiaLite](https://til.simonwillison.net/spatialite/knn) - 2021-05-17
-
-[Enabling a gin index for faster LIKE queries](https://til.simonwillison.net/django/enabling-gin-index) - 2021-05-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
