@@ -40,7 +40,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Running Docker on a remote M1 Mac](https://til.simonwillison.net/macos/running-docker-on-remote-m1) - 2021-05-25
+[Running Docker on an M1 Mac](https://til.simonwillison.net/macos/running-docker-on-remote-m1) - 2021-05-25
 
 [Turning an array of arrays into objects with jq](https://til.simonwillison.net/jq/array-of-array-to-objects) - 2021-05-25
 
