@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-sql-dashboard 0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - 2021-06-03
+
 [sqlite-utils 3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - 2021-06-03
 
 [datasette 0.57a1](https://github.com/simonw/datasette/releases/tag/0.57a1) - 2021-05-27
-
-[django-sql-dashboard 0.15](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15) - 2021-05-25
 
 [geojson-to-sqlite 0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - 2021-05-20
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Building a Markdown summary of Django group permissions](https://til.simonwillison.net/sql/django-group-permissions-markdown) - 2021-06-03
+
 [Finding CSV files that start with a BOM using ripgrep](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep) - 2021-05-29
 
 [Running Docker on an M1 Mac](https://til.simonwillison.net/macos/running-docker-on-remote-m1) - 2021-05-25
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Turning an array of arrays into objects with jq](https://til.simonwillison.net/jq/array-of-array-to-objects) - 2021-05-25
 
 [Docker Compose for Django development](https://til.simonwillison.net/docker/docker-compose-for-django-development) - 2021-05-25
-
-[Finding duplicate records by matching name and nearby distance](https://til.simonwillison.net/sql/finding-dupes-by-name-and-distance) - 2021-05-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

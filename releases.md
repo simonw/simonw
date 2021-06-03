@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->768<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->769<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - ([30 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-03
+<br />Django app for building dashboards using raw SQL queries
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - ([75 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-03
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.57a1](https://github.com/simonw/datasette/releases/tag/0.57a1) - ([87 releases total](https://github.com/simonw/datasette/releases)) - 2021-05-27
 <br />An open source multi-tool for exploring and publishing data
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.15](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15) - ([29 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-25
-<br />Django app for building dashboards using raw SQL queries
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11
