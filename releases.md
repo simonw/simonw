@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->767<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->768<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.7](https://github.com/simonw/sqlite-utils/releases/tag/3.7) - ([74 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-05-29
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - ([75 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-03
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.57a1](https://github.com/simonw/datasette/releases/tag/0.57a1) - ([87 releases total](https://github.com/simonw/datasette/releases)) - 2021-05-27
 <br />An open source multi-tool for exploring and publishing data
