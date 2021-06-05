@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-passwords 0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - 2021-06-05
+
 [datasette 0.57](https://github.com/simonw/datasette/releases/tag/0.57) - 2021-06-05
 
 [django-sql-dashboard 0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - 2021-06-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [airtable-export 0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - 2021-04-09
 
 [datasette-publish-azure 0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
-
-[datasette-publish-vercel 0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - 2021-03-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

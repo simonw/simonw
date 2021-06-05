@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->771<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->772<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
+<br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.57](https://github.com/simonw/datasette/releases/tag/0.57) - ([89 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-05
 <br />An open source multi-tool for exploring and publishing data
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - ([30 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-03
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->771<!-- releases_count ends --> releases a
 <br />Fetch data from Tableau into a SQLite database
 * **[c64](https://github.com/simonw/c64)**: [0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
 <br />Experimental package of ASGI utilities extracted from Datasette
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4) - ([9 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-03-19
-<br />Datasette plugin for authentication using passwords
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases total](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br />Create a SQLite database containing data pulled from Hacker News
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
