@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->770<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->771<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [0.56.1](https://github.com/simonw/datasette/releases/tag/0.56.1) - ([88 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-05
+* **[datasette](https://github.com/simonw/datasette)**: [0.57](https://github.com/simonw/datasette/releases/tag/0.57) - ([89 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-05
 <br />An open source multi-tool for exploring and publishing data
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - ([30 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-03
 <br />Django app for building dashboards using raw SQL queries
