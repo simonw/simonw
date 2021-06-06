@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Exporting Amplitude events to SQLite](https://til.simonwillison.net/amplitude/export-events-to-datasette) - 2021-06-06
+
 [Building a Markdown summary of Django group permissions](https://til.simonwillison.net/sql/django-group-permissions-markdown) - 2021-06-03
 
 [Finding CSV files that start with a BOM using ripgrep](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep) - 2021-05-29
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Docker on an M1 Mac](https://til.simonwillison.net/macos/running-docker-on-remote-m1) - 2021-05-25
 
 [Turning an array of arrays into objects with jq](https://til.simonwillison.net/jq/array-of-array-to-objects) - 2021-05-25
-
-[Docker Compose for Django development](https://til.simonwillison.net/docker/docker-compose-for-django-development) - 2021-05-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
