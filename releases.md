@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->772<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->773<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.16](https://github.com/simonw/django-sql-dashboard/releases/tag/0.16) - ([31 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-06
+<br />Django app for building dashboards using raw SQL queries
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
 <br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.57](https://github.com/simonw/datasette/releases/tag/0.57) - ([89 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-05
 <br />An open source multi-tool for exploring and publishing data
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.15.1](https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1) - ([30 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-03
-<br />Django app for building dashboards using raw SQL queries
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - ([75 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-03
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
