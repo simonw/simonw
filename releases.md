@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->773<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->774<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.1](https://github.com/simonw/xml-analyser/releases/tag/1.1) - ([2 releases total](https://github.com/simonw/xml-analyser/releases)) - 2021-06-07
+<br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.16](https://github.com/simonw/django-sql-dashboard/releases/tag/0.16) - ([31 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-06-06
 <br />Django app for building dashboards using raw SQL queries
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
@@ -125,8 +127,6 @@ Listing <!-- releases_count starts -->773<!-- releases_count ends --> releases a
 <br />Create a SQLite database containing data from your Pocket account
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
 <br />Convert an Apple Healthkit export zip to a SQLite database
-* **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.0](https://github.com/simonw/xml-analyser/releases/tag/1.0) - 2020-10-11
-<br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br />dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
