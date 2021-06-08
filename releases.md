@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->776<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->777<!-- releases_count ends --> releases across <!-- project_count starts -->112<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.57.1](https://github.com/simonw/datasette/releases/tag/0.57.1) - ([90 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-08
+<br />An open source multi-tool for exploring and publishing data
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - ([3 releases total](https://github.com/simonw/xml-analyser/releases)) - 2021-06-07
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2021-06-07
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->776<!-- releases_count ends --> releases a
 <br />Django app for building dashboards using raw SQL queries
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
 <br />Datasette plugin for authentication using passwords
-* **[datasette](https://github.com/simonw/datasette)**: [0.57](https://github.com/simonw/datasette/releases/tag/0.57) - ([89 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-05
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - ([75 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-03
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
