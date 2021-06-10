@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->779<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->780<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
+<br />Datasette plugin that masks specified database columns
 * **[datasette](https://github.com/simonw/datasette)**: [0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - ([91 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-10
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
@@ -197,8 +199,6 @@ Listing <!-- releases_count starts -->779<!-- releases_count ends --> releases a
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3](https://github.com/simonw/paginate-json/releases/tag/0.3) - 2020-04-14
 <br />Command-line tool for fetching JSON from paginated APIs
-* **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2020-04-14
-<br />Datasette plugin that masks specified database columns
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br />Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [0.1.2](https://github.com/simonw/datasette-render-html/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2020-03-21
