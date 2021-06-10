@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-placekey 0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
+
 [datasette 0.57.1](https://github.com/simonw/datasette/releases/tag/0.57.1) - 2021-06-08
 
 [xml-analyser 1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - 2021-06-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - 2021-06-03
 
 [geojson-to-sqlite 0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - 2021-05-20
-
-[json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
