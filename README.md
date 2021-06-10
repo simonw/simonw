@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-placekey 0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
+[datasette 0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - 2021-06-10
 
-[datasette 0.57.1](https://github.com/simonw/datasette/releases/tag/0.57.1) - 2021-06-08
+[datasette-placekey 0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 
 [xml-analyser 1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - 2021-06-07
 

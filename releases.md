@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->778<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->779<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - ([91 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-10
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
-* **[datasette](https://github.com/simonw/datasette)**: [0.57.1](https://github.com/simonw/datasette/releases/tag/0.57.1) - ([90 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-08
-<br />An open source multi-tool for exploring and publishing data
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - ([3 releases total](https://github.com/simonw/xml-analyser/releases)) - 2021-06-07
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2021-06-07
