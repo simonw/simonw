@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->780<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->781<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
+<br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
 <br />Datasette plugin that masks specified database columns
 * **[datasette](https://github.com/simonw/datasette)**: [0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - ([91 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-10
@@ -161,8 +163,6 @@ Listing <!-- releases_count starts -->780<!-- releases_count ends --> releases a
 <br />Datasette plugin for inserting and updating data
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
 <br />Datasette plugin for serving media based on a SQL query
-* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.3](https://github.com/simonw/db-to-sqlite/releases/tag/1.3) - ([15 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2020-07-27
-<br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - ([26 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2020-07-23
 <br />Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
