@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->781<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->782<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9](https://github.com/simonw/sqlite-utils/releases/tag/3.9) - ([76 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-12
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->781<!-- releases_count ends --> releases a
 <br />Django app for building dashboards using raw SQL queries
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
 <br />Datasette plugin for authentication using passwords
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.8](https://github.com/simonw/sqlite-utils/releases/tag/3.8) - ([75 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-03
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11
