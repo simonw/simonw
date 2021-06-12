@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: New releases across nine different projects](http://simonwillison.net/2021/Jun/12/weeknotes/) - 2021-06-12
+
 [Weeknotes: Docker architectures, sqlite-utils 3.7, nearly there with Datasette 0.57](http://simonwillison.net/2021/Jun/3/weeknotes/) - 2021-06-03
 
 [Weeknotes: Spinning back up on Datasette](http://simonwillison.net/2021/May/25/weeknotes-spinning-back-up-on-datasette/) - 2021-05-25
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Velma, more Django SQL Dashboard](http://simonwillison.net/2021/May/18/weeknotes-velma/) - 2021-05-18
 
 [Django SQL Dashboard](http://simonwillison.net/2021/May/10/django-sql-dashboard/) - 2021-05-10
-
-[Adding GeoDjango to an existing Django project](http://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/) - 2021-05-03
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
