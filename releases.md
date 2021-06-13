@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->784<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->785<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/yaml-to-sqlite/releases)) - 2021-06-13
+<br />Utility for converting YAML files to SQLite
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
 <br />CLI tool for loading markdown files into a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9.1](https://github.com/simonw/sqlite-utils/releases/tag/3.9.1) - ([77 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-13
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->784<!-- releases_count ends --> releases a
 <br />Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
-* **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [0.3.1](https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/yaml-to-sqlite/releases)) - 2020-12-07
-<br />Utility for converting YAML files to SQLite
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br />Statistical visualizations for Datasette using Seaborn
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
