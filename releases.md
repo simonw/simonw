@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->783<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->784<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
+<br />CLI tool for loading markdown files into a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9.1](https://github.com/simonw/sqlite-utils/releases/tag/3.9.1) - ([77 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->783<!-- releases_count ends --> releases a
 <br />ASGI middleware for protecting against CSRF attacks
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
-* **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [0.2](https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2) - 2021-01-14
-<br />CLI tool for loading markdown files into a SQLite database
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.1](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1) - ([19 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2020-12-19
