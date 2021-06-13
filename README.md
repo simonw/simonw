@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[dogsheep-beta 0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - 2021-06-13
+
 [yaml-to-sqlite 1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - 2021-06-13
 
 [markdown-to-sqlite 1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - 2021-06-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - 2021-06-10
 
 [datasette-placekey 0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
-
-[xml-analyser 1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - 2021-06-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
