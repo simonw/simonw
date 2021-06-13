@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->782<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->783<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9](https://github.com/simonw/sqlite-utils/releases/tag/3.9) - ([76 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-12
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9.1](https://github.com/simonw/sqlite-utils/releases/tag/3.9.1) - ([77 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
