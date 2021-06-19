@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.10](https://github.com/simonw/sqlite-utils/releases/tag/3.10) - 2021-06-19
+
 [dogsheep-beta 0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - 2021-06-13
 
 [yaml-to-sqlite 1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - 2021-06-13
 
 [markdown-to-sqlite 1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - 2021-06-13
-
-[sqlite-utils 3.9.1](https://github.com/simonw/sqlite-utils/releases/tag/3.9.1) - 2021-06-13
 
 [db-to-sqlite 1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - 2021-06-11
 

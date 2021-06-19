@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->786<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->787<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.10](https://github.com/simonw/sqlite-utils/releases/tag/3.10) - ([78 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-19
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/yaml-to-sqlite/releases)) - 2021-06-13
 <br />Utility for converting YAML files to SQLite
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
 <br />CLI tool for loading markdown files into a SQLite database
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.9.1](https://github.com/simonw/sqlite-utils/releases/tag/3.9.1) - ([77 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-13
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
