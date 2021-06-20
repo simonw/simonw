@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->787<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->788<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.10](https://github.com/simonw/sqlite-utils/releases/tag/3.10) - ([78 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-19
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.11](https://github.com/simonw/sqlite-utils/releases/tag/3.11) - ([79 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-20
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
