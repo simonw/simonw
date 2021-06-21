@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Scraping Reddit via their JSON API](https://til.simonwillison.net/reddit/scraping-reddit-json) - 2021-06-21
+
 [Mouse support in vim](https://til.simonwillison.net/vim/mouse-support-in-vim) - 2021-06-19
 
 [Running a MySQL server using Homebrew](https://til.simonwillison.net/homebrew/mysql-homebrew) - 2021-06-11
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Exporting Amplitude events to SQLite](https://til.simonwillison.net/amplitude/export-events-to-datasette) - 2021-06-06
 
 [Building a Markdown summary of Django group permissions](https://til.simonwillison.net/sql/django-group-permissions-markdown) - 2021-06-03
-
-[Finding CSV files that start with a BOM using ripgrep](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep) - 2021-05-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
