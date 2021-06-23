@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->788<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->789<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
+<br />ASGI middleware for protecting against CSRF attacks
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.11](https://github.com/simonw/sqlite-utils/releases/tag/3.11) - ([79 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-20
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->788<!-- releases_count ends --> releases a
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
 <br />Draw polygons on maps in Datasette
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.8](https://github.com/simonw/asgi-csrf/releases/tag/0.8) - ([16 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-01-23
-<br />ASGI middleware for protecting against CSRF attacks
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
