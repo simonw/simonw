@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.58a1](https://github.com/simonw/datasette/releases/tag/0.58a1) - 2021-06-24
+
 [asgi-csrf 0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - 2021-06-23
 
 [sqlite-utils 3.11](https://github.com/simonw/sqlite-utils/releases/tag/3.11) - 2021-06-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [db-to-sqlite 1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - 2021-06-11
 
 [datasette-mask-columns 0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - 2021-06-10
-
-[datasette 0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - 2021-06-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->789<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->790<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.58a1](https://github.com/simonw/datasette/releases/tag/0.58a1) - ([92 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-24
+<br />An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
 <br />ASGI middleware for protecting against CSRF attacks
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.11](https://github.com/simonw/sqlite-utils/releases/tag/3.11) - ([79 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-20
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->789<!-- releases_count ends --> releases a
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
 <br />Datasette plugin that masks specified database columns
-* **[datasette](https://github.com/simonw/datasette)**: [0.58a0](https://github.com/simonw/datasette/releases/tag/0.58a0) - ([91 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-10
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - ([3 releases total](https://github.com/simonw/xml-analyser/releases)) - 2021-06-07
