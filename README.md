@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-sql-dashboard 1.0](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0) - 2021-07-01
+
 [sqlite-utils 3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - 2021-06-25
 
 [datasette 0.58a1](https://github.com/simonw/datasette/releases/tag/0.58a1) - 2021-06-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [markdown-to-sqlite 1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - 2021-06-13
 
 [db-to-sqlite 1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - 2021-06-11
-
-[datasette-mask-columns 0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - 2021-06-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
