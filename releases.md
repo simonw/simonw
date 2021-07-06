@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->792<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->793<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0) - ([32 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-01
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
 <br />Django app for building dashboards using raw SQL queries
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - ([80 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-25
 <br />Python CLI utility and library for manipulating SQLite databases

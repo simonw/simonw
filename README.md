@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[django-sql-dashboard 1.0](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0) - 2021-07-01
+[django-sql-dashboard 1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - 2021-07-06
 
 [sqlite-utils 3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - 2021-06-25
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions) - 2021-07-06
+
 [Scraping Reddit via their JSON API](https://til.simonwillison.net/reddit/scraping-reddit-json) - 2021-06-21
 
 [Mouse support in vim](https://til.simonwillison.net/vim/mouse-support-in-vim) - 2021-06-19
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running a MySQL server using Homebrew](https://til.simonwillison.net/homebrew/mysql-homebrew) - 2021-06-11
 
 [Exporting Amplitude events to SQLite](https://til.simonwillison.net/amplitude/export-events-to-datasette) - 2021-06-06
-
-[Building a Markdown summary of Django group permissions](https://til.simonwillison.net/sql/django-group-permissions-markdown) - 2021-06-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
