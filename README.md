@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Increasing the time limit for a Google Cloud Scheduler task](https://til.simonwillison.net/cloudrun/increase-cloud-scheduler-time-limit) - 2021-07-09
+
 [Preventing double form submissions with JavaScript](https://til.simonwillison.net/javascript/preventing-double-form-submission) - 2021-07-08
 
 [Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions) - 2021-07-06
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Scraping Reddit via their JSON API](https://til.simonwillison.net/reddit/scraping-reddit-json) - 2021-06-21
 
 [Mouse support in vim](https://til.simonwillison.net/vim/mouse-support-in-vim) - 2021-06-19
-
-[Running a MySQL server using Homebrew](https://til.simonwillison.net/homebrew/mysql-homebrew) - 2021-06-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
