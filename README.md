@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using nginx to proxy to a Unix domain socket](https://til.simonwillison.net/nginx/proxy-domain-sockets) - 2021-07-11
+
 [Using pysqlite3 on macOS](https://til.simonwillison.net/sqlite/pysqlite3-on-macos) - 2021-07-10
 
 [Increasing the time limit for a Google Cloud Scheduler task](https://til.simonwillison.net/cloudrun/increase-cloud-scheduler-time-limit) - 2021-07-09
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Preventing double form submissions with JavaScript](https://til.simonwillison.net/javascript/preventing-double-form-submission) - 2021-07-08
 
 [Installing different PostgreSQL server versions in GitHub Actions](https://til.simonwillison.net/github-actions/different-postgresql-versions) - 2021-07-06
-
-[Scraping Reddit via their JSON API](https://til.simonwillison.net/reddit/scraping-reddit-json) - 2021-06-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
