@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Fun with Unix domain sockets](http://simonwillison.net/2021/Jul/13/unix-domain-sockets/) - 2021-07-13
+
 [Django SQL Dashboard 1.0](http://simonwillison.net/2021/Jul/6/django-sql-dashboard/) - 2021-07-06
 
 [PAGNIs: Probably Are Gonna Need Its](http://simonwillison.net/2021/Jul/1/pagnis/) - 2021-07-01
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: sqlite-utils updates, Datasette and asgi-csrf, open-sourcing VIAL](http://simonwillison.net/2021/Jun/28/weeknotes/) - 2021-06-28
 
 [Notes on streaming large API responses](http://simonwillison.net/2021/Jun/25/streaming-large-api-responses/) - 2021-06-25
-
-[Joining CSV and JSON data with an in-memory SQLite database](http://simonwillison.net/2021/Jun/19/sqlite-utils-memory/) - 2021-06-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
