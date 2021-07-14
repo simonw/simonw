@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->793<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->794<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
+<br />CLI tool for fetching data using HTTP conditional get
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
 <br />Django app for building dashboards using raw SQL queries
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - ([80 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-25
@@ -193,8 +195,6 @@ Listing <!-- releases_count starts -->793<!-- releases_count ends --> releases a
 <br />ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br />Upload your photos to S3 and import metadata about them into a SQLite database
-* **[conditional-get](https://github.com/simonw/conditional-get)**: [0.2a](https://github.com/simonw/conditional-get/releases/tag/0.2a) - ([3 releases total](https://github.com/simonw/conditional-get/releases)) - 2020-04-30
-<br />CLI tool for fetching data using HTTP conditional get
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [0.7](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2020-04-15
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3](https://github.com/simonw/paginate-json/releases/tag/0.3) - 2020-04-14
