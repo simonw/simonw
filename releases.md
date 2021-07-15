@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->794<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->795<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.58](https://github.com/simonw/datasette/releases/tag/0.58) - ([93 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-15
+<br />An open source multi-tool for exploring and publishing data
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
 <br />Django app for building dashboards using raw SQL queries
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - ([80 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-25
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette](https://github.com/simonw/datasette)**: [0.58a1](https://github.com/simonw/datasette/releases/tag/0.58a1) - ([92 releases total](https://github.com/simonw/datasette/releases)) - 2021-06-24
-<br />An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
 <br />ASGI middleware for protecting against CSRF attacks
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13

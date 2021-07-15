@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.58](https://github.com/simonw/datasette/releases/tag/0.58) - 2021-07-15
+
 [conditional-get 0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - 2021-07-14
 
 [django-sql-dashboard 1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - 2021-07-06
 
 [sqlite-utils 3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - 2021-06-25
-
-[datasette 0.58a1](https://github.com/simonw/datasette/releases/tag/0.58a1) - 2021-06-24
 
 [asgi-csrf 0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - 2021-06-23
 
