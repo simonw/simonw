@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->795<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->796<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [0.58](https://github.com/simonw/datasette/releases/tag/0.58) - ([93 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-15
+* **[datasette](https://github.com/simonw/datasette)**: [0.58.1](https://github.com/simonw/datasette/releases/tag/0.58.1) - ([94 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-16
 <br />An open source multi-tool for exploring and publishing data
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
