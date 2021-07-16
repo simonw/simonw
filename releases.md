@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->796<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->797<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.58.1](https://github.com/simonw/datasette/releases/tag/0.58.1) - ([94 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-16
 <br />An open source multi-tool for exploring and publishing data
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
@@ -65,8 +67,6 @@ Listing <!-- releases_count starts -->796<!-- releases_count ends --> releases a
 <br />Python CLI tool and library for diffing CSV and JSON files
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
 <br />Preview of new JSON default format for Datasette
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.4](https://github.com/simonw/datasette-graphql/releases/tag/1.4) - ([30 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-02-18
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
 <br />Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
