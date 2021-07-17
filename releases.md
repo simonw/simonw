@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->797<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->798<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
+<br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.58.1](https://github.com/simonw/datasette/releases/tag/0.58.1) - ([94 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-16
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->797<!-- releases_count ends --> releases a
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
 <br />Datasette plugin adding the Leaflet JavaScript library
-* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [0.3](https://github.com/simonw/datasette-export-notebook/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-01-29
-<br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-01-29
 <br />Datasette plugin for dumping out the ASGI scope
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
