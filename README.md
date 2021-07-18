@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using the tesseract CLI tool](https://til.simonwillison.net/tesseract/tesseract-cli) - 2021-07-18
+
 [Importing CSV data into SQLite with .import](https://til.simonwillison.net/sqlite/import-csv) - 2021-07-14
 
 [Using nginx to proxy to a Unix domain socket](https://til.simonwillison.net/nginx/proxy-domain-sockets) - 2021-07-11
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using pysqlite3 on macOS](https://til.simonwillison.net/sqlite/pysqlite3-on-macos) - 2021-07-10
 
 [Increasing the time limit for a Google Cloud Scheduler task](https://til.simonwillison.net/cloudrun/increase-cloud-scheduler-time-limit) - 2021-07-09
-
-[Preventing double form submissions with JavaScript](https://til.simonwillison.net/javascript/preventing-double-form-submission) - 2021-07-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
