@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[It doesn't take much public creativity to stand out as a candidate](http://simonwillison.net/2021/Jul/17/standing-out/) - 2021-07-17
+[It doesn't take much public creativity to stand out as a job candidate](http://simonwillison.net/2021/Jul/17/standing-out/) - 2021-07-17
 
 [Datasette 0.58: The annotated release notes](http://simonwillison.net/2021/Jul/16/datasette-058/) - 2021-07-16
 
