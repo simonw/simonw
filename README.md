@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-transform 1.0](https://github.com/simonw/sqlite-transform/releases/tag/1.0) - 2021-07-21
+[sqlite-transform 1.1](https://github.com/simonw/sqlite-transform/releases/tag/1.1) - 2021-07-21
 
 [datasette-export-notebook 1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - 2021-07-17
 
