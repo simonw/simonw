@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-transform 1.0](https://github.com/simonw/sqlite-transform/releases/tag/1.0) - 2021-07-21
+
 [datasette-export-notebook 1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - 2021-07-17
 
 [datasette-graphql 1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - 2021-07-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - 2021-06-25
 
 [asgi-csrf 0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - 2021-06-23
-
-[dogsheep-beta 0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - 2021-06-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

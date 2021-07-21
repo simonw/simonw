@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->798<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->799<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.0](https://github.com/simonw/sqlite-transform/releases/tag/1.0) - ([7 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-21
+<br />Tool for running transformations on columns in a SQLite database
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->798<!-- releases_count ends --> releases a
 <br />Publish Datasette instances to Azure Functions (in progress)
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - ([15 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-26
 <br />Datasette plugin for publishing data using Vercel
-* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-03-24
-<br />Tool for running transformations on columns in a SQLite database
 * **[iam-to-sqlite](https://github.com/simonw/iam-to-sqlite)**: [0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
 <br />Load Amazon IAM data into a SQLite database
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22
