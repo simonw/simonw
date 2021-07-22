@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette - an ecosystem of tools for working with small data](http://simonwillison.net/2021/Jul/22/small-data/) - 2021-07-22
+
 [Weeknotes: sqlite-transform 1.1, Datasette 0.58.1, datasette-graphql 1.5](http://simonwillison.net/2021/Jul/21/weeknotes/) - 2021-07-21
 
 [It doesn't take much public creativity to stand out as a job candidate](http://simonwillison.net/2021/Jul/17/standing-out/) - 2021-07-17
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 0.58: The annotated release notes](http://simonwillison.net/2021/Jul/16/datasette-058/) - 2021-07-16
 
 [Weeknotes: Fun with Unix domain sockets](http://simonwillison.net/2021/Jul/13/unix-domain-sockets/) - 2021-07-13
-
-[Django SQL Dashboard 1.0](http://simonwillison.net/2021/Jul/6/django-sql-dashboard/) - 2021-07-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
