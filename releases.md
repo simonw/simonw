@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->800<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->801<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.13](https://github.com/simonw/sqlite-utils/releases/tag/3.13) - ([81 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-07-24
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.1](https://github.com/simonw/sqlite-transform/releases/tag/1.1) - ([8 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-21
 <br />Tool for running transformations on columns in a SQLite database
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->800<!-- releases_count ends --> releases a
 <br />CLI tool for fetching data using HTTP conditional get
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
 <br />Django app for building dashboards using raw SQL queries
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.12](https://github.com/simonw/sqlite-utils/releases/tag/3.12) - ([80 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-06-25
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
 <br />ASGI middleware for protecting against CSRF attacks
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
