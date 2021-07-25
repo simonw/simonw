@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->802<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->803<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.10](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10) - ([16 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-07-25
+<br />Datasette plugin for publishing data using Vercel
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2](https://github.com/simonw/sqlite-transform/releases/tag/1.2) - ([9 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-25
 <br />Tool for running transformations on columns in a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.13](https://github.com/simonw/sqlite-utils/releases/tag/3.13) - ([81 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-07-24
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->802<!-- releases_count ends --> releases a
 <br />Export Airtable data to YAML, JSON or SQLite files on disk
 * **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 <br />Publish Datasette instances to Azure Functions (in progress)
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - ([15 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-03-26
-<br />Datasette plugin for publishing data using Vercel
 * **[iam-to-sqlite](https://github.com/simonw/iam-to-sqlite)**: [0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
 <br />Load Amazon IAM data into a SQLite database
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.10](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10) - 2021-07-25
+
 [sqlite-transform 1.2](https://github.com/simonw/sqlite-transform/releases/tag/1.2) - 2021-07-25
 
 [sqlite-utils 3.13](https://github.com/simonw/sqlite-utils/releases/tag/3.13) - 2021-07-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [conditional-get 0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - 2021-07-14
 
 [django-sql-dashboard 1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - 2021-07-06
-
-[asgi-csrf 0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - 2021-06-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Extracting objects recursively with jq](https://til.simonwillison.net/jq/extracting-objects-recursively) - 2021-07-25
+
 [Using the tesseract CLI tool](https://til.simonwillison.net/tesseract/tesseract-cli) - 2021-07-18
 
 [Importing CSV data into SQLite with .import](https://til.simonwillison.net/sqlite/import-csv) - 2021-07-14
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using nginx to proxy to a Unix domain socket](https://til.simonwillison.net/nginx/proxy-domain-sockets) - 2021-07-11
 
 [Using pysqlite3 on macOS](https://til.simonwillison.net/sqlite/pysqlite3-on-macos) - 2021-07-10
-
-[Increasing the time limit for a Google Cloud Scheduler task](https://til.simonwillison.net/cloudrun/increase-cloud-scheduler-time-limit) - 2021-07-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
