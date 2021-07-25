@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->801<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->802<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2](https://github.com/simonw/sqlite-transform/releases/tag/1.2) - ([9 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-25
+<br />Tool for running transformations on columns in a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.13](https://github.com/simonw/sqlite-utils/releases/tag/3.13) - ([81 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-07-24
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.1](https://github.com/simonw/sqlite-transform/releases/tag/1.1) - ([8 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-21
-<br />Tool for running transformations on columns in a SQLite database
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
