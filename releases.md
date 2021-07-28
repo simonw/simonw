@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->803<!-- releases_count ends --> releases across <!-- project_count starts -->113<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->804<!-- releases_count ends --> releases across <!-- project_count starts -->114<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
+<br />Datasette plugin that adds a custom SQL function for haversine distances
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.10](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10) - ([16 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-07-25
 <br />Datasette plugin for publishing data using Vercel
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2](https://github.com/simonw/sqlite-transform/releases/tag/1.2) - ([9 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-07-25
