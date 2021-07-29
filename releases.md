@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->805<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->806<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1a0) - 2021-07-28
+* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2021-07-29
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
 <br />Datasette plugin that adds a custom SQL function for haversine distances

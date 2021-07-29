@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-remote-metadata 0.1a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1a0) - 2021-07-28
+[datasette-remote-metadata 0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - 2021-07-29
 
 [datasette-haversine 0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
 
