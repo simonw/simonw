@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->806<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->807<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - ([5 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2021-07-30
+<br />Datasette plugin for publishing data using Fly
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2021-07-29
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
@@ -103,8 +105,6 @@ Listing <!-- releases_count starts -->806<!-- releases_count ends --> releases a
 <br />Experimental Datasette output plugin using CSS properties
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
 <br />Save data from GitHub to a SQLite database
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2020-12-12
-<br />Datasette plugin for publishing data using Fly
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
 <br />Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
