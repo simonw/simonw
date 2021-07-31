@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->807<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->808<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0](https://github.com/simonw/datasette-json-html/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
+<br />Datasette plugin for rendering HTML based on JSON values
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - ([5 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2021-07-30
 <br />Datasette plugin for publishing data using Fly
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2021-07-29
@@ -161,8 +163,6 @@ Listing <!-- releases_count starts -->807<!-- releases_count ends --> releases a
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br />Datasette plugin that lets users save and execute queries
-* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - ([4 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2020-08-09
-<br />Datasette plugin for rendering HTML based on JSON values
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br />Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
