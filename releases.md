@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->808<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->809<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0](https://github.com/simonw/datasette-json-html/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
+* **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
 <br />Datasette plugin for rendering HTML based on JSON values
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - ([5 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2021-07-30
 <br />Datasette plugin for publishing data using Fly
