@@ -25,15 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Weeknotes: datasette-remote-metadata, sqlite-transform --multi](http://simonwillison.net/2021/Jul/29/datasette-remote-metadata/) - 2021-07-29
 
-[The Baked Data architectural pattern](http://simonwillison.net/2021/Jul/28/baked-data/) - 2021-07-28
-
-[Datasette - an ecosystem of tools for working with small data](http://simonwillison.net/2021/Jul/22/small-data/) - 2021-07-22
-
-[Weeknotes: sqlite-transform 1.1, Datasette 0.58.1, datasette-graphql 1.5](http://simonwillison.net/2021/Jul/21/weeknotes/) - 2021-07-21
-
-[It doesn't take much public creativity to stand out as a job candidate](http://simonwillison.net/2021/Jul/17/standing-out/) - 2021-07-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
