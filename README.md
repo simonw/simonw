@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.14](https://github.com/simonw/sqlite-utils/releases/tag/3.14) - 2021-08-02
+
 [datasette-json-html 1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - 2021-07-31
 
 [datasette-publish-fly 1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - 2021-07-30
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-vercel 0.10](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10) - 2021-07-25
 
 [sqlite-transform 1.2](https://github.com/simonw/sqlite-transform/releases/tag/1.2) - 2021-07-25
-
-[sqlite-utils 3.13](https://github.com/simonw/sqlite-utils/releases/tag/3.13) - 2021-07-24
 
 [datasette-export-notebook 1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - 2021-07-17
 <!-- recent_releases ends -->
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Search and replace with regular expressions in VS Code](https://til.simonwillison.net/vscode/vs-code-regular-expressions) - 2021-08-02
+
 [Extracting objects recursively with jq](https://til.simonwillison.net/jq/extracting-objects-recursively) - 2021-07-25
 
 [Using the tesseract CLI tool](https://til.simonwillison.net/tesseract/tesseract-cli) - 2021-07-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Importing CSV data into SQLite with .import](https://til.simonwillison.net/sqlite/import-csv) - 2021-07-14
 
 [Using nginx to proxy to a Unix domain socket](https://til.simonwillison.net/nginx/proxy-domain-sockets) - 2021-07-11
-
-[Using pysqlite3 on macOS](https://til.simonwillison.net/sqlite/pysqlite3-on-macos) - 2021-07-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
