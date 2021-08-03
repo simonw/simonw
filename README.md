@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Check spelling using codespell](https://til.simonwillison.net/python/codespell) - 2021-08-03
+
 [Search and replace with regular expressions in VS Code](https://til.simonwillison.net/vscode/vs-code-regular-expressions) - 2021-08-02
 
 [Extracting objects recursively with jq](https://til.simonwillison.net/jq/extracting-objects-recursively) - 2021-07-25
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using the tesseract CLI tool](https://til.simonwillison.net/tesseract/tesseract-cli) - 2021-07-18
 
 [Importing CSV data into SQLite with .import](https://til.simonwillison.net/sqlite/import-csv) - 2021-07-14
-
-[Using nginx to proxy to a Unix domain socket](https://til.simonwillison.net/nginx/proxy-domain-sockets) - 2021-07-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
