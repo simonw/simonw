@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[SQLite aggregate filter clauses](https://til.simonwillison.net/sqlite/sqlite-aggregate-filter-clauses) - 2021-08-04
+
 [Set a GIF to loop using ImageMagick](https://til.simonwillison.net/imagemagick/set-a-gif-to-loop) - 2021-08-03
 
 [Check spelling using codespell](https://til.simonwillison.net/python/codespell) - 2021-08-03
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Search and replace with regular expressions in VS Code](https://til.simonwillison.net/vscode/vs-code-regular-expressions) - 2021-08-02
 
 [Extracting objects recursively with jq](https://til.simonwillison.net/jq/extracting-objects-recursively) - 2021-07-25
-
-[Using the tesseract CLI tool](https://til.simonwillison.net/tesseract/tesseract-cli) - 2021-07-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
