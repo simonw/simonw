@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->811<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->812<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.59a0](https://github.com/simonw/datasette/releases/tag/0.59a0) - ([95 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-07
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-08-02
 <br />Tool for running transformations on columns in a SQLite database
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.14](https://github.com/simonw/sqlite-utils/releases/tag/3.14) - ([82 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-02
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->811<!-- releases_count ends --> releases a
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[datasette](https://github.com/simonw/datasette)**: [0.58.1](https://github.com/simonw/datasette/releases/tag/0.58.1) - ([94 releases total](https://github.com/simonw/datasette/releases)) - 2021-07-16
-<br />An open source multi-tool for exploring and publishing data
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
