@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->812<!-- releases_count ends --> releases across <!-- project_count starts -->115<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->813<!-- releases_count ends --> releases across <!-- project_count starts -->116<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pyinstrument](https://github.com/simonw/datasette-pyinstrument)**: [0.1](https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1) - 2021-08-08
+<br />Use pyinstrument to analyze Datasette page performance
 * **[datasette](https://github.com/simonw/datasette)**: [0.59a0](https://github.com/simonw/datasette/releases/tag/0.59a0) - ([95 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-07
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-08-02
