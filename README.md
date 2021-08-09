@@ -4,9 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-pyinstrument 0.1](https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1) - 2021-08-08
+[datasette-query-links 0.1.1](https://github.com/simonw/datasette-query-links/releases/tag/0.1.1) - 2021-08-09
 
-[datasette 0.59a0](https://github.com/simonw/datasette/releases/tag/0.59a0) - 2021-08-07
+[datasette 0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - 2021-08-09
+
+[datasette-pyinstrument 0.1](https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1) - 2021-08-08
 
 [sqlite-transform 1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - 2021-08-02
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-fly 1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - 2021-07-30
 
 [datasette-remote-metadata 0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - 2021-07-29
-
-[datasette-haversine 0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
