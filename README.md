@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Tailing Google Cloud Run request logs and importing them into SQLite](https://til.simonwillison.net/cloudrun/tailing-cloud-run-request-logs) - 2021-08-09
+
 [Compressing an animated GIF with ImageMagick mogrify](https://til.simonwillison.net/imagemagick/compress-animated-gif) - 2021-08-06
 
 [SQLite aggregate filter clauses](https://til.simonwillison.net/sqlite/sqlite-aggregate-filter-clauses) - 2021-08-04
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Set a GIF to loop using ImageMagick](https://til.simonwillison.net/imagemagick/set-a-gif-to-loop) - 2021-08-03
 
 [Check spelling using codespell](https://til.simonwillison.net/python/codespell) - 2021-08-03
-
-[Search and replace with regular expressions in VS Code](https://til.simonwillison.net/vscode/vs-code-regular-expressions) - 2021-08-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
