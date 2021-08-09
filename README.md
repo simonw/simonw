@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.15](https://github.com/simonw/sqlite-utils/releases/tag/3.15) - 2021-08-09
+
 [datasette-query-links 0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - 2021-08-09
 
 [datasette 0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - 2021-08-09
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-pyinstrument 0.1](https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1) - 2021-08-08
 
 [sqlite-transform 1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - 2021-08-02
-
-[sqlite-utils 3.14](https://github.com/simonw/sqlite-utils/releases/tag/3.14) - 2021-08-02
 
 [datasette-json-html 1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - 2021-07-31
 

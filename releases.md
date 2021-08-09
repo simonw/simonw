@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->817<!-- releases_count ends --> releases across <!-- project_count starts -->117<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->818<!-- releases_count ends --> releases across <!-- project_count starts -->117<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.15](https://github.com/simonw/sqlite-utils/releases/tag/3.15) - ([83 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-09
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-query-links](https://github.com/simonw/datasette-query-links)**: [0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-query-links/releases)) - 2021-08-09
 <br />Turn SELECT queries returned by a query into links to execute them
 * **[datasette](https://github.com/simonw/datasette)**: [0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - ([96 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-09
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->817<!-- releases_count ends --> releases a
 <br />Use pyinstrument to analyze Datasette page performance
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-08-02
 <br />Tool for running transformations on columns in a SQLite database
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.14](https://github.com/simonw/sqlite-utils/releases/tag/3.14) - ([82 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-02
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
 <br />Datasette plugin for rendering HTML based on JSON values
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - ([5 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2021-07-30
