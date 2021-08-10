@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 3.15](https://github.com/simonw/sqlite-utils/releases/tag/3.15) - 2021-08-09
+[sqlite-utils 3.15.1](https://github.com/simonw/sqlite-utils/releases/tag/3.15.1) - 2021-08-10
 
 [datasette-query-links 0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - 2021-08-09
 
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Adding Sphinx autodoc to a project, and configuring Read The Docs to build it](https://til.simonwillison.net/sphinx/sphinx-autodoc) - 2021-08-10
+
 [Find local variables in the traceback for an exception](https://til.simonwillison.net/python/find-local-variables-in-exception-traceback) - 2021-08-09
 
 [Tailing Google Cloud Run request logs and importing them into SQLite](https://til.simonwillison.net/cloudrun/tailing-cloud-run-request-logs) - 2021-08-09
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Compressing an animated GIF with ImageMagick mogrify](https://til.simonwillison.net/imagemagick/compress-animated-gif) - 2021-08-06
 
 [SQLite aggregate filter clauses](https://til.simonwillison.net/sqlite/sqlite-aggregate-filter-clauses) - 2021-08-04
-
-[Set a GIF to loop using ImageMagick](https://til.simonwillison.net/imagemagick/set-a-gif-to-loop) - 2021-08-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

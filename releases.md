@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->818<!-- releases_count ends --> releases across <!-- project_count starts -->117<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->819<!-- releases_count ends --> releases across <!-- project_count starts -->117<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.15](https://github.com/simonw/sqlite-utils/releases/tag/3.15) - ([83 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-09
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.15.1](https://github.com/simonw/sqlite-utils/releases/tag/3.15.1) - ([84 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-10
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-query-links](https://github.com/simonw/datasette-query-links)**: [0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-query-links/releases)) - 2021-08-09
 <br />Turn SELECT queries returned by a query into links to execute them
