@@ -40,7 +40,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Building a specific version of SQLite with pysqlite on macOS](https://til.simonwillison.net/sqlite/build-specific-sqlite-pysqlite-macos) - 2021-08-14
+[Building a specific version of SQLite with pysqlite on macOS/Linux](https://til.simonwillison.net/sqlite/build-specific-sqlite-pysqlite-macos) - 2021-08-14
 
 [Adding Sphinx autodoc to a project, and configuring Read The Docs to build it](https://til.simonwillison.net/sphinx/sphinx-autodoc) - 2021-08-10
 
