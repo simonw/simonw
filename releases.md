@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->820<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->821<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.1) - ([3 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-08-17
+<br />Datasette plugin for dumping out the ASGI scope
 * **[datasette-x-forwarded-host](https://github.com/simonw/datasette-x-forwarded-host)**: [0.1](https://github.com/simonw/datasette-x-forwarded-host/releases/tag/0.1) - 2021-08-12
 <br />Treat the X-Forwarded-Host header as the Host header
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.15.1](https://github.com/simonw/sqlite-utils/releases/tag/3.15.1) - ([84 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-10
@@ -99,8 +101,6 @@ Listing <!-- releases_count starts -->820<!-- releases_count ends --> releases a
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
 <br />Datasette plugin adding the Leaflet JavaScript library
-* **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.0](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-01-29
-<br />Datasette plugin for dumping out the ASGI scope
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br />Datasette plugin for executing SQL queries from templates
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
