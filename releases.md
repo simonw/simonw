@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->821<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->822<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.16](https://github.com/simonw/sqlite-utils/releases/tag/3.16) - ([85 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-18
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.1) - ([3 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-08-17
 <br />Datasette plugin for dumping out the ASGI scope
 * **[datasette-x-forwarded-host](https://github.com/simonw/datasette-x-forwarded-host)**: [0.1](https://github.com/simonw/datasette-x-forwarded-host/releases/tag/0.1) - 2021-08-12
 <br />Treat the X-Forwarded-Host header as the Host header
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.15.1](https://github.com/simonw/sqlite-utils/releases/tag/3.15.1) - ([84 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-10
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-query-links](https://github.com/simonw/datasette-query-links)**: [0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-query-links/releases)) - 2021-08-09
 <br />Turn SELECT queries returned by a query into links to execute them
 * **[datasette](https://github.com/simonw/datasette)**: [0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - ([96 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-09
