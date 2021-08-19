@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->822<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->823<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2021-08-19
+<br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.16](https://github.com/simonw/sqlite-utils/releases/tag/3.16) - ([85 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-18
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.1) - ([3 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-08-17
@@ -159,8 +161,6 @@ Listing <!-- releases_count starts -->822<!-- releases_count ends --> releases a
 <br />Plugin adding backup options to Datasette
 * **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
 <br />An improved version of .iterdump() for sqlite3
-* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2020-09-06
-<br />Datasette plugin that blocks all robots using robots.txt
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
