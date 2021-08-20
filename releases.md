@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->823<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->825<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2021-08-20
+<br />Convert an Apple Healthkit export zip to a SQLite database
+* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.4](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.4) - ([27 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-08-20
+<br />Save data from Twitter to a SQLite database
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2021-08-19
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.16](https://github.com/simonw/sqlite-utils/releases/tag/3.16) - ([85 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-18
@@ -147,8 +151,6 @@ Listing <!-- releases_count starts -->823<!-- releases_count ends --> releases a
 <br />Create a SQLite database containing your observation history from iNaturalist
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database containing data from your Pocket account
-* **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0) - ([8 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2020-10-17
-<br />Convert an Apple Healthkit export zip to a SQLite database
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
 <br />dateutil functions for Datasette
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2020-09-28
@@ -175,8 +177,6 @@ Listing <!-- releases_count starts -->823<!-- releases_count ends --> releases a
 <br />Datasette plugin for inserting and updating data
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
 <br />Datasette plugin for serving media based on a SQL query
-* **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.3](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3) - ([26 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2020-07-23
-<br />Save data from Twitter to a SQLite database
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
 <br />Create a local copy of database files from a Datasette instance
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - ([6 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2020-07-20
