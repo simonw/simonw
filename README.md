@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Histogram with tooltips in Observable Plot](https://til.simonwillison.net/observable-plot/histogram-with-tooltips) - 2021-08-21
+
 [Track timestamped changes to a SQLite table using triggers](https://til.simonwillison.net/sqlite/track-timestamped-changes-to-a-table) - 2021-08-19
 
 [Building a specific version of SQLite with pysqlite on macOS/Linux](https://til.simonwillison.net/sqlite/build-specific-sqlite-pysqlite-macos) - 2021-08-14
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Adding Sphinx autodoc to a project, and configuring Read The Docs to build it](https://til.simonwillison.net/sphinx/sphinx-autodoc) - 2021-08-10
 
 [Find local variables in the traceback for an exception](https://til.simonwillison.net/python/find-local-variables-in-exception-traceback) - 2021-08-09
-
-[Tailing Google Cloud Run request logs and importing them into SQLite](https://til.simonwillison.net/cloudrun/tailing-cloud-run-request-logs) - 2021-08-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
