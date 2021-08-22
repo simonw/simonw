@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Getting my personal Dogsheep up and running again](http://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/) - 2021-08-22
+
 [Datasette on Codespaces, sqlite-utils API reference documentation and other weeknotes](http://simonwillison.net/2021/Aug/14/datasette-on-codespaces/) - 2021-08-14
 
 [Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool](http://simonwillison.net/2021/Aug/6/sqlite-utils-convert/) - 2021-08-06
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Exploring the SameSite cookie attribute for preventing CSRF](http://simonwillison.net/2021/Aug/3/samesite/) - 2021-08-03
 
 [Weeknotes: datasette-remote-metadata, sqlite-transform --multi](http://simonwillison.net/2021/Jul/29/datasette-remote-metadata/) - 2021-07-29
-
-[The Baked Data architectural pattern](http://simonwillison.net/2021/Jul/28/baked-data/) - 2021-07-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
