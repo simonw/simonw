@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->825<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->826<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - ([86 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-24
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2021-08-20
 <br />Convert an Apple Healthkit export zip to a SQLite database
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.21.4](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.4) - ([27 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-08-20
 <br />Save data from Twitter to a SQLite database
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2021-08-19
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.16](https://github.com/simonw/sqlite-utils/releases/tag/3.16) - ([85 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-18
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-debug-asgi](https://github.com/simonw/datasette-debug-asgi)**: [1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.1) - ([3 releases total](https://github.com/simonw/datasette-debug-asgi/releases)) - 2021-08-17
 <br />Datasette plugin for dumping out the ASGI scope
 * **[datasette-x-forwarded-host](https://github.com/simonw/datasette-x-forwarded-host)**: [0.1](https://github.com/simonw/datasette-x-forwarded-host/releases/tag/0.1) - 2021-08-12
