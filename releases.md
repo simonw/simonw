@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->826<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->827<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - ([5 releases total](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-08-26
+<br />Tools for converting Evernote content to SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - ([86 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-24
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2021-08-20
@@ -95,8 +97,6 @@ Listing <!-- releases_count starts -->826<!-- releases_count ends --> releases a
 <br />Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br />Download map tiles and store them in an MBTiles database
-* **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - ([4 releases total](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-02-11
-<br />Tools for converting Evernote content to SQLite
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
 <br />Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - ([2 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2021-02-06

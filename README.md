@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[evernote-to-sqlite 0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - 2021-08-26
+
 [sqlite-utils 3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - 2021-08-24
 
 [healthkit-to-sqlite 1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - 2021-08-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-x-forwarded-host 0.1](https://github.com/simonw/datasette-x-forwarded-host/releases/tag/0.1) - 2021-08-12
 
 [datasette-query-links 0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - 2021-08-09
-
-[datasette 0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - 2021-08-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
