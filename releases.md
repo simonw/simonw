@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->827<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->828<!-- releases_count ends --> releases across <!-- project_count starts -->118<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.59a2](https://github.com/simonw/datasette/releases/tag/0.59a2) - ([97 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-28
+<br />An open source multi-tool for exploring and publishing data
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - ([5 releases total](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-08-26
 <br />Tools for converting Evernote content to SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - ([86 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-24
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->827<!-- releases_count ends --> releases a
 <br />Treat the X-Forwarded-Host header as the Host header
 * **[datasette-query-links](https://github.com/simonw/datasette-query-links)**: [0.1.2](https://github.com/simonw/datasette-query-links/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-query-links/releases)) - 2021-08-09
 <br />Turn SELECT queries returned by a query into links to execute them
-* **[datasette](https://github.com/simonw/datasette)**: [0.59a1](https://github.com/simonw/datasette/releases/tag/0.59a1) - ([96 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-09
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-pyinstrument](https://github.com/simonw/datasette-pyinstrument)**: [0.1](https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1) - 2021-08-08
 <br />Use pyinstrument to analyze Datasette page performance
 * **[sqlite-transform](https://github.com/simonw/sqlite-transform)**: [1.2.1](https://github.com/simonw/sqlite-transform/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/sqlite-transform/releases)) - 2021-08-02
