@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building a desktop application for Datasette (and weeknotes)](http://simonwillison.net/2021/Aug/30/datasette-app/) - 2021-08-30
+
 [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](http://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/) - 2021-08-28
 
 [Weeknotes: Getting my personal Dogsheep up and running again](http://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/) - 2021-08-22
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette on Codespaces, sqlite-utils API reference documentation and other weeknotes](http://simonwillison.net/2021/Aug/14/datasette-on-codespaces/) - 2021-08-14
 
 [Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool](http://simonwillison.net/2021/Aug/6/sqlite-utils-convert/) - 2021-08-06
-
-[Exploring the SameSite cookie attribute for preventing CSRF](http://simonwillison.net/2021/Aug/3/samesite/) - 2021-08-03
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
