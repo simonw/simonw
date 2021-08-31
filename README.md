@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-app-support 0.1](https://github.com/simonw/datasette-app-support/releases/tag/0.1) - 2021-08-31
+[datasette-app-support 0.1.2](https://github.com/simonw/datasette-app-support/releases/tag/0.1.2) - 2021-08-31
 
 [datasette-verify 0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
 
