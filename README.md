@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Calculating the AQI based on the Purple Air API for a sensor](https://til.simonwillison.net/purpleair/purple-air-aqi) - 2021-08-31
+
 [Searching all columns of a table in Datasette](https://til.simonwillison.net/datasette/search-all-columns-trick) - 2021-08-23
 
 [Histogram with tooltips in Observable Plot](https://til.simonwillison.net/observable-plot/histogram-with-tooltips) - 2021-08-21
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Track timestamped changes to a SQLite table using triggers](https://til.simonwillison.net/sqlite/track-timestamped-changes-to-a-table) - 2021-08-19
 
 [Building a specific version of SQLite with pysqlite on macOS/Linux](https://til.simonwillison.net/sqlite/build-specific-sqlite-pysqlite-macos) - 2021-08-14
-
-[Adding Sphinx autodoc to a project, and configuring Read The Docs to build it](https://til.simonwillison.net/sphinx/sphinx-autodoc) - 2021-08-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
