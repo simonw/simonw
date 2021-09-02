@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Open external links in an Electron app using the system browser](https://til.simonwillison.net/electron/electron-external-links-system-browser) - 2021-09-02
+
 [Using the Chrome DevTools console as a REPL for an Electron app](https://til.simonwillison.net/electron/electron-debugger-console) - 2021-08-31
 
 [Calculating the AQI based on the Purple Air API for a sensor](https://til.simonwillison.net/purpleair/purple-air-aqi) - 2021-08-31
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Searching all columns of a table in Datasette](https://til.simonwillison.net/datasette/search-all-columns-trick) - 2021-08-23
 
 [Histogram with tooltips in Observable Plot](https://til.simonwillison.net/observable-plot/histogram-with-tooltips) - 2021-08-21
-
-[Track timestamped changes to a SQLite table using triggers](https://til.simonwillison.net/sqlite/track-timestamped-changes-to-a-table) - 2021-08-19
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
