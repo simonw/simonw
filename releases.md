@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->832<!-- releases_count ends --> releases across <!-- project_count starts -->120<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->833<!-- releases_count ends --> releases across <!-- project_count starts -->120<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.1.2](https://github.com/simonw/datasette-app-support/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-08-31
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.2](https://github.com/simonw/datasette-app-support/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-02
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-verify](https://github.com/simonw/datasette-verify)**: [0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
 <br />Verify that files can be opened by Datasette
