@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[pids 0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
+
 [datasette-app-support 0.4](https://github.com/simonw/datasette-app-support/releases/tag/0.4) - 2021-09-04
 
 [datasette-verify 0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [healthkit-to-sqlite 1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - 2021-08-20
 
 [twitter-to-sqlite 0.21.4](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.4) - 2021-08-20
-
-[datasette-block-robots 1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - 2021-08-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
