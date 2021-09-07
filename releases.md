@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->837<!-- releases_count ends --> releases across <!-- project_count starts -->121<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->838<!-- releases_count ends --> releases across <!-- project_count starts -->121<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.5](https://github.com/simonw/datasette-app-support/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-07
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.6](https://github.com/simonw/datasette-app-support/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-07
 <br />Part of https://github.com/simonw/datasette-app
 * **[pids](https://github.com/simonw/pids)**: [0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
 <br />A tiny Python library for generating public IDs from integers
