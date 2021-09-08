@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Signing and notarizing an Electron app for distribution using GitHub Actions](https://til.simonwillison.net/electron/sign-notarize-electron-macos) - 2021-09-08
+
 [Attaching a generated file to a GitHub release using Actions](https://til.simonwillison.net/github-actions/attach-generated-file-to-release) - 2021-09-08
 
 [Open external links in an Electron app using the system browser](https://til.simonwillison.net/electron/electron-external-links-system-browser) - 2021-09-02
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using the Chrome DevTools console as a REPL for an Electron app](https://til.simonwillison.net/electron/electron-debugger-console) - 2021-08-31
 
 [Calculating the AQI based on the Purple Air API for a sensor](https://til.simonwillison.net/purpleair/purple-air-aqi) - 2021-08-31
-
-[Searching all columns of a table in Datasette](https://til.simonwillison.net/datasette/search-all-columns-trick) - 2021-08-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
