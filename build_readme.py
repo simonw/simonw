@@ -85,7 +85,7 @@ query {
 def fetch_releases(oauth_token):
     repos = []
     releases = []
-    repo_names = set()
+    repo_names = {"playing-with-actions"}  # Skip this one
     has_next_page = True
     after_cursor = None
 
