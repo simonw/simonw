@@ -5,7 +5,7 @@ Listing <!-- releases_count starts -->840<!-- releases_count ends --> releases a
 <!-- recent_releases starts -->
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
 <br />Datasette plugin for importing tables from other Datasette instances
-* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.1.0](https://github.com/simonw/datasette-app/releases/tag/0.1.0) - 2021-09-08
+* **[datasette-app](https://github.com/simonw/datasette-app)**: [Datasette Desktop 0.1.0](https://github.com/simonw/datasette-app/releases/tag/0.1.0) - 2021-09-08
 <br />Electron app wrapping Datasette
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.6](https://github.com/simonw/datasette-app-support/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-07
 <br />Part of https://github.com/simonw/datasette-app
