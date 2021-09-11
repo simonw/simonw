@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->841<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->842<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.7](https://github.com/simonw/datasette-app-support/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-10
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.8](https://github.com/simonw/datasette-app-support/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-11
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
 <br />Datasette plugin for importing tables from other Datasette instances
