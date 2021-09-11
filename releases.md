@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->842<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->843<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
+<br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.8](https://github.com/simonw/datasette-app-support/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-11
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
@@ -175,8 +177,6 @@ Listing <!-- releases_count starts -->842<!-- releases_count ends --> releases a
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.1](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2020-08-23
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
-* **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.1](https://github.com/simonw/datasette-schema-versions/releases/tag/0.1) - 2020-08-19
-<br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
