@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-write 0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - 2021-09-11
+
 [datasette-schema-versions 0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - 2021-09-11
 
 [datasette-app-support 0.8](https://github.com/simonw/datasette-app-support/releases/tag/0.8) - 2021-09-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-verify 0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
 
 [datasette 0.59a2](https://github.com/simonw/datasette/releases/tag/0.59a2) - 2021-08-28
-
-[evernote-to-sqlite 0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - 2021-08-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

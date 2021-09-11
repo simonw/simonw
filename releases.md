@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->843<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->844<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
+<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.8](https://github.com/simonw/datasette-app-support/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-11
@@ -191,8 +193,6 @@ Listing <!-- releases_count starts -->843<!-- releases_count ends --> releases a
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br />Some examples plugins for Datasette
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.1](https://github.com/simonw/datasette-write/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-write/releases)) - 2020-07-01
-<br />Datasette plugin providing a UI for writing to the database
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01
 <br />Utilities to help run Datasette on Glitch
 * **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-init/releases)) - 2020-07-01
