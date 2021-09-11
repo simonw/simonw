@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->844<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->845<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.9](https://github.com/simonw/datasette-app-support/releases/tag/0.9) - ([11 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-11
+<br />Part of https://github.com/simonw/datasette-app
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
 <br />Datasette plugin that shows the schema version of every attached database
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.8](https://github.com/simonw/datasette-app-support/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-11
-<br />Part of https://github.com/simonw/datasette-app
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
 <br />Datasette plugin for importing tables from other Datasette instances
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [Datasette Desktop 0.1.0](https://github.com/simonw/datasette-app/releases/tag/0.1.0) - 2021-09-08
