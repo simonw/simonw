@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->846<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->847<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.10](https://github.com/simonw/datasette-app-support/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-12
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11](https://github.com/simonw/datasette-app-support/releases/tag/0.11) - ([13 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-12
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
