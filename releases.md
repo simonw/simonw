@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->852<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->853<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.4](https://github.com/simonw/datasette-app-support/releases/tag/0.11.4) - ([17 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-13
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.5](https://github.com/simonw/datasette-app-support/releases/tag/0.11.5) - ([18 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-13
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.0](https://github.com/simonw/datasette-app/releases/tag/0.2.0) - ([2 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
 <br />The Datasette macOS application
