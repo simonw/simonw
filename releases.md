@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->849<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->851<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.2](https://github.com/simonw/datasette-app-support/releases/tag/0.11.2) - ([15 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-12
+* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.0](https://github.com/simonw/datasette-app/releases/tag/0.2.0) - ([2 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
+<br />The Datasette macOS application
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.3](https://github.com/simonw/datasette-app-support/releases/tag/0.11.3) - ([16 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-13
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->849<!-- releases_count ends --> releases a
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
 <br />Datasette plugin for importing tables from other Datasette instances
-* **[datasette-app](https://github.com/simonw/datasette-app)**: [Datasette Desktop 0.1.0](https://github.com/simonw/datasette-app/releases/tag/0.1.0) - 2021-09-08
-<br />Electron app wrapping Datasette
 * **[pids](https://github.com/simonw/pids)**: [0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
 <br />A tiny Python library for generating public IDs from integers
 * **[datasette-verify](https://github.com/simonw/datasette-verify)**: [0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28

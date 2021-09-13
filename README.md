@@ -4,15 +4,15 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-app-support 0.11.2](https://github.com/simonw/datasette-app-support/releases/tag/0.11.2) - 2021-09-12
+[datasette-app 0.2.0](https://github.com/simonw/datasette-app/releases/tag/0.2.0) - 2021-09-13
+
+[datasette-app-support 0.11.3](https://github.com/simonw/datasette-app-support/releases/tag/0.11.3) - 2021-09-13
 
 [datasette-write 0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - 2021-09-11
 
 [datasette-schema-versions 0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - 2021-09-11
 
 [datasette-import-table 0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - 2021-09-08
-
-[datasette-app Datasette Desktop 0.1.0](https://github.com/simonw/datasette-app/releases/tag/0.1.0) - 2021-09-08
 
 [pids 0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
 
