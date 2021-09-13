@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->853<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->854<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.1](https://github.com/simonw/datasette-app/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
+<br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.5](https://github.com/simonw/datasette-app-support/releases/tag/0.11.5) - ([18 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-13
 <br />Part of https://github.com/simonw/datasette-app
-* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.0](https://github.com/simonw/datasette-app/releases/tag/0.2.0) - ([2 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
-<br />The Datasette macOS application
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
