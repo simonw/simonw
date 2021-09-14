@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->854<!-- releases_count ends --> releases across <!-- project_count starts -->122<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->855<!-- releases_count ends --> releases across <!-- project_count starts -->123<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
+<br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.1](https://github.com/simonw/datasette-app/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
 <br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.5](https://github.com/simonw/datasette-app-support/releases/tag/0.11.5) - ([18 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2021-09-13
