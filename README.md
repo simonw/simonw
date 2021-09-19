@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes number 100](http://simonwillison.net/2021/Sep/19/weeknotes/) - 2021-09-19
+
 [Datasette Desktop 0.2.0: The annotated release notes](http://simonwillison.net/2021/Sep/13/datasette-desktop-2/) - 2021-09-13
 
 [Datasette Desktop - a macOS desktop application for Datasette](http://simonwillison.net/2021/Sep/8/datasette-desktop/) - 2021-09-08
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building a desktop application for Datasette (and weeknotes)](http://simonwillison.net/2021/Aug/30/datasette-app/) - 2021-08-30
 
 [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](http://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/) - 2021-08-28
-
-[Weeknotes: Getting my personal Dogsheep up and running again](http://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/) - 2021-08-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
