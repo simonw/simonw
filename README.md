@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - 2021-09-22
+
 [twitter-to-sqlite 0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - 2021-09-21
 
 [datasette-statistics 0.1.1](https://github.com/simonw/datasette-statistics/releases/tag/0.1.1) - 2021-09-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-write 0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - 2021-09-11
 
 [datasette-schema-versions 0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - 2021-09-11
-
-[datasette-import-table 0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - 2021-09-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

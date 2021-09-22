@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->858<!-- releases_count ends --> releases across <!-- project_count starts -->124<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->859<!-- releases_count ends --> releases across <!-- project_count starts -->124<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - ([87 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-09-22
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.1.1](https://github.com/simonw/datasette-statistics/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-09-16
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->858<!-- releases_count ends --> releases a
 <br />An open source multi-tool for exploring and publishing data
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - ([5 releases total](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-08-26
 <br />Tools for converting Evernote content to SQLite
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - ([86 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-08-24
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2021-08-20
 <br />Convert an Apple Healthkit export zip to a SQLite database
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2021-08-19
