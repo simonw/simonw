@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-render-markdown 1.3](https://github.com/simonw/datasette-render-markdown/releases/tag/1.3) - 2021-09-22
+[datasette-render-markdown 2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - 2021-09-22
 
 [sqlite-utils 3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - 2021-09-22
 

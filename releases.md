@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->860<!-- releases_count ends --> releases across <!-- project_count starts -->124<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.3](https://github.com/simonw/datasette-render-markdown/releases/tag/1.3) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
 <br />Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - ([87 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-09-22
 <br />Python CLI utility and library for manipulating SQLite databases
