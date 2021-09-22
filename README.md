@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Loading lit from Skypack](https://til.simonwillison.net/javascript/lit-with-skypack) - 2021-09-22
+
 [Publishing to a public Google Cloud bucket with gsutil](https://til.simonwillison.net/googlecloud/gsutil-bucket) - 2021-09-20
 
 [Configuring auto-update for an Electron app](https://til.simonwillison.net/electron/electrion-auto-update) - 2021-09-14
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Cumulative total over time in SQL](https://til.simonwillison.net/sql/cumulative-total-over-time) - 2021-09-13
 
 [Bundling Python inside an Electron app](https://til.simonwillison.net/electron/python-inside-electron) - 2021-09-08
-
-[Signing and notarizing an Electron app for distribution using GitHub Actions](https://til.simonwillison.net/electron/sign-notarize-electron-macos) - 2021-09-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
