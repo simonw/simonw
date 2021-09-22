@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->859<!-- releases_count ends --> releases across <!-- project_count starts -->124<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->860<!-- releases_count ends --> releases across <!-- project_count starts -->124<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.3](https://github.com/simonw/datasette-render-markdown/releases/tag/1.3) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
+<br />Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - ([87 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-09-22
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
@@ -161,8 +163,6 @@ Listing <!-- releases_count starts -->859<!-- releases_count ends --> releases a
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-31
 <br />Datasette plugin for modifying table schemas
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [1.2](https://github.com/simonw/datasette-render-markdown/releases/tag/1.2) - ([7 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2020-10-28
-<br />Datasette plugin for rendering Markdown
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
