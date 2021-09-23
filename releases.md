@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->862<!-- releases_count ends --> releases across <!-- project_count starts -->125<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->863<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
+<br />Expose the Datasette request object to custom templates
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a1](https://github.com/simonw/datasette-notebook/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-09-22
 <br />A markdown wiki and dashboarding system for Datasette
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22

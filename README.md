@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-template-request 0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
+
 [datasette-notebook 0.1a1](https://github.com/simonw/datasette-notebook/releases/tag/0.1a1) - 2021-09-22
 
 [datasette-render-markdown 2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - 2021-09-22
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [json-flatten 0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
 
 [datasette-app 0.2.1](https://github.com/simonw/datasette-app/releases/tag/0.2.1) - 2021-09-13
-
-[datasette-app-support 0.11.5](https://github.com/simonw/datasette-app-support/releases/tag/0.11.5) - 2021-09-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
