@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using Fabric with an SSH public key](https://til.simonwillison.net/python/fabric-ssh-key) - 2021-10-06
+
 [Loading lit from Skypack](https://til.simonwillison.net/javascript/lit-with-skypack) - 2021-09-22
 
 [Publishing to a public Google Cloud bucket with gsutil](https://til.simonwillison.net/googlecloud/gsutil-bucket) - 2021-09-20
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Configuring auto-update for an Electron app](https://til.simonwillison.net/electron/electrion-auto-update) - 2021-09-14
 
 [Cumulative total over time in SQL](https://til.simonwillison.net/sql/cumulative-total-over-time) - 2021-09-13
-
-[Bundling Python inside an Electron app](https://til.simonwillison.net/electron/python-inside-electron) - 2021-09-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
