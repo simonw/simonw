@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Finding and reporting an asyncio bug in Python 3.10](http://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/) - 2021-10-09
+
 [Weeknotes: CDC vaccination history fixes, developing in GitHub Codespaces](http://simonwillison.net/2021/Sep/28/weeknotes/) - 2021-09-28
 
 [Weeknotes number 100](http://simonwillison.net/2021/Sep/19/weeknotes/) - 2021-09-19
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette Desktop 0.2.0: The annotated release notes](http://simonwillison.net/2021/Sep/13/datasette-desktop-2/) - 2021-09-13
 
 [Datasette Desktop - a macOS desktop application for Datasette](http://simonwillison.net/2021/Sep/8/datasette-desktop/) - 2021-09-08
-
-[Building a desktop application for Datasette (and weeknotes)](http://simonwillison.net/2021/Aug/30/datasette-app/) - 2021-08-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
