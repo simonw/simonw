@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->863<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->864<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.59](https://github.com/simonw/datasette/releases/tag/0.59) - ([98 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-14
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <br />Expose the Datasette request object to custom templates
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a1](https://github.com/simonw/datasette-notebook/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-09-22
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->863<!-- releases_count ends --> releases a
 <br />A tiny Python library for generating public IDs from integers
 * **[datasette-verify](https://github.com/simonw/datasette-verify)**: [0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
 <br />Verify that files can be opened by Datasette
-* **[datasette](https://github.com/simonw/datasette)**: [0.59a2](https://github.com/simonw/datasette/releases/tag/0.59a2) - ([97 releases total](https://github.com/simonw/datasette/releases)) - 2021-08-28
-<br />An open source multi-tool for exploring and publishing data
 * **[evernote-to-sqlite](https://github.com/dogsheep/evernote-to-sqlite)**: [0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - ([5 releases total](https://github.com/dogsheep/evernote-to-sqlite/releases)) - 2021-08-26
 <br />Tools for converting Evernote content to SQLite
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)**: [1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/dogsheep/healthkit-to-sqlite/releases)) - 2021-08-20
