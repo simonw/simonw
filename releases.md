@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->864<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->865<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2021-10-15
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [0.59](https://github.com/simonw/datasette/releases/tag/0.59) - ([98 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-14
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
@@ -197,8 +199,6 @@ Listing <!-- releases_count starts -->864<!-- releases_count ends --> releases a
 <br />Datasette plugin for serving media based on a SQL query
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
 <br />Create a local copy of database files from a Datasette instance
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.2.2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2) - ([6 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2020-07-20
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <br />Some examples plugins for Datasette
 * **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01
