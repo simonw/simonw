@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->865<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->866<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-10-15
+<br />SQL statistics functions for Datasette
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2021-10-15
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [0.59](https://github.com/simonw/datasette/releases/tag/0.59) - ([98 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-14
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->865<!-- releases_count ends --> releases a
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
-* **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.1.1](https://github.com/simonw/datasette-statistics/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-09-16
-<br />SQL statistics functions for Datasette
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.1](https://github.com/simonw/datasette-app/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
