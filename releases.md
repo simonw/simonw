@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->866<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->867<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.11](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11) - ([17 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-10-18
+<br />Datasette plugin for publishing data using Vercel
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-10-15
 <br />SQL statistics functions for Datasette
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2021-10-15
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->866<!-- releases_count ends --> releases a
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
 <br />Datasette plugin that adds a custom SQL function for haversine distances
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.10](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10) - ([16 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-07-25
-<br />Datasette plugin for publishing data using Vercel
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
