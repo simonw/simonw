@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->867<!-- releases_count ends --> releases across <!-- project_count starts -->126<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->868<!-- releases_count ends --> releases across <!-- project_count starts -->127<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1) - 2021-10-21
+<br />The hello world of Datasette plugins
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.11](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11) - ([17 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-10-18
 <br />Datasette plugin for publishing data using Vercel
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-10-15
