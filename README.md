@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Removing a git commit and force pushing to remove it from history](https://til.simonwillison.net/git/remove-commit-and-force-push) - 2021-10-22
+
 [Using the sqlite3 Python module in Pyodide - Python WebAssembly](https://til.simonwillison.net/python/sqlite-in-pyodide) - 2021-10-18
 
 [Using Fabric with an SSH public key](https://til.simonwillison.net/python/fabric-ssh-key) - 2021-10-06
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Loading lit from Skypack](https://til.simonwillison.net/javascript/lit-with-skypack) - 2021-09-22
 
 [Publishing to a public Google Cloud bucket with gsutil](https://til.simonwillison.net/googlecloud/gsutil-bucket) - 2021-09-20
-
-[Configuring auto-update for an Electron app](https://til.simonwillison.net/electron/electrion-auto-update) - 2021-09-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
