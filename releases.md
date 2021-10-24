@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->868<!-- releases_count ends --> releases across <!-- project_count starts -->127<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->869<!-- releases_count ends --> releases across <!-- project_count starts -->127<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.59.1](https://github.com/simonw/datasette/releases/tag/0.59.1) - ([99 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-24
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1) - 2021-10-21
 <br />The hello world of Datasette plugins
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.11](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11) - ([17 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-10-18
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->868<!-- releases_count ends --> releases a
 <br />SQL statistics functions for Datasette
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2021-10-15
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette](https://github.com/simonw/datasette)**: [0.59](https://github.com/simonw/datasette/releases/tag/0.59) - ([98 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-14
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <br />Expose the Datasette request object to custom templates
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a1](https://github.com/simonw/datasette-notebook/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-09-22
