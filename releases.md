@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->871<!-- releases_count ends --> releases across <!-- project_count starts -->128<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->872<!-- releases_count ends --> releases across <!-- project_count starts -->128<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a2](https://github.com/simonw/datasette-notebook/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
+* **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
 <br />A markdown wiki and dashboarding system for Datasette
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a0](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0) - 2021-11-01
 <br />JupyterLite as a Datasette plugin
