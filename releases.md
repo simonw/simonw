@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->870<!-- releases_count ends --> releases across <!-- project_count starts -->128<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->871<!-- releases_count ends --> releases across <!-- project_count starts -->128<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a2](https://github.com/simonw/datasette-notebook/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
+<br />A markdown wiki and dashboarding system for Datasette
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a0](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0) - 2021-11-01
 <br />JupyterLite as a Datasette plugin
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.1](https://github.com/simonw/datasette/releases/tag/0.59.1) - ([99 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-24
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->870<!-- releases_count ends --> releases a
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <br />Expose the Datasette request object to custom templates
-* **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.1a1](https://github.com/simonw/datasette-notebook/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-09-22
-<br />A markdown wiki and dashboarding system for Datasette
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
 <br />Datasette plugin for rendering Markdown
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - ([87 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-09-22
