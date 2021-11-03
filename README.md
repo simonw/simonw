@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.2](https://github.com/simonw/s3-credentials/releases/tag/0.2) - 2021-11-03
+
 [datasette-notebook 0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - 2021-11-02
 
 [datasette-jupyterlite 0.1a0](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0) - 2021-11-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-statistics 0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - 2021-10-15
 
 [datasette-auth-tokens 0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - 2021-10-15
-
-[datasette-template-request 0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Quick and dirty mock testing with mock_calls](https://til.simonwillison.net/pytest/pytest-mock-calls) - 2021-11-03
+
 [Using VCR and pytest with pytest-recording](https://til.simonwillison.net/pytest/pytest-recording-vcr) - 2021-11-03
 
 [Understanding Kristofer Joseph's Single File Web Component](https://til.simonwillison.net/web-components/understanding-single-file-web-component) - 2021-10-28
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Removing a git commit and force pushing to remove it from history](https://til.simonwillison.net/git/remove-commit-and-force-push) - 2021-10-22
 
 [Using the sqlite3 Python module in Pyodide - Python WebAssembly](https://til.simonwillison.net/python/sqlite-in-pyodide) - 2021-10-18
-
-[Using Fabric with an SSH public key](https://til.simonwillison.net/python/fabric-ssh-key) - 2021-10-06
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
