@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[s3-credentials 0.2](https://github.com/simonw/s3-credentials/releases/tag/0.2) - 2021-11-03
+[s3-credentials 0.3](https://github.com/simonw/s3-credentials/releases/tag/0.3) - 2021-11-03
 
 [datasette-notebook 0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - 2021-11-02
 
