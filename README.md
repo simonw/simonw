@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using VCR and pytest with pytest-recording](https://til.simonwillison.net/pytest/pytest-recording-vcr) - 2021-11-03
+
 [Understanding Kristofer Joseph's Single File Web Component](https://til.simonwillison.net/web-components/understanding-single-file-web-component) - 2021-10-28
 
 [Removing a git commit and force pushing to remove it from history](https://til.simonwillison.net/git/remove-commit-and-force-push) - 2021-10-22
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using the sqlite3 Python module in Pyodide - Python WebAssembly](https://til.simonwillison.net/python/sqlite-in-pyodide) - 2021-10-18
 
 [Using Fabric with an SSH public key](https://til.simonwillison.net/python/fabric-ssh-key) - 2021-10-06
-
-[Loading lit from Skypack](https://til.simonwillison.net/javascript/lit-with-skypack) - 2021-09-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
