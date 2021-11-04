@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[How to build, test and publish an open source Python library](http://simonwillison.net/2021/Nov/4/publish-open-source-python-library/) - 2021-11-04
+
 [s3-credentials: a tool for creating credentials for S3 buckets](http://simonwillison.net/2021/Nov/3/s3-credentials/) - 2021-11-03
 
 [Weeknotes: Learning Kubernetes, learning Web Components](http://simonwillison.net/2021/Oct/28/weeknotes-kubernetes-web-components/) - 2021-10-28
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 0.59: The annotated release notes](http://simonwillison.net/2021/Oct/19/datasette-059/) - 2021-10-19
 
 [Finding and reporting an asyncio bug in Python 3.10](http://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/) - 2021-10-09
-
-[Weeknotes: CDC vaccination history fixes, developing in GitHub Codespaces](http://simonwillison.net/2021/Sep/28/weeknotes/) - 2021-09-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
