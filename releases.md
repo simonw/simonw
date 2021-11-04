@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->875<!-- releases_count ends --> releases across <!-- project_count starts -->129<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->876<!-- releases_count ends --> releases across <!-- project_count starts -->129<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.3](https://github.com/simonw/s3-credentials/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-03
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.4](https://github.com/simonw/s3-credentials/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-04
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
 <br />A markdown wiki and dashboarding system for Datasette
