@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->876<!-- releases_count ends --> releases across <!-- project_count starts -->129<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->877<!-- releases_count ends --> releases across <!-- project_count starts -->129<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
+<br />JupyterLite as a Datasette plugin
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.4](https://github.com/simonw/s3-credentials/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-04
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
 <br />A markdown wiki and dashboarding system for Datasette
-* **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a0](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0) - 2021-11-01
-<br />JupyterLite as a Datasette plugin
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.1](https://github.com/simonw/datasette/releases/tag/0.59.1) - ([99 releases total](https://github.com/simonw/datasette/releases)) - 2021-10-24
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1) - 2021-10-21

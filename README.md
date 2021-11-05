@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-jupyterlite 0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - 2021-11-05
+
 [s3-credentials 0.4](https://github.com/simonw/s3-credentials/releases/tag/0.4) - 2021-11-04
 
 [datasette-notebook 0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - 2021-11-02
-
-[datasette-jupyterlite 0.1a0](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0) - 2021-11-01
 
 [datasette 0.59.1](https://github.com/simonw/datasette/releases/tag/0.59.1) - 2021-10-24
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-jupyterlite, s3-credentials and a Python packaging talk](http://simonwillison.net/2021/Nov/5/datasette-jupyterlite/) - 2021-11-05
+
 [How to build, test and publish an open source Python library](http://simonwillison.net/2021/Nov/4/publish-open-source-python-library/) - 2021-11-04
 
 [s3-credentials: a tool for creating credentials for S3 buckets](http://simonwillison.net/2021/Nov/3/s3-credentials/) - 2021-11-03
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Learning Kubernetes, learning Web Components](http://simonwillison.net/2021/Oct/28/weeknotes-kubernetes-web-components/) - 2021-10-28
 
 [Datasette 0.59: The annotated release notes](http://simonwillison.net/2021/Oct/19/datasette-059/) - 2021-10-19
-
-[Finding and reporting an asyncio bug in Python 3.10](http://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/) - 2021-10-09
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
