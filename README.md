@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Basic Datasette in Kubernetes](https://til.simonwillison.net/kubernetes/basic-datasette-in-kubernetes) - 2021-11-05
+
 [Quick and dirty mock testing with mock_calls](https://til.simonwillison.net/pytest/pytest-mock-calls) - 2021-11-03
 
 [Using VCR and pytest with pytest-recording](https://til.simonwillison.net/pytest/pytest-recording-vcr) - 2021-11-03
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Understanding Kristofer Joseph's Single File Web Component](https://til.simonwillison.net/web-components/understanding-single-file-web-component) - 2021-10-28
 
 [Removing a git commit and force pushing to remove it from history](https://til.simonwillison.net/git/remove-commit-and-force-push) - 2021-10-22
-
-[Using the sqlite3 Python module in Pyodide - Python WebAssembly](https://til.simonwillison.net/python/sqlite-in-pyodide) - 2021-10-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
