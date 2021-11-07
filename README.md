@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo) - 2021-11-07
+
 [Basic Datasette in Kubernetes](https://til.simonwillison.net/kubernetes/basic-datasette-in-kubernetes) - 2021-11-05
 
 [Quick and dirty mock testing with mock_calls](https://til.simonwillison.net/pytest/pytest-mock-calls) - 2021-11-03
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using VCR and pytest with pytest-recording](https://til.simonwillison.net/pytest/pytest-recording-vcr) - 2021-11-03
 
 [Understanding Kristofer Joseph's Single File Web Component](https://til.simonwillison.net/web-components/understanding-single-file-web-component) - 2021-10-28
-
-[Removing a git commit and force pushing to remove it from history](https://til.simonwillison.net/git/remove-commit-and-force-push) - 2021-10-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
