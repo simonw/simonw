@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-jupyterlite 0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - 2021-11-05
+[s3-credentials 0.5](https://github.com/simonw/s3-credentials/releases/tag/0.5) - 2021-11-11
 
-[s3-credentials 0.4](https://github.com/simonw/s3-credentials/releases/tag/0.4) - 2021-11-04
+[datasette-jupyterlite 0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - 2021-11-05
 
 [datasette-notebook 0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - 2021-11-02
 
