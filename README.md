@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[git-history 0.1](https://github.com/simonw/git-history/releases/tag/0.1) - 2021-11-12
+[git-history 0.2](https://github.com/simonw/git-history/releases/tag/0.2) - 2021-11-12
 
 [s3-credentials 0.5](https://github.com/simonw/s3-credentials/releases/tag/0.5) - 2021-11-11
 
