@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->880<!-- releases_count ends --> releases across <!-- project_count starts -->130<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->881<!-- releases_count ends --> releases across <!-- project_count starts -->130<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[git-history](https://github.com/simonw/git-history)**: [0.2](https://github.com/simonw/git-history/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-12
+* **[git-history](https://github.com/simonw/git-history)**: [0.2.1](https://github.com/simonw/git-history/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-12
 <br />Tools for analyzing Git history using SQLite
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.5](https://github.com/simonw/s3-credentials/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-11
 <br />A tool for creating credentials for accessing S3 buckets
