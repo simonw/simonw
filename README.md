@@ -4,8 +4,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.59.2](https://github.com/simonw/datasette/releases/tag/0.59.2) - 2021-11-14
-
 [datasette-hello-world 0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - 2021-11-14
 
 [git-history 0.3.1](https://github.com/simonw/git-history/releases/tag/0.3.1) - 2021-11-12
@@ -15,6 +13,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-jupyterlite 0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - 2021-11-05
 
 [datasette-notebook 0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - 2021-11-02
+
+[datasette 0.59.1](https://github.com/simonw/datasette/releases/tag/0.59.1) - 2021-10-24
 
 [datasette-publish-vercel 0.11](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11) - 2021-10-18
 
