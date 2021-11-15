@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->885<!-- releases_count ends --> releases across <!-- project_count starts -->130<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->886<!-- releases_count ends --> releases across <!-- project_count starts -->130<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.18](https://github.com/simonw/sqlite-utils/releases/tag/3.18) - ([88 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-15
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.2](https://github.com/simonw/datasette/releases/tag/0.59.2) - ([100 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-14
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->885<!-- releases_count ends --> releases a
 <br />Expose the Datasette request object to custom templates
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
 <br />Datasette plugin for rendering Markdown
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.17.1](https://github.com/simonw/sqlite-utils/releases/tag/3.17.1) - ([87 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-09-22
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
