@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Planning parallel downloads with TopologicalSorter](https://til.simonwillison.net/python/graphlib-topologicalsorter) - 2021-11-16
+
 [Using Tesseract.js to OCR every image on a page](https://til.simonwillison.net/javascript/tesseract-ocr-javascript) - 2021-11-09
 
 [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo) - 2021-11-07
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Basic Datasette in Kubernetes](https://til.simonwillison.net/kubernetes/basic-datasette-in-kubernetes) - 2021-11-05
 
 [Quick and dirty mock testing with mock_calls](https://til.simonwillison.net/pytest/pytest-mock-calls) - 2021-11-03
-
-[Using VCR and pytest with pytest-recording](https://til.simonwillison.net/pytest/pytest-recording-vcr) - 2021-11-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
