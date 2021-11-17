@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->888<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->889<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - ([32 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-11-17
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-11-17
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.18](https://github.com/simonw/sqlite-utils/releases/tag/3.18) - ([88 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-15
@@ -73,8 +75,6 @@ Listing <!-- releases_count starts -->888<!-- releases_count ends --> releases a
 <br />Datasette plugin that adds a custom SQL function for haversine distances
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [1.5](https://github.com/simonw/datasette-graphql/releases/tag/1.5) - ([31 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-07-16
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
