@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->887<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->888<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.1a0](https://github.com/simonw/asyncinject/releases/tag/0.1a0) - 2021-11-17
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-11-17
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.18](https://github.com/simonw/sqlite-utils/releases/tag/3.18) - ([88 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-15
 <br />Python CLI utility and library for manipulating SQLite databases

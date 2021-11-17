@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[asyncinject 0.1a0](https://github.com/simonw/asyncinject/releases/tag/0.1a0) - 2021-11-17
+[asyncinject 0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - 2021-11-17
 
 [sqlite-utils 3.18](https://github.com/simonw/sqlite-utils/releases/tag/3.18) - 2021-11-15
 
