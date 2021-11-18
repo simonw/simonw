@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->890<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->891<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-18
+<br />A tool for creating credentials for accessing S3 buckets
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
 <br />Convert CSV files into a SQLite database
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - ([32 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-11-17
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->890<!-- releases_count ends --> releases a
 <br />The hello world of Datasette plugins
 * **[git-history](https://github.com/simonw/git-history)**: [0.3.1](https://github.com/simonw/git-history/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-12
 <br />Tools for analyzing Git history using SQLite
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.5](https://github.com/simonw/s3-credentials/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-11
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
 <br />JupyterLite as a Datasette plugin
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
