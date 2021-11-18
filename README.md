@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[csvs-to-sqlite 1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - 2021-11-18
+
 [datasette-graphql 2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - 2021-11-17
 
 [asyncinject 0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - 2021-11-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [git-history 0.3.1](https://github.com/simonw/git-history/releases/tag/0.3.1) - 2021-11-12
 
 [s3-credentials 0.5](https://github.com/simonw/s3-credentials/releases/tag/0.5) - 2021-11-11
-
-[datasette-jupyterlite 0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - 2021-11-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using cog to update --help in a Markdown README file](https://til.simonwillison.net/python/cog-to-update-help-in-readme) - 2021-11-18
+
 [Planning parallel downloads with TopologicalSorter](https://til.simonwillison.net/python/graphlib-topologicalsorter) - 2021-11-16
 
 [Using Tesseract.js to OCR every image on a page](https://til.simonwillison.net/javascript/tesseract-ocr-javascript) - 2021-11-09
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo) - 2021-11-07
 
 [Basic Datasette in Kubernetes](https://til.simonwillison.net/kubernetes/basic-datasette-in-kubernetes) - 2021-11-05
-
-[Quick and dirty mock testing with mock_calls](https://til.simonwillison.net/pytest/pytest-mock-calls) - 2021-11-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

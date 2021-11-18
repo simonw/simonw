@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->889<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->890<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
+<br />Convert CSV files into a SQLite database
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - ([32 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-11-17
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-11-17
@@ -173,8 +175,6 @@ Listing <!-- releases_count starts -->889<!-- releases_count ends --> releases a
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
 <br />Custom Python functions for working with SQLite FTS4
-* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.2](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.2) - ([12 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2020-11-03
-<br />Convert CSV files into a SQLite database
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-31
