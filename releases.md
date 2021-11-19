@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->891<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->892<!-- releases_count ends --> releases across <!-- project_count starts -->131<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.19a0](https://github.com/simonw/sqlite-utils/releases/tag/3.19a0) - ([89 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-19
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-18
 <br />A tool for creating credentials for accessing S3 buckets
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->891<!-- releases_count ends --> releases a
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-11-17
 <br />Run async workflows using pytest-fixtures-style dependency injection
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.18](https://github.com/simonw/sqlite-utils/releases/tag/3.18) - ([88 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-15
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.2](https://github.com/simonw/datasette/releases/tag/0.59.2) - ([100 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-14
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
