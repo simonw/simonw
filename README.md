@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using build-arg variables with Cloud Run deployments](https://til.simonwillison.net/cloudrun/using-build-args-with-cloud-run) - 2021-11-20
+
 [Using cog to update --help in a Markdown README file](https://til.simonwillison.net/python/cog-to-update-help-in-readme) - 2021-11-18
 
 [Planning parallel downloads with TopologicalSorter](https://til.simonwillison.net/python/graphlib-topologicalsorter) - 2021-11-16
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using Tesseract.js to OCR every image on a page](https://til.simonwillison.net/javascript/tesseract-ocr-javascript) - 2021-11-09
 
 [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo) - 2021-11-07
-
-[Basic Datasette in Kubernetes](https://til.simonwillison.net/kubernetes/basic-datasette-in-kubernetes) - 2021-11-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
