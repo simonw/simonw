@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.59.3](https://github.com/simonw/datasette/releases/tag/0.59.3) - 2021-11-20
+
 [datasette-redirect-to-https 0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
 
 [sqlite-utils 3.19a0](https://github.com/simonw/sqlite-utils/releases/tag/3.19a0) - 2021-11-19
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-graphql 2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - 2021-11-17
 
 [asyncinject 0.2a0](https://github.com/simonw/asyncinject/releases/tag/0.2a0) - 2021-11-17
-
-[datasette 0.59.2](https://github.com/simonw/datasette/releases/tag/0.59.2) - 2021-11-14
 
 [datasette-hello-world 0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - 2021-11-14
 <!-- recent_releases ends -->
