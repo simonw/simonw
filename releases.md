@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->895<!-- releases_count ends --> releases across <!-- project_count starts -->132<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->896<!-- releases_count ends --> releases across <!-- project_count starts -->132<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[git-history](https://github.com/simonw/git-history)**: [0.4](https://github.com/simonw/git-history/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-21
+<br />Tools for analyzing Git history using SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - ([90 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-21
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.3](https://github.com/simonw/datasette/releases/tag/0.59.3) - ([101 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-20
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->895<!-- releases_count ends --> releases a
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
 <br />The hello world of Datasette plugins
-* **[git-history](https://github.com/simonw/git-history)**: [0.3.1](https://github.com/simonw/git-history/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-12
-<br />Tools for analyzing Git history using SQLite
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
 <br />JupyterLite as a Datasette plugin
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
