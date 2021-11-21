@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - 2021-11-21
+
 [datasette 0.59.3](https://github.com/simonw/datasette/releases/tag/0.59.3) - 2021-11-20
 
 [datasette-redirect-to-https 0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
-
-[sqlite-utils 3.19a0](https://github.com/simonw/sqlite-utils/releases/tag/3.19a0) - 2021-11-19
 
 [s3-credentials 0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - 2021-11-18
 
