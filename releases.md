@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->896<!-- releases_count ends --> releases across <!-- project_count starts -->132<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->897<!-- releases_count ends --> releases across <!-- project_count starts -->132<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
+<br />Datasette plugin for publishing data using Vercel
 * **[git-history](https://github.com/simonw/git-history)**: [0.4](https://github.com/simonw/git-history/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-21
 <br />Tools for analyzing Git history using SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - ([90 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-21
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->896<!-- releases_count ends --> releases a
 <br />JupyterLite as a Datasette plugin
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
 <br />A markdown wiki and dashboarding system for Datasette
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.11](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11) - ([17 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-10-18
-<br />Datasette plugin for publishing data using Vercel
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-10-15
 <br />SQL statistics functions for Datasette
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2021-10-15
