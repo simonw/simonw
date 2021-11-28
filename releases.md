@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->897<!-- releases_count ends --> releases across <!-- project_count starts -->132<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->898<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
+<br />A Web Component for embedding a Datasette table on a page
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
 <br />Datasette plugin for publishing data using Vercel
 * **[git-history](https://github.com/simonw/git-history)**: [0.4](https://github.com/simonw/git-history/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-21
