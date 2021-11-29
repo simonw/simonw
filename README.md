@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Reusing an existing Click tool with register_commands](https://til.simonwillison.net/datasette/reuse-click-for-register-commands) - 2021-11-29
+
 [Publishing a Web Component to npm](https://til.simonwillison.net/npm/publish-web-component) - 2021-11-28
 
 [Pausing traffic and retrying in Caddy](https://til.simonwillison.net/caddy/pause-retry-traffic) - 2021-11-25
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Assigning a custom subdomain to a Fly app](https://til.simonwillison.net/fly/custom-subdomain-fly) - 2021-11-20
 
 [Using build-arg variables with Cloud Run deployments](https://til.simonwillison.net/cloudrun/using-build-args-with-cloud-run) - 2021-11-20
-
-[Using cog to update --help in a Markdown README file](https://til.simonwillison.net/python/cog-to-update-help-in-readme) - 2021-11-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
