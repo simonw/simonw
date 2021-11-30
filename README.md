@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - 2021-11-30
+
 [datasette 0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - 2021-11-30
 
 [datasette-table 0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - 2021-11-21
 
 [datasette-redirect-to-https 0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
-
-[s3-credentials 0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - 2021-11-18
 
 [csvs-to-sqlite 1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - 2021-11-18
 <!-- recent_releases ends -->

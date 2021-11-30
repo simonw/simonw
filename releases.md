@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->899<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->900<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-30
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - ([102 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-30
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->899<!-- releases_count ends --> releases a
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
 <br />Datasette plugin that redirects all non-https requests to https
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-18
-<br />A tool for creating credentials for accessing S3 buckets
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
 <br />Convert CSV files into a SQLite database
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - ([32 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-11-17
