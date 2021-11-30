@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->898<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->899<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - ([102 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-30
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->898<!-- releases_count ends --> releases a
 <br />Tools for analyzing Git history using SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - ([90 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-21
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette](https://github.com/simonw/datasette)**: [0.59.3](https://github.com/simonw/datasette/releases/tag/0.59.3) - ([101 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-20
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
 <br />Datasette plugin that redirects all non-https requests to https
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.6](https://github.com/simonw/s3-credentials/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-18
