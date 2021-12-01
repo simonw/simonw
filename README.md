@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Shaving some beautiful yaks](http://simonwillison.net/2021/Dec/1/beautiful-yaks/) - 2021-12-01
+
 [Weeknotes: Apache proxies in Docker containers, refactoring Datasette](http://simonwillison.net/2021/Nov/22/apache-proxies-datasette/) - 2021-11-22
 
 [Weeknotes: git-history, created for a Git scraping workshop](http://simonwillison.net/2021/Nov/15/weeknotes-git-history/) - 2021-11-15
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: datasette-jupyterlite, s3-credentials and a Python packaging talk](http://simonwillison.net/2021/Nov/5/datasette-jupyterlite/) - 2021-11-05
 
 [How to build, test and publish an open source Python library](http://simonwillison.net/2021/Nov/4/publish-open-source-python-library/) - 2021-11-04
-
-[s3-credentials: a tool for creating credentials for S3 buckets](http://simonwillison.net/2021/Nov/3/s3-credentials/) - 2021-11-03
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
