@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->900<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->901<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
+<br />Save data from GitHub to a SQLite database
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-30
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - ([102 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-30
@@ -159,8 +161,6 @@ Listing <!-- releases_count starts -->900<!-- releases_count ends --> releases a
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.2](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.2) - ([21 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2020-12-16
-<br />Save data from GitHub to a SQLite database
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
 <br />Experimental plugin that adds a column inspector
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.1](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1) - 2020-12-09
