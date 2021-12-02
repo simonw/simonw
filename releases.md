@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->901<!-- releases_count ends --> releases across <!-- project_count starts -->133<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->902<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
+<br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
 <br />Save data from GitHub to a SQLite database
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-30
