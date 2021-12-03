@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->902<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->903<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[git-history](https://github.com/simonw/git-history)**: [0.5](https://github.com/simonw/git-history/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-03
+<br />Tools for analyzing Git history using SQLite
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->902<!-- releases_count ends --> releases a
 <br />A Web Component for embedding a Datasette table on a page
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
 <br />Datasette plugin for publishing data using Vercel
-* **[git-history](https://github.com/simonw/git-history)**: [0.4](https://github.com/simonw/git-history/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/git-history/releases)) - 2021-11-21
-<br />Tools for analyzing Git history using SQLite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - ([90 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2021-11-21
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20

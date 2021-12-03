@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[git-history 0.5](https://github.com/simonw/git-history/releases/tag/0.5) - 2021-12-03
+
 [datasette-hovercards 0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 
 [github-to-sqlite 2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - 2021-12-01
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-table 0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 
 [datasette-publish-vercel 0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - 2021-11-22
-
-[git-history 0.4](https://github.com/simonw/git-history/releases/tag/0.4) - 2021-11-21
 
 [sqlite-utils 3.19](https://github.com/simonw/sqlite-utils/releases/tag/3.19) - 2021-11-21
 <!-- recent_releases ends -->
