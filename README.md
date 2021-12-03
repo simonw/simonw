@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[__init_subclass__](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
+
 [Ignoring a line in both flake8 and mypy](https://til.simonwillison.net/python/ignore-both-flake8-and-mypy) - 2021-12-01
 
 [Reusing an existing Click tool with register_commands](https://til.simonwillison.net/datasette/reuse-click-for-register-commands) - 2021-11-29
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Publishing a Web Component to npm](https://til.simonwillison.net/npm/publish-web-component) - 2021-11-28
 
 [Pausing traffic and retrying in Caddy](https://til.simonwillison.net/caddy/pause-retry-traffic) - 2021-11-25
-
-[Assigning a custom subdomain to a Fly app](https://til.simonwillison.net/fly/custom-subdomain-fly) - 2021-11-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
