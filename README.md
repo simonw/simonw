@@ -40,7 +40,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Storing files in S3 bucket between GitHub Actions runs](https://til.simonwillison.net/github-actions/s3-bucket-github-actions) - 2021-12-07
+[Storing files in an S3 bucket between GitHub Actions runs](https://til.simonwillison.net/github-actions/s3-bucket-github-actions) - 2021-12-07
 
 [__init_subclass__](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
 
