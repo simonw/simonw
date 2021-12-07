@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->906<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->907<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
+<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[git-history](https://github.com/simonw/git-history)**: [0.6](https://github.com/simonw/git-history/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-07
 <br />Tools for analyzing Git history using SQLite
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-12-07
@@ -149,8 +151,6 @@ Listing <!-- releases_count starts -->906<!-- releases_count ends --> releases a
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - ([19 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-02-01
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
 <br />Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29

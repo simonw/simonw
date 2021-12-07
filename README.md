@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cluster-map 0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - 2021-12-07
+
 [git-history 0.6](https://github.com/simonw/git-history/releases/tag/0.6) - 2021-12-07
 
 [s3-credentials 0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - 2021-12-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - 2021-11-30
 
 [datasette-table 0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
-
-[datasette-publish-vercel 0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - 2021-11-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
