@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - 2021-12-07
+
 [asyncinject 0.2a1](https://github.com/simonw/asyncinject/releases/tag/0.2a1) - 2021-12-03
 
 [git-history 0.5](https://github.com/simonw/git-history/releases/tag/0.5) - 2021-12-03
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-hovercards 0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 
 [github-to-sqlite 2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - 2021-12-01
-
-[s3-credentials 0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - 2021-11-30
 
 [datasette 0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - 2021-11-30
 

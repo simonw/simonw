@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->904<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->905<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-12-07
+<br />A tool for creating credentials for accessing S3 buckets
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a1](https://github.com/simonw/asyncinject/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-03
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[git-history](https://github.com/simonw/git-history)**: [0.5](https://github.com/simonw/git-history/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-03
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->904<!-- releases_count ends --> releases a
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
 <br />Save data from GitHub to a SQLite database
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.7](https://github.com/simonw/s3-credentials/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-11-30
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette](https://github.com/simonw/datasette)**: [0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - ([102 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-30
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
