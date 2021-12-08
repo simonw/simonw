@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->907<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->908<!-- releases_count ends --> releases across <!-- project_count starts -->134<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
+<br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[git-history](https://github.com/simonw/git-history)**: [0.6](https://github.com/simonw/git-history/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-07
-<br />Tools for analyzing Git history using SQLite
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-12-07
 <br />A tool for creating credentials for accessing S3 buckets
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a1](https://github.com/simonw/asyncinject/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-03
