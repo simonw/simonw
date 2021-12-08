@@ -42,11 +42,11 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils starts -->
 [Storing files in an S3 bucket between GitHub Actions runs](https://til.simonwillison.net/github-actions/s3-bucket-github-actions) - 2021-12-07
 
-[__init_subclass__](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
+[\_\_init\_subclass\_\_](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
 
 [Ignoring a line in both flake8 and mypy](https://til.simonwillison.net/python/ignore-both-flake8-and-mypy) - 2021-12-01
 
-[Reusing an existing Click tool with register_commands](https://til.simonwillison.net/datasette/reuse-click-for-register-commands) - 2021-11-29
+[Reusing an existing Click tool with register\_commands](https://til.simonwillison.net/datasette/reuse-click-for-register-commands) - 2021-11-29
 
 [Publishing a Web Component to npm](https://til.simonwillison.net/npm/publish-web-component) - 2021-11-28
 <!-- tils ends -->
