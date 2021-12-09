@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using C\_INCLUDE\_PATH to install Python packages](https://til.simonwillison.net/python/using-c-include-path-to-install-python-packages) - 2021-12-09
+
 [Storing files in an S3 bucket between GitHub Actions runs](https://til.simonwillison.net/github-actions/s3-bucket-github-actions) - 2021-12-07
 
 [\_\_init\_subclass\_\_](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Ignoring a line in both flake8 and mypy](https://til.simonwillison.net/python/ignore-both-flake8-and-mypy) - 2021-12-01
 
 [Reusing an existing Click tool with register\_commands](https://til.simonwillison.net/datasette/reuse-click-for-register-commands) - 2021-11-29
-
-[Publishing a Web Component to npm](https://til.simonwillison.net/npm/publish-web-component) - 2021-11-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
