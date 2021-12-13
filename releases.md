@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->909<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->910<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.1) - 2021-12-13
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.2](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-13
 <br />Prettier formatting for ?_trace=1 traces
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
 <br />Tools for analyzing Git history using SQLite
