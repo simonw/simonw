@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Trapped in an eternal refactor](http://simonwillison.net/2021/Dec/16/eternal-refactor/) - 2021-12-16
+
 [Weeknotes: git-history, bug magnets and s3-credentials --public](http://simonwillison.net/2021/Dec/8/weeknotes/) - 2021-12-08
 
 [git-history: a tool for analyzing scraped data collected using Git and SQLite](http://simonwillison.net/2021/Dec/7/git-history/) - 2021-12-07
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Shaving some beautiful yaks](http://simonwillison.net/2021/Dec/1/beautiful-yaks/) - 2021-12-01
 
 [Weeknotes: Apache proxies in Docker containers, refactoring Datasette](http://simonwillison.net/2021/Nov/22/apache-proxies-datasette/) - 2021-11-22
-
-[Weeknotes: git-history, created for a Git scraping workshop](http://simonwillison.net/2021/Nov/15/weeknotes-git-history/) - 2021-11-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
