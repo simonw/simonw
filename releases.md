@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->911<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->912<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.60a0](https://github.com/simonw/datasette/releases/tag/0.60a0) - ([103 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-17
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.2.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-13
 <br />Prettier formatting for ?_trace=1 traces
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->911<!-- releases_count ends --> releases a
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
 <br />Save data from GitHub to a SQLite database
-* **[datasette](https://github.com/simonw/datasette)**: [0.59.4](https://github.com/simonw/datasette/releases/tag/0.59.4) - ([102 releases total](https://github.com/simonw/datasette/releases)) - 2021-11-30
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
