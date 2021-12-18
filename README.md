@@ -40,15 +40,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Safely outputting JSON](https://til.simonwillison.net/python/safe-output-json) - 2021-12-18
+
+[Creating a minimal SpatiaLite database with Python](https://til.simonwillison.net/spatialite/minimal-spatialite-database-in-python) - 2021-12-17
+
 [Registering the same Pluggy hook multiple times in a single file](https://til.simonwillison.net/pluggy/multiple-hooks-same-file) - 2021-12-16
 
 [Using lsof on macOS](https://til.simonwillison.net/macos/lsof-macos) - 2021-12-11
 
 [Using C\_INCLUDE\_PATH to install Python packages](https://til.simonwillison.net/python/using-c-include-path-to-install-python-packages) - 2021-12-09
-
-[Storing files in an S3 bucket between GitHub Actions runs](https://til.simonwillison.net/github-actions/s3-bucket-github-actions) - 2021-12-07
-
-[\_\_init\_subclass\_\_](https://til.simonwillison.net/python/init-subclass) - 2021-12-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
