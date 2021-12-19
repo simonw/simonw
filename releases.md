@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->913<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->914<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.3](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-19
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.3.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-19
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette](https://github.com/simonw/datasette)**: [0.60a0](https://github.com/simonw/datasette/releases/tag/0.60a0) - ([103 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-17
 <br />An open source multi-tool for exploring and publishing data
