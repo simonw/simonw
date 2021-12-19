@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->912<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->913<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.3](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-19
+<br />Prettier formatting for ?_trace=1 traces
 * **[datasette](https://github.com/simonw/datasette)**: [0.60a0](https://github.com/simonw/datasette/releases/tag/0.60a0) - ([103 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-17
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.2.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-13
-<br />Prettier formatting for ?_trace=1 traces
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
 <br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
