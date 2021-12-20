@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Annotated explanation of dataklasses by David Beazley](https://til.simonwillison.net/python/annotated-dataklasses) - 2021-12-20
+
 [Safely outputting JSON](https://til.simonwillison.net/python/safe-output-json) - 2021-12-18
 
 [Creating a minimal SpatiaLite database with Python](https://til.simonwillison.net/spatialite/minimal-spatialite-database-in-python) - 2021-12-17
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Registering the same Pluggy hook multiple times in a single file](https://til.simonwillison.net/pluggy/multiple-hooks-same-file) - 2021-12-16
 
 [Using lsof on macOS](https://til.simonwillison.net/macos/lsof-macos) - 2021-12-11
-
-[Using C\_INCLUDE\_PATH to install Python packages](https://til.simonwillison.net/python/using-c-include-path-to-install-python-packages) - 2021-12-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
