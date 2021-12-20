@@ -40,7 +40,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Annotated explanation of dataklasses by David Beazley](https://til.simonwillison.net/python/annotated-dataklasses) - 2021-12-20
+[Annotated explanation of David Beazley's dataklasses](https://til.simonwillison.net/python/annotated-dataklasses) - 2021-12-20
 
 [Safely outputting JSON](https://til.simonwillison.net/python/safe-output-json) - 2021-12-18
 
