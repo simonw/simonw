@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Adding a robots.txt using Cloudflare workers](https://til.simonwillison.net/cloudflare/robots-txt-cloudflare-workers) - 2021-12-21
+
 [Annotated explanation of David Beazley's dataklasses](https://til.simonwillison.net/python/annotated-dataklasses) - 2021-12-20
 
 [Safely outputting JSON](https://til.simonwillison.net/python/safe-output-json) - 2021-12-18
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Creating a minimal SpatiaLite database with Python](https://til.simonwillison.net/spatialite/minimal-spatialite-database-in-python) - 2021-12-17
 
 [Registering the same Pluggy hook multiple times in a single file](https://til.simonwillison.net/pluggy/multiple-hooks-same-file) - 2021-12-16
-
-[Using lsof on macOS](https://til.simonwillison.net/macos/lsof-macos) - 2021-12-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
