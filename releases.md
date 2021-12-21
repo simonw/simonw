@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->915<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->916<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-21
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette](https://github.com/simonw/datasette)**: [0.60a1](https://github.com/simonw/datasette/releases/tag/0.60a1) - ([104 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-19
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.3.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-19
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->915<!-- releases_count ends --> releases a
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-12-07
 <br />A tool for creating credentials for accessing S3 buckets
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2a1](https://github.com/simonw/asyncinject/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-03
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01

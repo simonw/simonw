@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asyncinject 0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - 2021-12-21
+
 [datasette 0.60a1](https://github.com/simonw/datasette/releases/tag/0.60a1) - 2021-12-19
 
 [datasette-pretty-traces 0.3.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1) - 2021-12-19
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-cluster-map 0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - 2021-12-07
 
 [s3-credentials 0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - 2021-12-07
-
-[asyncinject 0.2a1](https://github.com/simonw/asyncinject/releases/tag/0.2a1) - 2021-12-03
 
 [datasette-hovercards 0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 
