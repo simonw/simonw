@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->916<!-- releases_count ends --> releases across <!-- project_count starts -->135<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->917<!-- releases_count ends --> releases across <!-- project_count starts -->136<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
+<br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-21
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette](https://github.com/simonw/datasette)**: [0.60a1](https://github.com/simonw/datasette/releases/tag/0.60a1) - ([104 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-19
