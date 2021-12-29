@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[WebAuthn browser support](https://til.simonwillison.net/webauthn/webauthn-browser-support) - 2021-12-29
+
 [kubectl proxy](https://til.simonwillison.net/kubernetes/kubectl-proxy) - 2021-12-29
 
 [Transferring a GitHub issue from a private to a public repository](https://til.simonwillison.net/github/transfer-issue-private-to-public) - 2021-12-23
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Adding a robots.txt using Cloudflare workers](https://til.simonwillison.net/cloudflare/robots-txt-cloudflare-workers) - 2021-12-21
 
 [Annotated explanation of David Beazley's dataklasses](https://til.simonwillison.net/python/annotated-dataklasses) - 2021-12-20
-
-[Safely outputting JSON](https://til.simonwillison.net/python/safe-output-json) - 2021-12-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
