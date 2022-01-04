@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Taking a break in Moss Landing](http://simonwillison.net/2022/Jan/4/moss-landing/) - 2022-01-04
+
 [Weeknotes: datasette-tiddlywiki, filters_from_request](http://simonwillison.net/2021/Dec/24/datasette-tiddlywiki/) - 2021-12-24
 
 [Weeknotes: Trapped in an eternal refactor](http://simonwillison.net/2021/Dec/16/eternal-refactor/) - 2021-12-16
@@ -32,8 +34,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: git-history, bug magnets and s3-credentials --public](http://simonwillison.net/2021/Dec/8/weeknotes/) - 2021-12-08
 
 [git-history: a tool for analyzing scraped data collected using Git and SQLite](http://simonwillison.net/2021/Dec/7/git-history/) - 2021-12-07
-
-[Weeknotes: Shaving some beautiful yaks](http://simonwillison.net/2021/Dec/1/beautiful-yaks/) - 2021-12-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
