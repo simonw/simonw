@@ -40,6 +40,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Writing pytest tests against tools written with argparse](https://til.simonwillison.net/pytest/pytest-argparse) - 2022-01-08
+
 [Adding a CORS policy to an S3 bucket](https://til.simonwillison.net/aws/s3-cors) - 2022-01-04
 
 [WebAuthn browser support](https://til.simonwillison.net/webauthn/webauthn-browser-support) - 2021-12-29
@@ -47,8 +49,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [kubectl proxy](https://til.simonwillison.net/kubernetes/kubectl-proxy) - 2021-12-29
 
 [Transferring a GitHub issue from a private to a public repository](https://til.simonwillison.net/github/transfer-issue-private-to-public) - 2021-12-23
-
-[Adding a robots.txt using Cloudflare workers](https://til.simonwillison.net/cloudflare/robots-txt-cloudflare-workers) - 2021-12-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
