@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
+
 [sqlite-utils 3.20](https://github.com/simonw/sqlite-utils/releases/tag/3.20) - 2022-01-06
 
 [datasette-tiddlywiki 0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [git-history 0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - 2021-12-08
 
 [datasette-cluster-map 0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - 2021-12-07
-
-[s3-credentials 0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - 2021-12-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

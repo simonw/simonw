@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->918<!-- releases_count ends --> releases across <!-- project_count starts -->136<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->919<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
+<br />Stream a file or stdin one line at a time with a delay
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.20](https://github.com/simonw/sqlite-utils/releases/tag/3.20) - ([91 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-06
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
