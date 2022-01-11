@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
+[sqlite-utils 3.21](https://github.com/simonw/sqlite-utils/releases/tag/3.21) - 2022-01-11
 
-[sqlite-utils 3.20](https://github.com/simonw/sqlite-utils/releases/tag/3.20) - 2022-01-06
+[stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 
 [datasette-tiddlywiki 0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
 
