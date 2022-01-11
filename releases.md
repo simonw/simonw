@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->920<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->921<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.21](https://github.com/simonw/sqlite-utils/releases/tag/3.21) - ([92 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-11
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.22](https://github.com/simonw/sqlite-utils/releases/tag/3.22) - ([93 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-11
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay

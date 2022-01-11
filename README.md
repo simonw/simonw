@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 3.21](https://github.com/simonw/sqlite-utils/releases/tag/3.21) - 2022-01-11
+[sqlite-utils 3.22](https://github.com/simonw/sqlite-utils/releases/tag/3.22) - 2022-01-11
 
 [stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 
