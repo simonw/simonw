@@ -34,6 +34,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: datasette-tiddlywiki, filters_from_request](http://simonwillison.net/2021/Dec/24/datasette-tiddlywiki/) - 2021-12-24
 
 [Weeknotes: Trapped in an eternal refactor](http://simonwillison.net/2021/Dec/16/eternal-refactor/) - 2021-12-16
+
+[Weeknotes: git-history, bug magnets and s3-credentials --public](http://simonwillison.net/2021/Dec/8/weeknotes/) - 2021-12-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
