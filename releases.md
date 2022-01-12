@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->921<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->922<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.22](https://github.com/simonw/sqlite-utils/releases/tag/3.22) - ([93 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-11
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->921<!-- releases_count ends --> releases a
 <br />Datasette plugin that redirects all non-https requests to https
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
 <br />Convert CSV files into a SQLite database
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0](https://github.com/simonw/datasette-graphql/releases/tag/2.0) - ([32 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2021-11-17
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
 <br />The hello world of Datasette plugins
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
