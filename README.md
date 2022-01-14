@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-pretty-traces 0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - 2022-01-14
+
+[datasette-leaflet-freedraw 0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - 2022-01-14
+
+[datasette 0.60](https://github.com/simonw/datasette/releases/tag/0.60) - 2022-01-14
+
 [datasette-graphql 2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - 2022-01-12
 
 [sqlite-utils 3.22](https://github.com/simonw/sqlite-utils/releases/tag/3.22) - 2022-01-11
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-tiddlywiki 0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
 
 [asyncinject 0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - 2021-12-21
-
-[datasette 0.60a1](https://github.com/simonw/datasette/releases/tag/0.60a1) - 2021-12-19
-
-[datasette-pretty-traces 0.3.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1) - 2021-12-19
-
-[git-history 0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - 2021-12-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->922<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->925<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
+<br />Prettier formatting for ?_trace=1 traces
+* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - ([8 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-01-14
+<br />Draw polygons on maps in Datasette
+* **[datasette](https://github.com/simonw/datasette)**: [0.60](https://github.com/simonw/datasette/releases/tag/0.60) - ([105 releases total](https://github.com/simonw/datasette/releases)) - 2022-01-14
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.22](https://github.com/simonw/sqlite-utils/releases/tag/3.22) - ([93 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-11
@@ -13,10 +19,6 @@ Listing <!-- releases_count starts -->922<!-- releases_count ends --> releases a
 <br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-21
 <br />Run async workflows using pytest-fixtures-style dependency injection
-* **[datasette](https://github.com/simonw/datasette)**: [0.60a1](https://github.com/simonw/datasette/releases/tag/0.60a1) - ([104 releases total](https://github.com/simonw/datasette/releases)) - 2021-12-19
-<br />An open source multi-tool for exploring and publishing data
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.3.1](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2021-12-19
-<br />Prettier formatting for ?_trace=1 traces
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
 <br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
@@ -163,8 +165,6 @@ Listing <!-- releases_count starts -->922<!-- releases_count ends --> releases a
 <br />Datasette plugin for executing SQL queries from templates
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.2.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2021-01-25
-<br />Draw polygons on maps in Datasette
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
