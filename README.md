@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[JavaScript date objects](https://til.simonwillison.net/javascript/javascript-date-objects) - 2022-01-16
+
 [Configuring Dependabot for a Python project with dependencies in setup.py](https://til.simonwillison.net/github/dependabot-python-setup) - 2022-01-15
 
 [Testing a Click app with streaming input](https://til.simonwillison.net/pytest/test-click-app-with-streaming-input) - 2022-01-10
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Writing pytest tests against tools written with argparse](https://til.simonwillison.net/pytest/pytest-argparse) - 2022-01-08
 
 [Adding a CORS policy to an S3 bucket](https://til.simonwillison.net/aws/s3-cors) - 2022-01-04
-
-[WebAuthn browser support](https://til.simonwillison.net/webauthn/webauthn-browser-support) - 2021-12-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
