@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.9](https://github.com/simonw/s3-credentials/releases/tag/0.9) - 2022-01-18
+
 [datasette-pretty-traces 0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - 2022-01-14
 
 [datasette-leaflet-freedraw 0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - 2022-01-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 
 [datasette-tiddlywiki 0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
-
-[asyncinject 0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - 2021-12-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

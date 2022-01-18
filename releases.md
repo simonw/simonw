@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->925<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->926<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.9](https://github.com/simonw/s3-credentials/releases/tag/0.9) - ([9 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-18
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - ([8 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-01-14
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->925<!-- releases_count ends --> releases a
 <br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.8](https://github.com/simonw/s3-credentials/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/s3-credentials/releases)) - 2021-12-07
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
