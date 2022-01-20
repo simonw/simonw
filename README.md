@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Pixel editing a favicon with Pixelmator](https://til.simonwillison.net/pixelmator/pixel-editing-favicon) - 2022-01-20
+
 [Helper function for pagination using AWS boto3](https://til.simonwillison.net/aws/helper-for-boto-aws-pagination) - 2022-01-19
 
 [json\_extract() path syntax in SQLite](https://til.simonwillison.net/sqlite/json-extract-path) - 2022-01-18
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Streaming indented output of a JSON array](https://til.simonwillison.net/python/output-json-array-streaming) - 2022-01-17
 
 [JavaScript date objects](https://til.simonwillison.net/javascript/javascript-date-objects) - 2022-01-16
-
-[Configuring Dependabot for a Python project with dependencies in setup.py](https://til.simonwillison.net/github/dependabot-python-setup) - 2022-01-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
