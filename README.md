@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - 2022-01-21
+
 [s3-credentials 0.9](https://github.com/simonw/s3-credentials/releases/tag/0.9) - 2022-01-18
 
 [datasette-pretty-traces 0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - 2022-01-14
 
 [datasette-leaflet-freedraw 0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - 2022-01-14
-
-[datasette 0.60](https://github.com/simonw/datasette/releases/tag/0.60) - 2022-01-14
 
 [datasette-graphql 2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - 2022-01-12
 
