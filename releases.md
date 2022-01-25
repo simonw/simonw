@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->927<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->928<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette](https://github.com/simonw/datasette)**: [0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - ([106 releases total](https://github.com/simonw/datasette/releases)) - 2022-01-21
 <br />An open source multi-tool for exploring and publishing data
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.9](https://github.com/simonw/s3-credentials/releases/tag/0.9) - ([9 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-18
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - ([8 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-01-14

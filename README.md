@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - 2022-01-21
+[s3-credentials 0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - 2022-01-25
 
-[s3-credentials 0.9](https://github.com/simonw/s3-credentials/releases/tag/0.9) - 2022-01-18
+[datasette 0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - 2022-01-21
 
 [datasette-pretty-traces 0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - 2022-01-14
 
