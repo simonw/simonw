@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: python_requires, documentation SEO](http://simonwillison.net/2022/Jan/25/weeknotes/) - 2022-01-25
+
 [Weeknotes: s3-credentials prefix and Datasette 0.60](http://simonwillison.net/2022/Jan/18/weeknotes/) - 2022-01-18
 
 [Datasette 0.60: The annotated release notes](http://simonwillison.net/2022/Jan/14/datasette-060/) - 2022-01-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [What's new in sqlite-utils 3.20 and 3.21](http://simonwillison.net/2022/Jan/11/sqlite-utils/) - 2022-01-11
 
 [Weeknotes: Taking a break in Moss Landing](http://simonwillison.net/2022/Jan/4/moss-landing/) - 2022-01-04
-
-[Weeknotes: datasette-tiddlywiki, filters_from_request](http://simonwillison.net/2021/Dec/24/datasette-tiddlywiki/) - 2021-12-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
