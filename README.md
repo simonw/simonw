@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Opt-in integration tests with pytest --integration](https://til.simonwillison.net/pytest/only-run-integration) - 2022-01-26
+
 [Using the undocumented Fly GraphQL API](https://til.simonwillison.net/fly/undocumented-graphql-api) - 2022-01-21
 
 [Linking from /latest/ to /stable/ on Read The Docs](https://til.simonwillison.net/readthedocs/link-from-latest-to-stable) - 2022-01-20
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Promoting the stable version of the documentation using rel=canonical](https://til.simonwillison.net/readthedocs/documentation-seo-canonical) - 2022-01-20
 
 [Pixel editing a favicon with Pixelmator](https://til.simonwillison.net/pixelmator/pixel-editing-favicon) - 2022-01-20
-
-[Helper function for pagination using AWS boto3](https://til.simonwillison.net/aws/helper-for-boto-aws-pagination) - 2022-01-19
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
