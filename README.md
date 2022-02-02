@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Testing against Python 3.11 preview using GitHub Actions](https://til.simonwillison.net/github-actions/python-3-11) - 2022-02-02
+
 [get-graphql-schema](https://til.simonwillison.net/graphql/get-graphql-schema) - 2022-02-01
 
 [Opt-in integration tests with pytest --integration](https://til.simonwillison.net/pytest/only-run-integration) - 2022-01-26
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using the undocumented Fly GraphQL API](https://til.simonwillison.net/fly/undocumented-graphql-api) - 2022-01-21
 
 [Linking from /latest/ to /stable/ on Read The Docs](https://til.simonwillison.net/readthedocs/link-from-latest-to-stable) - 2022-01-20
-
-[Promoting the stable version of the documentation using rel=canonical](https://til.simonwillison.net/readthedocs/documentation-seo-canonical) - 2022-01-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
