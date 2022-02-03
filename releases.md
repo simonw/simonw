@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->929<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->930<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
+<br />Draw polygons on maps in Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.22.1](https://github.com/simonw/sqlite-utils/releases/tag/3.22.1) - ([94 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-26
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->929<!-- releases_count ends --> releases a
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
-* **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3) - ([8 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-01-14
-<br />Draw polygons on maps in Datasette
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
