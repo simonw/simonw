@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->930<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->931<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - ([95 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-04
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.22.1](https://github.com/simonw/sqlite-utils/releases/tag/3.22.1) - ([94 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-01-26
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette](https://github.com/simonw/datasette)**: [0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - ([106 releases total](https://github.com/simonw/datasette/releases)) - 2022-01-21

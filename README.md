@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-leaflet-freedraw 0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - 2022-02-03
+[sqlite-utils 3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - 2022-02-04
 
-[sqlite-utils 3.22.1](https://github.com/simonw/sqlite-utils/releases/tag/3.22.1) - 2022-01-26
+[datasette-leaflet-freedraw 0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - 2022-02-03
 
 [s3-credentials 0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - 2022-01-25
 
