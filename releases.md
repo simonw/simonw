@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->931<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->932<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - ([107 releases total](https://github.com/simonw/datasette/releases)) - 2022-02-07
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - ([95 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-04
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
 <br />A tool for creating credentials for accessing S3 buckets
-* **[datasette](https://github.com/simonw/datasette)**: [0.60.1](https://github.com/simonw/datasette/releases/tag/0.60.1) - ([106 releases total](https://github.com/simonw/datasette/releases)) - 2022-01-21
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
