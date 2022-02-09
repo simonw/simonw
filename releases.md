@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->932<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->933<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - ([11 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2022-02-09
+<br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - ([107 releases total](https://github.com/simonw/datasette/releases)) - 2022-02-07
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - ([95 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-04
@@ -117,8 +119,6 @@ Listing <!-- releases_count starts -->932<!-- releases_count ends --> releases a
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2021-06-07
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [0.4.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1) - ([10 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2021-06-05
-<br />Datasette plugin for authentication using passwords
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11

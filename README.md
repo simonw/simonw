@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-passwords 1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - 2022-02-09
+
 [datasette 0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - 2022-02-07
 
 [sqlite-utils 3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - 2022-02-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-graphql 2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - 2022-01-12
 
 [stream-delay 0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
-
-[datasette-tiddlywiki 0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
