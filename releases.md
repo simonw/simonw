@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->935<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->937<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.1) - 2022-02-11
+* **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
 <br />CLI tool for stripping hidden form values from an HTML document
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-11
 <br />Datasette plugin for publishing data using Fly

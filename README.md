@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[strip-hidden-form-values 0.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.1) - 2022-02-11
+[strip-hidden-form-values 0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - 2022-02-11
 
 [datasette-publish-fly 1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - 2022-02-11
 
