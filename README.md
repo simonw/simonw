@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Annotated package.json for idb-keyval](https://til.simonwillison.net/npm/annotated-package-json) - 2022-02-11
+
 [Ordered group\_concat() in SQLite](https://til.simonwillison.net/sqlite/ordered-group-concat) - 2022-02-06
 
 [Testing against Python 3.11 preview using GitHub Actions](https://til.simonwillison.net/github-actions/python-3-11) - 2022-02-02
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [get-graphql-schema](https://til.simonwillison.net/graphql/get-graphql-schema) - 2022-02-01
 
 [Opt-in integration tests with pytest --integration](https://til.simonwillison.net/pytest/only-run-integration) - 2022-01-26
-
-[Using the undocumented Fly GraphQL API](https://til.simonwillison.net/fly/undocumented-graphql-api) - 2022-01-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
