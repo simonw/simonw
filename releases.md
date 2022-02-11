@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->933<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->934<!-- releases_count ends --> releases across <!-- project_count starts -->137<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-11
+<br />Datasette plugin for publishing data using Fly
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - ([11 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2022-02-09
 <br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - ([107 releases total](https://github.com/simonw/datasette/releases)) - 2022-02-07
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->933<!-- releases_count ends --> releases a
 <br />Tool for running transformations on columns in a SQLite database
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
 <br />Datasette plugin for rendering HTML based on JSON values
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.0.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.0.2) - ([5 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2021-07-30
-<br />Datasette plugin for publishing data using Fly
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2021-07-29
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
