@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-tiddlywiki 0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - 2022-02-14
+
 [strip-hidden-form-values 0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - 2022-02-11
 
 [datasette-publish-fly 1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - 2022-02-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-leaflet-freedraw 0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - 2022-02-03
 
 [s3-credentials 0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - 2022-01-25
-
-[datasette-pretty-traces 0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - 2022-01-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->937<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->938<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-tiddlywiki/releases)) - 2022-02-14
+<br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
 <br />CLI tool for stripping hidden form values from an HTML document
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-11
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->937<!-- releases_count ends --> releases a
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
-* **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.1](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.1) - 2021-12-23
-<br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-21
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
