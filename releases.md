@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->938<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->939<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-14
+<br />Datasette plugin for publishing data using Fly
 * **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-tiddlywiki/releases)) - 2022-02-14
 <br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
 <br />CLI tool for stripping hidden form values from an HTML document
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-11
-<br />Datasette plugin for publishing data using Fly
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - ([11 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2022-02-09
 <br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - ([107 releases total](https://github.com/simonw/datasette/releases)) - 2022-02-07

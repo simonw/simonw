@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-fly 1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - 2022-02-14
+
 [datasette-tiddlywiki 0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - 2022-02-14
 
 [strip-hidden-form-values 0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - 2022-02-11
-
-[datasette-publish-fly 1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1) - 2022-02-11
 
 [datasette-auth-passwords 1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - 2022-02-09
 
