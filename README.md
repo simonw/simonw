@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[nullglob in bash](https://til.simonwillison.net/bash/nullglob-in-bash) - 2022-02-15
+
 [Enabling a user to execute a specific command as root without a password](https://til.simonwillison.net/linux/allow-sudo-without-password-specific-command) - 2022-02-13
 
 [Annotated package.json for idb-keyval](https://til.simonwillison.net/npm/annotated-package-json) - 2022-02-11
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Ordered group\_concat() in SQLite](https://til.simonwillison.net/sqlite/ordered-group-concat) - 2022-02-06
 
 [Testing against Python 3.11 preview using GitHub Actions](https://til.simonwillison.net/github-actions/python-3-11) - 2022-02-02
-
-[get-graphql-schema](https://til.simonwillison.net/graphql/get-graphql-schema) - 2022-02-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
