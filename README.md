@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - 2022-02-16
+
 [datasette-publish-fly 1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - 2022-02-14
 
 [datasette-tiddlywiki 0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - 2022-02-14
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-auth-passwords 1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - 2022-02-09
 
 [datasette 0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - 2022-02-07
-
-[sqlite-utils 3.23](https://github.com/simonw/sqlite-utils/releases/tag/3.23) - 2022-02-04
 
 [datasette-leaflet-freedraw 0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - 2022-02-03
 
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Combining substr and instr to extract text](https://til.simonwillison.net/sqlite/substr-instr) - 2022-02-16
+
 [nullglob in bash](https://til.simonwillison.net/bash/nullglob-in-bash) - 2022-02-15
 
 [Enabling a user to execute a specific command as root without a password](https://til.simonwillison.net/linux/allow-sudo-without-password-specific-command) - 2022-02-13
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Annotated package.json for idb-keyval](https://til.simonwillison.net/npm/annotated-package-json) - 2022-02-11
 
 [Ordered group\_concat() in SQLite](https://til.simonwillison.net/sqlite/ordered-group-concat) - 2022-02-06
-
-[Testing against Python 3.11 preview using GitHub Actions](https://til.simonwillison.net/github-actions/python-3-11) - 2022-02-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
