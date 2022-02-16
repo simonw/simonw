@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[google-drive-to-sqlite 0.1a0](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a0) - 2022-02-16
+
 [sqlite-utils 3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - 2022-02-16
 
 [datasette-publish-fly 1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - 2022-02-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - 2022-02-07
 
 [datasette-leaflet-freedraw 0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - 2022-02-03
-
-[s3-credentials 0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - 2022-01-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

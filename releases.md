@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->940<!-- releases_count ends --> releases across <!-- project_count starts -->138<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->941<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.1a0](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a0) - 2022-02-16
+<br />Create a SQLite database containing metadata from Google Drive
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - ([96 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-16
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-14
