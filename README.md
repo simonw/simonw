@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Recursively fetching metadata for all files in a Google Drive folder](https://til.simonwillison.net/googlecloud/recursive-fetch-google-drive) - 2022-02-17
+
 [Google OAuth for a CLI application](https://til.simonwillison.net/googlecloud/google-oauth-cli-application) - 2022-02-17
 
 [Combining substr and instr to extract text](https://til.simonwillison.net/sqlite/substr-instr) - 2022-02-16
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [nullglob in bash](https://til.simonwillison.net/bash/nullglob-in-bash) - 2022-02-15
 
 [Enabling a user to execute a specific command as root without a password](https://til.simonwillison.net/linux/allow-sudo-without-password-specific-command) - 2022-02-13
-
-[Annotated package.json for idb-keyval](https://til.simonwillison.net/npm/annotated-package-json) - 2022-02-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
