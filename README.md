@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Google OAuth for a CLI application](https://til.simonwillison.net/googlecloud/google-oauth-cli-application) - 2022-02-17
+
 [Combining substr and instr to extract text](https://til.simonwillison.net/sqlite/substr-instr) - 2022-02-16
 
 [nullglob in bash](https://til.simonwillison.net/bash/nullglob-in-bash) - 2022-02-15
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Enabling a user to execute a specific command as root without a password](https://til.simonwillison.net/linux/allow-sudo-without-password-specific-command) - 2022-02-13
 
 [Annotated package.json for idb-keyval](https://til.simonwillison.net/npm/annotated-package-json) - 2022-02-11
-
-[Ordered group\_concat() in SQLite](https://til.simonwillison.net/sqlite/ordered-group-concat) - 2022-02-06
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
