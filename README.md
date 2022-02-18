@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[google-drive-to-sqlite 0.1a2](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a2) - 2022-02-17
+[google-drive-to-sqlite 0.2a0](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.2a0) - 2022-02-18
 
 [sqlite-utils 3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - 2022-02-16
 
