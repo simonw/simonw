@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->945<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->946<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.3](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-19
+* **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
 <br />Create a SQLite database containing metadata from Google Drive
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - ([96 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-16
 <br />Python CLI utility and library for manipulating SQLite databases
