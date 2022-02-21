@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->946<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->947<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-02-21
+<br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
 <br />Create a SQLite database containing metadata from Google Drive
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - ([96 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-16
@@ -271,8 +273,6 @@ Listing <!-- releases_count starts -->946<!-- releases_count ends --> releases a
 <br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [0.3](https://github.com/simonw/datasette-cors/releases/tag/0.3) - 2019-07-11
 <br />Datasette plugin for configuring CORS headers
-* **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2](https://github.com/simonw/sqlite-diffable/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2019-07-04
-<br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3](https://github.com/simonw/datasette-render-binary/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2019-06-13
 <br />Datasette plugin for rendering binary data
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
