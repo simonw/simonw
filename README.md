@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Support open source that you use by paying the maintainers to talk to your team](http://simonwillison.net/2022/Feb/23/support-open-source/) - 2022-02-23
+
 [Google Drive to SQLite](http://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/) - 2022-02-20
 
 [Using SQLite and Datasette with Fly Volumes](http://simonwillison.net/2022/Feb/15/fly-volumes/) - 2022-02-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Writing better release notes](http://simonwillison.net/2022/Jan/31/release-notes/) - 2022-01-31
 
 [Weeknotes: python_requires, documentation SEO](http://simonwillison.net/2022/Jan/25/weeknotes/) - 2022-01-25
-
-[Weeknotes: s3-credentials prefix and Datasette 0.60](http://simonwillison.net/2022/Jan/18/weeknotes/) - 2022-01-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
