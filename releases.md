@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->947<!-- releases_count ends --> releases across <!-- project_count starts -->139<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->948<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-redirect-forbidden](https://github.com/simonw/datasette-redirect-forbidden)**: [0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
+<br />Redirect forbidden requests to a login page
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-02-21
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
