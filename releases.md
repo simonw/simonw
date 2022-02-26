@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->948<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->949<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - ([9 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2022-02-26
+<br />Datasette plugin for rendering Markdown
 * **[datasette-redirect-forbidden](https://github.com/simonw/datasette-redirect-forbidden)**: [0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
 <br />Redirect forbidden requests to a login page
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-02-21
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->948<!-- releases_count ends --> releases a
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <br />Expose the Datasette request object to custom templates
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.0](https://github.com/simonw/datasette-render-markdown/releases/tag/2.0) - ([8 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2021-09-22
-<br />Datasette plugin for rendering Markdown
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14

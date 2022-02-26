@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-render-markdown 2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - 2022-02-26
+
 [datasette-redirect-forbidden 0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
 
 [sqlite-diffable 0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - 2022-02-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-tiddlywiki 0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - 2022-02-14
 
 [strip-hidden-form-values 0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - 2022-02-11
-
-[datasette-auth-passwords 1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - 2022-02-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
