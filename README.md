@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Datasette Tutorials](http://simonwillison.net/2022/Feb/27/datasette-tutorials/) - 2022-02-27
+
 [Support open source that you use by paying the maintainers to talk to your team](http://simonwillison.net/2022/Feb/23/support-open-source/) - 2022-02-23
 
 [Google Drive to SQLite](http://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/) - 2022-02-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Help scraping: track changes to CLI tools by recording their --help using Git](http://simonwillison.net/2022/Feb/2/help-scraping/) - 2022-02-02
 
 [Writing better release notes](http://simonwillison.net/2022/Jan/31/release-notes/) - 2022-01-31
-
-[Weeknotes: python_requires, documentation SEO](http://simonwillison.net/2022/Jan/25/weeknotes/) - 2022-01-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
