@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Crawling Datasette with Datasette](https://til.simonwillison.net/datasette/crawling-datasette-with-datasette) - 2022-02-28
+
 [Using curl to run GraphQL queries from the command line](https://til.simonwillison.net/graphql/graphql-with-curl) - 2022-02-22
 
 [Recursively fetching metadata for all files in a Google Drive folder](https://til.simonwillison.net/googlecloud/recursive-fetch-google-drive) - 2022-02-17
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Google OAuth for a CLI application](https://til.simonwillison.net/googlecloud/google-oauth-cli-application) - 2022-02-17
 
 [Combining substr and instr to extract text](https://til.simonwillison.net/sqlite/substr-instr) - 2022-02-16
-
-[nullglob in bash](https://til.simonwillison.net/bash/nullglob-in-bash) - 2022-02-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
