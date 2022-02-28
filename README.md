@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Installing Python on macOS with the official Python installer](https://til.simonwillison.net/macos/python-installer-macos) - 2022-02-28
+
 [Running the latest SQLite in Datasette using Homebrew](https://til.simonwillison.net/homebrew/latest-sqlite) - 2022-02-28
 
 [Crawling Datasette with Datasette](https://til.simonwillison.net/datasette/crawling-datasette-with-datasette) - 2022-02-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using curl to run GraphQL queries from the command line](https://til.simonwillison.net/graphql/graphql-with-curl) - 2022-02-22
 
 [Recursively fetching metadata for all files in a Google Drive folder](https://til.simonwillison.net/googlecloud/recursive-fetch-google-drive) - 2022-02-17
-
-[Google OAuth for a CLI application](https://til.simonwillison.net/googlecloud/google-oauth-cli-application) - 2022-02-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
