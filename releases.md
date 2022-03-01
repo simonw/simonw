@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->949<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->950<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
+<br />dateutil functions for Datasette
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - ([9 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2022-02-26
 <br />Datasette plugin for rendering Markdown
 * **[datasette-redirect-forbidden](https://github.com/simonw/datasette-redirect-forbidden)**: [0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
@@ -205,8 +207,6 @@ Listing <!-- releases_count starts -->949<!-- releases_count ends --> releases a
 <br />Create a SQLite database containing your observation history from iNaturalist
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database containing data from your Pocket account
-* **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2020-09-30
-<br />dateutil functions for Datasette
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5](https://github.com/simonw/datasette-ics/releases/tag/0.5) - ([3 releases total](https://github.com/simonw/datasette-ics/releases)) - 2020-09-14
 <br />Datasette plugin for outputting iCalendar files
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10

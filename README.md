@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-dateutil 0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - 2022-03-01
+
 [datasette-render-markdown 2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - 2022-02-26
 
 [datasette-redirect-forbidden 0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-fly 1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - 2022-02-14
 
 [datasette-tiddlywiki 0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - 2022-02-14
-
-[strip-hidden-form-values 0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - 2022-02-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
