@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->950<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->951<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
+<br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
 <br />dateutil functions for Datasette
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - ([9 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2022-02-26
@@ -125,8 +127,6 @@ Listing <!-- releases_count starts -->950<!-- releases_count ends --> releases a
 <br />Datasette plugin that masks specified database columns
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
-* **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.2](https://github.com/simonw/xml-analyser/releases/tag/1.2) - ([3 releases total](https://github.com/simonw/xml-analyser/releases)) - 2021-06-07
-<br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2021-06-07
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [0.3.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2021-05-20
