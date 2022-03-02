@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.25](https://github.com/simonw/sqlite-utils/releases/tag/3.25) - 2022-03-02
+
 [xml-analyser 1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - 2022-03-01
 
 [datasette-dateutil 0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - 2022-03-01
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-diffable 0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - 2022-02-21
 
 [google-drive-to-sqlite 0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - 2022-02-20
-
-[sqlite-utils 3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - 2022-02-16
 
 [datasette-publish-fly 1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - 2022-02-14
 <!-- recent_releases ends -->

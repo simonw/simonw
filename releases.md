@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->951<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->952<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25](https://github.com/simonw/sqlite-utils/releases/tag/3.25) - ([97 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-02
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->951<!-- releases_count ends --> releases a
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
 <br />Create a SQLite database containing metadata from Google Drive
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.24](https://github.com/simonw/sqlite-utils/releases/tag/3.24) - ([96 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-02-16
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-14
 <br />Datasette plugin for publishing data using Fly
 * **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-tiddlywiki/releases)) - 2022-02-14
