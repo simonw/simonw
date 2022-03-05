@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Why I invented "dash encoding", a new encoding scheme for URL paths](http://simonwillison.net/2022/Mar/5/dash-encoding/) - 2022-03-05
+
 [Weeknotes: Datasette Tutorials](http://simonwillison.net/2022/Feb/27/datasette-tutorials/) - 2022-02-27
 
 [Support open source that you use by paying the maintainers to talk to your team](http://simonwillison.net/2022/Feb/23/support-open-source/) - 2022-02-23
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Using SQLite and Datasette with Fly Volumes](http://simonwillison.net/2022/Feb/15/fly-volumes/) - 2022-02-15
 
 [Help scraping: track changes to CLI tools by recording their --help using Git](http://simonwillison.net/2022/Feb/2/help-scraping/) - 2022-02-02
-
-[Writing better release notes](http://simonwillison.net/2022/Jan/31/release-notes/) - 2022-01-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
