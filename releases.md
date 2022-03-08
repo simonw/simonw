@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->953<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->954<!-- releases_count ends --> releases across <!-- project_count starts -->140<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - ([34 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-03-08
+<br />Django app for building dashboards using raw SQL queries
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.0](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0) - ([8 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-03-04
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25](https://github.com/simonw/sqlite-utils/releases/tag/3.25) - ([97 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-02
@@ -113,8 +115,6 @@ Listing <!-- releases_count starts -->953<!-- releases_count ends --> releases a
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1) - ([33 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-07-06
-<br />Django app for building dashboards using raw SQL queries
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
 <br />ASGI middleware for protecting against CSRF attacks
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
