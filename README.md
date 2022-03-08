@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 0.1a0](https://github.com/simonw/shot-scraper/releases/tag/0.1a0) - 2022-03-08
+
 [django-sql-dashboard 1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - 2022-03-08
 
 [geojson-to-sqlite 1.0](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0) - 2022-03-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-render-markdown 2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - 2022-02-26
 
 [datasette-redirect-forbidden 0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
-
-[sqlite-diffable 0.2.1](https://github.com/simonw/sqlite-diffable/releases/tag/0.2.1) - 2022-02-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
