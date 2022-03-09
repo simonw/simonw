@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->955<!-- releases_count ends --> releases across <!-- project_count starts -->141<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->956<!-- releases_count ends --> releases across <!-- project_count starts -->141<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.1a0](https://github.com/simonw/shot-scraper/releases/tag/0.1a0) - 2022-03-08
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.1](https://github.com/simonw/shot-scraper/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-09
 <br />Automated website screenshots using GitHub Actions
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - ([34 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-03-08
 <br />Django app for building dashboards using raw SQL queries
