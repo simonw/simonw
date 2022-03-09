@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[shot-scraper 0.2](https://github.com/simonw/shot-scraper/releases/tag/0.2) - 2022-03-09
+[shot-scraper 0.3](https://github.com/simonw/shot-scraper/releases/tag/0.3) - 2022-03-09
 
 [django-sql-dashboard 1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - 2022-03-08
 
