@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->960<!-- releases_count ends --> releases across <!-- project_count starts -->141<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->963<!-- releases_count ends --> releases across <!-- project_count starts -->142<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
+<br />CLI tool for comparing images
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - ([98 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-11
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.4](https://github.com/simonw/shot-scraper/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-10
