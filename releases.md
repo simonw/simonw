@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->965<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.6](https://github.com/simonw/shot-scraper/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-12
-<br />Automated website screenshots using GitHub Actions
+<br />Tool for taking automated screenshots of websites
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - ([98 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-11
