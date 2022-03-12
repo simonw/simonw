@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Distracted by Playwright](http://simonwillison.net/2022/Mar/12/weeknotes-playwright/) - 2022-03-12
+
 [shot-scraper: automated screenshots for documentation, built on Playwright](http://simonwillison.net/2022/Mar/10/shot-scraper/) - 2022-03-10
 
 [Why I invented "dash encoding", a new encoding scheme for URL paths](http://simonwillison.net/2022/Mar/5/dash-encoding/) - 2022-03-05
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Support open source that you use by paying the maintainers to talk to your team](http://simonwillison.net/2022/Feb/23/support-open-source/) - 2022-02-23
 
 [Google Drive to SQLite](http://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/) - 2022-02-20
-
-[Using SQLite and Datasette with Fly Volumes](http://simonwillison.net/2022/Feb/15/fly-volumes/) - 2022-02-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
