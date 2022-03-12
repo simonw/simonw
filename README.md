@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 0.5](https://github.com/simonw/shot-scraper/releases/tag/0.5) - 2022-03-12
+
 [image-diff 0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - 2022-03-11
 
 [sqlite-utils 3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - 2022-03-11
-
-[shot-scraper 0.4](https://github.com/simonw/shot-scraper/releases/tag/0.4) - 2022-03-10
 
 [django-sql-dashboard 1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - 2022-03-08
 
