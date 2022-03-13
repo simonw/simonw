@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->965<!-- releases_count ends --> releases across <!-- project_count starts -->142<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->966<!-- releases_count ends --> releases across <!-- project_count starts -->142<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.6](https://github.com/simonw/shot-scraper/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-12
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.7](https://github.com/simonw/shot-scraper/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-13
 <br />Tools for taking automated screenshots of websites
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
