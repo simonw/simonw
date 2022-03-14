@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Scraping web pages from the command-line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
+
 [Weeknotes: Distracted by Playwright](http://simonwillison.net/2022/Mar/12/weeknotes-playwright/) - 2022-03-12
 
 [shot-scraper: automated screenshots for documentation, built on Playwright](http://simonwillison.net/2022/Mar/10/shot-scraper/) - 2022-03-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette Tutorials](http://simonwillison.net/2022/Feb/27/datasette-tutorials/) - 2022-02-27
 
 [Support open source that you use by paying the maintainers to talk to your team](http://simonwillison.net/2022/Feb/23/support-open-source/) - 2022-02-23
-
-[Google Drive to SQLite](http://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/) - 2022-02-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
