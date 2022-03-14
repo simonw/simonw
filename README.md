@@ -27,7 +27,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 <!-- blog starts -->
 [Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
 
-[Scraping web pages from the command-line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
+[Scraping web pages from the command line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
 
 [Weeknotes: Distracted by Playwright](http://simonwillison.net/2022/Mar/12/weeknotes-playwright/) - 2022-03-12
 
