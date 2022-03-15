@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-hashed-urls 0.1a0](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.1a0) - 2022-03-15
+
 [shot-scraper 0.9](https://github.com/simonw/shot-scraper/releases/tag/0.9) - 2022-03-14
 
 [image-diff 0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - 2022-03-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [xml-analyser 1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - 2022-03-01
 
 [datasette-dateutil 0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - 2022-03-01
-
-[datasette-render-markdown 2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - 2022-02-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
