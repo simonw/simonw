@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->969<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->970<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12.1) - ([19 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-15
+<br />Datasette plugin for publishing data using Vercel
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.1a0](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.1a0) - 2022-03-15
 <br />Optimize Datasette performance behind a caching proxy
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.9](https://github.com/simonw/shot-scraper/releases/tag/0.9) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-14
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->969<!-- releases_count ends --> releases a
 <br />Save data from GitHub to a SQLite database
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12) - ([18 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2021-11-22
-<br />Datasette plugin for publishing data using Vercel
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.1](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1) - 2021-11-20
 <br />Datasette plugin that redirects all non-https requests to https
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
