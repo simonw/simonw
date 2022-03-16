@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->970<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->971<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.2](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-16
+<br />Optimize Datasette performance behind a caching proxy
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12.1) - ([19 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-15
 <br />Datasette plugin for publishing data using Vercel
-* **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.1a0](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.1a0) - 2022-03-15
-<br />Optimize Datasette performance behind a caching proxy
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.9](https://github.com/simonw/shot-scraper/releases/tag/0.9) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-14
 <br />Tools for taking automated screenshots of websites
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
