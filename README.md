@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
+
 [Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
 
 [Scraping web pages from the command line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [shot-scraper: automated screenshots for documentation, built on Playwright](http://simonwillison.net/2022/Mar/10/shot-scraper/) - 2022-03-10
 
 [Why I invented "dash encoding", a new encoding scheme for URL paths](http://simonwillison.net/2022/Mar/5/dash-encoding/) - 2022-03-05
-
-[Weeknotes: Datasette Tutorials](http://simonwillison.net/2022/Feb/27/datasette-tutorials/) - 2022-02-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
