@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->971<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->972<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.61a0](https://github.com/simonw/datasette/releases/tag/0.61a0) - ([108 releases total](https://github.com/simonw/datasette/releases)) - 2022-03-20
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.2](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-16
 <br />Optimize Datasette performance behind a caching proxy
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.12.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12.1) - ([19 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-15
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->971<!-- releases_count ends --> releases a
 <br />CLI tool for stripping hidden form values from an HTML document
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - ([11 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2022-02-09
 <br />Datasette plugin for authentication using passwords
-* **[datasette](https://github.com/simonw/datasette)**: [0.60.2](https://github.com/simonw/datasette/releases/tag/0.60.2) - ([107 releases total](https://github.com/simonw/datasette/releases)) - 2022-02-07
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
