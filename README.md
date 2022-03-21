@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[The simplest recursive CTE](https://til.simonwillison.net/sqlite/simple-recursive-cte) - 2022-03-21
+
 [Async fixtures with pytest-asyncio](https://til.simonwillison.net/pytest/async-fixtures) - 2022-03-19
 
 [Concatenating strings and newlines in Google Sheets](https://til.simonwillison.net/google-sheets/concatenate) - 2022-03-15
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [pytest coverage with context](https://til.simonwillison.net/pytest/coverage-with-context) - 2022-03-05
 
 [Natural Earth in SpatiaLite and Datasette](https://til.simonwillison.net/gis/natural-earth-in-spatialite-and-datasette) - 2022-03-04
-
-[Installing Python on macOS with the official Python installer](https://til.simonwillison.net/macos/python-installer-macos) - 2022-02-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
