@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using the GitHub Actions cache with npx and no package.json](https://til.simonwillison.net/github-actions/npm-cache-with-npx-no-package) - 2022-03-22
+
 [Counting SQLite virtual machine operations](https://til.simonwillison.net/sqlite/counting-vm-ops) - 2022-03-21
 
 [The simplest recursive CTE](https://til.simonwillison.net/sqlite/simple-recursive-cte) - 2022-03-21
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Async fixtures with pytest-asyncio](https://til.simonwillison.net/pytest/async-fixtures) - 2022-03-19
 
 [Concatenating strings and newlines in Google Sheets](https://til.simonwillison.net/google-sheets/concatenate) - 2022-03-15
-
-[pytest coverage with context](https://til.simonwillison.net/pytest/coverage-with-context) - 2022-03-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
