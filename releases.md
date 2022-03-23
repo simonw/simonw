@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->974<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->975<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [0.61](https://github.com/simonw/datasette/releases/tag/0.61) - ([109 releases total](https://github.com/simonw/datasette/releases)) - 2022-03-23
+* **[datasette](https://github.com/simonw/datasette)**: [0.61.1](https://github.com/simonw/datasette/releases/tag/0.61.1) - ([110 releases total](https://github.com/simonw/datasette/releases)) - 2022-03-23
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - ([20 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-20
 <br />Datasette plugin for publishing data using Vercel
