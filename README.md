@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[SQLite Happy Hour - a Twitter Spaces conversation about three interesting projects building on SQLite](http://simonwillison.net/2022/Mar/23/sqlite-happy-hour/) - 2022-03-23
+
 [Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
 
 [Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
@@ -34,14 +36,14 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Distracted by Playwright](http://simonwillison.net/2022/Mar/12/weeknotes-playwright/) - 2022-03-12
 
 [shot-scraper: automated screenshots for documentation, built on Playwright](http://simonwillison.net/2022/Mar/10/shot-scraper/) - 2022-03-10
-
-[Why I invented "dash encoding", a new encoding scheme for URL paths](http://simonwillison.net/2022/Mar/5/dash-encoding/) - 2022-03-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
+[Exporting and editing a Twitter Spaces recording](https://til.simonwillison.net/twitter/export-edit-twitter-spaces) - 2022-03-23
+
 [Rewriting a repo to contain the history of just specific files](https://til.simonwillison.net/git/rewrite-repo-specific-files) - 2022-03-22
 
 [Using the GitHub Actions cache with npx and no package.json](https://til.simonwillison.net/github-actions/npm-cache-with-npx-no-package) - 2022-03-22
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Counting SQLite virtual machine operations](https://til.simonwillison.net/sqlite/counting-vm-ops) - 2022-03-21
 
 [The simplest recursive CTE](https://til.simonwillison.net/sqlite/simple-recursive-cte) - 2022-03-21
-
-[Async fixtures with pytest-asyncio](https://til.simonwillison.net/pytest/async-fixtures) - 2022-03-19
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
