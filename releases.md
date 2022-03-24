@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->977<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->978<!-- releases_count ends --> releases across <!-- project_count starts -->143<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.3.1](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
+* **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
 <br />Optimize Datasette performance behind a caching proxy
 * **[datasette](https://github.com/simonw/datasette)**: [0.61.1](https://github.com/simonw/datasette/releases/tag/0.61.1) - ([110 releases total](https://github.com/simonw/datasette/releases)) - 2022-03-23
 <br />An open source multi-tool for exploring and publishing data

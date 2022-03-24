@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-hashed-urls 0.3.1](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.3.1) - 2022-03-24
+[datasette-hashed-urls 0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - 2022-03-24
 
 [datasette 0.61.1](https://github.com/simonw/datasette/releases/tag/0.61.1) - 2022-03-23
 
