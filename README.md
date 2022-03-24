@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette 0.61: The annotated release notes](http://simonwillison.net/2022/Mar/24/datasette-061/) - 2022-03-24
+
 [SQLite Happy Hour - a Twitter Spaces conversation about three interesting projects building on SQLite](http://simonwillison.net/2022/Mar/23/sqlite-happy-hour/) - 2022-03-23
 
 [Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Scraping web pages from the command line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
 
 [Weeknotes: Distracted by Playwright](http://simonwillison.net/2022/Mar/12/weeknotes-playwright/) - 2022-03-12
-
-[shot-scraper: automated screenshots for documentation, built on Playwright](http://simonwillison.net/2022/Mar/10/shot-scraper/) - 2022-03-10
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
