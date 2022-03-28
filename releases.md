@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->981<!-- releases_count ends --> releases across <!-- project_count starts -->145<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->982<!-- releases_count ends --> releases across <!-- project_count starts -->145<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1a0](https://github.com/simonw/datasette-auth0/releases/tag/0.1a0) - 2022-03-26
+* **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-28
 <br />Datasette plugin that authenticates users using Auth0
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-03-25
 <br />Show a list of currently installed Python packages
