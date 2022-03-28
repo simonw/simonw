@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Deploying a live Datasette demo when the tests pass](https://til.simonwillison.net/github-actions/deploy-live-demo-when-tests-pass) - 2022-03-28
+
 [Simplest possible OAuth authentication with Auth0](https://til.simonwillison.net/auth0/oauth-with-auth0) - 2022-03-26
 
 [Extracting web page content using Readability.js and shot-scraper](https://til.simonwillison.net/shot-scraper/readability) - 2022-03-24
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Exporting and editing a Twitter Spaces recording](https://til.simonwillison.net/twitter/export-edit-twitter-spaces) - 2022-03-23
 
 [Rewriting a repo to contain the history of just specific files](https://til.simonwillison.net/git/rewrite-repo-specific-files) - 2022-03-22
-
-[Using the GitHub Actions cache with npx and no package.json](https://til.simonwillison.net/github-actions/npm-cache-with-npx-no-package) - 2022-03-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
