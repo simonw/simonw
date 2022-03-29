@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - 2022-03-29
+
 [datasette-auth0 0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - 2022-03-28
 
 [datasette-packages 0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - 2022-03-25
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.61.1](https://github.com/simonw/datasette/releases/tag/0.61.1) - 2022-03-23
 
 [datasette-publish-vercel 0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - 2022-03-20
-
-[shot-scraper 0.9](https://github.com/simonw/shot-scraper/releases/tag/0.9) - 2022-03-14
 
 [image-diff 0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - 2022-03-11
 

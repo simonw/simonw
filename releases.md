@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->982<!-- releases_count ends --> releases across <!-- project_count starts -->145<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->983<!-- releases_count ends --> releases across <!-- project_count starts -->145<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - ([11 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-29
+<br />Tools for taking automated screenshots of websites
 * **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-28
 <br />Datasette plugin that authenticates users using Auth0
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-03-25
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->982<!-- releases_count ends --> releases a
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - ([20 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-20
 <br />Datasette plugin for publishing data using Vercel
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.9](https://github.com/simonw/shot-scraper/releases/tag/0.9) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-14
-<br />Tools for taking automated screenshots of websites
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - ([98 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-11
