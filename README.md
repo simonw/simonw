@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Treating warnings as errors in pytest](https://til.simonwillison.net/pytest/treat-warnings-as-errors) - 2022-04-01
+
 [Allowing a container in Docker Desktop for Mac to talk to a PostgreSQL server on the host machine](https://til.simonwillison.net/docker/docker-for-mac-container-to-postgresql-on-host) - 2022-04-01
 
 [Generating a calendar week grid with the Python Calendar module](https://til.simonwillison.net/python/calendar-weeks) - 2022-03-31
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Compiling to WASM with llvm on macOS](https://til.simonwillison.net/webassembly/compile-to-wasm-llvm-macos) - 2022-03-28
 
 [Deploying a live Datasette demo when the tests pass](https://til.simonwillison.net/github-actions/deploy-live-demo-when-tests-pass) - 2022-03-28
-
-[Simplest possible OAuth authentication with Auth0](https://til.simonwillison.net/auth0/oauth-with-auth0) - 2022-03-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
