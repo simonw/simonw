@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[pypi-to-sqlite 0.1](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.1) - 2022-04-07
+
 [shot-scraper 0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - 2022-03-29
 
 [datasette-auth0 0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - 2022-03-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-vercel 0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - 2022-03-20
 
 [image-diff 0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - 2022-03-11
-
-[sqlite-utils 3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - 2022-03-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
