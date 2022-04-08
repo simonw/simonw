@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->986<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->987<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.11](https://github.com/simonw/shot-scraper/releases/tag/0.11) - ([12 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-08
+<br />Tools for taking automated screenshots of websites
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-08
 <br />Load data about Python packages from PyPI into SQLite
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - ([11 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-29
-<br />Tools for taking automated screenshots of websites
 * **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-28
 <br />Datasette plugin that authenticates users using Auth0
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-03-25
