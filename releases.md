@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->984<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->985<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.1](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.1) - 2022-04-07
+* **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-08
 <br />Load data about Python packages from PyPI into SQLite
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - ([11 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-03-29
 <br />Tools for taking automated screenshots of websites
