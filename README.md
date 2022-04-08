@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[pypi-to-sqlite 0.2.1](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.1) - 2022-04-08
+[pypi-to-sqlite 0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - 2022-04-08
 
 [shot-scraper 0.10](https://github.com/simonw/shot-scraper/releases/tag/0.10) - 2022-03-29
 
