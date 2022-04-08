@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Pillar Point Stewards, pypi-to-sqlite, improvements to shot-scraper and appreciating datasette-dashboards](http://simonwillison.net/2022/Apr/8/weeknotes/) - 2022-04-08
+
 [Weeknotes: datasette-auth0](http://simonwillison.net/2022/Mar/28/datasette-auth0/) - 2022-03-28
 
 [Datasette 0.61: The annotated release notes](http://simonwillison.net/2022/Mar/24/datasette-061/) - 2022-03-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
 
 [Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
-
-[Scraping web pages from the command line with shot-scraper](http://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) - 2022-03-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
