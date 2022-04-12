@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->988<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->989<!-- releases_count ends --> releases across <!-- project_count starts -->146<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.0.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0.1) - ([9 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-12
+<br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - ([13 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-11
 <br />Tools for taking automated screenshots of websites
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-08
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->988<!-- releases_count ends --> releases a
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - ([34 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-03-08
 <br />Django app for building dashboards using raw SQL queries
-* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.0](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0) - ([8 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-03-04
-<br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
