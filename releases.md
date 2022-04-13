@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->991<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->992<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - ([99 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-04-13
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->991<!-- releases_count ends --> releases a
 <br />Datasette plugin for publishing data using Vercel
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.25.1](https://github.com/simonw/sqlite-utils/releases/tag/3.25.1) - ([98 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-03-11
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - ([34 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-03-08
 <br />Django app for building dashboards using raw SQL queries
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
