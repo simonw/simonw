@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->992<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->993<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
+<br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - ([99 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-04-13
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
-<br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 <br />Show a summary of a Django or Jinja template
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - ([13 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-11

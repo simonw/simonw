@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - 2022-04-13
+[geojson-to-sqlite 1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - 2022-04-13
 
-[geojson-to-sqlite 1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1) - 2022-04-13
+[sqlite-utils 3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - 2022-04-13
 
 [summarize-template 0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 
