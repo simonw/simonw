@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[tweet-images 0.1](https://github.com/simonw/tweet-images/releases/tag/0.1) - 2022-04-17
+[tweet-images 0.1.1](https://github.com/simonw/tweet-images/releases/tag/0.1.1) - 2022-04-17
 
 [asyncinject 0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - 2022-04-16
 

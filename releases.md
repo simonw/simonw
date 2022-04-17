@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->995<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->996<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1](https://github.com/simonw/tweet-images/releases/tag/0.1) - 2022-04-17
+* **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.1](https://github.com/simonw/tweet-images/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-17
 <br />Send tweets with images from the command line
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-16
 <br />Run async workflows using pytest-fixtures-style dependency injection
