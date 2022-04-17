@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[tweet-images 0.1](https://github.com/simonw/tweet-images/releases/tag/0.1) - 2022-04-17
+
 [asyncinject 0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - 2022-04-16
 
 [geojson-to-sqlite 1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - 2022-04-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [pypi-to-sqlite 0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - 2022-04-08
 
 [datasette-auth0 0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - 2022-03-28
-
-[datasette-packages 0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - 2022-03-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
