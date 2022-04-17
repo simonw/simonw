@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->993<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->994<!-- releases_count ends --> releases across <!-- project_count starts -->147<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-16
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - ([99 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-04-13
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->993<!-- releases_count ends --> releases a
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.2](https://github.com/simonw/asyncinject/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/asyncinject/releases)) - 2021-12-21
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
 <br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
