@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - 2022-04-18
+
 [tweet-images 0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - 2022-04-18
 
 [asyncinject 0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - 2022-04-16
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - 2022-04-13
 
 [summarize-template 0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
-
-[shot-scraper 0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - 2022-04-11
 
 [pypi-to-sqlite 0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - 2022-04-08
 

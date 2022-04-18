@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->997<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->998<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
+<br />Tools for taking automated screenshots of websites
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
 <br />Send tweets with images from the command line
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-16
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->997<!-- releases_count ends --> releases a
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 <br />Show a summary of a Django or Jinja template
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - ([13 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-11
-<br />Tools for taking automated screenshots of websites
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-08
 <br />Load data about Python packages from PyPI into SQLite
 * **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-28
