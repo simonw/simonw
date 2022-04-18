@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->998<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->999<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.4](https://github.com/simonw/asyncinject/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-18
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
 <br />Tools for taking automated screenshots of websites
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
 <br />Send tweets with images from the command line
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-16
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - ([99 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-04-13

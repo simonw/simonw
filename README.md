@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asyncinject 0.4](https://github.com/simonw/asyncinject/releases/tag/0.4) - 2022-04-18
+
 [shot-scraper 0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - 2022-04-18
 
 [tweet-images 0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - 2022-04-18
-
-[asyncinject 0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - 2022-04-16
 
 [geojson-to-sqlite 1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - 2022-04-13
 
