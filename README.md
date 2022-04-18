@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[tweet-images 0.1.1](https://github.com/simonw/tweet-images/releases/tag/0.1.1) - 2022-04-17
+[tweet-images 0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - 2022-04-18
 
 [asyncinject 0.3](https://github.com/simonw/asyncinject/releases/tag/0.3) - 2022-04-16
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building a Covid sewage Twitter bot (and other weeknotes)](http://simonwillison.net/2022/Apr/18/covid-sewage/) - 2022-04-18
+
 [Pillar Point Stewards, pypi-to-sqlite, improvements to shot-scraper and appreciating datasette-dashboards](http://simonwillison.net/2022/Apr/8/weeknotes/) - 2022-04-08
 
 [Weeknotes: datasette-auth0](http://simonwillison.net/2022/Mar/28/datasette-auth0/) - 2022-03-28
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [SQLite Happy Hour - a Twitter Spaces conversation about three interesting projects building on SQLite](http://simonwillison.net/2022/Mar/23/sqlite-happy-hour/) - 2022-03-23
 
 [Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
-
-[Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
