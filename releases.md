@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->999<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1000<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - ([35 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-04-20
+<br />Django app for building dashboards using raw SQL queries
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.4](https://github.com/simonw/asyncinject/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-18
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->999<!-- releases_count ends --> releases a
 <br />Datasette plugin for publishing data using Vercel
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.0.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2) - ([34 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-03-08
-<br />Django app for building dashboards using raw SQL queries
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
