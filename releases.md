@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1000<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1001<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.5](https://github.com/simonw/asyncinject/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-22
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - ([35 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-04-20
 <br />Django app for building dashboards using raw SQL queries
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.4](https://github.com/simonw/asyncinject/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-18
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
 <br />Tools for taking automated screenshots of websites
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
