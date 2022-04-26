@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Seeing files opened by a process using opensnoop](https://til.simonwillison.net/macos/open-files-with-opensnoop) - 2022-04-26
+
 [Format code examples in documentation with blacken-docs](https://til.simonwillison.net/sphinx/blacken-docs) - 2022-04-24
 
 [How to get credentials for a new Twitter bot](https://til.simonwillison.net/twitter/credentials-twitter-bot) - 2022-04-17
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Trick Apple Photos into letting you access your video files](https://til.simonwillison.net/macos/apple-photos-large-files) - 2022-04-12
 
 [GUnion to combine geometries in SpatiaLite](https://til.simonwillison.net/spatialite/gunion-to-combine-geometries) - 2022-04-12
-
-[Using awk to add a prefix](https://til.simonwillison.net/bash/use-awk-to-add-a-prefix) - 2022-04-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
