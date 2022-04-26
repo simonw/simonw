@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1001<!-- releases_count ends --> releases across <!-- project_count starts -->148<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1002<!-- releases_count ends --> releases across <!-- project_count starts -->149<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-total-page-time](https://github.com/simonw/datasette-total-page-time)**: [0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
+<br />Add a note to the Datasette footer measuring the total page load time
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.5](https://github.com/simonw/asyncinject/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-22
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - ([35 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-04-20

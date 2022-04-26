@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-total-page-time 0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
+
 [asyncinject 0.5](https://github.com/simonw/asyncinject/releases/tag/0.5) - 2022-04-22
 
 [django-sql-dashboard 1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - 2022-04-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - 2022-04-13
 
 [summarize-template 0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
-
-[pypi-to-sqlite 0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - 2022-04-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
