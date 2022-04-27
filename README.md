@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Parallel queries for Datasette, plus some middleware tricks](http://simonwillison.net/2022/Apr/27/parallel-queries/) - 2022-04-27
+
 [Useful tricks with pip install URL and GitHub](http://simonwillison.net/2022/Apr/24/pip-install-github/) - 2022-04-24
 
 [Building a Covid sewage Twitter bot (and other weeknotes)](http://simonwillison.net/2022/Apr/18/covid-sewage/) - 2022-04-18
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: datasette-auth0](http://simonwillison.net/2022/Mar/28/datasette-auth0/) - 2022-03-28
 
 [Datasette 0.61: The annotated release notes](http://simonwillison.net/2022/Mar/24/datasette-061/) - 2022-03-24
-
-[SQLite Happy Hour - a Twitter Spaces conversation about three interesting projects building on SQLite](http://simonwillison.net/2022/Mar/23/sqlite-happy-hour/) - 2022-03-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
