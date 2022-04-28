@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-copy-to-memory 0.1a0](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a0) - 2022-04-28
+
 [datasette-gzip 0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - 2022-04-28
 
 [asgi-gzip 0.1](https://github.com/simonw/asgi-gzip/releases/tag/0.1) - 2022-04-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [shot-scraper 0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - 2022-04-18
 
 [tweet-images 0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - 2022-04-18
-
-[geojson-to-sqlite 1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - 2022-04-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
