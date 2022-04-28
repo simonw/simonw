@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-copy-to-memory 0.1a2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a2) - 2022-04-28
+[datasette-copy-to-memory 0.1a3](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a3) - 2022-04-28
 
 [datasette-gzip 0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - 2022-04-28
 
