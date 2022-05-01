@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - 2022-05-01
+
 [datasette-copy-to-memory 0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - 2022-04-30
 
 [datasette-gzip 0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - 2022-04-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [django-sql-dashboard 1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - 2022-04-20
 
 [shot-scraper 0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - 2022-04-18
-
-[tweet-images 0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - 2022-04-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

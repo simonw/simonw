@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1010<!-- releases_count ends --> releases across <!-- project_count starts -->152<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1011<!-- releases_count ends --> releases across <!-- project_count starts -->152<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - ([11 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-05-01
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
 <br />Copy database files into an in-memory database on startup
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-28
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->1010<!-- releases_count ends --> releases 
 <br />Datasette plugin for authentication using passwords
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.10](https://github.com/simonw/s3-credentials/releases/tag/0.10) - ([10 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-01-25
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
