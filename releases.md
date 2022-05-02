@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1013<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1014<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.62a0](https://github.com/simonw/datasette/releases/tag/0.62a0) - ([111 releases total](https://github.com/simonw/datasette/releases)) - 2022-05-02
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - ([100 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-05-02
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1013<!-- releases_count ends --> releases 
 <br />Show a list of currently installed Python packages
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
 <br />Optimize Datasette performance behind a caching proxy
-* **[datasette](https://github.com/simonw/datasette)**: [0.61.1](https://github.com/simonw/datasette/releases/tag/0.61.1) - ([110 releases total](https://github.com/simonw/datasette/releases)) - 2022-03-23
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - ([20 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-20
 <br />Datasette plugin for publishing data using Vercel
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
