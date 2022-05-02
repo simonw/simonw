@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1011<!-- releases_count ends --> releases across <!-- project_count starts -->152<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1013<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - ([100 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-05-02
+<br />Python CLI utility and library for manipulating SQLite databases
+* **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
+<br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - ([11 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-05-01
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
@@ -23,8 +27,6 @@ Listing <!-- releases_count starts -->1011<!-- releases_count ends --> releases 
 <br />Send tweets with images from the command line
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
 <br />CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26](https://github.com/simonw/sqlite-utils/releases/tag/3.26) - ([99 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-04-13
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 <br />Show a summary of a Django or Jinja template
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.2](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-08

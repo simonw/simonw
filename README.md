@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - 2022-05-02
+
+[click-default-group-wheel 1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
+
 [s3-credentials 0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - 2022-05-01
 
 [datasette-copy-to-memory 0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - 2022-04-30
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-total-page-time 0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
 
 [asyncinject 0.5](https://github.com/simonw/asyncinject/releases/tag/0.5) - 2022-04-22
-
-[django-sql-dashboard 1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - 2022-04-20
-
-[shot-scraper 0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - 2022-04-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
