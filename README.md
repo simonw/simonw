@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette Lite: a server-side Python web application running in a browser](http://simonwillison.net/2022/May/4/datasette-lite/) - 2022-05-04
+
 [Automatically opening issues when tracked file content changes](http://simonwillison.net/2022/Apr/28/issue-on-changes/) - 2022-04-28
 
 [Weeknotes: Parallel queries for Datasette, plus some middleware tricks](http://simonwillison.net/2022/Apr/27/parallel-queries/) - 2022-04-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building a Covid sewage Twitter bot (and other weeknotes)](http://simonwillison.net/2022/Apr/18/covid-sewage/) - 2022-04-18
 
 [Pillar Point Stewards, pypi-to-sqlite, improvements to shot-scraper and appreciating datasette-dashboards](http://simonwillison.net/2022/Apr/8/weeknotes/) - 2022-04-08
-
-[Weeknotes: datasette-auth0](http://simonwillison.net/2022/Mar/28/datasette-auth0/) - 2022-03-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
