@@ -29,7 +29,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Automatically opening issues when tracked file content changes](http://simonwillison.net/2022/Apr/28/issue-on-changes/) - 2022-04-28
 
-[Weeknotes: Parallel queries for Datasette, plus some middleware tricks](http://simonwillison.net/2022/Apr/27/parallel-queries/) - 2022-04-27
+[Weeknotes: Parallel SQL queries for Datasette, plus some middleware tricks](http://simonwillison.net/2022/Apr/27/parallel-queries/) - 2022-04-27
 
 [Useful tricks with pip install URL and GitHub](http://simonwillison.net/2022/Apr/24/pip-install-github/) - 2022-04-24
 
