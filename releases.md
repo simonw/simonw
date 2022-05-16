@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1014<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1015<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.7](https://github.com/simonw/datasette-insert/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-05-16
+<br />Datasette plugin for inserting and updating data
 * **[datasette](https://github.com/simonw/datasette)**: [0.62a0](https://github.com/simonw/datasette/releases/tag/0.62a0) - ([111 releases total](https://github.com/simonw/datasette/releases)) - 2022-05-02
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - ([100 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-05-02
@@ -249,8 +251,6 @@ Listing <!-- releases_count starts -->1014<!-- releases_count ends --> releases 
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br />Unsafe permissions for datasette-insert - allows all actions without authentication
-* **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.6](https://github.com/simonw/datasette-insert/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/datasette-insert/releases)) - 2020-07-31
-<br />Datasette plugin for inserting and updating data
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
 <br />Datasette plugin for serving media based on a SQL query
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
