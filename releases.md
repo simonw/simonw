@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1015<!-- releases_count ends --> releases across <!-- project_count starts -->153<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1016<!-- releases_count ends --> releases across <!-- project_count starts -->154<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1) - 2022-05-17
+<br />Upload SQLite database files to Datasette
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.7](https://github.com/simonw/datasette-insert/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-05-16
 <br />Datasette plugin for inserting and updating data
 * **[datasette](https://github.com/simonw/datasette)**: [0.62a0](https://github.com/simonw/datasette/releases/tag/0.62a0) - ([111 releases total](https://github.com/simonw/datasette/releases)) - 2022-05-02
