@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[GitHub Actions job summaries](https://til.simonwillison.net/github-actions/job-summaries) - 2022-05-17
+
 [Efficiently copying a file](https://til.simonwillison.net/python/copy-file) - 2022-05-14
 
 [Setting up a custom subdomain for a GitHub Pages site](https://til.simonwillison.net/github/custom-subdomain-github-pages) - 2022-05-04
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Intercepting fetch in a service worker](https://til.simonwillison.net/service-workers/intercept-fetch) - 2022-04-30
 
 [Atuin for zsh shell history in SQLite](https://til.simonwillison.net/macos/atuin) - 2022-04-26
-
-[Seeing files opened by a process using opensnoop](https://til.simonwillison.net/macos/open-files-with-opensnoop) - 2022-04-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
