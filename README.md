@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Camping, a road trip and two new museums](http://simonwillison.net/2022/May/16/weeknotes/) - 2022-05-16
 
+[Weeknotes: Datasette Lite, nogil Python, HYTRADBOI](http://simonwillison.net/2022/May/6/weeknotes/) - 2022-05-06
+
+[Datasette Lite: a server-side Python web application running in a browser](http://simonwillison.net/2022/May/4/datasette-lite/) - 2022-05-04
+
+[Automatically opening issues when tracked file content changes](http://simonwillison.net/2022/Apr/28/issue-on-changes/) - 2022-04-28
+
+[Weeknotes: Parallel SQL queries for Datasette, plus some middleware tricks](http://simonwillison.net/2022/Apr/27/parallel-queries/) - 2022-04-27
+
+[Useful tricks with pip install URL and GitHub](http://simonwillison.net/2022/Apr/24/pip-install-github/) - 2022-04-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
