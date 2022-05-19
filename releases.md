@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1017<!-- releases_count ends --> releases across <!-- project_count starts -->154<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1018<!-- releases_count ends --> releases across <!-- project_count starts -->154<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14](https://github.com/simonw/shot-scraper/releases/tag/0.14) - ([15 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-19
+<br />A comand-line utility for taking automated screenshots of websites
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-05-17
 <br />Upload SQLite database files to Datasette
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.7](https://github.com/simonw/datasette-insert/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-05-16
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1017<!-- releases_count ends --> releases 
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - ([35 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-04-20
 <br />Django app for building dashboards using raw SQL queries
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
-<br />Tools for taking automated screenshots of websites
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
 <br />Send tweets with images from the command line
 * **[geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite)**: [1.1.1](https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/geojson-to-sqlite/releases)) - 2022-04-13
