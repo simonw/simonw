@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1018<!-- releases_count ends --> releases across <!-- project_count starts -->154<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1019<!-- releases_count ends --> releases across <!-- project_count starts -->155<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
+<br />Create a SQLite database containing your data from Google Calendar
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14](https://github.com/simonw/shot-scraper/releases/tag/0.14) - ([15 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-19
 <br />A comand-line utility for taking automated screenshots of websites
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-05-17
