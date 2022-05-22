@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using the Fly Docker registry](https://til.simonwillison.net/fly/fly-docker-registry) - 2022-05-22
+
 [Optimizing PNGs in GitHub Actions using Oxipng](https://til.simonwillison.net/github-actions/oxipng) - 2022-05-19
 
 [GitHub Actions job summaries](https://til.simonwillison.net/github-actions/job-summaries) - 2022-05-17
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Efficiently copying a file](https://til.simonwillison.net/python/copy-file) - 2022-05-14
 
 [Setting up a custom subdomain for a GitHub Pages site](https://til.simonwillison.net/github/custom-subdomain-github-pages) - 2022-05-04
-
-[Intercepting fetch in a service worker](https://til.simonwillison.net/service-workers/intercept-fetch) - 2022-04-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
