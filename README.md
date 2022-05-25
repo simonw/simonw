@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-unsafe-expose-env 0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
+
 [shot-scraper 0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - 2022-05-22
 
 [google-calendar-to-sqlite 0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - 2022-05-02
 
 [click-default-group-wheel 1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
-
-[s3-credentials 0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - 2022-05-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

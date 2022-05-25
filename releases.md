@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1020<!-- releases_count ends --> releases across <!-- project_count starts -->155<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1021<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
+<br />Datasette plugin to expose some environment variables at /-/env for debugging
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - ([16 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-22
 <br />A comand-line utility for taking automated screenshots of websites
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
