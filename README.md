@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Wildcard DNS and SSL on Fly](https://til.simonwillison.net/fly/wildcard-dns-ssl) - 2022-05-26
+
 [Writing Fly logs to S3](https://til.simonwillison.net/fly/fly-logs-to-s3) - 2022-05-25
 
 [Using the Fly Docker registry](https://til.simonwillison.net/fly/fly-docker-registry) - 2022-05-22
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Optimizing PNGs in GitHub Actions using Oxipng](https://til.simonwillison.net/github-actions/oxipng) - 2022-05-19
 
 [GitHub Actions job summaries](https://til.simonwillison.net/github-actions/job-summaries) - 2022-05-17
-
-[Efficiently copying a file](https://til.simonwillison.net/python/copy-file) - 2022-05-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
