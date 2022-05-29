@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1021<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1022<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a0](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a0) - ([11 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
+<br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
 <br />Datasette plugin to expose some environment variables at /-/env for debugging
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - ([16 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-22
@@ -283,8 +285,6 @@ Listing <!-- releases_count starts -->1021<!-- releases_count ends --> releases 
 <br />ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br />Upload your photos to S3 and import metadata about them into a SQLite database
-* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [0.7](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2020-04-15
-<br />Datasette plugin that authenticates users based on existing domain cookies
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3](https://github.com/simonw/paginate-json/releases/tag/0.3) - 2020-04-14
 <br />Command-line tool for fetching JSON from paginated APIs
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
