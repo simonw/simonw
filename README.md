@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-auth-existing-cookies 1.0a0](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a0) - 2022-05-29
+[datasette-auth-existing-cookies 1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - 2022-05-29
 
 [datasette-unsafe-expose-env 0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
 

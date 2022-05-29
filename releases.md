@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1022<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1023<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a0](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a0) - ([11 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
+* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
 <br />Datasette plugin to expose some environment variables at /-/env for debugging
