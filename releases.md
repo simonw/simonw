@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1023<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1024<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - ([34 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-05-30
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
@@ -77,8 +79,6 @@ Listing <!-- releases_count starts -->1023<!-- releases_count ends --> releases 
 <br />Draw polygons on maps in Datasette
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
 <br />Prettier formatting for ?_trace=1 traces
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.1](https://github.com/simonw/datasette-graphql/releases/tag/2.0.1) - ([33 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-01-12
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
 * **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
