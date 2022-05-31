@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1024<!-- releases_count ends --> releases across <!-- project_count starts -->156<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1025<!-- releases_count ends --> releases across <!-- project_count starts -->157<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
+<br />Load email from .mbox files into SQLite
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - ([34 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-05-30
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
