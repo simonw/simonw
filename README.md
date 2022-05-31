@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[A Datasette tutorial written by GPT-3](http://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/) - 2022-05-31
+
 [Weeknotes: Building Datasette Cloud on Fly Machines, Furo for documentation](http://simonwillison.net/2022/May/26/weeknotes-building-datasette-cloud/) - 2022-05-26
 
 [Bundling binary tools in Python wheels](http://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) - 2022-05-23
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette Lite, nogil Python, HYTRADBOI](http://simonwillison.net/2022/May/6/weeknotes/) - 2022-05-06
 
 [Datasette Lite: a server-side Python web application running in a browser](http://simonwillison.net/2022/May/4/datasette-lite/) - 2022-05-04
-
-[Automatically opening issues when tracked file content changes](http://simonwillison.net/2022/Apr/28/issue-on-changes/) - 2022-04-28
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
