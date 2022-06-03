@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1025<!-- releases_count ends --> releases across <!-- project_count starts -->157<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1026<!-- releases_count ends --> releases across <!-- project_count starts -->157<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-06-03
+<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - ([34 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-05-30
@@ -167,8 +169,6 @@ Listing <!-- releases_count starts -->1025<!-- releases_count ends --> releases 
 <br />Datasette plugin that masks specified database columns
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.6.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2021-06-07
-<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11
 <br />Tool for posting JSON to an API, broken into pages
 * **[airtable-export](https://github.com/simonw/airtable-export)**: [0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - ([10 releases total](https://github.com/simonw/airtable-export/releases)) - 2021-04-09

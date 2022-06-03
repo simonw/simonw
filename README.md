@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-upload-csvs 0.7](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7) - 2022-06-03
+
 [mbox-to-sqlite 0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 
 [datasette-graphql 2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - 2022-05-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [google-calendar-to-sqlite 0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
 
 [datasette-upload-dbs 0.1.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.1) - 2022-05-17
-
-[datasette-insert 0.7](https://github.com/simonw/datasette-insert/releases/tag/0.7) - 2022-05-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
