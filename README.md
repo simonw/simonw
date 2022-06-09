@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-upload-csvs 0.7](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7) - 2022-06-03
+[datasette-upload-csvs 0.7.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1) - 2022-06-09
 
 [mbox-to-sqlite 0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 

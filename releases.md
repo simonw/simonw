@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1026<!-- releases_count ends --> releases across <!-- project_count starts -->157<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1027<!-- releases_count ends --> releases across <!-- project_count starts -->157<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-06-03
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-06-09
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
