@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-ics 0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - 2022-06-10
+[datasette-socrata 0.2](https://github.com/simonw/datasette-socrata/releases/tag/0.2) - 2022-06-11
 
-[datasette-socrata 0.1.1](https://github.com/simonw/datasette-socrata/releases/tag/0.1.1) - 2022-06-10
+[datasette-ics 0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - 2022-06-10
 
 [datasette-upload-csvs 0.7.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1) - 2022-06-09
 
