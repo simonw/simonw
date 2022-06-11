@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-low-disk-space-hook 0.1a0](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1a0) - 2022-06-11
+
 [datasette-socrata 0.2](https://github.com/simonw/datasette-socrata/releases/tag/0.2) - 2022-06-11
 
 [datasette-ics 0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - 2022-06-10
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-auth-existing-cookies 1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - 2022-05-29
 
 [datasette-unsafe-expose-env 0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
-
-[shot-scraper 0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - 2022-05-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1031<!-- releases_count ends --> releases across <!-- project_count starts -->158<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1032<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1a0](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1a0) - 2022-06-11
+<br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.2](https://github.com/simonw/datasette-socrata/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-11
 <br />Import data from Socrata into Datasette
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - ([4 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-06-10
