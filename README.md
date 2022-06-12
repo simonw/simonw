@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Twenty years of my blog](http://simonwillison.net/2022/Jun/12/twenty-years/) - 2022-06-12
+
 [A tiny web app to create images from OpenStreetMap maps](http://simonwillison.net/2022/Jun/12/url-map/) - 2022-06-12
 
 [Weeknotes: Datasette Cloud ready to preview](http://simonwillison.net/2022/Jun/7/datasette-cloud-preview/) - 2022-06-07
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [A Datasette tutorial written by GPT-3](http://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/) - 2022-05-31
 
 [Weeknotes: Building Datasette Cloud on Fly Machines, Furo for documentation](http://simonwillison.net/2022/May/26/weeknotes-building-datasette-cloud/) - 2022-05-26
-
-[Bundling binary tools in Python wheels](http://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/) - 2022-05-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
