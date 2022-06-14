@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using iconv to convert the text encoding of a file](https://til.simonwillison.net/linux/iconv) - 2022-06-14
+
 [Formatting thousands in Jinja](https://til.simonwillison.net/jinja/format-thousands) - 2022-06-08
 
 [Making HTTP calls using IPv6](https://til.simonwillison.net/networking/http-ipv6) - 2022-06-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using just with Django](https://til.simonwillison.net/django/just-with-django) - 2022-06-06
 
 [Wildcard DNS and SSL on Fly](https://til.simonwillison.net/fly/wildcard-dns-ssl) - 2022-05-26
-
-[Writing Fly logs to S3](https://til.simonwillison.net/fly/fly-logs-to-s3) - 2022-05-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
