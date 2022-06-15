@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1032<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1033<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.27](https://github.com/simonw/sqlite-utils/releases/tag/3.27) - ([101 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-06-15
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1a0](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1a0) - 2022-06-11
 <br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.2](https://github.com/simonw/datasette-socrata/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-11
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->1032<!-- releases_count ends --> releases 
 <br />Datasette plugin for inserting and updating data
 * **[datasette](https://github.com/simonw/datasette)**: [0.62a0](https://github.com/simonw/datasette/releases/tag/0.62a0) - ([111 releases total](https://github.com/simonw/datasette/releases)) - 2022-05-02
 <br />An open source multi-tool for exploring and publishing data
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.26.1](https://github.com/simonw/sqlite-utils/releases/tag/3.26.1) - ([100 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-05-02
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
 <br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - ([11 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-05-01
