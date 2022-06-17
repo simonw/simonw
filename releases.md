@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1034<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1035<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
+<br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
 <br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.27](https://github.com/simonw/sqlite-utils/releases/tag/3.27) - ([101 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-06-15
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.2](https://github.com/simonw/datasette-socrata/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-11
-<br />Import data from Socrata into Datasette
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - ([4 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-06-10
 <br />Datasette plugin for outputting iCalendar files
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-06-09
