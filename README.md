@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-scale-to-zero 0.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1) - 2022-06-21
+
 [datasette-socrata 0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - 2022-06-17
 
 [datasette-low-disk-space-hook 0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - 2022-06-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [mbox-to-sqlite 0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 
 [datasette-graphql 2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - 2022-05-30
-
-[datasette-auth-existing-cookies 1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - 2022-05-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

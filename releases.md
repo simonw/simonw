@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1035<!-- releases_count ends --> releases across <!-- project_count starts -->159<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1036<!-- releases_count ends --> releases across <!-- project_count starts -->160<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1) - 2022-06-21
+<br />Quit Datasette if it has not recieved traffic for a specified time period
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
 <br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
