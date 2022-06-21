@@ -25,17 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Joining CSV files in your browser using Datasette Lite](http://simonwillison.net/2022/Jun/20/datasette-lite-csvs/) - 2022-06-20
 
-[Weeknotes: datasette-socrata, and the last 10%...](http://simonwillison.net/2022/Jun/19/weeknotes/) - 2022-06-19
-
-[Twenty years of my blog](http://simonwillison.net/2022/Jun/12/twenty-years/) - 2022-06-12
-
-[A tiny web app to create images from OpenStreetMap maps](http://simonwillison.net/2022/Jun/12/url-map/) - 2022-06-12
-
-[Weeknotes: Datasette Cloud ready to preview](http://simonwillison.net/2022/Jun/7/datasette-cloud-preview/) - 2022-06-07
-
-[How to play with the GPT-3 language model](http://simonwillison.net/2022/Jun/5/play-with-gpt3/) - 2022-06-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
