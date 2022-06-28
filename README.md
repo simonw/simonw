@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Ignoring errors in a section of a Bash script](https://til.simonwillison.net/bash/ignore-errors) - 2022-06-28
+
 [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) - 2022-06-20
 
 [Registering new Datasette plugin hooks by defining them in other plugins](https://til.simonwillison.net/datasette/register-new-plugin-hooks) - 2022-06-17
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using iconv to convert the text encoding of a file](https://til.simonwillison.net/linux/iconv) - 2022-06-14
 
 [Formatting thousands in Jinja](https://til.simonwillison.net/jinja/format-thousands) - 2022-06-08
-
-[Making HTTP calls using IPv6](https://til.simonwillison.net/networking/http-ipv6) - 2022-06-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
