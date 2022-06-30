@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1041<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1042<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12](https://github.com/simonw/s3-credentials/releases/tag/0.12) - ([12 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-06-30
+<br />A tool for creating credentials for accessing S3 buckets
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.3](https://github.com/simonw/s3-ocr/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-06-30
 <br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-06-23
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1041<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
 <br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.11](https://github.com/simonw/s3-credentials/releases/tag/0.11) - ([11 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-05-01
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
 <br />Copy database files into an in-memory database on startup
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-28
