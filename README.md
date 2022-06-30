@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[s3-ocr 0.2a0](https://github.com/simonw/s3-ocr/releases/tag/0.2a0) - 2022-06-29
+[s3-ocr 0.3](https://github.com/simonw/s3-ocr/releases/tag/0.3) - 2022-06-30
 
 [datasette-scale-to-zero 0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - 2022-06-23
 
