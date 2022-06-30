@@ -8,7 +8,7 @@ Listing <!-- releases_count starts -->1043<!-- releases_count ends --> releases 
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12](https://github.com/simonw/s3-credentials/releases/tag/0.12) - ([12 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-06-30
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-06-23
-<br />Quit Datasette if it has not recieved traffic for a specified time period
+<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
 <br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
