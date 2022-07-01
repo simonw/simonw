@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1043<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1044<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
+<br />Datasette plugin for modifying table schemas
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.4](https://github.com/simonw/s3-ocr/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-06-30
 <br />Tools for running OCR against files stored in S3
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12](https://github.com/simonw/s3-credentials/releases/tag/0.12) - ([12 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-06-30
@@ -247,8 +249,6 @@ Listing <!-- releases_count starts -->1043<!-- releases_count ends --> releases 
 <br />Custom Python functions for working with SQLite FTS4
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
 <br />Datasette plugin for enabling full-text search against selected table columns
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2020-10-31
-<br />Datasette plugin for modifying table schemas
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
