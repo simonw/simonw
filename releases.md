@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1046<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1047<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2) - ([10 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-07-03
+<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - ([35 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-03
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1046<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - ([4 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-06-10
 <br />Datasette plugin for outputting iCalendar files
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-06-09
-<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
