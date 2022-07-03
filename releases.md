@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1045<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1046<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
+<br />Show a list of currently installed Python packages
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - ([35 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-03
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1045<!-- releases_count ends --> releases 
 <br />Load data about Python packages from PyPI into SQLite
 * **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1](https://github.com/simonw/datasette-auth0/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-28
 <br />Datasette plugin that authenticates users using Auth0
-* **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.1.1](https://github.com/simonw/datasette-packages/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-03-25
-<br />Show a list of currently installed Python packages
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
 <br />Optimize Datasette performance behind a caching proxy
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - ([20 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-20

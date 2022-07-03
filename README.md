@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-packages 0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - 2022-07-03
+
 [datasette-graphql 2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - 2022-07-03
 
 [datasette-edit-schema 0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - 2022-07-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-socrata 0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - 2022-06-17
 
 [datasette-low-disk-space-hook 0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - 2022-06-17
-
-[sqlite-utils 3.27](https://github.com/simonw/sqlite-utils/releases/tag/3.27) - 2022-06-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
