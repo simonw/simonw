@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1044<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1045<!-- releases_count ends --> releases across <!-- project_count starts -->161<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - ([35 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-03
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
 <br />Datasette plugin for modifying table schemas
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.4](https://github.com/simonw/s3-ocr/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-06-30
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1044<!-- releases_count ends --> releases 
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.0.2](https://github.com/simonw/datasette-graphql/releases/tag/2.0.2) - ([34 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-05-30
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
