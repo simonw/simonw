@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1048<!-- releases_count ends --> releases across <!-- project_count starts -->162<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1049<!-- releases_count ends --> releases across <!-- project_count starts -->162<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
+<br />Datasette plugin to expose some environment variables at /-/env for debugging
 * **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.7.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2) - ([10 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-07-03
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1048<!-- releases_count ends --> releases 
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
-* **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1) - 2022-05-25
-<br />Datasette plugin to expose some environment variables at /-/env for debugging
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - ([16 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-22
 <br />A comand-line utility for taking automated screenshots of websites
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21

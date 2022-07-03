@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-unsafe-expose-env 0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - 2022-07-03
+
 [datasette-expose-env 0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
 
 [datasette-upload-csvs 0.7.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2) - 2022-07-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [s3-ocr 0.4](https://github.com/simonw/s3-ocr/releases/tag/0.4) - 2022-06-30
 
 [s3-credentials 0.12](https://github.com/simonw/s3-credentials/releases/tag/0.12) - 2022-06-30
-
-[datasette-scale-to-zero 0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - 2022-06-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
