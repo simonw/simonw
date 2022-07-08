@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1051<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1052<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.1a0](https://github.com/simonw/sqlite-comprehend/releases/tag/0.1a0) - 2022-07-08
+* **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.1](https://github.com/simonw/sqlite-comprehend/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-08
 <br />Tools for running data in a SQLite database through AWS Comprehend
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-redirect-to-https/releases)) - 2022-07-04
 <br />Datasette plugin that redirects all non-https requests to https
