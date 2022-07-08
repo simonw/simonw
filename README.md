@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Reporting bugs in GitHub to GitHub](https://til.simonwillison.net/github/reporting-bugs) - 2022-07-08
+
 [Passing command arguments using heredoc syntax](https://til.simonwillison.net/zsh/argument-heredoc) - 2022-07-07
 
 [Running OCR against a PDF file with AWS Textract](https://til.simonwillison.net/aws/ocr-pdf-textract) - 2022-06-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Ignoring errors in a section of a Bash script](https://til.simonwillison.net/bash/ignore-errors) - 2022-06-28
 
 [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) - 2022-06-20
-
-[Registering new Datasette plugin hooks by defining them in other plugins](https://til.simonwillison.net/datasette/register-new-plugin-hooks) - 2022-06-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
