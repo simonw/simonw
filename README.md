@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-comprehend 0.1a0](https://github.com/simonw/sqlite-comprehend/releases/tag/0.1a0) - 2022-07-08
+
 [datasette-redirect-to-https 0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - 2022-07-04
 
 [datasette-unsafe-expose-env 0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - 2022-07-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-graphql 2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - 2022-07-03
 
 [datasette-edit-schema 0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - 2022-07-01
-
-[s3-ocr 0.4](https://github.com/simonw/s3-ocr/releases/tag/0.4) - 2022-06-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
