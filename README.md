@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-diffable 0.3](https://github.com/simonw/sqlite-diffable/releases/tag/0.3) - 2022-07-08
+[sqlite-diffable 0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - 2022-07-11
 
 [sqlite-comprehend 0.1](https://github.com/simonw/sqlite-comprehend/releases/tag/0.1) - 2022-07-08
 
