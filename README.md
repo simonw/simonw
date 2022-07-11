@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Conditionally running a second job in a GitHub Actions workflow](https://til.simonwillison.net/github-actions/conditionally-run-a-second-job) - 2022-07-11
+
 [Reporting bugs in GitHub to GitHub](https://til.simonwillison.net/github/reporting-bugs) - 2022-07-08
 
 [Passing command arguments using heredoc syntax](https://til.simonwillison.net/zsh/argument-heredoc) - 2022-07-07
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running OCR against a PDF file with AWS Textract](https://til.simonwillison.net/aws/ocr-pdf-textract) - 2022-06-28
 
 [Ignoring errors in a section of a Bash script](https://til.simonwillison.net/bash/ignore-errors) - 2022-06-28
-
-[One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations) - 2022-06-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
