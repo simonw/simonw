@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[sqlite-comprehend: run AWS entity extraction against content in a SQLite database](http://simonwillison.net/2022/Jul/11/sqlite-comprehend/) - 2022-07-11
+
 [Using GPT-3 to explain how code works](http://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) - 2022-07-09
 
 [s3-ocr: Extract text from PDF files stored in an S3 bucket](http://simonwillison.net/2022/Jun/30/s3-ocr/) - 2022-06-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Joining CSV files in your browser using Datasette Lite](http://simonwillison.net/2022/Jun/20/datasette-lite-csvs/) - 2022-06-20
 
 [Weeknotes: datasette-socrata, and the last 10%...](http://simonwillison.net/2022/Jun/19/weeknotes/) - 2022-06-19
-
-[Twenty years of my blog](http://simonwillison.net/2022/Jun/12/twenty-years/) - 2022-06-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
