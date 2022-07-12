@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-ics 0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - 2022-07-12
+
 [sqlite-comprehend 0.2.1](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.1) - 2022-07-11
 
 [sqlite-diffable 0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - 2022-07-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-upload-csvs 0.7.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2) - 2022-07-03
 
 [datasette-packages 0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - 2022-07-03
-
-[datasette-graphql 2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - 2022-07-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

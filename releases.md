@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1056<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1057<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - ([5 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-07-12
+<br />Datasette plugin for outputting iCalendar files
 * **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.2.1](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-11
 <br />Tools for running data in a SQLite database through AWS Comprehend
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-07-11
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1056<!-- releases_count ends --> releases 
 <br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.27](https://github.com/simonw/sqlite-utils/releases/tag/3.27) - ([101 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-06-15
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.1](https://github.com/simonw/datasette-ics/releases/tag/0.5.1) - ([4 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-06-10
-<br />Datasette plugin for outputting iCalendar files
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
