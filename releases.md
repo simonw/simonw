@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1057<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1058<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.2.2](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.2) - ([5 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-12
+<br />Tools for running data in a SQLite database through AWS Comprehend
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - ([5 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-07-12
 <br />Datasette plugin for outputting iCalendar files
-* **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.2.1](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-11
-<br />Tools for running data in a SQLite database through AWS Comprehend
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-07-11
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-redirect-to-https/releases)) - 2022-07-04
