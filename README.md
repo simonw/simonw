@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-app 0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - 2022-07-13
+
 [datasette-app-support 0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - 2022-07-12
 
 [sqlite-comprehend 0.2.2](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.2) - 2022-07-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-unsafe-expose-env 0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - 2022-07-03
 
 [datasette-expose-env 0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
-
-[datasette-upload-csvs 0.7.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2) - 2022-07-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
