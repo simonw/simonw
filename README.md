@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.14](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14) - 2022-07-13
+
 [datasette-app 0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - 2022-07-13
 
 [datasette-app-support 0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - 2022-07-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-redirect-to-https 0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - 2022-07-04
 
 [datasette-unsafe-expose-env 0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - 2022-07-03
-
-[datasette-expose-env 0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Upgrading packages with npm](https://til.simonwillison.net/npm/upgrading-packages) - 2022-07-13
+
 [Conditionally running a second job in a GitHub Actions workflow](https://til.simonwillison.net/github-actions/conditionally-run-a-second-job) - 2022-07-11
 
 [Reporting bugs in GitHub to GitHub](https://til.simonwillison.net/github/reporting-bugs) - 2022-07-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Passing command arguments using heredoc syntax](https://til.simonwillison.net/zsh/argument-heredoc) - 2022-07-07
 
 [Running OCR against a PDF file with AWS Textract](https://til.simonwillison.net/aws/ocr-pdf-textract) - 2022-06-28
-
-[Ignoring errors in a section of a Bash script](https://til.simonwillison.net/bash/ignore-errors) - 2022-06-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

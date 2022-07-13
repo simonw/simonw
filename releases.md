@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1060<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1061<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14) - ([21 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-13
+<br />Datasette plugin for publishing data using Vercel
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
 <br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - ([19 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2022-07-12
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->1060<!-- releases_count ends --> releases 
 <br />Datasette plugin that authenticates users using Auth0
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
 <br />Optimize Datasette performance behind a caching proxy
-* **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.13](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13) - ([20 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-03-20
-<br />Datasette plugin for publishing data using Vercel
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
 <br />CLI tool for comparing images
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
