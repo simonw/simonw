@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Testing Electron apps with Playwright and GitHub Actions](https://til.simonwillison.net/electron/testing-electron-playwright) - 2022-07-13
+
 [Upgrading packages with npm](https://til.simonwillison.net/npm/upgrading-packages) - 2022-07-13
 
 [Conditionally running a second job in a GitHub Actions workflow](https://til.simonwillison.net/github-actions/conditionally-run-a-second-job) - 2022-07-11
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Reporting bugs in GitHub to GitHub](https://til.simonwillison.net/github/reporting-bugs) - 2022-07-08
 
 [Passing command arguments using heredoc syntax](https://til.simonwillison.net/zsh/argument-heredoc) - 2022-07-07
-
-[Running OCR against a PDF file with AWS Textract](https://til.simonwillison.net/aws/ocr-pdf-textract) - 2022-06-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
