@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1060<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1059<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
-<br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - ([19 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2022-07-12
 <br />Part of https://github.com/simonw/datasette-app
 * **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.2.2](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.2) - ([5 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-12
@@ -135,6 +133,8 @@ Listing <!-- releases_count starts -->1060<!-- releases_count ends --> releases 
 <br />Save data from Twitter to a SQLite database
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
+* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.1](https://github.com/simonw/datasette-app/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-app/releases)) - 2021-09-13
+<br />The Datasette macOS application
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
