@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1061<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1062<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - ([102 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-07-15
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14) - ([21 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-13
 <br />Datasette plugin for publishing data using Vercel
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->1061<!-- releases_count ends --> releases 
 <br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
 <br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.27](https://github.com/simonw/sqlite-utils/releases/tag/3.27) - ([101 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-06-15
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
