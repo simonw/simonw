@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1062<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1063<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.62a1](https://github.com/simonw/datasette/releases/tag/0.62a1) - ([112 releases total](https://github.com/simonw/datasette/releases)) - 2022-07-18
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - ([102 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-07-15
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14) - ([21 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-13
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1062<!-- releases_count ends --> releases 
 <br />Upload SQLite database files to Datasette
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.7](https://github.com/simonw/datasette-insert/releases/tag/0.7) - ([7 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-05-16
 <br />Datasette plugin for inserting and updating data
-* **[datasette](https://github.com/simonw/datasette)**: [0.62a0](https://github.com/simonw/datasette/releases/tag/0.62a0) - ([111 releases total](https://github.com/simonw/datasette/releases)) - 2022-05-02
-<br />An open source multi-tool for exploring and publishing data
 * **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
 <br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30

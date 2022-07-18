@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.62a1](https://github.com/simonw/datasette/releases/tag/0.62a1) - 2022-07-18
+
 [sqlite-utils 3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - 2022-07-15
 
 [datasette-publish-vercel 0.14](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14) - 2022-07-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-ics 0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - 2022-07-12
 
 [sqlite-diffable 0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - 2022-07-11
-
-[datasette-redirect-to-https 0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - 2022-07-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
