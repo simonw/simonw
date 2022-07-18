@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1063<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1064<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2a0](https://github.com/simonw/datasette-sentry/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-07-18
+<br />Datasette plugin for configuring Sentry
 * **[datasette](https://github.com/simonw/datasette)**: [0.62a1](https://github.com/simonw/datasette/releases/tag/0.62a1) - ([112 releases total](https://github.com/simonw/datasette/releases)) - 2022-07-18
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - ([102 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-07-15
@@ -313,8 +315,6 @@ Listing <!-- releases_count starts -->1063<!-- releases_count ends --> releases 
 <br />Save FEC campaign finance data to a SQLite database
 * **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
 <br />ASGI middleware for logging traffic to a SQLite database
-* **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.1.1](https://github.com/simonw/datasette-sentry/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2020-01-29
-<br />Datasette plugin for configuring Sentry
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
 <br />Import your genome into a SQLite database
 * **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-rure/releases)) - 2019-09-11
