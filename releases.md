@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1064<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1065<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1.1) - ([36 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-18
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2a0](https://github.com/simonw/datasette-sentry/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-07-18
 <br />Datasette plugin for configuring Sentry
 * **[datasette](https://github.com/simonw/datasette)**: [0.62a1](https://github.com/simonw/datasette/releases/tag/0.62a1) - ([112 releases total](https://github.com/simonw/datasette/releases)) - 2022-07-18
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1064<!-- releases_count ends --> releases 
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1) - ([35 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-03
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
 <br />Datasette plugin for modifying table schemas
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.4](https://github.com/simonw/s3-ocr/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-06-30
