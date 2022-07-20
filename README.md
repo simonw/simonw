@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Datasette, sqlite-utils, Datasette Desktop](http://simonwillison.net/2022/Jul/20/weeknotes/) - 2022-07-20
+
 [sqlite-comprehend: run AWS entity extraction against content in a SQLite database](http://simonwillison.net/2022/Jul/11/sqlite-comprehend/) - 2022-07-11
 
 [Using GPT-3 to explain how code works](http://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) - 2022-07-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [First impressions of DALL-E, generating images from text](http://simonwillison.net/2022/Jun/23/dall-e/) - 2022-06-23
 
 [Joining CSV files in your browser using Datasette Lite](http://simonwillison.net/2022/Jun/20/datasette-lite-csvs/) - 2022-06-20
-
-[Weeknotes: datasette-socrata, and the last 10%...](http://simonwillison.net/2022/Jun/19/weeknotes/) - 2022-06-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
