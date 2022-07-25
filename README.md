@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Deploying a redbean app to Fly](https://til.simonwillison.net/fly/redbean-on-fly) - 2022-07-25
+
 [Using pytest and Playwright to test a JavaScript web application](https://til.simonwillison.net/pytest/playwright-pytest) - 2022-07-24
 
 [Freezing requirements with pip-tools](https://til.simonwillison.net/python/pip-tools) - 2022-07-14
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Testing Electron apps with Playwright and GitHub Actions](https://til.simonwillison.net/electron/testing-electron-playwright) - 2022-07-13
 
 [Upgrading packages with npm](https://til.simonwillison.net/npm/upgrading-packages) - 2022-07-13
-
-[Conditionally running a second job in a GitHub Actions workflow](https://til.simonwillison.net/github-actions/conditionally-run-a-second-job) - 2022-07-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
