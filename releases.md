@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1070<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1071<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.2](https://github.com/simonw/shot-scraper/releases/tag/0.14.2) - ([17 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-07-28
+<br />A comand-line utility for taking automated screenshots of websites
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.1](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.1) - 2022-07-28
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.2](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-28
@@ -55,8 +57,6 @@ Listing <!-- releases_count starts -->1070<!-- releases_count ends --> releases 
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.1](https://github.com/simonw/shot-scraper/releases/tag/0.14.1) - ([16 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-05-22
-<br />A comand-line utility for taking automated screenshots of websites
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
 <br />Create a SQLite database containing your data from Google Calendar
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-05-17
