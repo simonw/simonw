@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1068<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1069<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.2](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-28
+<br />Custom Python functions for working with SQLite FTS4
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.1) - ([22 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-23
 <br />Datasette plugin for publishing data using Vercel
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.8](https://github.com/simonw/datasette-insert/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-07-22
@@ -251,8 +253,6 @@ Listing <!-- releases_count starts -->1068<!-- releases_count ends --> releases 
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.1](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.1) - ([3 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2020-11-06
-<br />Custom Python functions for working with SQLite FTS4
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
