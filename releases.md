@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1069<!-- releases_count ends --> releases across <!-- project_count starts -->163<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1070<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.1](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.1) - 2022-07-28
+<br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.2](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-28
 <br />Custom Python functions for working with SQLite FTS4
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.1) - ([22 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-23
