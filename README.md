@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[struct endianness in Python](https://til.simonwillison.net/python/struct-endianness) - 2022-07-28
+
 [Testing things in Fedora using Docker](https://til.simonwillison.net/docker/test-fedora-in-docker) - 2022-07-27
 
 [Deploying a redbean app to Fly](https://til.simonwillison.net/fly/redbean-on-fly) - 2022-07-25
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using pytest and Playwright to test a JavaScript web application](https://til.simonwillison.net/pytest/playwright-pytest) - 2022-07-24
 
 [Freezing requirements with pip-tools](https://til.simonwillison.net/python/pip-tools) - 2022-07-14
-
-[Testing Electron apps with Playwright and GitHub Actions](https://til.simonwillison.net/electron/testing-electron-playwright) - 2022-07-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
