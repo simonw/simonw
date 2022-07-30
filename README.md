@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Emulating a big-endian s390x with QEMU](https://til.simonwillison.net/docker/emulate-s390x-with-qemu) - 2022-07-30
+
 [Migrating a GitHub wiki from one repository to another](https://til.simonwillison.net/github/migrate-github-wiki) - 2022-07-28
 
 [struct endianness in Python](https://til.simonwillison.net/python/struct-endianness) - 2022-07-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Testing things in Fedora using Docker](https://til.simonwillison.net/docker/test-fedora-in-docker) - 2022-07-27
 
 [Deploying a redbean app to Fly](https://til.simonwillison.net/fly/redbean-on-fly) - 2022-07-25
-
-[Using pytest and Playwright to test a JavaScript web application](https://til.simonwillison.net/pytest/playwright-pytest) - 2022-07-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
