@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1073<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1074<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12.1](https://github.com/simonw/s3-credentials/releases/tag/0.12.1) - ([13 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-08-01
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - ([2 releases total](https://github.com/simonw/datasette-sqlite-fts4/releases)) - 2022-07-31
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->1073<!-- releases_count ends --> releases 
 <br />Show a list of currently installed Python packages
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
 <br />Datasette plugin for modifying table schemas
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12](https://github.com/simonw/s3-credentials/releases/tag/0.12) - ([12 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-06-30
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-06-23
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
