@@ -10,7 +10,7 @@ Listing <!-- releases_count starts -->1074<!-- releases_count ends --> releases 
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30
 <br />Custom Python functions for working with SQLite FTS4
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.2](https://github.com/simonw/shot-scraper/releases/tag/0.14.2) - ([17 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-07-28
-<br />A comand-line utility for taking automated screenshots of websites
+<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.1) - ([22 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-07-23
 <br />Datasette plugin for publishing data using Vercel
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.8](https://github.com/simonw/datasette-insert/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-07-22
