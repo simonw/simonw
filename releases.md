@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1075<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1076<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
+<br />Quit Datasette if it has not received traffic for a specified time period
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - ([18 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-08-02
 <br />A command-line utility for taking automated screenshots of websites
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12.1](https://github.com/simonw/s3-credentials/releases/tag/0.12.1) - ([13 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-08-01
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->1075<!-- releases_count ends --> releases 
 <br />Show a list of currently installed Python packages
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
 <br />Datasette plugin for modifying table schemas
-* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.1.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-06-23
-<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
 <br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
