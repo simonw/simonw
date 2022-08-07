@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-ocr 0.6](https://github.com/simonw/s3-ocr/releases/tag/0.6) - 2022-08-07
+
 [datasette-scale-to-zero 0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - 2022-08-05
 
 [shot-scraper 0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - 2022-08-02
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-vercel 0.14.1](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.1) - 2022-07-23
 
 [datasette-insert 0.8](https://github.com/simonw/datasette-insert/releases/tag/0.8) - 2022-07-22
-
-[s3-ocr 0.5](https://github.com/simonw/s3-ocr/releases/tag/0.5) - 2022-07-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Mocking a Textract LimitExceededException with boto](https://til.simonwillison.net/pytest/mocking-boto) - 2022-08-07
+
 [Trying out SQLite extensions on macOS](https://til.simonwillison.net/sqlite/trying-macos-extensions) - 2022-08-03
 
 [Using boto3 from the command line](https://til.simonwillison.net/aws/boto-command-line) - 2022-08-03
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Related content with SQLite FTS and a Datasette template function](https://til.simonwillison.net/sqlite/related-content) - 2022-08-01
 
 [Emulating a big-endian s390x with QEMU](https://til.simonwillison.net/docker/emulate-s390x-with-qemu) - 2022-07-30
-
-[Migrating a GitHub wiki from one repository to another](https://til.simonwillison.net/github/migrate-github-wiki) - 2022-07-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1076<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1077<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6](https://github.com/simonw/s3-ocr/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-07
+<br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - ([18 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-08-02
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1076<!-- releases_count ends --> releases 
 <br />Datasette plugin for publishing data using Vercel
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.8](https://github.com/simonw/datasette-insert/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-07-22
 <br />Datasette plugin for inserting and updating data
-* **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.5](https://github.com/simonw/s3-ocr/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-07-19
-<br />Tools for running OCR against files stored in S3
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1.1) - ([36 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-18
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2a0](https://github.com/simonw/datasette-sentry/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-07-18
