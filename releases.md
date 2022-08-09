@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1078<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1079<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.1](https://github.com/simonw/s3-ocr/releases/tag/0.6.1) - ([7 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-09
+* **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.2](https://github.com/simonw/s3-ocr/releases/tag/0.6.2) - ([8 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-09
 <br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
 <br />Quit Datasette if it has not received traffic for a specified time period
