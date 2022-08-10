@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using GPT-3 to figure out jq recipes](https://til.simonwillison.net/gpt3/jq) - 2022-08-10
+
 [Mocking a Textract LimitExceededException with boto](https://til.simonwillison.net/pytest/mocking-boto) - 2022-08-07
 
 [Trying out SQLite extensions on macOS](https://til.simonwillison.net/sqlite/trying-macos-extensions) - 2022-08-03
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using boto3 from the command line](https://til.simonwillison.net/aws/boto-command-line) - 2022-08-03
 
 [Related content with SQLite FTS and a Datasette template function](https://til.simonwillison.net/sqlite/related-content) - 2022-08-01
-
-[Emulating a big-endian s390x with QEMU](https://til.simonwillison.net/docker/emulate-s390x-with-qemu) - 2022-07-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
