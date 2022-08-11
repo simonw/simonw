@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11
+
 [Weeknotes: Joining the board of the Python Software Foundation](http://simonwillison.net/2022/Jul/30/psf-board/) - 2022-07-30
 
 [Weeknotes: Datasette, sqlite-utils, Datasette Desktop](http://simonwillison.net/2022/Jul/20/weeknotes/) - 2022-07-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Using GPT-3 to explain how code works](http://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) - 2022-07-09
 
 [s3-ocr: Extract text from PDF files stored in an S3 bucket](http://simonwillison.net/2022/Jun/30/s3-ocr/) - 2022-06-30
-
-[First impressions of DALL-E, generating images from text](http://simonwillison.net/2022/Jun/23/dall-e/) - 2022-06-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
