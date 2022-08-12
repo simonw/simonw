@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1080<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1081<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.13](https://github.com/simonw/s3-credentials/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-08-12
+<br />A tool for creating credentials for accessing S3 buckets
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
 <br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - ([18 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-08-02
 <br />A command-line utility for taking automated screenshots of websites
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.12.1](https://github.com/simonw/s3-credentials/releases/tag/0.12.1) - ([13 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-08-01
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - ([2 releases total](https://github.com/simonw/datasette-sqlite-fts4/releases)) - 2022-07-31
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30

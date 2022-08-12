@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.13](https://github.com/simonw/s3-credentials/releases/tag/0.13) - 2022-08-12
+
 [s3-ocr 0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - 2022-08-10
 
 [datasette-scale-to-zero 0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - 2022-08-05
 
 [shot-scraper 0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - 2022-08-02
-
-[s3-credentials 0.12.1](https://github.com/simonw/s3-credentials/releases/tag/0.12.1) - 2022-08-01
 
 [datasette-sqlite-fts4 0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - 2022-07-31
 
