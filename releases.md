@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1081<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1082<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.62](https://github.com/simonw/datasette/releases/tag/0.62) - ([113 releases total](https://github.com/simonw/datasette/releases)) - 2022-08-14
+<br />An open source multi-tool for exploring and publishing data
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.13](https://github.com/simonw/s3-credentials/releases/tag/0.13) - ([14 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-08-12
 <br />A tool for creating credentials for accessing S3 buckets
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1081<!-- releases_count ends --> releases 
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2a0](https://github.com/simonw/datasette-sentry/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-07-18
 <br />Datasette plugin for configuring Sentry
-* **[datasette](https://github.com/simonw/datasette)**: [0.62a1](https://github.com/simonw/datasette/releases/tag/0.62a1) - ([112 releases total](https://github.com/simonw/datasette/releases)) - 2022-07-18
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - ([102 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-07-15
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
