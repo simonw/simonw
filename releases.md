@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1083<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1084<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2a1](https://github.com/simonw/datasette-sentry/releases/tag/0.2a1) - ([4 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-08-14
+* **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-08-14
 <br />Datasette plugin for configuring Sentry
 * **[datasette](https://github.com/simonw/datasette)**: [0.62](https://github.com/simonw/datasette/releases/tag/0.62) - ([113 releases total](https://github.com/simonw/datasette/releases)) - 2022-08-14
 <br />An open source multi-tool for exploring and publishing data
