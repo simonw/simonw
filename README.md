@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Analyzing Google Cloud spend with Datasette](https://til.simonwillison.net/googlecloud/google-cloud-spend-datasette) - 2022-08-16
+
 [Defining setup.py dependencies using a URL](https://til.simonwillison.net/python/setup-py-from-url) - 2022-08-13
 
 [Creating a tiled zoomable image with OpenSeadragon and vips](https://til.simonwillison.net/javascript/openseadragon) - 2022-08-13
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using GPT-3 to figure out jq recipes](https://til.simonwillison.net/gpt3/jq) - 2022-08-10
 
 [Mocking a Textract LimitExceededException with boto](https://til.simonwillison.net/pytest/mocking-boto) - 2022-08-07
-
-[Trying out SQLite extensions on macOS](https://til.simonwillison.net/sqlite/trying-macos-extensions) - 2022-08-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
