@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Trying out Quarto on macOS](https://til.simonwillison.net/quarto/trying-out-quarto) - 2022-08-18
+
 [Sort by number of JSON intersections](https://til.simonwillison.net/sqlite/sort-by-number-of-json-intersections) - 2022-08-17
 
 [Analyzing Google Cloud spend with Datasette](https://til.simonwillison.net/googlecloud/google-cloud-spend-datasette) - 2022-08-16
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Defining setup.py dependencies using a URL](https://til.simonwillison.net/python/setup-py-from-url) - 2022-08-13
 
 [Creating a tiled zoomable image with OpenSeadragon and vips](https://til.simonwillison.net/javascript/openseadragon) - 2022-08-13
-
-[Using GPT-3 to figure out jq recipes](https://til.simonwillison.net/gpt3/jq) - 2022-08-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
