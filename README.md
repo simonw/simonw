@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-diffable 0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - 2022-08-18
+
 [datasette-sentry 0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - 2022-08-14
 
 [datasette 0.62](https://github.com/simonw/datasette/releases/tag/0.62) - 2022-08-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [shot-scraper 0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - 2022-08-02
 
 [datasette-sqlite-fts4 0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - 2022-07-31
-
-[sqlite-fts4 1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - 2022-07-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

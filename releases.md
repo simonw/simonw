@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1084<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1085<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-08-18
+<br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-08-14
 <br />Datasette plugin for configuring Sentry
 * **[datasette](https://github.com/simonw/datasette)**: [0.62](https://github.com/simonw/datasette/releases/tag/0.62) - ([113 releases total](https://github.com/simonw/datasette/releases)) - 2022-08-14
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1084<!-- releases_count ends --> releases 
 <br />Tools for running data in a SQLite database through AWS Comprehend
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - ([5 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-07-12
 <br />Datasette plugin for outputting iCalendar files
-* **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.4](https://github.com/simonw/sqlite-diffable/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-07-11
-<br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-redirect-to-https/releases)) - 2022-07-04
 <br />Datasette plugin that redirects all non-https requests to https
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
