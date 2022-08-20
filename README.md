@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-mp3-audio 0.1](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.1) - 2022-08-20
+[datasette-mp3-audio 0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - 2022-08-20
 
 [sqlite-diffable 0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - 2022-08-18
 
