@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1085<!-- releases_count ends --> releases across <!-- project_count starts -->164<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1086<!-- releases_count ends --> releases across <!-- project_count starts -->165<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mp3-audio](https://github.com/simonw/datasette-mp3-audio)**: [0.1](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.1) - 2022-08-20
+<br />Turn .mp3 URLs into an audio player in the Datasette interface
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-08-18
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-08-14
