@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Hacking around with the ScotRail audio announcements](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
+[Analyzing ScotRail audio announcements with Datasette - from prototype to production](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
 
 [Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
 
