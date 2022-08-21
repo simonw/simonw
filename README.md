@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Hacking around with the ScotRail audio announcements](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
+
 [Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
 
 [Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette, sqlite-utils, Datasette Desktop](http://simonwillison.net/2022/Jul/20/weeknotes/) - 2022-07-20
 
 [sqlite-comprehend: run AWS entity extraction against content in a SQLite database](http://simonwillison.net/2022/Jul/11/sqlite-comprehend/) - 2022-07-11
-
-[Using GPT-3 to explain how code works](http://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) - 2022-07-09
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
