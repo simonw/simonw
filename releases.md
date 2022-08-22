@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1087<!-- releases_count ends --> releases across <!-- project_count starts -->165<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1088<!-- releases_count ends --> releases across <!-- project_count starts -->165<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - ([4 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2022-08-22
+<br />Create a SQLite database containing data from your Pocket account
 * **[datasette-mp3-audio](https://github.com/simonw/datasette-mp3-audio)**: [0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-mp3-audio/releases)) - 2022-08-20
 <br />Turn .mp3 URLs into an audio player in the Datasette interface
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-08-18
@@ -263,8 +265,6 @@ Listing <!-- releases_count starts -->1087<!-- releases_count ends --> releases 
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database containing your observation history from iNaturalist
-* **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.1](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1) - ([3 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2020-10-22
-<br />Create a SQLite database containing data from your Pocket account
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br />Custom SQL function for making DNS lookups
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
