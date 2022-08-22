@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1088<!-- releases_count ends --> releases across <!-- project_count starts -->165<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1089<!-- releases_count ends --> releases across <!-- project_count starts -->165<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1) - ([10 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-08-22
+<br />Datasette plugin for modifying table schemas
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - ([4 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2022-08-22
 <br />Create a SQLite database containing data from your Pocket account
 * **[datasette-mp3-audio](https://github.com/simonw/datasette-mp3-audio)**: [0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-mp3-audio/releases)) - 2022-08-20
@@ -51,8 +53,6 @@ Listing <!-- releases_count starts -->1088<!-- releases_count ends --> releases 
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5) - ([9 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-07-01
-<br />Datasette plugin for modifying table schemas
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3](https://github.com/simonw/datasette-socrata/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-06-17
 <br />Import data from Socrata into Datasette
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
