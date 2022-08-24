@@ -123,10 +123,8 @@ def fetch_releases(oauth_token):
                         "total_releases": repo["releases"]["totalCount"],
                     }
                 )
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+        has_next_page = after_cursor
     return releases
 
 
