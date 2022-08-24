@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-vercel 0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - 2022-08-24
+
+[datasette-edit-schema 0.5.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1) - 2022-08-22
+
 [pocket-to-sqlite 0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - 2022-08-22
 
-[xml-analyser 1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - 2022-03-01
+[datasette-mp3-audio 0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - 2022-08-20
 
-[github-to-sqlite 2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - 2021-12-01
+[sqlite-diffable 0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - 2022-08-18
 
-[twitter-to-sqlite 0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - 2021-09-21
+[datasette-sentry 0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - 2022-08-14
 
-[evernote-to-sqlite 0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - 2021-08-26
+[datasette 0.62](https://github.com/simonw/datasette/releases/tag/0.62) - 2022-08-14
 
-[healthkit-to-sqlite 1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - 2021-08-20
-
-[dogsheep-beta 0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - 2021-06-13
-
-[hacker-news-to-sqlite 0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - 2021-03-13
+[s3-credentials 0.13](https://github.com/simonw/s3-credentials/releases/tag/0.13) - 2022-08-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
