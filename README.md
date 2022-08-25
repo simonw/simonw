@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building a searchable archive for the San Francisco Microscopical Society](http://simonwillison.net/2022/Aug/25/sfms-archive/) - 2022-08-25
+
 [Analyzing ScotRail audio announcements with Datasette - from prototype to production](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
 
 [Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Joining the board of the Python Software Foundation](http://simonwillison.net/2022/Jul/30/psf-board/) - 2022-07-30
 
 [Weeknotes: Datasette, sqlite-utils, Datasette Desktop](http://simonwillison.net/2022/Jul/20/weeknotes/) - 2022-07-20
-
-[sqlite-comprehend: run AWS entity extraction against content in a SQLite database](http://simonwillison.net/2022/Jul/11/sqlite-comprehend/) - 2022-07-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
