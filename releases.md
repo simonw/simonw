@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1091<!-- releases_count ends --> releases across <!-- project_count starts -->166<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1092<!-- releases_count ends --> releases across <!-- project_count starts -->166<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.29](https://github.com/simonw/sqlite-utils/releases/tag/3.29) - ([103 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-08-28
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-multiline-links](https://github.com/simonw/datasette-multiline-links)**: [0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <br />Make multiple newline separated URLs clickable in Datasette
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - ([23 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-08-24
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1091<!-- releases_count ends --> releases 
 <br />Datasette plugin for inserting and updating data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1.1) - ([36 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-18
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.28](https://github.com/simonw/sqlite-utils/releases/tag/3.28) - ([102 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-07-15
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
 <br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - ([19 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2022-07-12
