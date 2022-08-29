@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[SQLite VACUUM: database or disk is full](https://til.simonwillison.net/sqlite/vacum-disk-full) - 2022-08-29
+
 [Seeing which functions are unique to a specific SQLite / Datasette instance](https://til.simonwillison.net/sqlite/function-list) - 2022-08-23
 
 [Trying out Quarto on macOS](https://til.simonwillison.net/quarto/trying-out-quarto) - 2022-08-18
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Sort by number of JSON intersections](https://til.simonwillison.net/sqlite/sort-by-number-of-json-intersections) - 2022-08-17
 
 [Analyzing Google Cloud spend with Datasette](https://til.simonwillison.net/googlecloud/google-cloud-spend-datasette) - 2022-08-16
-
-[Defining setup.py dependencies using a URL](https://til.simonwillison.net/python/setup-py-from-url) - 2022-08-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
