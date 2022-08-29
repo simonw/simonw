@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1093<!-- releases_count ends --> releases across <!-- project_count starts -->167<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1094<!-- releases_count ends --> releases across <!-- project_count starts -->167<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [0.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1) - 2022-08-29
+* **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [0.1.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-29
 <br />Generate sitemap.xml for Datasette sites
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.29](https://github.com/simonw/sqlite-utils/releases/tag/3.29) - ([103 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-08-28
 <br />Python CLI utility and library for manipulating SQLite databases
