@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
+
 [Building a searchable archive for the San Francisco Microscopical Society](http://simonwillison.net/2022/Aug/25/sfms-archive/) - 2022-08-25
 
 [Analyzing ScotRail audio announcements with Datasette - from prototype to production](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11
 
 [Weeknotes: Joining the board of the Python Software Foundation](http://simonwillison.net/2022/Jul/30/psf-board/) - 2022-07-30
-
-[Weeknotes: Datasette, sqlite-utils, Datasette Desktop](http://simonwillison.net/2022/Jul/20/weeknotes/) - 2022-07-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
