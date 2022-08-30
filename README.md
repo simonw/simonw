@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-block-robots 1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - 2022-08-30
+[datasette-sitemap 1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - 2022-08-30
 
-[datasette-sitemap 0.1.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1.1) - 2022-08-29
+[datasette-block-robots 1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - 2022-08-30
 
 [sqlite-utils 3.29](https://github.com/simonw/sqlite-utils/releases/tag/3.29) - 2022-08-28
 

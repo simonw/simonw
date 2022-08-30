@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1095<!-- releases_count ends --> releases across <!-- project_count starts -->167<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1096<!-- releases_count ends --> releases across <!-- project_count starts -->167<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
+<br />Generate sitemap.xml for Datasette sites
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2022-08-30
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
-* **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [0.1.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-29
-<br />Generate sitemap.xml for Datasette sites
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.29](https://github.com/simonw/sqlite-utils/releases/tag/3.29) - ([103 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-08-28
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-multiline-links](https://github.com/simonw/datasette-multiline-links)**: [0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
