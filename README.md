@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
+
 [Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
 
 [Building a searchable archive for the San Francisco Microscopical Society](http://simonwillison.net/2022/Aug/25/sfms-archive/) - 2022-08-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
 
 [Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11
-
-[Weeknotes: Joining the board of the Python Software Foundation](http://simonwillison.net/2022/Jul/30/psf-board/) - 2022-07-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
