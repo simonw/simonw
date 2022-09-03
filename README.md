@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
+
 [How to scp files to and from Fly](https://til.simonwillison.net/fly/scp) - 2022-09-02
 
 [SQLite VACUUM: database or disk is full](https://til.simonwillison.net/sqlite/vacum-disk-full) - 2022-08-29
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Seeing which functions are unique to a specific SQLite / Datasette instance](https://til.simonwillison.net/sqlite/function-list) - 2022-08-23
 
 [Trying out Quarto on macOS](https://til.simonwillison.net/quarto/trying-out-quarto) - 2022-08-18
-
-[Sort by number of JSON intersections](https://til.simonwillison.net/sqlite/sort-by-number-of-json-intersections) - 2022-08-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
