@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1096<!-- releases_count ends --> releases across <!-- project_count starts -->167<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1097<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-image-tags](https://github.com/simonw/datasette-render-image-tags)**: [0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
+<br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
 * **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
 <br />Generate sitemap.xml for Datasette sites
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2022-08-30

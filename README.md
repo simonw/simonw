@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
+
 [datasette-sitemap 1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - 2022-08-30
 
 [datasette-block-robots 1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - 2022-08-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-edit-schema 0.5.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1) - 2022-08-22
 
 [pocket-to-sqlite 0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - 2022-08-22
-
-[datasette-mp3-audio 0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - 2022-08-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
