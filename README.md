@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
+
 [Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
 
 [Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Analyzing ScotRail audio announcements with Datasette - from prototype to production](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
 
 [Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
-
-[Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
