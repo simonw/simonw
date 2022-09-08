@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Clone, edit and push text files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
+
 [Run pytest against a specific Python version using Docker](https://til.simonwillison.net/docker/pytest-docker) - 2022-09-05
 
 [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [How to scp files to and from Fly](https://til.simonwillison.net/fly/scp) - 2022-09-02
 
 [SQLite VACUUM: database or disk is full](https://til.simonwillison.net/sqlite/vacum-disk-full) - 2022-08-29
-
-[Seeing which functions are unique to a specific SQLite / Datasette instance](https://til.simonwillison.net/sqlite/function-list) - 2022-08-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
