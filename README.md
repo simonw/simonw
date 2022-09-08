@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-upload-csvs 0.8.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.1) - 2022-09-08
+[datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
 
 [datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 
