@@ -42,7 +42,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Clone, edit and push text files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
+[Clone, edit and push files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
 
 [Run pytest against a specific Python version using Docker](https://til.simonwillison.net/docker/pytest-docker) - 2022-09-05
 
