@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1098<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1099<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8) - ([11 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.1) - ([12 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-render-image-tags](https://github.com/simonw/datasette-render-image-tags)**: [0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 <br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
