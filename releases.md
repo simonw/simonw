@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1100<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1101<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
+<br />Upload SQLite database files to Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - ([13 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-render-image-tags](https://github.com/simonw/datasette-render-image-tags)**: [0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
@@ -71,8 +73,6 @@ Listing <!-- releases_count starts -->1100<!-- releases_count ends --> releases 
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
 <br />Create a SQLite database containing your data from Google Calendar
-* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-05-17
-<br />Upload SQLite database files to Datasette
 * **[click-default-group-wheel](https://github.com/simonw/click-default-group-wheel)**: [1.2.2](https://github.com/simonw/click-default-group-wheel/releases/tag/1.2.2) - 2022-05-02
 <br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
