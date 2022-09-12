@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Prompt injection attacks against GPT-3](http://simonwillison.net/2022/Sep/12/prompt-injection/) - 2022-09-12
+
 [Weeknotes: Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
 
 [Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building a searchable archive for the San Francisco Microscopical Society](http://simonwillison.net/2022/Aug/25/sfms-archive/) - 2022-08-25
 
 [Analyzing ScotRail audio announcements with Datasette - from prototype to production](http://simonwillison.net/2022/Aug/21/scotrail/) - 2022-08-21
-
-[Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
