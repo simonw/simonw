@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1101<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1102<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.15](https://github.com/simonw/shot-scraper/releases/tag/0.15) - ([19 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-09-12
+<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
 <br />Upload SQLite database files to Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - ([13 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1101<!-- releases_count ends --> releases 
 <br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
 <br />Quit Datasette if it has not received traffic for a specified time period
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.14.3](https://github.com/simonw/shot-scraper/releases/tag/0.14.3) - ([18 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-08-02
-<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - ([2 releases total](https://github.com/simonw/datasette-sqlite-fts4/releases)) - 2022-07-31
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30
