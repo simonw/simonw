@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-sandstorm-support 0.1](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.1) - 2022-09-14
+
 [shot-scraper 0.15.1](https://github.com/simonw/shot-scraper/releases/tag/0.15.1) - 2022-09-13
 
 [datasette-upload-dbs 0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - 2022-09-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-block-robots 1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - 2022-08-30
 
 [sqlite-utils 3.29](https://github.com/simonw/sqlite-utils/releases/tag/3.29) - 2022-08-28
-
-[datasette-multiline-links 0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Browse files (including SQLite databases) on your iPhone with ifuse](https://til.simonwillison.net/macos/ifuse-iphone) - 2022-09-14
+
 [Driving an external display from a Mac laptop](https://til.simonwillison.net/macos/external-display-laptop) - 2022-09-10
 
 [Clone, edit and push files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Run pytest against a specific Python version using Docker](https://til.simonwillison.net/docker/pytest-docker) - 2022-09-05
 
 [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
-
-[How to scp files to and from Fly](https://til.simonwillison.net/fly/scp) - 2022-09-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

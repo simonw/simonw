@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1103<!-- releases_count ends --> releases across <!-- project_count starts -->168<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1104<!-- releases_count ends --> releases across <!-- project_count starts -->169<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sandstorm-support](https://github.com/simonw/datasette-sandstorm-support)**: [0.1](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.1) - 2022-09-14
+<br />Authentication and permissions for Datasette on Sandstorm
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.15.1](https://github.com/simonw/shot-scraper/releases/tag/0.15.1) - ([20 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-09-13
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
