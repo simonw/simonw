@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running PyPy on macOS using Homebrew](https://til.simonwillison.net/python/pypy-macos) - 2022-09-14
+
 [Browse files (including SQLite databases) on your iPhone with ifuse](https://til.simonwillison.net/macos/ifuse-iphone) - 2022-09-14
 
 [Driving an external display from a Mac laptop](https://til.simonwillison.net/macos/external-display-laptop) - 2022-09-10
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Clone, edit and push files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
 
 [Run pytest against a specific Python version using Docker](https://til.simonwillison.net/docker/pytest-docker) - 2022-09-05
-
-[Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
