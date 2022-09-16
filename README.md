@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Returning related rows in a single SQL query using JSON](https://til.simonwillison.net/sqlite/related-rows-single-query) - 2022-09-16
+
 [Running PyPy on macOS using Homebrew](https://til.simonwillison.net/python/pypy-macos) - 2022-09-14
 
 [Browse files (including SQLite databases) on your iPhone with ifuse](https://til.simonwillison.net/macos/ifuse-iphone) - 2022-09-14
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Driving an external display from a Mac laptop](https://til.simonwillison.net/macos/external-display-laptop) - 2022-09-10
 
 [Clone, edit and push files that live in a Gist](https://til.simonwillison.net/github/clone-and-push-gist) - 2022-09-08
-
-[Run pytest against a specific Python version using Docker](https://til.simonwillison.net/docker/pytest-docker) - 2022-09-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
