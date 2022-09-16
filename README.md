@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-sandstorm-support 0.2](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2) - 2022-09-16
+
 [s3-credentials 0.14](https://github.com/simonw/s3-credentials/releases/tag/0.14) - 2022-09-15
 
 [shot-scraper 0.16](https://github.com/simonw/shot-scraper/releases/tag/0.16) - 2022-09-15
 
 [datasette-edit-templates 0.1a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1a0) - 2022-09-14
-
-[datasette-sandstorm-support 0.1](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.1) - 2022-09-14
 
 [datasette-upload-dbs 0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - 2022-09-09
 
