@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I don't know how to solve prompt injection](http://simonwillison.net/2022/Sep/16/prompt-injection-solutions/) - 2022-09-16
+
 [Weeknotes: Datasette Lite, s3-credentials, shot-scraper, datasette-edit-templates and more](http://simonwillison.net/2022/Sep/16/weeknotes/) - 2022-09-16
 
 [Prompt injection attacks against GPT-3](http://simonwillison.net/2022/Sep/12/prompt-injection/) - 2022-09-12
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
 
 [Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
-
-[Building a searchable archive for the San Francisco Microscopical Society](http://simonwillison.net/2022/Aug/25/sfms-archive/) - 2022-08-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
