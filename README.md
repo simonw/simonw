@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[You can't solve AI security problems with more AI](http://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/) - 2022-09-17
+
 [I don't know how to solve prompt injection](http://simonwillison.net/2022/Sep/16/prompt-injection-solutions/) - 2022-09-16
 
 [Weeknotes: Datasette Lite, s3-credentials, shot-scraper, datasette-edit-templates and more](http://simonwillison.net/2022/Sep/16/weeknotes/) - 2022-09-16
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
 
 [Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
-
-[Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
