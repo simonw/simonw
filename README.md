@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[image-diff 0.2.2](https://github.com/simonw/image-diff/releases/tag/0.2.2) - 2022-09-19
+
 [datasette-sandstorm-support 0.2](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2) - 2022-09-16
 
 [s3-credentials 0.14](https://github.com/simonw/s3-credentials/releases/tag/0.14) - 2022-09-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
 
 [datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
-
-[datasette-sitemap 1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - 2022-08-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

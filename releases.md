@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1108<!-- releases_count ends --> releases across <!-- project_count starts -->170<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1109<!-- releases_count ends --> releases across <!-- project_count starts -->170<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[image-diff](https://github.com/simonw/image-diff)**: [0.2.2](https://github.com/simonw/image-diff/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/image-diff/releases)) - 2022-09-19
+<br />CLI tool for comparing images
 * **[datasette-sandstorm-support](https://github.com/simonw/datasette-sandstorm-support)**: [0.2](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-sandstorm-support/releases)) - 2022-09-16
 <br />Authentication and permissions for Datasette on Sandstorm
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.14](https://github.com/simonw/s3-credentials/releases/tag/0.14) - ([15 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-09-15
@@ -103,8 +105,6 @@ Listing <!-- releases_count starts -->1108<!-- releases_count ends --> releases 
 <br />Datasette plugin that authenticates users using Auth0
 * **[datasette-hashed-urls](https://github.com/simonw/datasette-hashed-urls)**: [0.4](https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/datasette-hashed-urls/releases)) - 2022-03-24
 <br />Optimize Datasette performance behind a caching proxy
-* **[image-diff](https://github.com/simonw/image-diff)**: [0.2.1](https://github.com/simonw/image-diff/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/image-diff/releases)) - 2022-03-11
-<br />CLI tool for comparing images
 * **[xml-analyser](https://github.com/simonw/xml-analyser)**: [1.3](https://github.com/simonw/xml-analyser/releases/tag/1.3) - ([4 releases total](https://github.com/simonw/xml-analyser/releases)) - 2022-03-01
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
