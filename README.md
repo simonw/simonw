@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[ttml-to-json 0.1](https://github.com/simonw/ttml-to-json/releases/tag/0.1) - 2022-09-25
+[ttml-to-json 0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - 2022-09-25
 
-[webvtt-to-json 0.1](https://github.com/simonw/webvtt-to-json/releases/tag/0.1) - 2022-09-24
+[webvtt-to-json 0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - 2022-09-25
 
 [image-diff 0.2.2](https://github.com/simonw/image-diff/releases/tag/0.2.2) - 2022-09-19
 

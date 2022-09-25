@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1111<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1113<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.1](https://github.com/simonw/ttml-to-json/releases/tag/0.1) - 2022-09-25
+* **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
 <br /> Convert TTML to JSON
-* **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.1](https://github.com/simonw/webvtt-to-json/releases/tag/0.1) - 2022-09-24
+* **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/webvtt-to-json/releases)) - 2022-09-25
 <br />Convert WebVTT to JSON, optionally removing duplicate lines
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.2](https://github.com/simonw/image-diff/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/image-diff/releases)) - 2022-09-19
 <br />CLI tool for comparing images
