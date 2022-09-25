@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Whisky sour](https://til.simonwillison.net/cocktails/whisky-sour) - 2022-09-25
+
 [Deploying Python web apps as AWS Lambda functions](https://til.simonwillison.net/awslambda/asgi-mangum) - 2022-09-19
 
 [Using DuckDB in Python to access Parquet data](https://til.simonwillison.net/duckdb/parquet) - 2022-09-17
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Returning related rows in a single SQL query using JSON](https://til.simonwillison.net/sqlite/related-rows-single-query) - 2022-09-16
 
 [Running PyPy on macOS using Homebrew](https://til.simonwillison.net/python/pypy-macos) - 2022-09-14
-
-[Browse files (including SQLite databases) on your iPhone with ifuse](https://til.simonwillison.net/macos/ifuse-iphone) - 2022-09-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
