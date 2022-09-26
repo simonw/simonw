@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1113<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1114<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.63a0](https://github.com/simonw/datasette/releases/tag/0.63a0) - ([114 releases total](https://github.com/simonw/datasette/releases)) - 2022-09-26
+<br />An open source multi-tool for exploring and publishing data
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
 <br /> Convert TTML to JSON
 * **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/webvtt-to-json/releases)) - 2022-09-25
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->1113<!-- releases_count ends --> releases 
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.2](https://github.com/simonw/datasette-sentry/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-08-14
 <br />Datasette plugin for configuring Sentry
-* **[datasette](https://github.com/simonw/datasette)**: [0.62](https://github.com/simonw/datasette/releases/tag/0.62) - ([113 releases total](https://github.com/simonw/datasette/releases)) - 2022-08-14
-<br />An open source multi-tool for exploring and publishing data
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
 <br />Tools for running OCR against files stored in S3
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
