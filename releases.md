@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1115<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1116<!-- releases_count ends --> releases across <!-- project_count starts -->172<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
+<br />Datasette plugin for publishing data using Fly
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2022-09-28
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette](https://github.com/simonw/datasette)**: [0.63a0](https://github.com/simonw/datasette/releases/tag/0.63a0) - ([114 releases total](https://github.com/simonw/datasette/releases)) - 2022-09-26
@@ -121,8 +123,6 @@ Listing <!-- releases_count starts -->1115<!-- releases_count ends --> releases 
 <br />Redirect forbidden requests to a login page
 * **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
 <br />Create a SQLite database containing metadata from Google Drive
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.1.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-02-14
-<br />Datasette plugin for publishing data using Fly
 * **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-tiddlywiki/releases)) - 2022-02-14
 <br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
