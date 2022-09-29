@@ -35,7 +35,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Prompt injection attacks against GPT-3](http://simonwillison.net/2022/Sep/12/prompt-injection/) - 2022-09-12
 
-[Weeknotes: Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
+[Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
