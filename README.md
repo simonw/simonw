@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Exploring 10m scraped Shutterstock videos used to train Meta's Make-A-Video text-to-video model](http://simonwillison.net/2022/Sep/29/webvid/) - 2022-09-29
+
 [You can't solve AI security problems with more AI](http://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/) - 2022-09-17
 
 [I don't know how to solve prompt injection](http://simonwillison.net/2022/Sep/16/prompt-injection-solutions/) - 2022-09-16
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Prompt injection attacks against GPT-3](http://simonwillison.net/2022/Sep/12/prompt-injection/) - 2022-09-12
 
 [Weeknotes: Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
-
-[Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
