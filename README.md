@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](http://simonwillison.net/2022/Sep/30/action-transcription/) - 2022-09-30
+
 [Exploring 10m scraped Shutterstock videos used to train Meta's Make-A-Video text-to-video model](http://simonwillison.net/2022/Sep/29/webvid/) - 2022-09-29
 
 [You can't solve AI security problems with more AI](http://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/) - 2022-09-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette Lite, s3-credentials, shot-scraper, datasette-edit-templates and more](http://simonwillison.net/2022/Sep/16/weeknotes/) - 2022-09-16
 
 [Prompt injection attacks against GPT-3](http://simonwillison.net/2022/Sep/12/prompt-injection/) - 2022-09-12
-
-[Exploring the training data behind Stable Diffusion](http://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/) - 2022-09-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
