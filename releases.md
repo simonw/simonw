@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1117<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1118<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - ([8 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-10-05
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - 2022-10-05
 <br />Make specific Datasette tables visible to the public
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
@@ -265,8 +267,6 @@ Listing <!-- releases_count starts -->1117<!-- releases_count ends --> releases 
 <br />Experimental plugin that adds a column inspector
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br />Statistical visualizations for Datasette using Seaborn
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.0.1](https://github.com/simonw/datasette-search-all/releases/tag/1.0.1) - ([7 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2020-12-04
-<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br />Export Datasette records as YAML
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases total](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
