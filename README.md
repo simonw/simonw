@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Is the AI spell-casting metaphor harmful or helpful?](http://simonwillison.net/2022/Oct/5/spell-casting/) - 2022-10-05
+
 [Software engineering practices](http://simonwillison.net/2022/Oct/1/software-engineering-practices/) - 2022-10-01
 
 [Weeknotes: Datasette Cloud preview invitations](http://simonwillison.net/2022/Sep/30/datasette-cloud/) - 2022-09-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Exploring 10m scraped Shutterstock videos used to train Meta's Make-A-Video text-to-video model](http://simonwillison.net/2022/Sep/29/webvid/) - 2022-09-29
 
 [You can't solve AI security problems with more AI](http://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/) - 2022-09-17
-
-[I don't know how to solve prompt injection](http://simonwillison.net/2022/Sep/16/prompt-injection-solutions/) - 2022-09-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
