@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1119<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1120<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2](https://github.com/simonw/datasette-public/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-10-07
+<br />Make specific Datasette tables visible to the public
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-10-06
 <br />Datasette plugin for configuring Sentry
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - ([8 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-10-05
 <br />Datasette plugin for searching all searchable tables at once
-* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - 2022-10-05
-<br />Make specific Datasette tables visible to the public
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
 <br />Datasette plugin for publishing data using Fly
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2022-09-28

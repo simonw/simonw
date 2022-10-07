@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.2](https://github.com/simonw/datasette-public/releases/tag/0.2) - 2022-10-07
+
 [datasette-sentry 0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - 2022-10-06
 
 [datasette-search-all 1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - 2022-10-05
-
-[datasette-public 0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - 2022-10-05
 
 [datasette-publish-fly 1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - 2022-09-29
 
