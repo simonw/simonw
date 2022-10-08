@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Pisco sour](https://til.simonwillison.net/cocktails/pisco-sour) - 2022-10-08
+
 [Querying newline-delimited JSON logs using AWS Athena](https://til.simonwillison.net/aws/athena-newline-json) - 2022-10-06
 
 [Tommy's Margarita](https://til.simonwillison.net/cocktails/tommys-margarita) - 2022-10-02
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [GraphQL fragments](https://til.simonwillison.net/graphql/graphql-fragments) - 2022-09-30
 
 [HTML video that loads when the user clicks play](https://til.simonwillison.net/html/video-preload-none) - 2022-09-29
-
-[Athena error: The specified key does not exist](https://til.simonwillison.net/aws/athena-key-does-not-exist) - 2022-09-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
