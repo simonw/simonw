@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->744<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-10-05
@@ -47,7 +47,7 @@ Listing <!-- releases_count starts -->744<!-- releases_count ends --> releases a
 <br />Extends click.Group to invoke a command without explicit subcommand name (this version publishes a wheel)
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.1a0](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a0) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-28
 <br />Copy database files into an in-memory database on startup
-* **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.1](https://github.com/simonw/asgi-gzip/releases/tag/0.1) - 2022-04-28
+* **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.1](https://github.com/simonw/asgi-gzip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-04-28
 <br />gzip middleware for ASGI applications, extracted from Starlette
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.1](https://github.com/simonw/datasette-gzip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-27
 <br />Add gzip compression to Datasette
