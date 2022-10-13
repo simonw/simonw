@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-public 0.2](https://github.com/simonw/datasette-public/releases/tag/0.2) - 2022-10-07
+[datasette-public 0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - 2022-10-05
 
-[datasette-sentry 0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - 2022-10-06
+[ttml-to-json 0.1](https://github.com/simonw/ttml-to-json/releases/tag/0.1) - 2022-09-25
 
-[datasette-search-all 1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - 2022-10-05
+[webvtt-to-json 0.1](https://github.com/simonw/webvtt-to-json/releases/tag/0.1) - 2022-09-24
 
-[datasette-publish-fly 1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - 2022-09-29
+[datasette-edit-templates 0.1a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1a0) - 2022-09-14
 
-[datasette-pretty-json 0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - 2022-09-28
+[datasette-sandstorm-support 0.1](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.1) - 2022-09-14
 
-[datasette 0.63a0](https://github.com/simonw/datasette/releases/tag/0.63a0) - 2022-09-26
+[datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 
-[ttml-to-json 0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - 2022-09-25
+[datasette-sitemap 0.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1) - 2022-08-29
 
-[webvtt-to-json 0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - 2022-09-25
+[datasette-multiline-links 0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
