@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->746<!-- releases_count ends --> releases across <!-- project_count starts -->174<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
+<br />Screenshots of Datasette, taken using shot-scraper
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-10-05
 <br />Make specific Datasette tables visible to the public
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.1](https://github.com/simonw/ttml-to-json/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25

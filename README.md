@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-screenshots 0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
+
 [datasette-public 0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - 2022-10-05
 
 [ttml-to-json 0.1](https://github.com/simonw/ttml-to-json/releases/tag/0.1) - 2022-09-25
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 
 [datasette-sitemap 0.1](https://github.com/simonw/datasette-sitemap/releases/tag/0.1) - 2022-08-29
-
-[datasette-multiline-links 0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
