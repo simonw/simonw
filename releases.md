@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->744<!-- releases_count ends --> releases across <!-- project_count starts -->173<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.1](https://github.com/simonw/datasette-public/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-10-05
@@ -131,7 +131,7 @@ Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases a
 <br />SQL functions for working with placekeys
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.12.3](https://github.com/simonw/django-sql-dashboard/releases/tag/0.12.3) - ([10 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-05-09
 <br />Django app for building dashboards using raw SQL queries
-* **[json-post](https://github.com/simonw/json-post)**: [0.1a0](https://github.com/simonw/json-post/releases/tag/0.1a0) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-10
+* **[json-post](https://github.com/simonw/json-post)**: [0.1a0](https://github.com/simonw/json-post/releases/tag/0.1a0) - ([2 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-10
 <br />Tool for posting JSON to an API, broken into pages
 * **[datasette-publish-azure](https://github.com/simonw/datasette-publish-azure)**: [0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
 <br />Publish Datasette instances to Azure Functions (in progress)
