@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[shot-scraper for a subset of table columns](https://til.simonwillison.net/shot-scraper/subset-of-table-columns) - 2022-10-14
+
 [Using psutil to investigate "Too many open files"](https://til.simonwillison.net/python/too-many-open-files-psutil) - 2022-10-14
 
 [Pisco sour](https://til.simonwillison.net/cocktails/pisco-sour) - 2022-10-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Querying newline-delimited JSON logs using AWS Athena](https://til.simonwillison.net/aws/athena-newline-json) - 2022-10-06
 
 [Tommy's Margarita](https://til.simonwillison.net/cocktails/tommys-margarita) - 2022-10-02
-
-[GraphQL fragments](https://til.simonwillison.net/graphql/graphql-fragments) - 2022-09-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
