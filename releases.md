@@ -57,7 +57,7 @@ Listing <!-- releases_count starts -->745<!-- releases_count ends --> releases a
 <br />Send tweets with images from the command line
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 <br />Show a summary of a Django or Jinja template
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.11](https://github.com/simonw/shot-scraper/releases/tag/0.11) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-08
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-11
 <br />A command-line utility for taking automated screenshots of websites
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.1](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-07
 <br />Load data about Python packages from PyPI into SQLite
