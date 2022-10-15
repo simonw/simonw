@@ -55,12 +55,12 @@ Listing <!-- releases_count starts -->746<!-- releases_count ends --> releases a
 <br />Add gzip compression to Datasette
 * **[datasette-total-page-time](https://github.com/simonw/datasette-total-page-time)**: [0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
 <br />Add a note to the Datasette footer measuring the total page load time
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.13](https://github.com/simonw/shot-scraper/releases/tag/0.13) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-18
+<br />A command-line utility for taking automated screenshots of websites
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1](https://github.com/simonw/tweet-images/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-17
 <br />Send tweets with images from the command line
 * **[summarize-template](https://github.com/simonw/summarize-template)**: [0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 <br />Show a summary of a Django or Jinja template
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [0.12](https://github.com/simonw/shot-scraper/releases/tag/0.12) - ([10 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-04-11
-<br />A command-line utility for taking automated screenshots of websites
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.1](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2022-04-07
 <br />Load data about Python packages from PyPI into SQLite
 * **[datasette-auth0](https://github.com/simonw/datasette-auth0)**: [0.1a0](https://github.com/simonw/datasette-auth0/releases/tag/0.1a0) - ([2 releases total](https://github.com/simonw/datasette-auth0/releases)) - 2022-03-26
