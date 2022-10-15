@@ -35,7 +35,7 @@ organization_graphql = """
         name
         description
         url
-        releases(last: 1) {
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
           totalCount
           nodes {
             name
@@ -63,7 +63,7 @@ query {
         name
         description
         url
-        releases(last: 1) {
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
           totalCount
           nodes {
             name
