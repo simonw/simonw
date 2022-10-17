@@ -1,6 +1,6 @@
 Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 
-DjangoCon 2022 talk notes: [simonw/djangocon-2022-productivity](github.com/simonw/djangocon-2022-productivity).
+DjangoCon 2022 talk notes: [simonw/djangocon-2022-productivity](https://github.com/simonw/djangocon-2022-productivity).
 
 <table><tr><td valign="top" width="33%">
 
