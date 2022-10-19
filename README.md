@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Measuring traffic during the Half Moon Bay Pumpkin Festival](http://simonwillison.net/2022/Oct/19/measuring-traffic/) - 2022-10-19
+
 [Automating screenshots for the Datasette documentation using shot-scraper](http://simonwillison.net/2022/Oct/14/automating-screenshots/) - 2022-10-14
 
 [Weeknotes: Publishing data using Datasette Cloud](http://simonwillison.net/2022/Oct/12/publishing-data/) - 2022-10-12
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Software engineering practices](http://simonwillison.net/2022/Oct/1/software-engineering-practices/) - 2022-10-01
 
 [Weeknotes: Datasette Cloud preview invitations](http://simonwillison.net/2022/Sep/30/datasette-cloud/) - 2022-09-30
-
-[A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](http://simonwillison.net/2022/Sep/30/action-transcription/) - 2022-09-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
