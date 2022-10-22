@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1124<!-- releases_count ends --> releases across <!-- project_count starts -->174<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1125<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
+<br />Plugin for running Datasette using Gunicorn
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0](https://github.com/simonw/shot-scraper/releases/tag/1.0) - ([23 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-15
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
