@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Writing a Datasette CLI plugin that mostly duplicates an existing command](https://til.simonwillison.net/datasette/plugin-modifies-command) - 2022-10-23
+
 [Simple load testing with Locust](https://til.simonwillison.net/python/locust) - 2022-10-23
 
 [Adding a Datasette ASGI app to Django](https://til.simonwillison.net/django/datasette-django) - 2022-10-20
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Guessing Amazon image URLs using GitHub Copilot](https://til.simonwillison.net/gpt3/guessing-amazon-urls) - 2022-10-15
 
 [shot-scraper for a subset of table columns](https://til.simonwillison.net/shot-scraper/subset-of-table-columns) - 2022-10-14
-
-[Using psutil to investigate "Too many open files"](https://til.simonwillison.net/python/too-many-open-files-psutil) - 2022-10-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
