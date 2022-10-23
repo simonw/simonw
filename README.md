@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: DjangoCon, SQLite in Django, datasette-gunicorn](http://simonwillison.net/2022/Oct/23/datasette-gunicorn/) - 2022-10-23
+
 [Measuring traffic during the Half Moon Bay Pumpkin Festival](http://simonwillison.net/2022/Oct/19/measuring-traffic/) - 2022-10-19
 
 [Automating screenshots for the Datasette documentation using shot-scraper](http://simonwillison.net/2022/Oct/14/automating-screenshots/) - 2022-10-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Is the AI spell-casting metaphor harmful or helpful?](http://simonwillison.net/2022/Oct/5/spell-casting/) - 2022-10-05
 
 [Software engineering practices](http://simonwillison.net/2022/Oct/1/software-engineering-practices/) - 2022-10-01
-
-[Weeknotes: Datasette Cloud preview invitations](http://simonwillison.net/2022/Sep/30/datasette-cloud/) - 2022-09-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
