@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1126<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1127<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - ([24 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-24
+<br />A command-line utility for taking automated screenshots of websites
 * **[datasette](https://github.com/simonw/datasette)**: [0.63a1](https://github.com/simonw/datasette/releases/tag/0.63a1) - ([115 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-24
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
 <br />Plugin for running Datasette using Gunicorn
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0](https://github.com/simonw/shot-scraper/releases/tag/1.0) - ([23 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-15
-<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13

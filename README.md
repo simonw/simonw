@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - 2022-10-24
+
 [datasette 0.63a1](https://github.com/simonw/datasette/releases/tag/0.63a1) - 2022-10-24
 
 [datasette-gunicorn 0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
-
-[shot-scraper 1.0](https://github.com/simonw/shot-scraper/releases/tag/1.0) - 2022-10-15
 
 [datasette-screenshots 0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 
