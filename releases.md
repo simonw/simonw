@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1125<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1126<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.63a1](https://github.com/simonw/datasette/releases/tag/0.63a1) - ([115 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-24
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
 <br />Plugin for running Datasette using Gunicorn
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0](https://github.com/simonw/shot-scraper/releases/tag/1.0) - ([23 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-15
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->1125<!-- releases_count ends --> releases 
 <br />Datasette plugin for publishing data using Fly
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2022-09-28
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
-* **[datasette](https://github.com/simonw/datasette)**: [0.63a0](https://github.com/simonw/datasette/releases/tag/0.63a0) - ([114 releases total](https://github.com/simonw/datasette/releases)) - 2022-09-26
-<br />An open source multi-tool for exploring and publishing data
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
 <br /> Convert TTML to JSON
 * **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/webvtt-to-json/releases)) - 2022-09-25
