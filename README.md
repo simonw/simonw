@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-indieauth 1.2.1](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.1) - 2022-10-25
+
 [shot-scraper 1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - 2022-10-24
 
 [datasette 0.63a1](https://github.com/simonw/datasette/releases/tag/0.63a1) - 2022-10-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-public 0.2](https://github.com/simonw/datasette-public/releases/tag/0.2) - 2022-10-07
 
 [datasette-sentry 0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - 2022-10-06
-
-[datasette-search-all 1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - 2022-10-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
