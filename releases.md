@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1129<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1130<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.63](https://github.com/simonw/datasette/releases/tag/0.63) - ([116 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-27
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.1](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-10-25
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - ([24 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-24
 <br />A command-line utility for taking automated screenshots of websites
-* **[datasette](https://github.com/simonw/datasette)**: [0.63a1](https://github.com/simonw/datasette/releases/tag/0.63a1) - ([115 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-24
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
 <br />Plugin for running Datasette using Gunicorn
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
