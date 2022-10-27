@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1130<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1131<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-10-27
+<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.63](https://github.com/simonw/datasette/releases/tag/0.63) - ([116 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-27
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1130<!-- releases_count ends --> releases 
 <br />Authentication and permissions for Datasette on Sandstorm
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.14](https://github.com/simonw/s3-credentials/releases/tag/0.14) - ([15 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-09-15
 <br />A tool for creating credentials for accessing S3 buckets
-* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.1a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1a0) - 2022-09-14
-<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
 <br />Upload SQLite database files to Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - ([13 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
