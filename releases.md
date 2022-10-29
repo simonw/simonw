@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1131<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1132<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
+<br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-10-27
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [0.63](https://github.com/simonw/datasette/releases/tag/0.63) - ([116 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-27
@@ -171,8 +173,6 @@ Listing <!-- releases_count starts -->1131<!-- releases_count ends --> releases 
 <br />Expose the Datasette request object to custom templates
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
-* **[json-flatten](https://github.com/simonw/json-flatten)**: [0.2](https://github.com/simonw/json-flatten/releases/tag/0.2) - 2021-09-14
-<br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11

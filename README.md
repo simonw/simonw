@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[json-flatten 0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - 2022-10-29
+
 [datasette-edit-templates 0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - 2022-10-27
 
 [datasette 0.63](https://github.com/simonw/datasette/releases/tag/0.63) - 2022-10-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-gunicorn 0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
 
 [datasette-screenshots 0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
-
-[asgi-gzip 0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - 2022-10-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
