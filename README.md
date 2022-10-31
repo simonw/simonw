@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[The pdb interact command](https://til.simonwillison.net/python/pdb-interact) - 2022-10-31
+
 [git bisect](https://til.simonwillison.net/git/git-bisect) - 2022-10-29
 
 [Finding the SQLite version used by Web SQL in Chrome](https://til.simonwillison.net/sqlite/sqlite-version-websql-chrome) - 2022-10-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [os.remove() on Windows fails if the file is already open](https://til.simonwillison.net/python/os-remove-windows) - 2022-10-25
 
 [Writing a Datasette CLI plugin that mostly duplicates an existing command](https://til.simonwillison.net/datasette/plugin-modifies-command) - 2022-10-23
-
-[Simple load testing with Locust](https://til.simonwillison.net/python/locust) - 2022-10-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
