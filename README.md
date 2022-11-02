@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[The Perfect Commit](http://simonwillison.net/2022/Oct/29/the-perfect-commit/) - 2022-10-29
 
+[Datasette 0.63: The annotated release notes](http://simonwillison.net/2022/Oct/27/datasette-0-63/) - 2022-10-27
+
+[Weeknotes: DjangoCon, SQLite in Django, datasette-gunicorn](http://simonwillison.net/2022/Oct/23/datasette-gunicorn/) - 2022-10-23
+
+[Measuring traffic during the Half Moon Bay Pumpkin Festival](http://simonwillison.net/2022/Oct/19/measuring-traffic/) - 2022-10-19
+
+[Automating screenshots for the Datasette documentation using shot-scraper](http://simonwillison.net/2022/Oct/14/automating-screenshots/) - 2022-10-14
+
+[Weeknotes: Publishing data using Datasette Cloud](http://simonwillison.net/2022/Oct/12/publishing-data/) - 2022-10-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
