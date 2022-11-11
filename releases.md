@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1132<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1133<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.63.1](https://github.com/simonw/datasette/releases/tag/0.63.1) - ([117 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-11
+<br />An open source multi-tool for exploring and publishing data
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-10-27
 <br />Plugin allowing Datasette templates to be edited within Datasette
-* **[datasette](https://github.com/simonw/datasette)**: [0.63](https://github.com/simonw/datasette/releases/tag/0.63) - ([116 releases total](https://github.com/simonw/datasette/releases)) - 2022-10-27
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.1](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-10-25

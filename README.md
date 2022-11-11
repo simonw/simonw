@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.63.1](https://github.com/simonw/datasette/releases/tag/0.63.1) - 2022-11-11
+
 [json-flatten 0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - 2022-10-29
 
 [datasette-edit-templates 0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - 2022-10-27
-
-[datasette 0.63](https://github.com/simonw/datasette/releases/tag/0.63) - 2022-10-27
 
 [sqlite-utils 3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - 2022-10-25
 
