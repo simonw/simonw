@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[How to create a tarball of a git repository using "git archive"](https://til.simonwillison.net/git/git-archive) - 2022-11-16
+
 [HTML datalist](https://til.simonwillison.net/html/datalist) - 2022-11-15
 
 [Writing tests with Copilot](https://til.simonwillison.net/gpt3/writing-test-with-copilot) - 2022-11-15
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [JSON Pointer](https://til.simonwillison.net/json/json-pointer) - 2022-11-14
 
 [Generating OpenAPI specifications using GPT-3](https://til.simonwillison.net/gpt3/open-api) - 2022-11-13
-
-[Export a Mastodon timeline to SQLite](https://til.simonwillison.net/mastodon/export-timeline-to-sqlite) - 2022-11-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
