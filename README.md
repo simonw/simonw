@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette is 5 today: a call for birthday presents](http://simonwillison.net/2022/Nov/13/datasette-birthday/) - 2022-11-13
 
+[Designing a write API for Datasette](http://simonwillison.net/2022/Nov/9/designing-a-write-api-for-datasette/) - 2022-11-09
+
+[Mastodon is just blogs](http://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/) - 2022-11-08
+
+[What to blog about](http://simonwillison.net/2022/Nov/6/what-to-blog-about/) - 2022-11-06
+
+[It looks like I'm moving to Mastodon](http://simonwillison.net/2022/Nov/5/mastodon/) - 2022-11-05
+
+[The Perfect Commit](http://simonwillison.net/2022/Oct/29/the-perfect-commit/) - 2022-10-29
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
