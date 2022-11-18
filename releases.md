@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1142<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1143<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
+<br />Datasette plugin for modifying table schemas
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
@@ -65,8 +67,6 @@ Listing <!-- releases_count starts -->1142<!-- releases_count ends --> releases 
 <br />Make multiple newline separated URLs clickable in Datasette
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - ([23 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-08-24
 <br />Datasette plugin for publishing data using Vercel
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1) - ([10 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-08-22
-<br />Datasette plugin for modifying table schemas
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - ([4 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2022-08-22
 <br />Create a SQLite database containing data from your Pocket account
 * **[datasette-mp3-audio](https://github.com/simonw/datasette-mp3-audio)**: [0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-mp3-audio/releases)) - 2022-08-20
