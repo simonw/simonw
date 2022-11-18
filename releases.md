@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1133<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1135<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7.1) - ([12 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-11-18
+<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette](https://github.com/simonw/datasette)**: [0.63.1](https://github.com/simonw/datasette/releases/tag/0.63.1) - ([117 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-11
 <br />An open source multi-tool for exploring and publishing data
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
@@ -25,8 +29,6 @@ Listing <!-- releases_count starts -->1133<!-- releases_count ends --> releases 
 <br />Make specific Datasette tables visible to the public
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-10-06
 <br />Datasette plugin for configuring Sentry
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1) - ([8 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-10-05
-<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
 <br />Datasette plugin for publishing data using Fly
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2022-09-28
@@ -235,8 +237,6 @@ Listing <!-- releases_count starts -->1133<!-- releases_count ends --> releases 
 <br />Experimental package of ASGI utilities extracted from Datasette
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases total](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br />Create a SQLite database containing data pulled from Hacker News
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2021-03-11
-<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
 <br />Given a JSON list of objects, flatten any keys which always contain single item arrays to just a single value
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - ([25 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2021-02-25
