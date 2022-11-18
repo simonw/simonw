@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1139<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1141<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
+<br />Datasette plugin for importing tables from other Datasette instances
+* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.1](https://github.com/simonw/datasette-public/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-11-18
+<br />Make specific Datasette tables visible to the public
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
@@ -31,8 +35,6 @@ Listing <!-- releases_count starts -->1139<!-- releases_count ends --> releases 
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
 <br />gzip middleware for ASGI applications, extracted from Starlette
-* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2](https://github.com/simonw/datasette-public/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-10-07
-<br />Make specific Datasette tables visible to the public
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-10-06
 <br />Datasette plugin for configuring Sentry
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
@@ -183,8 +185,6 @@ Listing <!-- releases_count starts -->1139<!-- releases_count ends --> releases 
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
 <br />Datasette plugin that shows the schema version of every attached database
-* **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3](https://github.com/simonw/datasette-import-table/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2021-09-08
-<br />Datasette plugin for importing tables from other Datasette instances
 * **[pids](https://github.com/simonw/pids)**: [0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
 <br />A tiny Python library for generating public IDs from integers
 * **[datasette-verify](https://github.com/simonw/datasette-verify)**: [0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
