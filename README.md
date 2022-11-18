@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-edit-templates 0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - 2022-11-18
+
 [datasette-configure-fts 1.1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.1) - 2022-11-18
 
 [datasette-socrata 0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - 2022-11-18
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.63.1](https://github.com/simonw/datasette/releases/tag/0.63.1) - 2022-11-11
 
 [json-flatten 0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - 2022-10-29
-
-[datasette-edit-templates 0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - 2022-10-27
 
 [sqlite-utils 3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - 2022-10-25
 <!-- recent_releases ends -->

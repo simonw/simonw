@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1137<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1138<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
+<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2022-11-18
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1137<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
-* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-10-27
-<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.1](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-10-25
