@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1136<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1137<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2022-11-18
+<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7.1) - ([12 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-11-18
@@ -279,8 +281,6 @@ Listing <!-- releases_count starts -->1136<!-- releases_count ends --> releases 
 <br />Datasette plugin that adds a .atom output format
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1) - ([10 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2020-11-01
-<br />Datasette plugin for enabling full-text search against selected table columns
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
