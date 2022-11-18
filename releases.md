@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1138<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1139<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
+<br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2022-11-18
@@ -279,8 +281,6 @@ Listing <!-- releases_count starts -->1138<!-- releases_count ends --> releases 
 <br />Export Datasette records as YAML
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases total](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
 <br />Datasette plugin that adds a .atom output format
-* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.1](https://github.com/simonw/datasette-copyable/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2020-11-14
-<br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
