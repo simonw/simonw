@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1141<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1142<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
+<br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
 <br />Datasette plugin for importing tables from other Datasette instances
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.1](https://github.com/simonw/datasette-public/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-11-18
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->1141<!-- releases_count ends --> releases 
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.1](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.1) - ([10 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-10-25
-<br />Datasette authentication using IndieAuth and RelMeAuth
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - ([24 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-24
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
