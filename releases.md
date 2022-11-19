@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1144<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1145<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - ([37 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-11-19
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.63.2](https://github.com/simonw/datasette/releases/tag/0.63.2) - ([118 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-19
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->1144<!-- releases_count ends --> releases 
 <br />Custom Python functions for working with SQLite FTS4
 * **[datasette-insert](https://github.com/simonw/datasette-insert)**: [0.8](https://github.com/simonw/datasette-insert/releases/tag/0.8) - ([8 releases total](https://github.com/simonw/datasette-insert/releases)) - 2022-07-22
 <br />Datasette plugin for inserting and updating data
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.1](https://github.com/simonw/datasette-graphql/releases/tag/2.1.1) - ([36 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-07-18
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
 <br />The Datasette macOS application
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - ([19 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2022-07-12
