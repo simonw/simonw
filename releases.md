@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1143<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1144<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.63.2](https://github.com/simonw/datasette/releases/tag/0.63.2) - ([118 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-19
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
 <br />Datasette plugin for modifying table schemas
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1143<!-- releases_count ends --> releases 
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
 <br />Datasette plugin for searching all searchable tables at once
-* **[datasette](https://github.com/simonw/datasette)**: [0.63.1](https://github.com/simonw/datasette/releases/tag/0.63.1) - ([117 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-11
-<br />An open source multi-tool for exploring and publishing data
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
