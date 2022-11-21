@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Wider tooltip areas for Observable Plot](https://til.simonwillison.net/observable-plot/wider-tooltip-areas) - 2022-11-21
+
 [Verifying your GitHub profile on Mastodon](https://til.simonwillison.net/mastodon/verifying-github-on-mastodon) - 2022-11-16
 
 [How to create a tarball of a git repository using "git archive"](https://til.simonwillison.net/git/git-archive) - 2022-11-16
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [HTML datalist](https://til.simonwillison.net/html/datalist) - 2022-11-15
 
 [Writing tests with Copilot](https://til.simonwillison.net/gpt3/writing-test-with-copilot) - 2022-11-15
-
-[JSON Pointer](https://til.simonwillison.net/json/json-pointer) - 2022-11-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
