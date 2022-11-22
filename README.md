@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dclient 0.1a1](https://github.com/simonw/dclient/releases/tag/0.1a1) - 2022-11-22
+[dclient 0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - 2022-11-22
 
 [datasette-graphql 2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - 2022-11-19
 
