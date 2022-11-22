@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1145<!-- releases_count ends --> releases across <!-- project_count starts -->175<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1146<!-- releases_count ends --> releases across <!-- project_count starts -->176<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.1a0](https://github.com/simonw/dclient/releases/tag/0.1a0) - 2022-11-22
+<br />A client CLI utility for Datasette instances
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - ([37 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-11-19
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette](https://github.com/simonw/datasette)**: [0.63.2](https://github.com/simonw/datasette/releases/tag/0.63.2) - ([118 releases total](https://github.com/simonw/datasette/releases)) - 2022-11-19
