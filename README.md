@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Implementing a write API, Mastodon distractions](http://simonwillison.net/2022/Nov/23/weeknotes/) - 2022-11-23
+
 [Tracking Mastodon user numbers over time with a bucket of tricks](http://simonwillison.net/2022/Nov/20/tracking-mastodon/) - 2022-11-20
 
 [Datasette is 5 today: a call for birthday presents](http://simonwillison.net/2022/Nov/13/datasette-birthday/) - 2022-11-13
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Mastodon is just blogs](http://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/) - 2022-11-08
 
 [What to blog about](http://simonwillison.net/2022/Nov/6/what-to-blog-about/) - 2022-11-06
-
-[It looks like I'm moving to Mastodon](http://simonwillison.net/2022/Nov/5/mastodon/) - 2022-11-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
