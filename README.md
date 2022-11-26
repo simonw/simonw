@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Lazy loading images in HTML](https://til.simonwillison.net/html/lazy-loading-images) - 2022-11-26
+
 [Writing a CLI utility that is also a Datasette plugin](https://til.simonwillison.net/datasette/cli-tool-that-is-also-a-plugin) - 2022-11-22
 
 [Wider tooltip areas for Observable Plot](https://til.simonwillison.net/observable-plot/wider-tooltip-areas) - 2022-11-21
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Verifying your GitHub profile on Mastodon](https://til.simonwillison.net/mastodon/verifying-github-on-mastodon) - 2022-11-16
 
 [How to create a tarball of a git repository using "git archive"](https://til.simonwillison.net/git/git-archive) - 2022-11-16
-
-[HTML datalist](https://til.simonwillison.net/html/datalist) - 2022-11-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
