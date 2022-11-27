@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1148<!-- releases_count ends --> releases across <!-- project_count starts -->176<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1149<!-- releases_count ends --> releases across <!-- project_count starts -->177<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
+<br />Export pages from Datasette to files on disk
 * **[dclient](https://github.com/simonw/dclient)**: [0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/dclient/releases)) - 2022-11-22
 <br />A client CLI utility for Datasette instances
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - ([37 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-11-19

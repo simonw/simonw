@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-export 0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
+
 [dclient 0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - 2022-11-22
 
 [datasette-graphql 2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - 2022-11-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-import-table 0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - 2022-11-18
 
 [datasette-public 0.2.1](https://github.com/simonw/datasette-public/releases/tag/0.2.1) - 2022-11-18
-
-[datasette-copyable 0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - 2022-11-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
