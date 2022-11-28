@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Massively increase your productivity on personal projects with comprehensive documentation and automated tests](http://simonwillison.net/2022/Nov/26/productivity/) - 2022-11-26
+[Coping strategies for the serial project hoarder](http://simonwillison.net/2022/Nov/26/productivity/) - 2022-11-26
 
 [Weeknotes: Implementing a write API, Mastodon distractions](http://simonwillison.net/2022/Nov/23/weeknotes/) - 2022-11-23
 
