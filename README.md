@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-ephemeral-tables 0.1](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.1) - 2022-11-29
+[datasette-ephemeral-tables 0.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2) - 2022-11-30
 
 [datasette 1.0a0](https://github.com/simonw/datasette/releases/tag/1.0a0) - 2022-11-29
 
