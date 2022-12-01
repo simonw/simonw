@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Workaround for google-github-actions/setup-gcloud errors](https://til.simonwillison.net/googlecloud/gcloud-error-workaround) - 2022-12-01
+
 [Using pipenv and Docker](https://til.simonwillison.net/docker/pipenv-and-docker) - 2022-11-29
 
 [actions/setup-python caching for setup.py projects](https://til.simonwillison.net/github-actions/cache-setup-py) - 2022-11-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Lazy loading images in HTML](https://til.simonwillison.net/html/lazy-loading-images) - 2022-11-26
 
 [Writing a CLI utility that is also a Datasette plugin](https://til.simonwillison.net/datasette/cli-tool-that-is-also-a-plugin) - 2022-11-22
-
-[Wider tooltip areas for Observable Plot](https://til.simonwillison.net/observable-plot/wider-tooltip-areas) - 2022-11-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
