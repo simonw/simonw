@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1155<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1156<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-12-02
+<br />Make specific Datasette tables visible to the public
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
 <br />Provide tables that expire after a time limit
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a1](https://github.com/simonw/datasette/releases/tag/1.0a1) - ([120 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-01
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1155<!-- releases_count ends --> releases 
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
 <br />Datasette plugin for importing tables from other Datasette instances
-* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.1](https://github.com/simonw/datasette-public/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-11-18
-<br />Make specific Datasette tables visible to the public
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
