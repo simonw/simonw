@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1154<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1155<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
+<br />Provide tables that expire after a time limit
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a1](https://github.com/simonw/datasette/releases/tag/1.0a1) - ([120 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-01
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.1](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-11-30
-<br />Provide tables that expire after a time limit
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <br />Export pages from Datasette to files on disk
 * **[dclient](https://github.com/simonw/dclient)**: [0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/dclient/releases)) - 2022-11-22
