@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette's new JSON write API: The first alpha of Datasette 1.0](http://simonwillison.net/2022/Dec/2/datasette-write-api/) - 2022-12-02
+
 [Coping strategies for the serial project hoarder](http://simonwillison.net/2022/Nov/26/productivity/) - 2022-11-26
 
 [Weeknotes: Implementing a write API, Mastodon distractions](http://simonwillison.net/2022/Nov/23/weeknotes/) - 2022-11-23
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette is 5 today: a call for birthday presents](http://simonwillison.net/2022/Nov/13/datasette-birthday/) - 2022-11-13
 
 [Designing a write API for Datasette](http://simonwillison.net/2022/Nov/9/designing-a-write-api-for-datasette/) - 2022-11-09
-
-[Mastodon is just blogs](http://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/) - 2022-11-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
