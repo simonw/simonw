@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) - 2022-12-05
+
 [Learning Rust with ChatGPT, Copilot and Advent of Code](http://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) - 2022-12-05
 
 [A new AI game: Give me ideas for crimes to do](http://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/) - 2022-12-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Coping strategies for the serial project hoarder](http://simonwillison.net/2022/Nov/26/productivity/) - 2022-11-26
 
 [Weeknotes: Implementing a write API, Mastodon distractions](http://simonwillison.net/2022/Nov/23/weeknotes/) - 2022-11-23
-
-[Tracking Mastodon user numbers over time with a bucket of tricks](http://simonwillison.net/2022/Nov/20/tracking-mastodon/) - 2022-11-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
