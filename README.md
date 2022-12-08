@@ -27,7 +27,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 <!-- blog starts -->
 [Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) - 2022-12-05
 
-[Learning Rust with ChatGPT, Copilot and Advent of Code](http://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) - 2022-12-05
+[AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](http://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) - 2022-12-05
 
 [A new AI game: Give me ideas for crimes to do](http://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/) - 2022-12-04
 
