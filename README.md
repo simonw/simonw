@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Reformatting text with Copilot](https://til.simonwillison.net/gpt3/reformatting-text-with-copilot) - 2022-12-09
+
 [Finding uses of an API with the new GitHub Code Search](https://til.simonwillison.net/github/github-code-search-api-uses) - 2022-12-09
 
 [Workaround for google-github-actions/setup-gcloud errors](https://til.simonwillison.net/googlecloud/gcloud-error-workaround) - 2022-12-01
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using pipenv and Docker](https://til.simonwillison.net/docker/pipenv-and-docker) - 2022-11-29
 
 [actions/setup-python caching for setup.py projects](https://til.simonwillison.net/github-actions/cache-setup-py) - 2022-11-28
-
-[Lazy loading images in HTML](https://til.simonwillison.net/html/lazy-loading-images) - 2022-11-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
