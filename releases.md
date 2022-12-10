@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1157<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1158<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-secret-santa](https://github.com/simonw/datasette-secret-santa)**: [0.1a0](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1a0) - 2022-12-10
+<br />Run secret santa gift circles using Datasette
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
 <br />Datasette plugin for rendering binary data
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-12-02
