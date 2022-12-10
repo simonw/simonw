@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1156<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1157<!-- releases_count ends --> releases across <!-- project_count starts -->178<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
+<br />Datasette plugin for rendering binary data
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-12-02
 <br />Make specific Datasette tables visible to the public
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
@@ -351,8 +353,6 @@ Listing <!-- releases_count starts -->1156<!-- releases_count ends --> releases 
 <br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [0.3](https://github.com/simonw/datasette-cors/releases/tag/0.3) - 2019-07-11
 <br />Datasette plugin for configuring CORS headers
-* **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3](https://github.com/simonw/datasette-render-binary/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2019-06-13
-<br />Datasette plugin for rendering binary data
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
 <br />Datasette plugin for working with Apple's binary plist format
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.3](https://github.com/simonw/asgi-cors/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
