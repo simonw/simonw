@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Viewing GeoPackage data with SpatiaLite and Datasette](https://til.simonwillison.net/spatialite/viewing-geopackage-data-with-spatialite-and-datasette) - 2022-12-12
+
 [Show files opened by pytest tests](https://til.simonwillison.net/pytest/show-files-opened-by-tests) - 2022-12-12
 
 [Reformatting text with Copilot](https://til.simonwillison.net/gpt3/reformatting-text-with-copilot) - 2022-12-09
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Finding uses of an API with the new GitHub Code Search](https://til.simonwillison.net/github/github-code-search-api-uses) - 2022-12-09
 
 [Workaround for google-github-actions/setup-gcloud errors](https://til.simonwillison.net/googlecloud/gcloud-error-workaround) - 2022-12-01
-
-[Using pipenv and Docker](https://til.simonwillison.net/docker/pipenv-and-docker) - 2022-11-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
