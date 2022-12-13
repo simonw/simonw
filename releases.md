@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1159<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1160<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/datasette-media/releases)) - 2022-12-13
+<br />Datasette plugin for serving media based on a SQL query
 * **[datasette-secret-santa](https://github.com/simonw/datasette-secret-santa)**: [0.1](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-secret-santa/releases)) - 2022-12-11
 <br />Run secret santa gift circles using Datasette
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
@@ -309,8 +311,6 @@ Listing <!-- releases_count starts -->1159<!-- releases_count ends --> releases 
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
 <br />Unsafe permissions for datasette-insert - allows all actions without authentication
-* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5](https://github.com/simonw/datasette-media/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-media/releases)) - 2020-07-29
-<br />Datasette plugin for serving media based on a SQL query
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
 <br />Create a local copy of database files from a Datasette instance
 * **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
