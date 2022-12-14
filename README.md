@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Comparing database rows before and after with SQLite JSON functions](https://til.simonwillison.net/sqlite/compare-before-after-json) - 2022-12-14
+
 [SQLite can use more than one index for a query](https://til.simonwillison.net/sqlite/multiple-indexes) - 2022-12-12
 
 [Viewing GeoPackage data with SpatiaLite and Datasette](https://til.simonwillison.net/spatialite/viewing-geopackage-data-with-spatialite-and-datasette) - 2022-12-12
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Show files opened by pytest tests](https://til.simonwillison.net/pytest/show-files-opened-by-tests) - 2022-12-12
 
 [Reformatting text with Copilot](https://til.simonwillison.net/gpt3/reformatting-text-with-copilot) - 2022-12-09
-
-[Finding uses of an API with the new GitHub Code Search](https://til.simonwillison.net/github/github-code-search-api-uses) - 2022-12-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
