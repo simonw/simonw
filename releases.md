@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1161<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1162<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a2](https://github.com/simonw/datasette/releases/tag/1.0a2) - ([121 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-15
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/datasette-media/releases)) - 2022-12-13
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1161<!-- releases_count ends --> releases 
 <br />Make specific Datasette tables visible to the public
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
 <br />Provide tables that expire after a time limit
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a1](https://github.com/simonw/datasette/releases/tag/1.0a1) - ([120 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-01
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <br />Export pages from Datasette to files on disk
 * **[dclient](https://github.com/simonw/dclient)**: [0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/dclient/releases)) - 2022-11-22

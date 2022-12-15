@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a2](https://github.com/simonw/datasette/releases/tag/1.0a2) - 2022-12-15
+
 [datasette-ripgrep 0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - 2022-12-15
 
 [datasette-media 0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - 2022-12-13
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-public 0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - 2022-12-02
 
 [datasette-ephemeral-tables 0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - 2022-12-02
-
-[datasette 1.0a1](https://github.com/simonw/datasette/releases/tag/1.0a1) - 2022-12-01
 
 [datasette-export 0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <!-- recent_releases ends -->
