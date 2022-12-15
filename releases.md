@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1160<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1161<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15
+<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/datasette-media/releases)) - 2022-12-13
 <br />Datasette plugin for serving media based on a SQL query
 * **[datasette-secret-santa](https://github.com/simonw/datasette-secret-santa)**: [0.1](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-secret-santa/releases)) - 2022-12-11
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1160<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.7.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.7.1) - ([12 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-11-18
-<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
 <br />Datasette plugin for searching all searchable tables at once
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
