@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1163<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1164<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
+<br />Plugin for running Datasette using Gunicorn
 * **[datasette](https://github.com/simonw/datasette)**: [0.63.3](https://github.com/simonw/datasette/releases/tag/0.63.3) - ([122 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-18
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->1163<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - ([24 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-24
 <br />A command-line utility for taking automated screenshots of websites
-* **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1) - 2022-10-22
-<br />Plugin for running Datasette using Gunicorn
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
