@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1162<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1163<!-- releases_count ends --> releases across <!-- project_count starts -->179<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a2](https://github.com/simonw/datasette/releases/tag/1.0a2) - ([121 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-15
+* **[datasette](https://github.com/simonw/datasette)**: [0.63.3](https://github.com/simonw/datasette/releases/tag/0.63.3) - ([122 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-18
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
