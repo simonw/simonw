@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Datasette 0.63.3, datasette-ripgrep](http://simonwillison.net/2022/Dec/20/weeknotes/) - 2022-12-20
+
 [Datasette 1.0a2: Upserts and finely grained permissions](http://simonwillison.net/2022/Dec/15/datasette-1a2/) - 2022-12-15
 
 [Over-engineering Secret Santa with Python cryptography and Datasette](http://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) - 2022-12-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](http://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) - 2022-12-05
 
 [A new AI game: Give me ideas for crimes to do](http://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/) - 2022-12-04
-
-[Datasette's new JSON write API: The first alpha of Datasette 1.0](http://simonwillison.net/2022/Dec/2/datasette-write-api/) - 2022-12-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
