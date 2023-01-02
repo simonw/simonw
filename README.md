@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Breakfast tacos with eggs, vegetarian sausages and avocado sauce](https://til.simonwillison.net/cooking/breakfast-tacos) - 2023-01-02
+
 [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer) - 2023-01-01
 
 [Start, test, then stop a localhost web server in a Bash script](https://til.simonwillison.net/bash/start-test-then-stop-server) - 2022-12-18
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Comparing database rows before and after with SQLite JSON functions](https://til.simonwillison.net/sqlite/compare-before-after-json) - 2022-12-14
 
 [SQLite can use more than one index for a query](https://til.simonwillison.net/sqlite/multiple-indexes) - 2022-12-12
-
-[Viewing GeoPackage data with SpatiaLite and Datasette](https://til.simonwillison.net/spatialite/viewing-geopackage-data-with-spatialite-and-datasette) - 2022-12-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
