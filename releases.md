@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1165<!-- releases_count ends --> releases across <!-- project_count starts -->180<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1166<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a0](https://github.com/simonw/datasette-openai/releases/tag/0.1a0) - 2023-01-03
+<br />SQL functions for calling OpenAI APIs
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.1a0](https://github.com/simonw/openai-to-sqlite/releases/tag/0.1a0) - 2023-01-03
 <br />Save OpenAI API results to a SQLite database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18

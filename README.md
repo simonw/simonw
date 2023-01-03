@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-openai 0.1a0](https://github.com/simonw/datasette-openai/releases/tag/0.1a0) - 2023-01-03
+
 [openai-to-sqlite 0.1a0](https://github.com/simonw/openai-to-sqlite/releases/tag/0.1a0) - 2023-01-03
 
 [datasette-gunicorn 0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - 2022-12-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-secret-santa 0.1](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1) - 2022-12-11
 
 [datasette-render-binary 0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - 2022-12-10
-
-[datasette-public 0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - 2022-12-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
