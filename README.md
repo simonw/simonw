@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Loading SQLite extensions in Python on macOS](https://til.simonwillison.net/sqlite/sqlite-extensions-python-macos) - 2023-01-08
+
 [Geopoly in SQLite](https://til.simonwillison.net/sqlite/geopoly) - 2023-01-04
 
 [Breakfast tacos with eggs, vegetarian sausages and avocado sauce](https://til.simonwillison.net/cooking/breakfast-tacos) - 2023-01-02
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer) - 2023-01-01
 
 [Start, test, then stop a localhost web server in a Bash script](https://til.simonwillison.net/bash/start-test-then-stop-server) - 2022-12-18
-
-[Comparing database rows before and after with SQLite JSON functions](https://til.simonwillison.net/sqlite/compare-before-after-json) - 2022-12-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
