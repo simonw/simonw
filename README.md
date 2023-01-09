@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette 0.64, with a warning about SpatiaLite](http://simonwillison.net/2023/Jan/9/datasette-064/) - 2023-01-09
+
 [2022 in projects and blogging](http://simonwillison.net/2022/Dec/31/2022-in-projects/) - 2022-12-31
 
 [Weeknotes: Datasette 0.63.3, datasette-ripgrep](http://simonwillison.net/2022/Dec/20/weeknotes/) - 2022-12-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Over-engineering Secret Santa with Python cryptography and Datasette](http://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) - 2022-12-11
 
 [Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) - 2022-12-05
-
-[AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](http://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) - 2022-12-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
