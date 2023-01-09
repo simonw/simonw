@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1167<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1168<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - ([9 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-01-09
+<br />Datasette plugin for publishing data using Fly
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a0](https://github.com/simonw/datasette-openai/releases/tag/0.1a0) - 2023-01-03
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1167<!-- releases_count ends --> releases 
 <br />gzip middleware for ASGI applications, extracted from Starlette
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2022-10-06
 <br />Datasette plugin for configuring Sentry
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.2](https://github.com/simonw/datasette-publish-fly/releases/tag/1.2) - ([8 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2022-09-29
-<br />Datasette plugin for publishing data using Fly
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.2.2](https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2) - ([2 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2022-09-28
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
