@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1169<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1170<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
+<br />Datasette plugin for authentication using passwords
 * **[datasette](https://github.com/simonw/datasette)**: [0.64](https://github.com/simonw/datasette/releases/tag/0.64) - ([123 releases total](https://github.com/simonw/datasette/releases)) - 2023-01-09
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - ([9 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-01-09
@@ -165,8 +167,6 @@ Listing <!-- releases_count starts -->1169<!-- releases_count ends --> releases 
 <br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
 <br />CLI tool for stripping hidden form values from an HTML document
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.0](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0) - ([11 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2022-02-09
-<br />Datasette plugin for authentication using passwords
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
