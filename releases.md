@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1168<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1169<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64](https://github.com/simonw/datasette/releases/tag/0.64) - ([123 releases total](https://github.com/simonw/datasette/releases)) - 2023-01-09
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - ([9 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-01-09
 <br />Datasette plugin for publishing data using Fly
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1168<!-- releases_count ends --> releases 
 <br />Save OpenAI API results to a SQLite database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
 <br />Plugin for running Datasette using Gunicorn
-* **[datasette](https://github.com/simonw/datasette)**: [0.63.3](https://github.com/simonw/datasette/releases/tag/0.63.3) - ([122 releases total](https://github.com/simonw/datasette/releases)) - 2022-12-18
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/datasette-media/releases)) - 2022-12-13
