@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1171<!-- releases_count ends --> releases across <!-- project_count starts -->181<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1172<!-- releases_count ends --> releases across <!-- project_count starts -->182<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
+<br />Create separate files on disk based on a JSON object
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a1](https://github.com/simonw/datasette-openai/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-10
 <br />SQL functions for calling OpenAI APIs
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
