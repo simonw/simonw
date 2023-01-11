@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1172<!-- releases_count ends --> releases across <!-- project_count starts -->182<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1173<!-- releases_count ends --> releases across <!-- project_count starts -->183<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.1a0](https://github.com/simonw/datasette-faiss/releases/tag/0.1a0) - 2023-01-11
+<br />Maintain a FAISS index for specified Datasette tables
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a1](https://github.com/simonw/datasette-openai/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-10
