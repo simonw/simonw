@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - 2023-01-11
+
 [datasette-faiss 0.1a0](https://github.com/simonw/datasette-faiss/releases/tag/0.1a0) - 2023-01-11
 
 [json-to-files 0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-openai 0.1a1](https://github.com/simonw/datasette-openai/releases/tag/0.1a1) - 2023-01-10
 
 [datasette-auth-passwords 1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - 2023-01-09
-
-[datasette 0.64](https://github.com/simonw/datasette/releases/tag/0.64) - 2023-01-09
 
 [datasette-publish-fly 1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - 2023-01-09
 
