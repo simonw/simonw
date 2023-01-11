@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[git-history 0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - 2023-01-11
+
 [datasette 0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - 2023-01-11
 
 [datasette-faiss 0.1a0](https://github.com/simonw/datasette-faiss/releases/tag/0.1a0) - 2023-01-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-fly 1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - 2023-01-09
 
 [shapefile-to-sqlite 0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - 2023-01-08
-
-[openai-to-sqlite 0.1a0](https://github.com/simonw/openai-to-sqlite/releases/tag/0.1a0) - 2023-01-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Upgrading a pipx application to an alpha version](https://til.simonwillison.net/python/pipx-alpha) - 2023-01-11
+
 [Scraping the Sky News Westminster Accounts, a Flourish application](https://til.simonwillison.net/shot-scraper/scraping-flourish) - 2023-01-10
 
 [Loading SQLite extensions in Python on macOS](https://til.simonwillison.net/sqlite/sqlite-extensions-python-macos) - 2023-01-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Geopoly in SQLite](https://til.simonwillison.net/sqlite/geopoly) - 2023-01-04
 
 [Breakfast tacos with eggs, vegetarian sausages and avocado sauce](https://til.simonwillison.net/cooking/breakfast-tacos) - 2023-01-02
-
-[Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer) - 2023-01-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

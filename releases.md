@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1174<!-- releases_count ends --> releases across <!-- project_count starts -->183<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1175<!-- releases_count ends --> releases across <!-- project_count starts -->183<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
+<br />Tools for analyzing Git history using SQLite
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - ([124 releases total](https://github.com/simonw/datasette/releases)) - 2023-01-11
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.1a0](https://github.com/simonw/datasette-faiss/releases/tag/0.1a0) - 2023-01-11
@@ -177,8 +179,6 @@ Listing <!-- releases_count starts -->1174<!-- releases_count ends --> releases 
 <br />Prettier formatting for ?_trace=1 traces
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
-* **[git-history](https://github.com/simonw/git-history)**: [0.6.1](https://github.com/simonw/git-history/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/git-history/releases)) - 2021-12-08
-<br />Tools for analyzing Git history using SQLite
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
