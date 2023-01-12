@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-openai 0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - 2023-01-12
+[datasette-cookies-for-magic-parameters 0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - 2023-01-12
 
-[datasette-cookies-for-magic-parameters 0.1.1](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.1) - 2023-01-11
+[datasette-openai 0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - 2023-01-12
 
 [git-history 0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - 2023-01-11
 
