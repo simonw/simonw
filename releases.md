@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1177<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1178<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-12
+<br />SQL functions for calling OpenAI APIs
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.1](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-11
 <br />UI for setting cookies to populate magic parameters
 * **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1177<!-- releases_count ends --> releases 
 <br />Maintain a FAISS index for specified Datasette tables
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
-* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a1](https://github.com/simonw/datasette-openai/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-10
-<br />SQL functions for calling OpenAI APIs
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
 <br />Datasette plugin for authentication using passwords
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - ([9 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-01-09
