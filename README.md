@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings](http://simonwillison.net/2023/Jan/13/semantic-search-answers/) - 2023-01-13
+
 [Datasette 0.64, with a warning about SpatiaLite](http://simonwillison.net/2023/Jan/9/datasette-064/) - 2023-01-09
 
 [2022 in projects and blogging](http://simonwillison.net/2022/Dec/31/2022-in-projects/) - 2022-12-31
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 1.0a2: Upserts and finely grained permissions](http://simonwillison.net/2022/Dec/15/datasette-1a2/) - 2022-12-15
 
 [Over-engineering Secret Santa with Python cryptography and Datasette](http://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) - 2022-12-11
-
-[Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) - 2022-12-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
