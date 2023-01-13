@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1179<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1180<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-01-13
+<br />Save OpenAI API results to a SQLite database
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
 <br />UI for setting cookies to populate magic parameters
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-12
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->1179<!-- releases_count ends --> releases 
 <br />Datasette plugin for publishing data using Fly
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
-* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.1a0](https://github.com/simonw/openai-to-sqlite/releases/tag/0.1a0) - 2023-01-03
-<br />Save OpenAI API results to a SQLite database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
 <br />Plugin for running Datasette using Gunicorn
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) - ([13 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2022-12-15

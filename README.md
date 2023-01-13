@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[openai-to-sqlite 0.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.2) - 2023-01-13
+
 [datasette-cookies-for-magic-parameters 0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - 2023-01-12
 
 [datasette-openai 0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - 2023-01-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [json-to-files 0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 
 [datasette-auth-passwords 1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - 2023-01-09
-
-[datasette-publish-fly 1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - 2023-01-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
