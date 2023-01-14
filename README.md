@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings](http://simonwillison.net/2023/Jan/13/semantic-search-answers/) - 2023-01-13
+[How to implement Q&A against your documentation with GPT3 and OpenAI embeddings](http://simonwillison.net/2023/Jan/13/semantic-search-answers/) - 2023-01-13
 
 [Datasette 0.64, with a warning about SpatiaLite](http://simonwillison.net/2023/Jan/9/datasette-064/) - 2023-01-09
 
