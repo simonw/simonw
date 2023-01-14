@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1180<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1181<!-- releases_count ends --> releases across <!-- project_count starts -->184<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.2](https://github.com/simonw/datasette-openai/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-14
+<br />SQL functions for calling OpenAI APIs
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-01-13
 <br />Save OpenAI API results to a SQLite database
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
 <br />UI for setting cookies to populate magic parameters
-* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.1a2](https://github.com/simonw/datasette-openai/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-12
-<br />SQL functions for calling OpenAI APIs
 * **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
 <br />Tools for analyzing Git history using SQLite
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - ([124 releases total](https://github.com/simonw/datasette/releases)) - 2023-01-11
