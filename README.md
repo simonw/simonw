@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-youtube-embed 0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
+
 [datasette-granian 0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
 
 [datasette-faiss 0.2](https://github.com/simonw/datasette-faiss/releases/tag/0.2) - 2023-01-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [git-history 0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - 2023-01-11
 
 [datasette 0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - 2023-01-11
-
-[json-to-files 0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
