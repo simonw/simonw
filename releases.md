@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1184<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1185<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
+<br />Datasette plugin for rendering Markdown
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
 <br />Turn YouTube URLs into embedded players in Datasette
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
@@ -169,8 +171,6 @@ Listing <!-- releases_count starts -->1184<!-- releases_count ends --> releases 
 <br />Simple command line tool for quickly analysing the structure of an arbitrary XML file
 * **[datasette-dateutil](https://github.com/simonw/datasette-dateutil)**: [0.3](https://github.com/simonw/datasette-dateutil/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-dateutil/releases)) - 2022-03-01
 <br />dateutil functions for Datasette
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1) - ([9 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2022-02-26
-<br />Datasette plugin for rendering Markdown
 * **[datasette-redirect-forbidden](https://github.com/simonw/datasette-redirect-forbidden)**: [0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
 <br />Redirect forbidden requests to a login page
 * **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
