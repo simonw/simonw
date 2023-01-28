@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Exploring MusicCaps, the training data behind Google's MusicLM text-to-music model](http://simonwillison.net/2023/Jan/27/exploring-musiccaps/) - 2023-01-27
+[Exploring MusicCaps, the evaluation data released to accompany Google's MusicLM text-to-music model](http://simonwillison.net/2023/Jan/27/exploring-musiccaps/) - 2023-01-27
 
 [Weeknotes: AI hacking and a SpatiaLite tutorial](http://simonwillison.net/2023/Jan/15/weeknotes/) - 2023-01-15
 
