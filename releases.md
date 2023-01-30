@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1185<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1186<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1) - ([25 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
+<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
 <br />Datasette plugin for rendering Markdown
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
@@ -69,8 +71,6 @@ Listing <!-- releases_count starts -->1185<!-- releases_count ends --> releases 
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.0.1](https://github.com/simonw/shot-scraper/releases/tag/1.0.1) - ([24 releases total](https://github.com/simonw/shot-scraper/releases)) - 2022-10-24
-<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
