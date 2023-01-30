@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[shot-scraper 1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1) - 2023-01-30
+[shot-scraper 1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - 2023-01-30
 
 [datasette-render-markdown 2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - 2023-01-27
 

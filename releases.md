@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1186<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1187<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1) - ([25 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - ([26 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
 <br />Datasette plugin for rendering Markdown
