@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Combining CTEs and VALUES in SQLite](https://til.simonwillison.net/sqlite/cte-values) - 2023-01-30
+
 [Installing lxml for Python on an M1/M2 Mac](https://til.simonwillison.net/python/lxml-m1-mac) - 2023-01-28
 
 [SQLite pragma\_function\_list()](https://til.simonwillison.net/sqlite/pragma-function-list) - 2023-01-28
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Rewriting a Git repo to remove secrets from the history](https://til.simonwillison.net/git/rewrite-repo-remove-secrets) - 2023-01-25
 
 [Upgrading a pipx application to an alpha version](https://til.simonwillison.net/python/pipx-alpha) - 2023-01-11
-
-[Scraping the Sky News Westminster Accounts, a Flourish application](https://til.simonwillison.net/shot-scraper/scraping-flourish) - 2023-01-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
