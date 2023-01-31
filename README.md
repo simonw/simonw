@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[datasette-scraper, and other weeknotes](http://simonwillison.net/2023/Jan/30/datasette-scraper/) - 2023-01-30
+[datasette-scraper, Big Local News and other weeknotes](http://simonwillison.net/2023/Jan/30/datasette-scraper/) - 2023-01-30
 
 [Exploring MusicCaps, the evaluation data released to accompany Google's MusicLM text-to-music model](http://simonwillison.net/2023/Jan/27/exploring-musiccaps/) - 2023-01-27
 
