@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running nanoGPT on a MacBook M2 to generate terrible Shakespeare](https://til.simonwillison.net/llms/nanogpt-shakespeare-m2) - 2023-02-01
+
 [Calculating embeddings with gtr-t5-large in Python](https://til.simonwillison.net/python/gtr-t5-large) - 2023-01-31
 
 [Using recursive CTEs to explore hierarchical Twitter threads](https://til.simonwillison.net/sql/recursive-cte-twitter-threads) - 2023-01-30
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Combining CTEs and VALUES in SQLite](https://til.simonwillison.net/sqlite/cte-values) - 2023-01-30
 
 [Installing lxml for Python on an M1/M2 Mac](https://til.simonwillison.net/python/lxml-m1-mac) - 2023-01-28
-
-[SQLite pragma\_function\_list()](https://til.simonwillison.net/sqlite/pragma-function-list) - 2023-01-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
