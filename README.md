@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Building Mastodon bots with GitHub Actions and toot](https://til.simonwillison.net/mastodon/mastodon-bots-github-actions) - 2023-02-03
+
 [Run Python code in a WebAssembly sandbox](https://til.simonwillison.net/webassembly/python-in-a-wasm-sandbox) - 2023-02-02
 
 [Running nanoGPT on a MacBook M2 to generate terrible Shakespeare](https://til.simonwillison.net/llms/nanogpt-shakespeare-m2) - 2023-02-01
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Calculating embeddings with gtr-t5-large in Python](https://til.simonwillison.net/python/gtr-t5-large) - 2023-01-31
 
 [Using recursive CTEs to explore hierarchical Twitter threads](https://til.simonwillison.net/sql/recursive-cte-twitter-threads) - 2023-01-30
-
-[Combining CTEs and VALUES in SQLite](https://til.simonwillison.net/sqlite/cte-values) - 2023-01-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
