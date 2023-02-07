@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1187<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1188<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
+<br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - ([26 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
@@ -249,8 +251,6 @@ Listing <!-- releases_count starts -->1187<!-- releases_count ends --> releases 
 <br />Utility for converting YAML files to SQLite
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
 <br />CLI tool for loading markdown files into a SQLite database
-* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.4](https://github.com/simonw/db-to-sqlite/releases/tag/1.4) - ([16 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2021-06-11
-<br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
 <br />Datasette plugin that masks specified database columns
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
