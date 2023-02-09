@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Training nanoGPT entirely on content from my blog](https://til.simonwillison.net/llms/training-nanogpt-on-my-blog) - 2023-02-09
+
 [Subqueries in select expressions in SQLite](https://til.simonwillison.net/sqlite/subqueries-in-select) - 2023-02-09
 
 [Avoiding "length" errors in Apache Bench with the -l option](https://til.simonwillison.net/ab/apache-bench-length-errors) - 2023-02-08
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [The SQLite now argument is stable within the same query](https://til.simonwillison.net/sqlite/now-argument-stability) - 2023-02-05
 
 [Building Mastodon bots with GitHub Actions and toot](https://til.simonwillison.net/mastodon/mastodon-bots-github-actions) - 2023-02-03
-
-[Run Python code in a WebAssembly sandbox](https://til.simonwillison.net/webassembly/python-in-a-wasm-sandbox) - 2023-02-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
