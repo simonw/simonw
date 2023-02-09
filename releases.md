@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1188<!-- releases_count ends --> releases across <!-- project_count starts -->186<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1189<!-- releases_count ends --> releases across <!-- project_count starts -->187<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
+<br />Explain and validate SQL queries as you type them into Datasette
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - ([26 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
