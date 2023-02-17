@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-app-support 0.11.7](https://github.com/simonw/datasette-app-support/releases/tag/0.11.7) - 2023-02-17
+
 [datasette-explain 0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
 
 [db-to-sqlite 1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - 2023-02-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-granian 0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
 
 [datasette-faiss 0.2](https://github.com/simonw/datasette-faiss/releases/tag/0.2) - 2023-01-19
-
-[datasette-openai 0.2](https://github.com/simonw/datasette-openai/releases/tag/0.2) - 2023-01-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

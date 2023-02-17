@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1189<!-- releases_count ends --> releases across <!-- project_count starts -->187<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1190<!-- releases_count ends --> releases across <!-- project_count starts -->187<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.7](https://github.com/simonw/datasette-app-support/releases/tag/0.11.7) - ([20 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
+<br />Part of https://github.com/simonw/datasette-app
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
@@ -125,8 +127,6 @@ Listing <!-- releases_count starts -->1189<!-- releases_count ends --> releases 
 <br />Datasette plugin for inserting and updating data
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.2](https://github.com/simonw/datasette-app/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-app/releases)) - 2022-07-13
 <br />The Datasette macOS application
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.6](https://github.com/simonw/datasette-app-support/releases/tag/0.11.6) - ([19 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2022-07-12
-<br />Part of https://github.com/simonw/datasette-app
 * **[sqlite-comprehend](https://github.com/simonw/sqlite-comprehend)**: [0.2.2](https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.2) - ([5 releases total](https://github.com/simonw/sqlite-comprehend/releases)) - 2022-07-12
 <br />Tools for running data in a SQLite database through AWS Comprehend
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - ([5 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-07-12
