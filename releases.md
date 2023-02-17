@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1190<!-- releases_count ends --> releases across <!-- project_count starts -->187<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1191<!-- releases_count ends --> releases across <!-- project_count starts -->187<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.7](https://github.com/simonw/datasette-app-support/releases/tag/0.11.7) - ([20 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - ([21 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
 <br />Part of https://github.com/simonw/datasette-app
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
 <br />Explain and validate SQL queries as you type them into Datasette
