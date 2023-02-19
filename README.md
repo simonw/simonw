@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I talked about Bing and tried to explain language models on live TV!](http://simonwillison.net/2023/Feb/19/live-tv/) - 2023-02-19
+
 [Analytics: Hacker News v.s. a tweet from Elon Musk](http://simonwillison.net/2023/Feb/17/analytics/) - 2023-02-17
 
 [Bing: "I will not harm you unless you harm me first"](http://simonwillison.net/2023/Feb/15/bing/) - 2023-02-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [datasette-scraper, Big Local News and other weeknotes](http://simonwillison.net/2023/Jan/30/datasette-scraper/) - 2023-01-30
 
 [Exploring MusicCaps, the evaluation data released to accompany Google's MusicLM text-to-music model](http://simonwillison.net/2023/Jan/27/exploring-musiccaps/) - 2023-01-27
-
-[Weeknotes: AI hacking and a SpatiaLite tutorial](http://simonwillison.net/2023/Jan/15/weeknotes/) - 2023-01-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
