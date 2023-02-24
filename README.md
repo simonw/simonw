@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Thoughts and impressions of AI-assisted search from Bing](http://simonwillison.net/2023/Feb/24/impressions-of-bing/) - 2023-02-24
+
 [In defense of prompt engineering](http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) - 2023-02-21
 
 [I talked about Bing and tried to explain language models on live TV!](http://simonwillison.net/2023/Feb/19/live-tv/) - 2023-02-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Bing: "I will not harm you unless you harm me first"](http://simonwillison.net/2023/Feb/15/bing/) - 2023-02-15
 
 [Weeknotes: A bunch of things I learned this week, plus datasette-explain](http://simonwillison.net/2023/Feb/9/weeknotes/) - 2023-02-09
-
-[datasette-scraper, Big Local News and other weeknotes](http://simonwillison.net/2023/Jan/30/datasette-scraper/) - 2023-01-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
