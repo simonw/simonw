@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1194<!-- releases_count ends --> releases across <!-- project_count starts -->188<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1195<!-- releases_count ends --> releases across <!-- project_count starts -->189<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.1](https://github.com/simonw/datasette-simple-html/releases/tag/0.1) - 2023-03-01
+<br />Datasette SQL functions for very simple HTML operations
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-app/releases)) - 2023-02-27
 <br />The Datasette macOS application
 * **[datasette-codespaces](https://github.com/simonw/datasette-codespaces)**: [0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-codespaces/releases)) - 2023-02-23
