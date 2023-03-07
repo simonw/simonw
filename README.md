@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: NICAR, and an appearance on KQED Forum](http://simonwillison.net/2023/Mar/7/kqed-forum/) - 2023-03-07
+
 [Thoughts and impressions of AI-assisted search from Bing](http://simonwillison.net/2023/Feb/24/impressions-of-bing/) - 2023-02-24
 
 [In defense of prompt engineering](http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) - 2023-02-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Analytics: Hacker News v.s. a tweet from Elon Musk](http://simonwillison.net/2023/Feb/17/analytics/) - 2023-02-17
 
 [Bing: "I will not harm you unless you harm me first"](http://simonwillison.net/2023/Feb/15/bing/) - 2023-02-15
-
-[Weeknotes: A bunch of things I learned this week, plus datasette-explain](http://simonwillison.net/2023/Feb/9/weeknotes/) - 2023-02-09
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
