@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1195<!-- releases_count ends --> releases across <!-- project_count starts -->189<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1196<!-- releases_count ends --> releases across <!-- project_count starts -->189<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - ([125 releases total](https://github.com/simonw/datasette/releases)) - 2023-03-08
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.1](https://github.com/simonw/datasette-simple-html/releases/tag/0.1) - 2023-03-01
 <br />Datasette SQL functions for very simple HTML operations
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-app/releases)) - 2023-02-27
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1195<!-- releases_count ends --> releases 
 <br />UI for setting cookies to populate magic parameters
 * **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
 <br />Tools for analyzing Git history using SQLite
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.1](https://github.com/simonw/datasette/releases/tag/0.64.1) - ([124 releases total](https://github.com/simonw/datasette/releases)) - 2023-01-11
-<br />An open source multi-tool for exploring and publishing data
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
