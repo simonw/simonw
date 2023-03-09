@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1197<!-- releases_count ends --> releases across <!-- project_count starts -->189<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1198<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite)**: [0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
+<br />Export Apple Notes to SQLite
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - ([4 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2023-03-09
 <br />Plugin for selectively rendering the HTML is specific columns
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - ([125 releases total](https://github.com/simonw/datasette/releases)) - 2023-03-08
