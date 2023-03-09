@@ -42,15 +42,15 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using ChatGPT to write AppleScript](https://til.simonwillison.net/gpt3/chatgpt-applescript) - 2023-03-09
+
+[Mocking subprocess with pytest-subprocess](https://til.simonwillison.net/pytest/pytest-subprocess) - 2023-03-09
+
 [A simple Python wrapper for the ChatGPT API](https://til.simonwillison.net/gpt3/chatgpt-api) - 2023-03-02
 
 [sips: Scriptable image processing system](https://til.simonwillison.net/macos/sips) - 2023-02-18
 
 [Training nanoGPT entirely on content from my blog](https://til.simonwillison.net/llms/training-nanogpt-on-my-blog) - 2023-02-09
-
-[Subqueries in select expressions in SQLite - also window functions](https://til.simonwillison.net/sqlite/subqueries-in-select) - 2023-02-09
-
-[Avoiding "length" errors in Apache Bench with the -l option](https://til.simonwillison.net/ab/apache-bench-length-errors) - 2023-02-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
