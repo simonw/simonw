@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I promise you ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
+
 [Weeknotes: NICAR, and an appearance on KQED Forum](http://simonwillison.net/2023/Mar/7/kqed-forum/) - 2023-03-07
 
 [Thoughts and impressions of AI-assisted search from Bing](http://simonwillison.net/2023/Feb/24/impressions-of-bing/) - 2023-02-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [I talked about Bing and tried to explain language models on live TV!](http://simonwillison.net/2023/Feb/19/live-tv/) - 2023-02-19
 
 [Analytics: Hacker News v.s. a tweet from Elon Musk](http://simonwillison.net/2023/Feb/17/analytics/) - 2023-02-17
-
-[Bing: "I will not harm you unless you harm me first"](http://simonwillison.net/2023/Feb/15/bing/) - 2023-02-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
