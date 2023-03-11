@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[I promise you ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
+[ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
 
 [Weeknotes: NICAR, and an appearance on KQED Forum](http://simonwillison.net/2023/Mar/7/kqed-forum/) - 2023-03-07
 
