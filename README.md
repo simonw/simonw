@@ -44,7 +44,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils starts -->
 [Copy rich text to the clipboard](https://til.simonwillison.net/javascript/copy-rich-text-to-clipboard) - 2023-03-11
 
-[Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) - 2023-03-11
+[Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) - 2023-03-11
 
 [Using SQL with GDAL](https://til.simonwillison.net/gis/gdal-sql) - 2023-03-09
 
