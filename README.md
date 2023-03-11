@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Large language models are having their Stable Diffusion moment right now](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
+[Large language models are having their Stable Diffusion moment](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
 
 [ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
 
