@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) - 2023-03-11
+
 [Using SQL with GDAL](https://til.simonwillison.net/gis/gdal-sql) - 2023-03-09
 
 [Using ChatGPT to write AppleScript](https://til.simonwillison.net/gpt3/chatgpt-applescript) - 2023-03-09
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Mocking subprocess with pytest-subprocess](https://til.simonwillison.net/pytest/pytest-subprocess) - 2023-03-09
 
 [A simple Python wrapper for the ChatGPT API](https://til.simonwillison.net/gpt3/chatgpt-api) - 2023-03-02
-
-[sips: Scriptable image processing system](https://til.simonwillison.net/macos/sips) - 2023-02-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
