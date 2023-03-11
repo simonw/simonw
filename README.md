@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Large language models are having their Stable Diffusion moment right now](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
+
 [ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
 
 [Weeknotes: NICAR, and an appearance on KQED Forum](http://simonwillison.net/2023/Mar/7/kqed-forum/) - 2023-03-07
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [In defense of prompt engineering](http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) - 2023-02-21
 
 [I talked about Bing and tried to explain language models on live TV!](http://simonwillison.net/2023/Feb/19/live-tv/) - 2023-02-19
-
-[Analytics: Hacker News v.s. a tweet from Elon Musk](http://simonwillison.net/2023/Feb/17/analytics/) - 2023-02-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
