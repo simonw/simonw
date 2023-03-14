@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Scraping Reddit and writing data to the Datasette write API](https://til.simonwillison.net/datasette/reddit-datasette-write) - 2023-03-14
+
 [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments) - 2023-03-12
 
 [Copy rich text to the clipboard](https://til.simonwillison.net/javascript/copy-rich-text-to-clipboard) - 2023-03-11
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) - 2023-03-11
 
 [Using SQL with GDAL](https://til.simonwillison.net/gis/gdal-sql) - 2023-03-09
-
-[Using ChatGPT to write AppleScript](https://til.simonwillison.net/gpt3/chatgpt-applescript) - 2023-03-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
