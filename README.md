@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-atom 0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - 2023-03-14
+
 [datasette-simple-html 0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - 2023-03-12
 
 [apple-notes-to-sqlite 0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-codespaces 0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - 2023-02-23
 
 [datasette-app-support 0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - 2023-02-17
-
-[datasette-explain 0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

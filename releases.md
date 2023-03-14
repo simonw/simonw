@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1199<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1200<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
+<br />Datasette plugin that adds a .atom output format
 * **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-simple-html/releases)) - 2023-03-12
 <br />Datasette SQL functions for very simple HTML operations
 * **[apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite)**: [0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
@@ -317,8 +319,6 @@ Listing <!-- releases_count starts -->1199<!-- releases_count ends --> releases 
 <br />Statistical visualizations for Datasette using Seaborn
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br />Export Datasette records as YAML
-* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.8.1](https://github.com/simonw/datasette-atom/releases/tag/0.8.1) - ([11 releases total](https://github.com/simonw/datasette-atom/releases)) - 2020-11-25
-<br />Datasette plugin that adds a .atom output format
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
