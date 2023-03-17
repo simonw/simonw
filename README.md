@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](http://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/) - 2023-03-17
+
 [Stanford Alpaca, and the acceleration of on-device large language model development](http://simonwillison.net/2023/Mar/13/alpaca/) - 2023-03-13
 
 [Large language models are having their Stable Diffusion moment](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: NICAR, and an appearance on KQED Forum](http://simonwillison.net/2023/Mar/7/kqed-forum/) - 2023-03-07
 
 [Thoughts and impressions of AI-assisted search from Bing](http://simonwillison.net/2023/Feb/24/impressions-of-bing/) - 2023-02-24
-
-[In defense of prompt engineering](http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) - 2023-02-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
