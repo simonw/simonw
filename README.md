@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Use DuckDB to convert parquet to JSON and then open it in Datasette Lite](https://til.simonwillison.net/duckdb/parquet-to-json) - 2023-03-21
+
 [A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern) - 2023-03-17
 
 [Scraping Reddit and writing data to the Datasette write API](https://til.simonwillison.net/datasette/reddit-datasette-write) - 2023-03-14
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments) - 2023-03-12
 
 [Copy rich text to the clipboard](https://til.simonwillison.net/javascript/copy-rich-text-to-clipboard) - 2023-03-11
-
-[Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) - 2023-03-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
