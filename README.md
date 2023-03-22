@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: AI won't slow down, a new newsletter and a huge Datasette refactor](http://simonwillison.net/2023/Mar/22/weeknotes/) - 2023-03-22
+
 [Don't trust AI to talk accurately about itself: Bard wasn't trained on Gmail](http://simonwillison.net/2023/Mar/22/dont-trust-ai-to-talk-about-itself/) - 2023-03-22
 
 [A conversation about prompt engineering with CBC Day 6](http://simonwillison.net/2023/Mar/18/cbc-day-6/) - 2023-03-18
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Stanford Alpaca, and the acceleration of on-device large language model development](http://simonwillison.net/2023/Mar/13/alpaca/) - 2023-03-13
 
 [Large language models are having their Stable Diffusion moment](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
-
-[ChatGPT can't access the internet, even though it really looks like it can](http://simonwillison.net/2023/Mar/10/chatgpt-internet-access/) - 2023-03-10
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
