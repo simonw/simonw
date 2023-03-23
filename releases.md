@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1200<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1201<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - ([38 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-03-23
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
 <br />Datasette plugin that adds a .atom output format
 * **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-simple-html/releases)) - 2023-03-12
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1200<!-- releases_count ends --> releases 
 <br />Export pages from Datasette to files on disk
 * **[dclient](https://github.com/simonw/dclient)**: [0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/dclient/releases)) - 2022-11-22
 <br />A client CLI utility for Datasette instances
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.1.2](https://github.com/simonw/datasette-graphql/releases/tag/2.1.2) - ([37 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2022-11-19
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
 <br />Datasette plugin for modifying table schemas
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
