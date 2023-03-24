@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-no-truncate 0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
+
 [datasette-chatgpt-plugin 0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
 
 [datasette-graphql 2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - 2023-03-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-render-html 1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - 2023-03-09
 
 [datasette 0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - 2023-03-08
-
-[datasette-app 0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - 2023-02-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
