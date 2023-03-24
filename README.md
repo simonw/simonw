@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-chatgpt-plugin 0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
+
 [datasette-graphql 2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - 2023-03-23
 
 [datasette-atom 0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - 2023-03-14
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - 2023-03-08
 
 [datasette-app 0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - 2023-02-27
-
-[datasette-codespaces 0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - 2023-02-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[I built a ChatGPT plugin to answer questions about data hosted in Datasette](http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) - 2023-03-24
+
 [Weeknotes: AI won't slow down, a new newsletter and a huge Datasette refactor](http://simonwillison.net/2023/Mar/22/weeknotes/) - 2023-03-22
 
 [Don't trust AI to talk accurately about itself: Bard wasn't trained on Gmail](http://simonwillison.net/2023/Mar/22/dont-trust-ai-to-talk-about-itself/) - 2023-03-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](http://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/) - 2023-03-17
 
 [Stanford Alpaca, and the acceleration of on-device large language model development](http://simonwillison.net/2023/Mar/13/alpaca/) - 2023-03-13
-
-[Large language models are having their Stable Diffusion moment](http://simonwillison.net/2023/Mar/11/llama/) - 2023-03-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

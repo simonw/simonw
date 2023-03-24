@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1201<!-- releases_count ends --> releases across <!-- project_count starts -->190<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1202<!-- releases_count ends --> releases across <!-- project_count starts -->191<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)**: [0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
+<br />A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - ([38 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-03-23
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
