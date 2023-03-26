@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using jq in an Observable notebook](https://til.simonwillison.net/observable/jq-in-observable) - 2023-03-26
+
 [Convert git log output to JSON using jq](https://til.simonwillison.net/jq/git-log-json) - 2023-03-25
 
 [Use DuckDB to convert parquet to JSON and then open it in Datasette Lite](https://til.simonwillison.net/duckdb/parquet-to-json) - 2023-03-21
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern) - 2023-03-17
 
 [Scraping Reddit and writing data to the Datasette write API](https://til.simonwillison.net/datasette/reddit-datasette-write) - 2023-03-14
-
-[How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments) - 2023-03-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
