@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[AI-enhanced development makes me more ambitious with my projects](http://simonwillison.net/2023/Mar/27/ai-enhanced-development/) - 2023-03-27
+
 [I built a ChatGPT plugin to answer questions about data hosted in Datasette](http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) - 2023-03-24
 
 [Weeknotes: AI won't slow down, a new newsletter and a huge Datasette refactor](http://simonwillison.net/2023/Mar/22/weeknotes/) - 2023-03-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [A conversation about prompt engineering with CBC Day 6](http://simonwillison.net/2023/Mar/18/cbc-day-6/) - 2023-03-18
 
 [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](http://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/) - 2023-03-17
-
-[Stanford Alpaca, and the acceleration of on-device large language model development](http://simonwillison.net/2023/Mar/13/alpaca/) - 2023-03-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
