@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.1](https://github.com/simonw/llm/releases/tag/0.1) - 2023-04-01
+
 [datasette-no-truncate 0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
 
 [datasette-chatgpt-plugin 0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [apple-notes-to-sqlite 0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
 
 [datasette-render-html 1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - 2023-03-09
-
-[datasette 0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - 2023-03-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
