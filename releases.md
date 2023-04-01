@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->1204<!-- releases_count ends --> releases across <!-- project_count starts -->193<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-cli](https://github.com/simonw/llm-cli)**: [0.1](https://github.com/simonw/llm-cli/releases/tag/0.1) - 2023-04-01
+* **[llm](https://github.com/simonw/llm)**: [0.1](https://github.com/simonw/llm/releases/tag/0.1) - 2023-04-01
 <br />Access large language models from the command-line
 * **[datasette-no-truncate](https://github.com/simonw/datasette-no-truncate)**: [0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
 <br />Tiny Datasette plugin to disable text truncation in table displays

@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-cli 0.1](https://github.com/simonw/llm-cli/releases/tag/0.1) - 2023-04-01
+[llm 0.1](https://github.com/simonw/llm/releases/tag/0.1) - 2023-04-01
 
 [datasette-no-truncate 0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
 
