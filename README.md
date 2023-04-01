@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using the ChatGPT streaming API from Python](https://til.simonwillison.net/gpt3/python-chatgpt-streaming-api) - 2023-04-01
+
 [Interactive row selection prototype with Datasette](https://til.simonwillison.net/datasette/row-selection-prototype) - 2023-03-30
 
 [Using jq in an Observable notebook](https://til.simonwillison.net/observable/jq-in-observable) - 2023-03-26
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Convert git log output to JSON using jq](https://til.simonwillison.net/jq/git-log-json) - 2023-03-25
 
 [Use DuckDB to convert parquet to JSON and then open it in Datasette Lite](https://til.simonwillison.net/duckdb/parquet-to-json) - 2023-03-21
-
-[A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern) - 2023-03-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
