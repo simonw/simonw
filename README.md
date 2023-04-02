@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Think of language models like ChatGPT as a "calculator for words"](http://simonwillison.net/2023/Apr/2/calculator-for-words/) - 2023-04-02
+
 [What AI can do for you on Theory of Change](http://simonwillison.net/2023/Apr/2/what-ai-can-do-for-you/) - 2023-04-02
 
 [AI-enhanced development makes me more ambitious with my projects](http://simonwillison.net/2023/Mar/27/ai-enhanced-development/) - 2023-03-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: AI won't slow down, a new newsletter and a huge Datasette refactor](http://simonwillison.net/2023/Mar/22/weeknotes/) - 2023-03-22
 
 [Don't trust AI to talk accurately about itself: Bard wasn't trained on Gmail](http://simonwillison.net/2023/Mar/22/dont-trust-ai-to-talk-about-itself/) - 2023-03-22
-
-[A conversation about prompt engineering with CBC Day 6](http://simonwillison.net/2023/Mar/18/cbc-day-6/) - 2023-03-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
