@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Copy tables between SQLite databases](https://til.simonwillison.net/sqlite/copy-tables-between-databases) - 2023-04-03
+
 [Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr) - 2023-04-02
 
 [Using the ChatGPT streaming API from Python](https://til.simonwillison.net/gpt3/python-chatgpt-streaming-api) - 2023-04-01
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Interactive row selection prototype with Datasette](https://til.simonwillison.net/datasette/row-selection-prototype) - 2023-03-30
 
 [Using jq in an Observable notebook](https://til.simonwillison.net/observable/jq-in-observable) - 2023-03-26
-
-[Convert git log output to JSON using jq](https://til.simonwillison.net/jq/git-log-json) - 2023-03-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
