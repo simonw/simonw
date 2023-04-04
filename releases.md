@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1205<!-- releases_count ends --> releases across <!-- project_count starts -->193<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1206<!-- releases_count ends --> releases across <!-- project_count starts -->193<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a1](https://github.com/simonw/datasette-explain/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-04
+<br />Explain and validate SQL queries as you type them into Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.2](https://github.com/simonw/llm/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm/releases)) - 2023-04-01
 <br />Access large language models from the command-line
 * **[datasette-no-truncate](https://github.com/simonw/datasette-no-truncate)**: [0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1205<!-- releases_count ends --> releases 
 <br />Conveniences for running Datasette on GitHub Codespaces
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - ([21 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
 <br />Part of https://github.com/simonw/datasette-app
-* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a0](https://github.com/simonw/datasette-explain/releases/tag/0.1a0) - 2023-02-09
-<br />Explain and validate SQL queries as you type them into Datasette
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - ([26 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
