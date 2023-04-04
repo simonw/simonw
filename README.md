@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter](http://simonwillison.net/2023/Apr/4/llm/) - 2023-04-04
+
 [Semi-automating a Substack newsletter with an Observable notebook](http://simonwillison.net/2023/Apr/4/substack-observable/) - 2023-04-04
 
 [Think of language models like ChatGPT as a "calculator for words"](http://simonwillison.net/2023/Apr/2/calculator-for-words/) - 2023-04-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [AI-enhanced development makes me more ambitious with my projects](http://simonwillison.net/2023/Mar/27/ai-enhanced-development/) - 2023-03-27
 
 [I built a ChatGPT plugin to answer questions about data hosted in Datasette](http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) - 2023-03-24
-
-[Weeknotes: AI won't slow down, a new newsletter and a huge Datasette refactor](http://simonwillison.net/2023/Mar/22/weeknotes/) - 2023-03-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
