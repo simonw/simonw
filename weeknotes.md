@@ -8,6 +8,8 @@ I use these to help write [my weeknotes](https://simonwillison.net/tags/weeknote
 - [Niche museums visited](https://www.niche-museums.com/browse?sql=select+%27*+[%27+||+name+||+%27](https%3A%2F%2Fwww.niche-museums.com%2F%27+||+id+||+%27)%27+as+md+from+museums+where+created+%3E%3D+date(%27now%27%2C+%27-21+days%27)+order+by+created) in the past three weeks
 - [Closed issues in my repos, sorted by when they were most recently updated](https://github.com/issues?q=is%3Aclosed+is%3Aissue+user%3Asimonw+user%3Adogsheep+sort%3Aupdated-desc) - add `closed:>2022-07-20` to that search to see issues that were closed after the specified date
 
+I now use https://observablehq.com/@simonw/weeknotes - as described in [Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter](https://simonwillison.net/2023/Apr/4/llm/).
+
 ## Template
 
 ```
