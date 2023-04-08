@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
+
 [We need to tell people ChatGPT will lie to them, not debate linguistics](http://simonwillison.net/2023/Apr/7/chatgpt-lies/) - 2023-04-07
 
 [Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter](http://simonwillison.net/2023/Apr/4/llm/) - 2023-04-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Think of language models like ChatGPT as a "calculator for words"](http://simonwillison.net/2023/Apr/2/calculator-for-words/) - 2023-04-02
 
 [What AI can do for you on the Theory of Change podcast](http://simonwillison.net/2023/Apr/2/what-ai-can-do-for-you/) - 2023-04-02
-
-[AI-enhanced development makes me more ambitious with my projects](http://simonwillison.net/2023/Mar/27/ai-enhanced-development/) - 2023-03-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
