@@ -25,7 +25,9 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
+[The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
+
+[Path to Citus Con: Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
 
 [We need to tell people ChatGPT will lie to them, not debate linguistics](http://simonwillison.net/2023/Apr/7/chatgpt-lies/) - 2023-04-07
 
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Semi-automating a Substack newsletter with an Observable notebook](http://simonwillison.net/2023/Apr/4/substack-observable/) - 2023-04-04
 
 [Think of language models like ChatGPT as a "calculator for words"](http://simonwillison.net/2023/Apr/2/calculator-for-words/) - 2023-04-02
-
-[What AI can do for you on the Theory of Change podcast](http://simonwillison.net/2023/Apr/2/what-ai-can-do-for-you/) - 2023-04-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
