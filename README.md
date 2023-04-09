@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-history 0.1a0](https://github.com/simonw/sqlite-history/releases/tag/0.1a0) - 2023-04-09
+[sqlite-history 0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - 2023-04-09
 
 [datasette-explain 0.1a1](https://github.com/simonw/datasette-explain/releases/tag/0.1a1) - 2023-04-04
 
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Unix timestamp in milliseconds in SQLite](https://til.simonwillison.net/sqlite/unix-timestamp-milliseconds-sqlite) - 2023-04-09
+
 [Saving an in-memory SQLite database to a file in Python](https://til.simonwillison.net/sqlite/python-sqlite-memory-to-file) - 2023-04-09
 
 [GPT-4 for API design research](https://til.simonwillison.net/gpt3/gpt4-api-design) - 2023-04-06
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Copy tables between SQLite databases](https://til.simonwillison.net/sqlite/copy-tables-between-databases) - 2023-04-03
 
 [Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr) - 2023-04-02
-
-[Using the ChatGPT streaming API from Python](https://til.simonwillison.net/gpt3/python-chatgpt-streaming-api) - 2023-04-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
