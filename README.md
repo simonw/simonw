@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Saving an in-memory SQLite database to a file in Python](https://til.simonwillison.net/sqlite/python-sqlite-memory-to-file) - 2023-04-09
+
 [GPT-4 for API design research](https://til.simonwillison.net/gpt3/gpt4-api-design) - 2023-04-06
 
 [Copy tables between SQLite databases](https://til.simonwillison.net/sqlite/copy-tables-between-databases) - 2023-04-03
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr) - 2023-04-02
 
 [Using the ChatGPT streaming API from Python](https://til.simonwillison.net/gpt3/python-chatgpt-streaming-api) - 2023-04-01
-
-[Interactive row selection prototype with Datasette](https://til.simonwillison.net/datasette/row-selection-prototype) - 2023-03-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
