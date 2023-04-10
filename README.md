@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Creating desktop backgrounds using Midjourney](https://til.simonwillison.net/midjourney/desktop-backgrounds) - 2023-04-10
+
 [Unix timestamp in milliseconds in SQLite](https://til.simonwillison.net/sqlite/unix-timestamp-milliseconds-sqlite) - 2023-04-09
 
 [Saving an in-memory SQLite database to a file in Python](https://til.simonwillison.net/sqlite/python-sqlite-memory-to-file) - 2023-04-09
@@ -49,8 +51,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [GPT-4 for API design research](https://til.simonwillison.net/gpt3/gpt4-api-design) - 2023-04-06
 
 [Copy tables between SQLite databases](https://til.simonwillison.net/sqlite/copy-tables-between-databases) - 2023-04-03
-
-[Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr) - 2023-04-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
