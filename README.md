@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Thoughts on AI safety in this era of increasingly powerful open-source LLMs](http://simonwillison.net/2023/Apr/10/ai-safety/) - 2023-04-10
+
 [The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
 
 [Path to Citus Con: Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter](http://simonwillison.net/2023/Apr/4/llm/) - 2023-04-04
 
 [Semi-automating a Substack newsletter with an Observable notebook](http://simonwillison.net/2023/Apr/4/substack-observable/) - 2023-04-04
-
-[Think of language models like ChatGPT as a "calculator for words"](http://simonwillison.net/2023/Apr/2/calculator-for-words/) - 2023-04-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
