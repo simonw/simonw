@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1208<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1209<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
+<br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-history](https://github.com/simonw/sqlite-history)**: [0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-history/releases)) - 2023-04-09
 <br />Track changes to SQLite tables using triggers
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a1](https://github.com/simonw/datasette-explain/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-04
@@ -317,8 +319,6 @@ Listing <!-- releases_count starts -->1208<!-- releases_count ends --> releases 
 <br />Datasette plugin for executing SQL queries from templates
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.3](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3) - ([6 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2021-01-18
-<br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
