@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Thoughts on AI safety in this era of increasingly powerful open-source LLMs](http://simonwillison.net/2023/Apr/10/ai-safety/) - 2023-04-10
+[Thoughts on AI safety in this era of increasingly powerful open source LLMs](http://simonwillison.net/2023/Apr/10/ai-safety/) - 2023-04-10
 
 [The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
 
