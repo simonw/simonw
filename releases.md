@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1209<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1210<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-history](https://github.com/simonw/sqlite-history)**: [0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-history/releases)) - 2023-04-09
@@ -175,8 +177,6 @@ Listing <!-- releases_count starts -->1209<!-- releases_count ends --> releases 
 <br />Add gzip compression to Datasette
 * **[datasette-total-page-time](https://github.com/simonw/datasette-total-page-time)**: [0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
 <br />Add a note to the Datasette footer measuring the total page load time
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.5](https://github.com/simonw/asyncinject/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/asyncinject/releases)) - 2022-04-22
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.1](https://github.com/simonw/django-sql-dashboard/releases/tag/1.1) - ([35 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2022-04-20
 <br />Django app for building dashboards using raw SQL queries
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18

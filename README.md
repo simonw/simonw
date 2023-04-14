@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asyncinject 0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - 2023-04-14
+
 [swarm-to-sqlite 0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - 2023-04-11
 
 [sqlite-history 0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - 2023-04-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-chatgpt-plugin 0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
 
 [datasette-graphql 2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - 2023-03-23
-
-[datasette-atom 0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - 2023-03-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
