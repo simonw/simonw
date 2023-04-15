@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
+
 [Prompt injection: what's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
 
 [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](http://simonwillison.net/2023/Apr/12/code-interpreter/) - 2023-04-12
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
 
 [Path to Citus Con: Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
-
-[We need to tell people ChatGPT will lie to them, not debate linguistics](http://simonwillison.net/2023/Apr/7/chatgpt-lies/) - 2023-04-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
