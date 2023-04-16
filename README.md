@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it's very impressive](http://simonwillison.net/2023/Apr/16/web-llm/) - 2023-04-16
+
 [sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
 
 [Prompt injection: what's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Thoughts on AI safety in this era of increasingly powerful open source LLMs](http://simonwillison.net/2023/Apr/10/ai-safety/) - 2023-04-10
 
 [The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
-
-[Path to Citus Con: Working in public](http://simonwillison.net/2023/Apr/8/working-in-public/) - 2023-04-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
