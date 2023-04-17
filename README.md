@@ -29,7 +29,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
 
-[Prompt injection: what's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
+[Prompt injection: What's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
 
 [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](http://simonwillison.net/2023/Apr/12/code-interpreter/) - 2023-04-12
 
