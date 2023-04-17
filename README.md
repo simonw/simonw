@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[What's in the RedPajama-Data-1T LLM training set](http://simonwillison.net/2023/Apr/17/redpajama-data/) - 2023-04-17
+
 [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it's very impressive](http://simonwillison.net/2023/Apr/16/web-llm/) - 2023-04-16
 
 [sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](http://simonwillison.net/2023/Apr/12/code-interpreter/) - 2023-04-12
 
 [Thoughts on AI safety in this era of increasingly powerful open source LLMs](http://simonwillison.net/2023/Apr/10/ai-safety/) - 2023-04-10
-
-[The Changelog podcast: LLMs break the internet](http://simonwillison.net/2023/Apr/8/llms-break-the-internet/) - 2023-04-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
