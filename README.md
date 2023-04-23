@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Citus Con, PyCon and three new niche museums](http://simonwillison.net/2023/Apr/23/weeknotes/) - 2023-04-23
+
 [Data analysis with SQLite and Python for PyCon 2023](http://simonwillison.net/2023/Apr/20/pycon-2023/) - 2023-04-20
 
 [What's in the RedPajama-Data-1T LLM training set](http://simonwillison.net/2023/Apr/17/redpajama-data/) - 2023-04-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
 
 [Prompt injection: What's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
-
-[Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](http://simonwillison.net/2023/Apr/12/code-interpreter/) - 2023-04-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
