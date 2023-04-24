@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1210<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1211<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
+<br />Explain and validate SQL queries as you type them into Datasette
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-history](https://github.com/simonw/sqlite-history)**: [0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-history/releases)) - 2023-04-09
 <br />Track changes to SQLite tables using triggers
-* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a1](https://github.com/simonw/datasette-explain/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-04
-<br />Explain and validate SQL queries as you type them into Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.2](https://github.com/simonw/llm/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm/releases)) - 2023-04-01
 <br />Access large language models from the command-line
 * **[datasette-no-truncate](https://github.com/simonw/datasette-no-truncate)**: [0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24

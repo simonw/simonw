@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-explain 0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - 2023-04-24
+
 [asyncinject 0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - 2023-04-14
 
 [swarm-to-sqlite 0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - 2023-04-11
 
 [sqlite-history 0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - 2023-04-09
-
-[datasette-explain 0.1a1](https://github.com/simonw/datasette-explain/releases/tag/0.1a1) - 2023-04-04
 
 [llm 0.2](https://github.com/simonw/llm/releases/tag/0.2) - 2023-04-01
 
