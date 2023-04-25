@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[The Dual LLM pattern for building AI assistants that can resist prompt injection](http://simonwillison.net/2023/Apr/25/dual-llm-pattern/) - 2023-04-25
+
 [Weeknotes: Citus Con, PyCon and three new niche museums](http://simonwillison.net/2023/Apr/23/weeknotes/) - 2023-04-23
 
 [Data analysis with SQLite and Python for PyCon 2023](http://simonwillison.net/2023/Apr/20/pycon-2023/) - 2023-04-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it's very impressive](http://simonwillison.net/2023/Apr/16/web-llm/) - 2023-04-16
 
 [sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)](http://simonwillison.net/2023/Apr/15/sqlite-history/) - 2023-04-15
-
-[Prompt injection: What's the worst that can happen?](http://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - 2023-04-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
