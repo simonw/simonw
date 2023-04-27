@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1212<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1213<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.3](https://github.com/simonw/datasette/releases/tag/0.64.3) - ([126 releases total](https://github.com/simonw/datasette/releases)) - 2023-04-27
+<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.2](https://github.com/simonw/shot-scraper/releases/tag/1.2) - ([27 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-04-27
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->1212<!-- releases_count ends --> releases 
 <br />Export Apple Notes to SQLite
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - ([4 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2023-03-09
 <br />Plugin for selectively rendering the HTML is specific columns
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.2](https://github.com/simonw/datasette/releases/tag/0.64.2) - ([125 releases total](https://github.com/simonw/datasette/releases)) - 2023-03-08
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-app/releases)) - 2023-02-27
 <br />The Datasette macOS application
 * **[datasette-codespaces](https://github.com/simonw/datasette-codespaces)**: [0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-codespaces/releases)) - 2023-02-23
