@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1211<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1212<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.2](https://github.com/simonw/shot-scraper/releases/tag/1.2) - ([27 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-04-27
+<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1211<!-- releases_count ends --> releases 
 <br />Part of https://github.com/simonw/datasette-app
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.1.1](https://github.com/simonw/shot-scraper/releases/tag/1.1.1) - ([26 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-01-30
-<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
 <br />Datasette plugin for rendering Markdown
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
