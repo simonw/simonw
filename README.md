@@ -42,6 +42,10 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
+
+[The location of the pip cache directory](https://til.simonwillison.net/python/pip-cache) - 2023-04-28
+
 [A few notes on Rye](https://til.simonwillison.net/python/rye) - 2023-04-27
 
 [Interpreting photo orientation and locations in EXIF data](https://til.simonwillison.net/exif/orientation-and-location) - 2023-04-22
@@ -49,10 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2) - 2023-04-12
 
 [Creating desktop backgrounds using Midjourney](https://til.simonwillison.net/midjourney/desktop-backgrounds) - 2023-04-10
-
-[Unix timestamp in milliseconds in SQLite](https://til.simonwillison.net/sqlite/unix-timestamp-milliseconds-sqlite) - 2023-04-09
-
-[Saving an in-memory SQLite database to a file in Python](https://til.simonwillison.net/sqlite/python-sqlite-memory-to-file) - 2023-04-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
