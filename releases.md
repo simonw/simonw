@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1214<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1215<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
+<br />A tool for creating credentials for accessing S3 buckets
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.3](https://github.com/simonw/openai-to-sqlite/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-04-29
 <br />Save OpenAI API results to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.3](https://github.com/simonw/datasette/releases/tag/0.64.3) - ([126 releases total](https://github.com/simonw/datasette/releases)) - 2023-04-27
@@ -117,8 +119,6 @@ Listing <!-- releases_count starts -->1214<!-- releases_count ends --> releases 
 <br />CLI tool for comparing images
 * **[datasette-sandstorm-support](https://github.com/simonw/datasette-sandstorm-support)**: [0.2](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-sandstorm-support/releases)) - 2022-09-16
 <br />Authentication and permissions for Datasette on Sandstorm
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.14](https://github.com/simonw/s3-credentials/releases/tag/0.14) - ([15 releases total](https://github.com/simonw/s3-credentials/releases)) - 2022-09-15
-<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
 <br />Upload SQLite database files to Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - ([13 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
