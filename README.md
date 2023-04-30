@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
+
 [Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
 
 [The location of the pip cache directory](https://til.simonwillison.net/python/pip-cache) - 2023-04-28
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Interpreting photo orientation and locations in EXIF data](https://til.simonwillison.net/exif/orientation-and-location) - 2023-04-22
 
 [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2) - 2023-04-12
-
-[Creating desktop backgrounds using Midjourney](https://til.simonwillison.net/midjourney/desktop-backgrounds) - 2023-04-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
