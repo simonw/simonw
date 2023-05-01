@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite](http://simonwillison.net/2023/May/1/weeknotes/) - 2023-05-01
+
 [Enriching data with GPT3.5 and SQLite SQL functions](http://simonwillison.net/2023/Apr/29/enriching-data/) - 2023-04-29
 
 [The Dual LLM pattern for building AI assistants that can resist prompt injection](http://simonwillison.net/2023/Apr/25/dual-llm-pattern/) - 2023-04-25
@@ -34,14 +36,14 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Data analysis with SQLite and Python for PyCon 2023](http://simonwillison.net/2023/Apr/20/pycon-2023/) - 2023-04-20
 
 [What's in the RedPajama-Data-1T LLM training set](http://simonwillison.net/2023/Apr/17/redpajama-data/) - 2023-04-17
-
-[Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it's very impressive](http://simonwillison.net/2023/Apr/16/web-llm/) - 2023-04-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
 <!-- tils starts -->
+[Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions) - 2023-05-01
+
 [Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
 
 [Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A few notes on Rye](https://til.simonwillison.net/python/rye) - 2023-04-27
 
 [Interpreting photo orientation and locations in EXIF data](https://til.simonwillison.net/exif/orientation-and-location) - 2023-04-22
-
-[Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2) - 2023-04-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
