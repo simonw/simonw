@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Let's be bear or bunny](http://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/) - 2023-05-01
+
 [Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite](http://simonwillison.net/2023/May/1/weeknotes/) - 2023-05-01
 
 [Enriching data with GPT3.5 and SQLite SQL functions](http://simonwillison.net/2023/Apr/29/enriching-data/) - 2023-04-29
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Citus Con, PyCon and three new niche museums](http://simonwillison.net/2023/Apr/23/weeknotes/) - 2023-04-23
 
 [Data analysis with SQLite and Python for PyCon 2023](http://simonwillison.net/2023/Apr/20/pycon-2023/) - 2023-04-20
-
-[What's in the RedPajama-Data-1T LLM training set](http://simonwillison.net/2023/Apr/17/redpajama-data/) - 2023-04-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
