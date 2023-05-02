@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1215<!-- releases_count ends --> releases across <!-- project_count starts -->194<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1216<!-- releases_count ends --> releases across <!-- project_count starts -->195<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
+<br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
 <br />A tool for creating credentials for accessing S3 buckets
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.3](https://github.com/simonw/openai-to-sqlite/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-04-29

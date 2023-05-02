@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[download-esm 0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
+
 [s3-credentials 0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - 2023-04-30
 
 [openai-to-sqlite 0.3](https://github.com/simonw/openai-to-sqlite/releases/tag/0.3) - 2023-04-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [asyncinject 0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - 2023-04-14
 
 [swarm-to-sqlite 0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - 2023-04-11
-
-[sqlite-history 0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - 2023-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
