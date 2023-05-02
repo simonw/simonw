@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[download-esm: a tool for downloading ECMAScript modules](http://simonwillison.net/2023/May/2/download-esm/) - 2023-05-02
+
 [Let's be bear or bunny](http://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/) - 2023-05-01
 
 [Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite](http://simonwillison.net/2023/May/1/weeknotes/) - 2023-05-01
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The Dual LLM pattern for building AI assistants that can resist prompt injection](http://simonwillison.net/2023/Apr/25/dual-llm-pattern/) - 2023-04-25
 
 [Weeknotes: Citus Con, PyCon and three new niche museums](http://simonwillison.net/2023/Apr/23/weeknotes/) - 2023-04-23
-
-[Data analysis with SQLite and Python for PyCon 2023](http://simonwillison.net/2023/Apr/20/pycon-2023/) - 2023-04-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
