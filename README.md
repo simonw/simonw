@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Leaked Google document: "We Have No Moat, And Neither Does OpenAI"](http://simonwillison.net/2023/May/4/no-moat/) - 2023-05-04
+
 [Midjourney 5.1](http://simonwillison.net/2023/May/4/midjourney-51/) - 2023-05-04
 
 [Prompt injection explained, with video, slides, and a transcript](http://simonwillison.net/2023/May/2/prompt-injection-explained/) - 2023-05-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Let's be bear or bunny](http://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/) - 2023-05-01
 
 [Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite](http://simonwillison.net/2023/May/1/weeknotes/) - 2023-05-01
-
-[Enriching data with GPT3.5 and SQLite SQL functions](http://simonwillison.net/2023/Apr/29/enriching-data/) - 2023-04-29
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
