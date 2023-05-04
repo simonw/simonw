@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Midjourney 5.1](http://simonwillison.net/2023/May/4/midjourney-51/) - 2023-05-04
+
 [Prompt injection explained, with video, slides, and a transcript](http://simonwillison.net/2023/May/2/prompt-injection-explained/) - 2023-05-02
 
 [download-esm: a tool for downloading ECMAScript modules](http://simonwillison.net/2023/May/2/download-esm/) - 2023-05-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite](http://simonwillison.net/2023/May/1/weeknotes/) - 2023-05-01
 
 [Enriching data with GPT3.5 and SQLite SQL functions](http://simonwillison.net/2023/Apr/29/enriching-data/) - 2023-04-29
-
-[The Dual LLM pattern for building AI assistants that can resist prompt injection](http://simonwillison.net/2023/Apr/25/dual-llm-pattern/) - 2023-04-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
