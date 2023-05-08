@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1216<!-- releases_count ends --> releases across <!-- project_count starts -->195<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1217<!-- releases_count ends --> releases across <!-- project_count starts -->195<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.31](https://github.com/simonw/sqlite-utils/releases/tag/3.31) - ([105 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-08
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
@@ -103,8 +105,6 @@ Listing <!-- releases_count starts -->1216<!-- releases_count ends --> releases 
 <br />Datasette plugin for searching all searchable tables at once
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.30](https://github.com/simonw/sqlite-utils/releases/tag/3.30) - ([104 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2022-10-25
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
