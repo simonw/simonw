@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Python code in a Pyodide sandbox via Deno](https://til.simonwillison.net/deno/pyodide-sandbox) - 2023-05-10
+
 [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions) - 2023-05-01
 
 [Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [The location of the pip cache directory](https://til.simonwillison.net/python/pip-cache) - 2023-04-28
 
 [A few notes on Rye](https://til.simonwillison.net/python/rye) - 2023-04-27
-
-[Interpreting photo orientation and locations in EXIF data](https://til.simonwillison.net/exif/orientation-and-location) - 2023-04-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
