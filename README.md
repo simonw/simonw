@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Exploring Baseline with Datasette Lite](https://til.simonwillison.net/datasette/baseline) - 2023-05-12
+
 [Running Python code in a Pyodide sandbox via Deno](https://til.simonwillison.net/deno/pyodide-sandbox) - 2023-05-10
 
 [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions) - 2023-05-01
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
 
 [The location of the pip cache directory](https://til.simonwillison.net/python/pip-cache) - 2023-04-28
-
-[A few notes on Rye](https://til.simonwillison.net/python/rye) - 2023-04-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
