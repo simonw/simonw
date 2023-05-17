@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1217<!-- releases_count ends --> releases across <!-- project_count starts -->195<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1218<!-- releases_count ends --> releases across <!-- project_count starts -->195<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.3](https://github.com/simonw/llm/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm/releases)) - 2023-05-17
+<br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.31](https://github.com/simonw/sqlite-utils/releases/tag/3.31) - ([105 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-08
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1217<!-- releases_count ends --> releases 
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-history](https://github.com/simonw/sqlite-history)**: [0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-history/releases)) - 2023-04-09
 <br />Track changes to SQLite tables using triggers
-* **[llm](https://github.com/simonw/llm)**: [0.2](https://github.com/simonw/llm/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm/releases)) - 2023-04-01
-<br />Access large language models from the command-line
 * **[datasette-no-truncate](https://github.com/simonw/datasette-no-truncate)**: [0.1](https://github.com/simonw/datasette-no-truncate/releases/tag/0.1) - 2023-03-24
 <br />Tiny Datasette plugin to disable text truncation in table displays
 * **[datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)**: [0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
