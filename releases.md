@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1219<!-- releases_count ends --> releases across <!-- project_count starts -->196<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1220<!-- releases_count ends --> releases across <!-- project_count starts -->196<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.1](https://github.com/simonw/strip-tags/releases/tag/0.1) - 2023-05-18
+* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.2](https://github.com/simonw/strip-tags/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-05-18
 <br />CLI tool for stripping tags from HTML
 * **[llm](https://github.com/simonw/llm)**: [0.3](https://github.com/simonw/llm/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm/releases)) - 2023-05-17
 <br />Access large language models from the command-line
