@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
+[strip-tags 0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - 2023-05-19
 
-[strip-tags 0.2](https://github.com/simonw/strip-tags/releases/tag/0.2) - 2023-05-18
+[ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 
 [llm 0.3](https://github.com/simonw/llm/releases/tag/0.3) - 2023-05-17
 
