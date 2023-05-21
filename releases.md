@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1222<!-- releases_count ends --> releases across <!-- project_count starts -->197<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1223<!-- releases_count ends --> releases across <!-- project_count starts -->197<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.32](https://github.com/simonw/sqlite-utils/releases/tag/3.32) - ([106 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-21
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-05-19
 <br />CLI tool for stripping tags from HTML
 * **[ttok](https://github.com/simonw/ttok)**: [0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 <br />Count and truncate text based on tokens
 * **[llm](https://github.com/simonw/llm)**: [0.3](https://github.com/simonw/llm/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm/releases)) - 2023-05-17
 <br />Access large language models from the command-line
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.31](https://github.com/simonw/sqlite-utils/releases/tag/3.31) - ([105 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-08
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30

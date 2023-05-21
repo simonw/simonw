@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.32](https://github.com/simonw/sqlite-utils/releases/tag/3.32) - 2023-05-21
+
 [strip-tags 0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - 2023-05-19
 
 [ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 
 [llm 0.3](https://github.com/simonw/llm/releases/tag/0.3) - 2023-05-17
-
-[sqlite-utils 3.31](https://github.com/simonw/sqlite-utils/releases/tag/3.31) - 2023-05-08
 
 [download-esm 0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 
