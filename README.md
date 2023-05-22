@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama) - 2023-05-22
+
 [hexdump and hexdump -C](https://til.simonwillison.net/misc/hexdump) - 2023-05-22
 
 [Exploring Baseline with Datasette Lite](https://til.simonwillison.net/datasette/baseline) - 2023-05-12
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions) - 2023-05-01
 
 [Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
-
-[Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
