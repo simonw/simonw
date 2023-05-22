@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[hexdump and hexdump -C](https://til.simonwillison.net/misc/hexdump) - 2023-05-22
+
 [Exploring Baseline with Datasette Lite](https://til.simonwillison.net/datasette/baseline) - 2023-05-12
 
 [Running Python code in a Pyodide sandbox via Deno](https://til.simonwillison.net/deno/pyodide-sandbox) - 2023-05-10
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
 
 [Deno KV](https://til.simonwillison.net/deno/deno-kv) - 2023-04-28
-
-[The location of the pip cache directory](https://til.simonwillison.net/python/pip-cache) - 2023-04-28
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
