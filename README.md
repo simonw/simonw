@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Comparing two training datasets using sqlite-utils](https://til.simonwillison.net/sqlite/comparing-datasets) - 2023-05-23
+
 [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama) - 2023-05-22
 
 [hexdump and hexdump -C](https://til.simonwillison.net/misc/hexdump) - 2023-05-22
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Python code in a Pyodide sandbox via Deno](https://til.simonwillison.net/deno/pyodide-sandbox) - 2023-05-10
 
 [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions) - 2023-05-01
-
-[Social media cards generated with shot-scraper](https://til.simonwillison.net/shot-scraper/social-media-cards) - 2023-04-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
