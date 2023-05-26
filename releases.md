@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1224<!-- releases_count ends --> releases across <!-- project_count starts -->197<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1225<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
+<br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.32.1](https://github.com/simonw/sqlite-utils/releases/tag/3.32.1) - ([107 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-21
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-05-19
