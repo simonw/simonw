@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Lawyer cites fake cases invented by ChatGPT, judge is not amused](http://simonwillison.net/2023/May/27/lawyer-chatgpt/) - 2023-05-27
+
 [llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs](http://simonwillison.net/2023/May/18/cli-tools-for-llms/) - 2023-05-18
 
 [Delimiters won't save you from prompt injection](http://simonwillison.net/2023/May/11/delimiters-wont-save-you/) - 2023-05-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Leaked Google document: "We Have No Moat, And Neither Does OpenAI"](http://simonwillison.net/2023/May/4/no-moat/) - 2023-05-04
 
 [Midjourney 5.1](http://simonwillison.net/2023/May/4/midjourney-51/) - 2023-05-04
-
-[Prompt injection explained, with video, slides, and a transcript](http://simonwillison.net/2023/May/2/prompt-injection-explained/) - 2023-05-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
