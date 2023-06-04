@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking](http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/) - 2023-06-04
+
 [It's infuriatingly hard to understand how closed models train on their input](http://simonwillison.net/2023/Jun/4/closed-model-training/) - 2023-06-04
 
 [ChatGPT should include inline tips](http://simonwillison.net/2023/May/30/chatgpt-inline-tips/) - 2023-05-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs](http://simonwillison.net/2023/May/18/cli-tools-for-llms/) - 2023-05-18
 
 [Delimiters won't save you from prompt injection](http://simonwillison.net/2023/May/11/delimiters-wont-save-you/) - 2023-05-11
-
-[Weeknotes: sqlite-utils 3.31, download-esm, Python in a sandbox](http://simonwillison.net/2023/May/10/weeknotes/) - 2023-05-10
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
