@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Understanding GPT tokenizers](http://simonwillison.net/2023/Jun/8/gpt-tokenizers/) - 2023-06-08
+
 [Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking](http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/) - 2023-06-04
 
 [It's infuriatingly hard to understand how closed models train on their input](http://simonwillison.net/2023/Jun/4/closed-model-training/) - 2023-06-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Lawyer cites fake cases invented by ChatGPT, judge is not amused](http://simonwillison.net/2023/May/27/lawyer-chatgpt/) - 2023-05-27
 
 [llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs](http://simonwillison.net/2023/May/18/cli-tools-for-llms/) - 2023-05-18
-
-[Delimiters won't save you from prompt injection](http://simonwillison.net/2023/May/11/delimiters-wont-save-you/) - 2023-05-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
