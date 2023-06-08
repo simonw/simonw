@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Consecutive groups in SQL using window functions](https://til.simonwillison.net/sql/consecutive-groups) - 2023-06-08
+
 [Testing the Access-Control-Max-Age CORS header](https://til.simonwillison.net/http/testing-cors-max-age) - 2023-05-25
 
 [Comparing two training datasets using sqlite-utils](https://til.simonwillison.net/sqlite/comparing-datasets) - 2023-05-23
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [hexdump and hexdump -C](https://til.simonwillison.net/misc/hexdump) - 2023-05-22
 
 [Exploring Baseline with Datasette Lite](https://til.simonwillison.net/datasette/baseline) - 2023-05-12
-
-[Running Python code in a Pyodide sandbox via Deno](https://til.simonwillison.net/deno/pyodide-sandbox) - 2023-05-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
