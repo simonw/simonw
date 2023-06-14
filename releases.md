@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1225<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1226<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
+<br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.32.1](https://github.com/simonw/sqlite-utils/releases/tag/3.32.1) - ([107 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-21
@@ -345,8 +347,6 @@ Listing <!-- releases_count starts -->1225<!-- releases_count ends --> releases 
 <br />Plugin adding backup options to Datasette
 * **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
 <br />An improved version of .iterdump() for sqlite3
-* **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.3.2](https://github.com/simonw/datasette-render-images/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2020-08-23
-<br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
