@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
+
 [Running OpenAI's large context models using llm](https://til.simonwillison.net/llms/larger-context-openai-models-llm) - 2023-06-13
 
 [Consecutive groups in SQL using window functions](https://til.simonwillison.net/sql/consecutive-groups) - 2023-06-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Comparing two training datasets using sqlite-utils](https://til.simonwillison.net/sqlite/comparing-datasets) - 2023-05-23
 
 [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama) - 2023-05-22
-
-[hexdump and hexdump -C](https://til.simonwillison.net/misc/hexdump) - 2023-05-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
