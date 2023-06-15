@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Syncing slide images and audio in iMovie](https://til.simonwillison.net/macos/imovie-slides-and-audio) - 2023-06-15
+
 [Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
 
 [Running OpenAI's large context models using llm](https://til.simonwillison.net/llms/larger-context-openai-models-llm) - 2023-06-13
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Testing the Access-Control-Max-Age CORS header](https://til.simonwillison.net/http/testing-cors-max-age) - 2023-05-25
 
 [Comparing two training datasets using sqlite-utils](https://til.simonwillison.net/sqlite/comparing-datasets) - 2023-05-23
-
-[mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama) - 2023-05-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
