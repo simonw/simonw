@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1226<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1227<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.4](https://github.com/simonw/llm/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm/releases)) - 2023-06-17
+<br />Access large language models from the command-line
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1226<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[ttok](https://github.com/simonw/ttok)**: [0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 <br />Count and truncate text based on tokens
-* **[llm](https://github.com/simonw/llm)**: [0.3](https://github.com/simonw/llm/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm/releases)) - 2023-05-17
-<br />Access large language models from the command-line
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30

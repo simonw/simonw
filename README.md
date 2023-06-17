@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.4](https://github.com/simonw/llm/releases/tag/0.4) - 2023-06-17
+
 [datasette-render-images 0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - 2023-06-14
 
 [datasette-sqlite-url-lite 0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [strip-tags 0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - 2023-05-19
 
 [ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
-
-[llm 0.3](https://github.com/simonw/llm/releases/tag/0.3) - 2023-05-17
 
 [download-esm 0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 
