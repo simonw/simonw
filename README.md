@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[py-grep 0.1.2](https://github.com/simonw/py-grep/releases/tag/0.1.2) - 2023-06-18
+[pyseek 0.2](https://github.com/simonw/pyseek/releases/tag/0.2) - 2023-06-18
 
 [strip-tags 0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - 2023-06-18
 
