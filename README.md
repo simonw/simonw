@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[strip-tags 0.4](https://github.com/simonw/strip-tags/releases/tag/0.4) - 2023-06-18
+[strip-tags 0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - 2023-06-18
 
 [llm 0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - 2023-06-17
 
