@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1228<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1229<!-- releases_count ends --> releases across <!-- project_count starts -->198<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.4](https://github.com/simonw/strip-tags/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-18
+<br />CLI tool for stripping tags from HTML
 * **[llm](https://github.com/simonw/llm)**: [0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm/releases)) - 2023-06-17
 <br />Access large language models from the command-line
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1228<!-- releases_count ends --> releases 
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.32.1](https://github.com/simonw/sqlite-utils/releases/tag/3.32.1) - ([107 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-21
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.3](https://github.com/simonw/strip-tags/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-05-19
-<br />CLI tool for stripping tags from HTML
 * **[ttok](https://github.com/simonw/ttok)**: [0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 <br />Count and truncate text based on tokens
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
