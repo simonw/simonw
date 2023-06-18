@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using ChatGPT Browse to name a Python package](https://til.simonwillison.net/gpt3/picking-python-project-name-chatgpt) - 2023-06-18
+
 [Syncing slide images and audio in iMovie](https://til.simonwillison.net/macos/imovie-slides-and-audio) - 2023-06-15
 
 [Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Consecutive groups in SQL using window functions](https://til.simonwillison.net/sql/consecutive-groups) - 2023-06-08
 
 [Testing the Access-Control-Max-Age CORS header](https://til.simonwillison.net/http/testing-cors-max-age) - 2023-05-25
-
-[Comparing two training datasets using sqlite-utils](https://til.simonwillison.net/sqlite/comparing-datasets) - 2023-05-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
