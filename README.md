@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[py-grep 0.1](https://github.com/simonw/py-grep/releases/tag/0.1) - 2023-06-18
+
 [strip-tags 0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - 2023-06-18
 
 [llm 0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - 2023-06-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 
 [download-esm 0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
-
-[s3-credentials 0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - 2023-04-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
