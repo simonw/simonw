@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1236<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1237<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[symbex](https://github.com/simonw/symbex)**: [0.3](https://github.com/simonw/symbex/releases/tag/0.3) - ([6 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-19
+* **[symbex](https://github.com/simonw/symbex)**: [0.3.1](https://github.com/simonw/symbex/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-19
 <br />Find the Python code for specified symbols
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-18
 <br />CLI tool for stripping tags from HTML
