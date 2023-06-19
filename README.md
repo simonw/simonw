@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[symbex 0.3.2](https://github.com/simonw/symbex/releases/tag/0.3.2) - 2023-06-19
+[symbex 0.4](https://github.com/simonw/symbex/releases/tag/0.4) - 2023-06-19
 
 [strip-tags 0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - 2023-06-18
 
