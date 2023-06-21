@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Automatically maintaining Homebrew formulas using GitHub Actions](https://til.simonwillison.net/homebrew/auto-formulas-github-actions) - 2023-06-21
+
 [Using ChatGPT Browse to name a Python package](https://til.simonwillison.net/gpt3/picking-python-project-name-chatgpt) - 2023-06-18
 
 [Syncing slide images and audio in iMovie](https://til.simonwillison.net/macos/imovie-slides-and-audio) - 2023-06-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running OpenAI's large context models using llm](https://til.simonwillison.net/llms/larger-context-openai-models-llm) - 2023-06-13
 
 [Consecutive groups in SQL using window functions](https://til.simonwillison.net/sql/consecutive-groups) - 2023-06-08
-
-[Testing the Access-Control-Max-Age CORS header](https://til.simonwillison.net/http/testing-cors-max-age) - 2023-05-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
