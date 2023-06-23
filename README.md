@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[symbex: search Python code for functions and classes, then pipe them into a LLM](http://simonwillison.net/2023/Jun/18/symbex/) - 2023-06-18
 
+[Understanding GPT tokenizers](http://simonwillison.net/2023/Jun/8/gpt-tokenizers/) - 2023-06-08
+
+[Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking](http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/) - 2023-06-04
+
+[It's infuriatingly hard to understand how closed models train on their input](http://simonwillison.net/2023/Jun/4/closed-model-training/) - 2023-06-04
+
+[ChatGPT should include inline tips](http://simonwillison.net/2023/May/30/chatgpt-inline-tips/) - 2023-05-30
+
+[Lawyer cites fake cases invented by ChatGPT, judge is not amused](http://simonwillison.net/2023/May/27/lawyer-chatgpt/) - 2023-05-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
