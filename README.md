@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[TOML in Python](https://til.simonwillison.net/python/toml) - 2023-06-26
+
 [Automatically maintaining Homebrew formulas using GitHub Actions](https://til.simonwillison.net/homebrew/auto-formulas-github-actions) - 2023-06-21
 
 [Using ChatGPT Browse to name a Python package](https://til.simonwillison.net/gpt3/picking-python-project-name-chatgpt) - 2023-06-18
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
 
 [Running OpenAI's large context models using llm](https://til.simonwillison.net/llms/larger-context-openai-models-llm) - 2023-06-13
-
-[Consecutive groups in SQL using window functions](https://til.simonwillison.net/sql/consecutive-groups) - 2023-06-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
