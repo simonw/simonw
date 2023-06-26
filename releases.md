@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1242<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1243<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [0.7](https://github.com/simonw/symbex/releases/tag/0.7) - ([12 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-23
 <br />Find the Python code for specified symbols
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-18
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1242<!-- releases_count ends --> releases 
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.32.1](https://github.com/simonw/sqlite-utils/releases/tag/3.32.1) - ([107 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-05-21
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[ttok](https://github.com/simonw/ttok)**: [0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 <br />Count and truncate text based on tokens
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
