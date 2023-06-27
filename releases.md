@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1243<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1244<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-27
+<br />CLI tool for stripping tags from HTML
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [0.7](https://github.com/simonw/symbex/releases/tag/0.7) - ([12 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-23
 <br />Find the Python code for specified symbols
-* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.4.1](https://github.com/simonw/strip-tags/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-18
-<br />CLI tool for stripping tags from HTML
 * **[llm](https://github.com/simonw/llm)**: [0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm/releases)) - 2023-06-17
 <br />Access large language models from the command-line
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
