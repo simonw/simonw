@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-upload-csvs 0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - 2023-06-28
+
 [strip-tags 0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - 2023-06-27
 
 [sqlite-utils 3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - 2023-06-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-sqlite-url-lite 0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 
 [ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
-
-[download-esm 0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

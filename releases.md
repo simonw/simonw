@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1244<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1245<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
+<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-27
 <br />CLI tool for stripping tags from HTML
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
@@ -133,8 +135,6 @@ Listing <!-- releases_count starts -->1244<!-- releases_count ends --> releases 
 <br />Authentication and permissions for Datasette on Sandstorm
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.1.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2022-09-09
 <br />Upload SQLite database files to Datasette
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - ([13 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2022-09-08
-<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-render-image-tags](https://github.com/simonw/datasette-render-image-tags)**: [0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 <br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
 * **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
