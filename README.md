@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[symbex 1.0](https://github.com/simonw/symbex/releases/tag/1.0) - 2023-06-29
+
 [datasette-upload-csvs 0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - 2023-06-28
 
 [strip-tags 0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - 2023-06-27
 
 [sqlite-utils 3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - 2023-06-26
-
-[symbex 0.7](https://github.com/simonw/symbex/releases/tag/0.7) - 2023-06-23
 
 [llm 0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - 2023-06-17
 

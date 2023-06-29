@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1245<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1246<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [1.0](https://github.com/simonw/symbex/releases/tag/1.0) - ([13 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-29
+<br />Find the Python code for specified symbols
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-27
 <br />CLI tool for stripping tags from HTML
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[symbex](https://github.com/simonw/symbex)**: [0.7](https://github.com/simonw/symbex/releases/tag/0.7) - ([12 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-23
-<br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm/releases)) - 2023-06-17
 <br />Access large language models from the command-line
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
