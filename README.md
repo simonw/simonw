@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) - 2023-06-29
+
 [TOML in Python](https://til.simonwillison.net/python/toml) - 2023-06-26
 
 [Automatically maintaining Homebrew formulas using GitHub Actions](https://til.simonwillison.net/homebrew/auto-formulas-github-actions) - 2023-06-21
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Syncing slide images and audio in iMovie](https://til.simonwillison.net/macos/imovie-slides-and-audio) - 2023-06-15
 
 [Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
-
-[Running OpenAI's large context models using llm](https://til.simonwillison.net/llms/larger-context-openai-models-llm) - 2023-06-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
