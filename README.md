@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Bulk editing status in GitHub Projects](https://til.simonwillison.net/github/bulk-edit-github-projects) - 2023-06-29
+
 [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) - 2023-06-29
 
 [TOML in Python](https://til.simonwillison.net/python/toml) - 2023-06-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using ChatGPT Browse to name a Python package](https://til.simonwillison.net/gpt3/picking-python-project-name-chatgpt) - 2023-06-18
 
 [Syncing slide images and audio in iMovie](https://til.simonwillison.net/macos/imovie-slides-and-audio) - 2023-06-15
-
-[Using fs\_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage) - 2023-06-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
