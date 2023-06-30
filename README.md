@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Local wildcard DNS on macOS with dnsmasq](https://til.simonwillison.net/macos/wildcard-dns-dnsmasq) - 2023-06-30
+
 [A Discord bot to expand issue links to a private GitHub repository](https://til.simonwillison.net/discord/discord-github-issues-bot) - 2023-06-30
 
 [Bulk editing status in GitHub Projects](https://til.simonwillison.net/github/bulk-edit-github-projects) - 2023-06-29
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [TOML in Python](https://til.simonwillison.net/python/toml) - 2023-06-26
 
 [Automatically maintaining Homebrew formulas using GitHub Actions](https://til.simonwillison.net/homebrew/auto-formulas-github-actions) - 2023-06-21
-
-[Using ChatGPT Browse to name a Python package](https://til.simonwillison.net/gpt3/picking-python-project-name-chatgpt) - 2023-06-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
