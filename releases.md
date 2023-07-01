@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1246<!-- releases_count ends --> releases across <!-- project_count starts -->199<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1247<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
+<br />An ASGI function for proxying to a backend over HTTP
 * **[symbex](https://github.com/simonw/symbex)**: [1.0](https://github.com/simonw/symbex/releases/tag/1.0) - ([13 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-29
 <br />Find the Python code for specified symbols
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28

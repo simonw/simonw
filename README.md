@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asgi-proxy-lib 0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
+
 [symbex 1.0](https://github.com/simonw/symbex/releases/tag/1.0) - 2023-06-29
 
 [datasette-upload-csvs 0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - 2023-06-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-render-images 0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - 2023-06-14
 
 [datasette-sqlite-url-lite 0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
-
-[ttok 0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
