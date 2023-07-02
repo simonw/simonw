@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1247<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1248<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2) - ([11 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-07-02
+<br />Datasette plugin for rendering Markdown
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
 <br />An ASGI function for proxying to a backend over HTTP
 * **[symbex](https://github.com/simonw/symbex)**: [1.0](https://github.com/simonw/symbex/releases/tag/1.0) - ([13 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-29
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->1247<!-- releases_count ends --> releases 
 <br />Part of https://github.com/simonw/datasette-app
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.1.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1) - ([10 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-01-27
-<br />Datasette plugin for rendering Markdown
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
 <br />Turn YouTube URLs into embedded players in Datasette
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
