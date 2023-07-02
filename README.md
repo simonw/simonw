@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Syntax highlighted code examples in Datasette](https://til.simonwillison.net/datasette/syntax-highlighted-code-examples) - 2023-07-02
+
 [Custom Jinja template tags with attributes](https://til.simonwillison.net/jinja/custom-jinja-tags-with-attributes) - 2023-07-02
 
 [Local wildcard DNS on macOS with dnsmasq](https://til.simonwillison.net/macos/wildcard-dns-dnsmasq) - 2023-06-30
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Bulk editing status in GitHub Projects](https://til.simonwillison.net/github/bulk-edit-github-projects) - 2023-06-29
 
 [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) - 2023-06-29
-
-[TOML in Python](https://til.simonwillison.net/python/toml) - 2023-06-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
