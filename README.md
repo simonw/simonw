@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Python packages with pyproject.toml and nothing else](https://til.simonwillison.net/python/pyproject) - 2023-07-08
+
 [Syntax highlighted code examples in Datasette](https://til.simonwillison.net/datasette/syntax-highlighted-code-examples) - 2023-07-02
 
 [Custom Jinja template tags with attributes](https://til.simonwillison.net/jinja/custom-jinja-tags-with-attributes) - 2023-07-02
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A Discord bot to expand issue links to a private GitHub repository](https://til.simonwillison.net/discord/discord-github-issues-bot) - 2023-06-30
 
 [Bulk editing status in GitHub Projects](https://til.simonwillison.net/github/bulk-edit-github-projects) - 2023-06-29
-
-[CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) - 2023-06-29
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
