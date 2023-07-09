@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1249<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1250<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
+<br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
 <br />Create a SQLite database containing data from your Pocket account
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2) - ([11 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-07-02
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1249<!-- releases_count ends --> releases 
 <br />Find the Python code for specified symbols
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5](https://github.com/simonw/strip-tags/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-06-27
-<br />CLI tool for stripping tags from HTML
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm](https://github.com/simonw/llm)**: [0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm/releases)) - 2023-06-17
