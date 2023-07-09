@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[pocket-to-sqlite 0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - 2023-07-09
+
 [datasette-render-markdown 2.2](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2) - 2023-07-02
 
 [asgi-proxy-lib 0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - 2023-06-26
 
 [llm 0.4.1](https://github.com/simonw/llm/releases/tag/0.4.1) - 2023-06-17
-
-[datasette-render-images 0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - 2023-06-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
