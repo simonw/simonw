@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1250<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1251<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
+<br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1250<!-- releases_count ends --> releases 
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
-* **[ttok](https://github.com/simonw/ttok)**: [0.1](https://github.com/simonw/ttok/releases/tag/0.1) - 2023-05-18
-<br />Count and truncate text based on tokens
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
