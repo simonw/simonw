@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using git-filter-repo to set commit dates to author dates](https://til.simonwillison.net/git/git-filter-repo) - 2023-07-10
+
 [Using OpenAI functions and their Python library for data extraction](https://til.simonwillison.net/gpt3/openai-python-functions-data-extraction) - 2023-07-10
 
 [Python packages with pyproject.toml and nothing else](https://til.simonwillison.net/python/pyproject) - 2023-07-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Custom Jinja template tags with attributes](https://til.simonwillison.net/jinja/custom-jinja-tags-with-attributes) - 2023-07-02
 
 [Local wildcard DNS on macOS with dnsmasq](https://til.simonwillison.net/macos/wildcard-dns-dnsmasq) - 2023-06-30
-
-[A Discord bot to expand issue links to a private GitHub repository](https://til.simonwillison.net/discord/discord-github-issues-bot) - 2023-06-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
