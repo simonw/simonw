@@ -1,8 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1252<!-- releases_count ends --> releases across <!-- project_count starts -->200<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1256<!-- releases_count ends --> releases across <!-- project_count starts -->204<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
+<br />LLM plugin adding support for the MPT-30B language model
+* **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
+<br />Plugin for LLM adding a Markov chain generating model
+* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1) - 2023-07-12
+<br />Plugin for LLM adding support for the GPT4All collection of models
+* **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
+<br />Plugin for LLM adding support for Google's PaLM 2 model
 * **[llm](https://github.com/simonw/llm)**: [0.5](https://github.com/simonw/llm/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm/releases)) - 2023-07-12
 <br />Access large language models from the command-line
 * **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
