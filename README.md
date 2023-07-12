@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.5](https://github.com/simonw/llm/releases/tag/0.5) - 2023-07-12
+
 [ttok 0.2](https://github.com/simonw/ttok/releases/tag/0.2) - 2023-07-10
 
 [strip-tags 0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - 2023-07-09
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [symbex 1.0](https://github.com/simonw/symbex/releases/tag/1.0) - 2023-06-29
 
 [datasette-upload-csvs 0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - 2023-06-28
-
-[sqlite-utils 3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - 2023-06-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[The LLM CLI tool now supports self-hosted language models via plugins](http://simonwillison.net/2023/Jul/12/llm/) - 2023-07-12
+
 [Weeknotes: symbex, LLM prompt templates, a bit of a break](http://simonwillison.net/2023/Jun/27/weeknotes/) - 2023-06-27
 
 [symbex: search Python code for functions and classes, then pipe them into a LLM](http://simonwillison.net/2023/Jun/18/symbex/) - 2023-06-18
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking](http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/) - 2023-06-04
 
 [It's infuriatingly hard to understand how closed models train on their input](http://simonwillison.net/2023/Jun/4/closed-model-training/) - 2023-06-04
-
-[ChatGPT should include inline tips](http://simonwillison.net/2023/May/30/chatgpt-inline-tips/) - 2023-05-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
