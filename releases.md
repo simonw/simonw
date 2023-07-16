@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1256<!-- releases_count ends --> releases across <!-- project_count starts -->204<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1257<!-- releases_count ends --> releases across <!-- project_count starts -->204<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [1.1](https://github.com/simonw/symbex/releases/tag/1.1) - ([14 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-16
+<br />Find the Python code for specified symbols
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1256<!-- releases_count ends --> releases 
 <br />Datasette plugin for rendering Markdown
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
 <br />An ASGI function for proxying to a backend over HTTP
-* **[symbex](https://github.com/simonw/symbex)**: [1.0](https://github.com/simonw/symbex/releases/tag/1.0) - ([13 releases total](https://github.com/simonw/symbex/releases)) - 2023-06-29
-<br />Find the Python code for specified symbols
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
