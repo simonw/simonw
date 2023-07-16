@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[symbex 1.1](https://github.com/simonw/symbex/releases/tag/1.1) - 2023-07-16
+[symbex 1.2](https://github.com/simonw/symbex/releases/tag/1.2) - 2023-07-16
 
 [llm-mpt30b 0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 

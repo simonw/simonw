@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1257<!-- releases_count ends --> releases across <!-- project_count starts -->204<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1258<!-- releases_count ends --> releases across <!-- project_count starts -->204<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[symbex](https://github.com/simonw/symbex)**: [1.1](https://github.com/simonw/symbex/releases/tag/1.1) - ([14 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-16
+* **[symbex](https://github.com/simonw/symbex)**: [1.2](https://github.com/simonw/symbex/releases/tag/1.2) - ([15 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-16
 <br />Find the Python code for specified symbols
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
