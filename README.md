@@ -25,17 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Weeknotes: Self-hosted language models with LLM plugins, a new Datasette tutorial, a dozen package releases, a dozen TILs](http://simonwillison.net/2023/Jul/16/weeknotes/) - 2023-07-16
 
-[My LLM CLI tool now supports self-hosted language models via plugins](http://simonwillison.net/2023/Jul/12/llm/) - 2023-07-12
-
-[Weeknotes: symbex, LLM prompt templates, a bit of a break](http://simonwillison.net/2023/Jun/27/weeknotes/) - 2023-06-27
-
-[symbex: search Python code for functions and classes, then pipe them into a LLM](http://simonwillison.net/2023/Jun/18/symbex/) - 2023-06-18
-
-[Understanding GPT tokenizers](http://simonwillison.net/2023/Jun/8/gpt-tokenizers/) - 2023-06-08
-
-[Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking](http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/) - 2023-06-04
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
