@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-replicate 0.1](https://github.com/simonw/llm-replicate/releases/tag/0.1) - 2023-07-18
+[llm-replicate 0.2](https://github.com/simonw/llm-replicate/releases/tag/0.2) - 2023-07-18
 
 [datasette-auth-tokens 0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - 2023-07-17
 
