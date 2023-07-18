@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1261<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1262<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.6](https://github.com/simonw/llm/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm/releases)) - 2023-07-18
+<br />Access large language models from the command-line
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.2](https://github.com/simonw/llm-replicate/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-18
 <br />LLM plugin for models hosted on Replicate
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-07-17
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1261<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
 <br />Plugin for LLM adding support for Google's PaLM 2 model
-* **[llm](https://github.com/simonw/llm)**: [0.5](https://github.com/simonw/llm/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm/releases)) - 2023-07-12
-<br />Access large language models from the command-line
 * **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
 <br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
