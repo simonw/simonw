@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[symbex 1.3](https://github.com/simonw/symbex/releases/tag/1.3) - 2023-07-19
+
 [llm 0.6](https://github.com/simonw/llm/releases/tag/0.6) - 2023-07-18
 
 [llm-replicate 0.2](https://github.com/simonw/llm-replicate/releases/tag/0.2) - 2023-07-18
 
 [datasette-auth-tokens 0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - 2023-07-17
-
-[symbex 1.2](https://github.com/simonw/symbex/releases/tag/1.2) - 2023-07-16
 
 [llm-mpt30b 0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 
