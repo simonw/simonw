@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1263<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1264<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
+<br />LLM plugin for models hosted on Replicate
 * **[symbex](https://github.com/simonw/symbex)**: [1.3](https://github.com/simonw/symbex/releases/tag/1.3) - ([16 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-19
 <br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.6](https://github.com/simonw/llm/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm/releases)) - 2023-07-18
 <br />Access large language models from the command-line
-* **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.2](https://github.com/simonw/llm-replicate/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-18
-<br />LLM plugin for models hosted on Replicate
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-07-17
 <br />Datasette plugin for authenticating access using API tokens
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
