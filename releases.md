@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1264<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1265<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.34](https://github.com/simonw/sqlite-utils/releases/tag/3.34) - ([109 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-07-22
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
 <br />LLM plugin for models hosted on Replicate
 * **[symbex](https://github.com/simonw/symbex)**: [1.3](https://github.com/simonw/symbex/releases/tag/1.3) - ([16 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-19
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1264<!-- releases_count ends --> releases 
 <br />An ASGI function for proxying to a backend over HTTP
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.33](https://github.com/simonw/sqlite-utils/releases/tag/3.33) - ([108 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-06-26
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
