@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1265<!-- releases_count ends --> releases across <!-- project_count starts -->205<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1266<!-- releases_count ends --> releases across <!-- project_count starts -->206<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a0) - 2023-07-23
+<br />A simple database migration system for SQLite, based on sqlite-utils
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.34](https://github.com/simonw/sqlite-utils/releases/tag/3.34) - ([109 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-07-22
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
