@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils-dateutil 0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
+
 [sqlite-migrate 0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - 2023-07-23
 
 [sqlite-utils 3.34](https://github.com/simonw/sqlite-utils/releases/tag/3.34) - 2023-07-22
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-auth-tokens 0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - 2023-07-17
 
 [llm-mpt30b 0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
-
-[llm-markov 0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
