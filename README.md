@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - 2023-07-24
+
 [asgi-replay 0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
 
 [sqlite-utils-shell 0.2](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.2) - 2023-07-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-replicate 0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - 2023-07-20
 
 [symbex 1.3](https://github.com/simonw/symbex/releases/tag/1.3) - 2023-07-19
-
-[llm 0.6](https://github.com/simonw/llm/releases/tag/0.6) - 2023-07-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
