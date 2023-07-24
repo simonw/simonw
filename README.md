@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[sqlite-utils now supports plugins](http://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/) - 2023-07-24
+
 [Accessing Llama 2 from the command-line with the llm-replicate plugin](http://simonwillison.net/2023/Jul/18/accessing-llama-2/) - 2023-07-18
 
 [Weeknotes: Self-hosted language models with LLM plugins, a new Datasette tutorial, a dozen package releases, a dozen TILs](http://simonwillison.net/2023/Jul/16/weeknotes/) - 2023-07-16
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: symbex, LLM prompt templates, a bit of a break](http://simonwillison.net/2023/Jun/27/weeknotes/) - 2023-06-27
 
 [symbex: search Python code for functions and classes, then pipe them into a LLM](http://simonwillison.net/2023/Jun/18/symbex/) - 2023-06-18
-
-[Understanding GPT tokenizers](http://simonwillison.net/2023/Jun/8/gpt-tokenizers/) - 2023-06-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
