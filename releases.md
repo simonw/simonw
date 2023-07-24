@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1272<!-- releases_count ends --> releases across <!-- project_count starts -->209<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1273<!-- releases_count ends --> releases across <!-- project_count starts -->209<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
+<br />A client CLI utility for Datasette instances
 * **[llm](https://github.com/simonw/llm)**: [0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/llm/releases)) - 2023-07-24
 <br />Access large language models from the command-line
 * **[asgi-replay](https://github.com/simonw/asgi-replay)**: [0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
@@ -121,8 +123,6 @@ Listing <!-- releases_count starts -->1272<!-- releases_count ends --> releases 
 <br />Provide tables that expire after a time limit
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <br />Export pages from Datasette to files on disk
-* **[dclient](https://github.com/simonw/dclient)**: [0.1a2](https://github.com/simonw/dclient/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/dclient/releases)) - 2022-11-22
-<br />A client CLI utility for Datasette instances
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
 <br />Datasette plugin for modifying table schemas
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
