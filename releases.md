@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1268<!-- releases_count ends --> releases across <!-- project_count starts -->207<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1269<!-- releases_count ends --> releases across <!-- project_count starts -->208<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.1](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.1) - 2023-07-24
+<br />Interactive shell for sqlite-utils
 * **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
 <br />Date utility functions for sqlite-utils
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-07-23
