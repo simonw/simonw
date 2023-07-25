@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using pytest-httpx to run intercepted requests through an in-memory Datasette instance](https://til.simonwillison.net/datasette/pytest-httpx-datasette) - 2023-07-25
+
 [Using tree-sitter with Python](https://til.simonwillison.net/python/tree-sitter) - 2023-07-14
 
 [Auto-formatting YAML files with yamlfmt](https://til.simonwillison.net/yaml/yamlfmt) - 2023-07-13
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using git-filter-repo to set commit dates to author dates](https://til.simonwillison.net/git/git-filter-repo) - 2023-07-10
 
 [Using OpenAI functions and their Python library for data extraction](https://til.simonwillison.net/gpt3/openai-python-functions-data-extraction) - 2023-07-10
-
-[Python packages with pyproject.toml and nothing else](https://til.simonwillison.net/python/pyproject) - 2023-07-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
