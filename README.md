@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils-litecli 0.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1) - 2023-07-25
+
 [dclient 0.2](https://github.com/simonw/dclient/releases/tag/0.2) - 2023-07-24
 
 [llm 0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - 2023-07-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-migrate 0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - 2023-07-23
 
 [sqlite-utils 3.34](https://github.com/simonw/sqlite-utils/releases/tag/3.34) - 2023-07-22
-
-[llm-replicate 0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - 2023-07-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
