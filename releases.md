@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1275<!-- releases_count ends --> releases across <!-- project_count starts -->210<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1276<!-- releases_count ends --> releases across <!-- project_count starts -->210<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
+<br />Interactive shell for sqlite-utils using litecli
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.1.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-07-25
 <br />Plugin for LLM adding support for the GPT4All collection of models
-* **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1) - 2023-07-25
-<br />Interactive shell for sqlite-utils using litecli
 * **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
 <br />A client CLI utility for Datasette instances
 * **[llm](https://github.com/simonw/llm)**: [0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/llm/releases)) - 2023-07-24
