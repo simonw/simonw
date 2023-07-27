@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Exploring the Overture Maps places data using DuckDB, sqlite-utils and Datasette](https://til.simonwillison.net/overture-maps/overture-maps-parquet) - 2023-07-27
+
 [Protocols in Python](https://til.simonwillison.net/python/protocols) - 2023-07-26
 
 [Using pytest-httpx to run intercepted requests through an in-memory Datasette instance](https://til.simonwillison.net/datasette/pytest-httpx-datasette) - 2023-07-25
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Auto-formatting YAML files with yamlfmt](https://til.simonwillison.net/yaml/yamlfmt) - 2023-07-13
 
 [Quickly testing code in a different Python version using pyenv](https://til.simonwillison.net/python/quick-testing-pyenv) - 2023-07-10
-
-[Using git-filter-repo to set commit dates to author dates](https://til.simonwillison.net/git/git-filter-repo) - 2023-07-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
