@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-llama-cpp 0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
+
 [sqlite-utils-litecli 0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - 2023-07-26
 
 [llm-gpt4all 0.1.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1) - 2023-07-25
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils-shell 0.2](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.2) - 2023-07-24
 
 [sqlite-utils-dateutil 0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
-
-[sqlite-migrate 0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - 2023-07-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
