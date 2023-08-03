@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Catching up on the weird world of LLMs](http://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - 2023-08-03
+
 [Run Llama 2 on your own Mac using LLM and Homebrew](http://simonwillison.net/2023/Aug/1/llama-2-mac/) - 2023-08-01
 
 [sqlite-utils now supports plugins](http://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/) - 2023-07-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Self-hosted language models with LLM plugins, a new Datasette tutorial, a dozen package releases, a dozen TILs](http://simonwillison.net/2023/Jul/16/weeknotes/) - 2023-07-16
 
 [My LLM CLI tool now supports self-hosted language models via plugins](http://simonwillison.net/2023/Jul/12/llm/) - 2023-07-12
-
-[Weeknotes: symbex, LLM prompt templates, a bit of a break](http://simonwillison.net/2023/Jun/27/weeknotes/) - 2023-06-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
