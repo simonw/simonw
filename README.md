@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Checking if something is callable or async callable in Python](https://til.simonwillison.net/python/callable) - 2023-08-04
+
 [axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
 
 [Exploring the Overture Maps places data using DuckDB, sqlite-utils and Datasette](https://til.simonwillison.net/overture-maps/overture-maps-parquet) - 2023-07-27
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using pytest-httpx to run intercepted requests through an in-memory Datasette instance](https://til.simonwillison.net/datasette/pytest-httpx-datasette) - 2023-07-25
 
 [Using tree-sitter with Python](https://til.simonwillison.net/python/tree-sitter) - 2023-07-14
-
-[Auto-formatting YAML files with yamlfmt](https://til.simonwillison.net/yaml/yamlfmt) - 2023-07-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
