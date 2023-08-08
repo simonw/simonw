@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Scroll to text fragments](https://til.simonwillison.net/html/scroll-to-text) - 2023-08-08
+
 [Checking if something is callable or async callable in Python](https://til.simonwillison.net/python/callable) - 2023-08-04
 
 [axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Protocols in Python](https://til.simonwillison.net/python/protocols) - 2023-07-26
 
 [Using pytest-httpx to run intercepted requests through an in-memory Datasette instance](https://til.simonwillison.net/datasette/pytest-httpx-datasette) - 2023-07-25
-
-[Using tree-sitter with Python](https://til.simonwillison.net/python/tree-sitter) - 2023-07-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
