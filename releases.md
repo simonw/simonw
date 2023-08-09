@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1278<!-- releases_count ends --> releases across <!-- project_count starts -->211<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1279<!-- releases_count ends --> releases across <!-- project_count starts -->211<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a3](https://github.com/simonw/datasette/releases/tag/1.0a3) - ([127 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-09
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-08-01
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1278<!-- releases_count ends --> releases 
 <br />A tool for creating credentials for accessing S3 buckets
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.3](https://github.com/simonw/openai-to-sqlite/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-04-29
 <br />Save OpenAI API results to a SQLite database
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.3](https://github.com/simonw/datasette/releases/tag/0.64.3) - ([126 releases total](https://github.com/simonw/datasette/releases)) - 2023-04-27
-<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.2](https://github.com/simonw/shot-scraper/releases/tag/1.2) - ([27 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-04-27
 <br />A command-line utility for taking automated screenshots of websites
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
