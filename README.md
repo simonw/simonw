@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-upload-dbs 0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - 2023-08-10
+
 [datasette 1.0a3](https://github.com/simonw/datasette/releases/tag/1.0a3) - 2023-08-09
 
 [llm-llama-cpp 0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
-
-[datasette-upload-dbs 0.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.2) - 2023-08-01
 
 [sqlite-utils-litecli 0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - 2023-07-26
 
