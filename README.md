@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem) - 2023-08-10
+
 [Running a Django and PostgreSQL development environment in GitHub Codespaces](https://til.simonwillison.net/github/django-postgresql-codespaces) - 2023-08-10
 
 [Scroll to text fragments](https://til.simonwillison.net/html/scroll-to-text) - 2023-08-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
 
 [Exploring the Overture Maps places data using DuckDB, sqlite-utils and Datasette](https://til.simonwillison.net/overture-maps/overture-maps-parquet) - 2023-07-27
-
-[Protocols in Python](https://til.simonwillison.net/python/protocols) - 2023-07-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
