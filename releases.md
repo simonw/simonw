@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1286<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - ([2 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-12
+<br />Command-line tool for fetching JSON from paginated APIs
 * **[llm](https://github.com/simonw/llm)**: [0.7](https://github.com/simonw/llm/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm/releases)) - 2023-08-12
 <br />Access large language models from the command-line
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.3](https://github.com/simonw/llm-mlc/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-12
@@ -405,8 +407,6 @@ Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases 
 <br />ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br />Upload your photos to S3 and import metadata about them into a SQLite database
-* **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3](https://github.com/simonw/paginate-json/releases/tag/0.3) - 2020-04-14
-<br />Command-line tool for fetching JSON from paginated APIs
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br />Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/datasette-render-timestamps/releases)) - 2020-03-21
