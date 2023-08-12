@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Combined release notes from GitHub with jq and paginate-json](https://til.simonwillison.net/jq/combined-github-release-notes) - 2023-08-12
+
 [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem) - 2023-08-10
 
 [Running a Django and PostgreSQL development environment in GitHub Codespaces](https://til.simonwillison.net/github/django-postgresql-codespaces) - 2023-08-10
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Checking if something is callable or async callable in Python](https://til.simonwillison.net/python/callable) - 2023-08-04
 
 [axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
-
-[Exploring the Overture Maps places data using DuckDB, sqlite-utils and Datasette](https://til.simonwillison.net/overture-maps/overture-maps-parquet) - 2023-07-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
