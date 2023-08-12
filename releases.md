@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1281<!-- releases_count ends --> releases across <!-- project_count starts -->212<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1282<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.1a0](https://github.com/simonw/llm-mlc/releases/tag/0.1) - 2023-08-12
+<br />LLM plugin for running models using MLC
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 <br />Plugin adding a jq() SQL function to sqlite-utils
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-08-10
