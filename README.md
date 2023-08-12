@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-mlc 0.1a0](https://github.com/simonw/llm-mlc/releases/tag/0.1) - 2023-08-12
+[llm-mlc 0.2](https://github.com/simonw/llm-mlc/releases/tag/0.2) - 2023-08-12
 
 [sqlite-utils-jq 0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 
