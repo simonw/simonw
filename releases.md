@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1284<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.7](https://github.com/simonw/llm/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm/releases)) - 2023-08-12
+<br />Access large language models from the command-line
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.3](https://github.com/simonw/llm-mlc/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-12
 <br />LLM plugin for running models using MLC
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1284<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
 <br />A client CLI utility for Datasette instances
-* **[llm](https://github.com/simonw/llm)**: [0.6.1](https://github.com/simonw/llm/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/llm/releases)) - 2023-07-24
-<br />Access large language models from the command-line
 * **[asgi-replay](https://github.com/simonw/asgi-replay)**: [0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
 <br />Record and replay ASGI web page loads
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.2](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-07-24
