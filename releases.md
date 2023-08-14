@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1286<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1287<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.4](https://github.com/simonw/llm-mlc/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-14
+<br />LLM plugin for running models using MLC
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - ([2 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-12
 <br />Command-line tool for fetching JSON from paginated APIs
 * **[llm](https://github.com/simonw/llm)**: [0.7](https://github.com/simonw/llm/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm/releases)) - 2023-08-12
 <br />Access large language models from the command-line
-* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.3](https://github.com/simonw/llm-mlc/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-12
-<br />LLM plugin for running models using MLC
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 <br />Plugin adding a jq() SQL function to sqlite-utils
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-08-10
