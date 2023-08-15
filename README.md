@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Storing and serving related documents with openai-to-sqlite and embeddings](https://til.simonwillison.net/llms/openai-embeddings-related-content) - 2023-08-15
+
 [Combined release notes from GitHub with jq and paginate-json](https://til.simonwillison.net/jq/combined-github-release-notes) - 2023-08-12
 
 [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem) - 2023-08-10
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Scroll to text fragments](https://til.simonwillison.net/html/scroll-to-text) - 2023-08-08
 
 [Checking if something is callable or async callable in Python](https://til.simonwillison.net/python/callable) - 2023-08-04
-
-[axe-core and shot-scraper for accessibility audits](https://til.simonwillison.net/shot-scraper/axe-core) - 2023-07-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
