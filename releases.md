@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1288<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1289<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
+<br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
 <br />Tools for building SQLite databases from files and directories
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.4](https://github.com/simonw/llm-mlc/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-14
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1288<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
 <br />Create a SQLite database containing data from your Pocket account
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2) - ([11 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-07-02
-<br />Datasette plugin for rendering Markdown
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
 <br />An ASGI function for proxying to a backend over HTTP
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
