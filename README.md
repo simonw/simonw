@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-mlc 0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - 2023-08-15
+
 [datasette-render-markdown 2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - 2023-08-15
 
 [db-build 0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
-
-[llm-mlc 0.4](https://github.com/simonw/llm-mlc/releases/tag/0.4) - 2023-08-14
 
 [paginate-json 0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - 2023-08-12
 

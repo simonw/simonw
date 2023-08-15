@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1289<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1290<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
+<br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
 <br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
 <br />Tools for building SQLite databases from files and directories
-* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.4](https://github.com/simonw/llm-mlc/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-14
-<br />LLM plugin for running models using MLC
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - ([2 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-12
 <br />Command-line tool for fetching JSON from paginated APIs
 * **[llm](https://github.com/simonw/llm)**: [0.7](https://github.com/simonw/llm/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm/releases)) - 2023-08-12
