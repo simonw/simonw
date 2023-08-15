@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[openai-to-sqlite 0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - 2023-08-15
+
 [llm-mlc 0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - 2023-08-15
 
 [datasette-render-markdown 2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - 2023-08-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils-jq 0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 
 [datasette-upload-dbs 0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - 2023-08-10
-
-[datasette 1.0a3](https://github.com/simonw/datasette/releases/tag/1.0a3) - 2023-08-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
