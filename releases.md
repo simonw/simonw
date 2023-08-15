@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1287<!-- releases_count ends --> releases across <!-- project_count starts -->213<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1288<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
+<br />Tools for building SQLite databases from files and directories
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.4](https://github.com/simonw/llm-mlc/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-14
 <br />LLM plugin for running models using MLC
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - ([2 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-12
