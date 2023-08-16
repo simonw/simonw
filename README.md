@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette Cloud, Datasette 1.0a3, llm-mlc and more](http://simonwillison.net/2023/Aug/16/datasette-cloud-weeknotes/) - 2023-08-16
+
 [How I make annotated presentations](http://simonwillison.net/2023/Aug/6/annotated-presentations/) - 2023-08-06
 
 [Weeknotes: Plugins for LLM, sqlite-utils and Datasette](http://simonwillison.net/2023/Aug/5/weeknotes-plugins/) - 2023-08-05
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Run Llama 2 on your own Mac using LLM and Homebrew](http://simonwillison.net/2023/Aug/1/llama-2-mac/) - 2023-08-01
 
 [sqlite-utils now supports plugins](http://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/) - 2023-07-24
-
-[Accessing Llama 2 from the command-line with the llm-replicate plugin](http://simonwillison.net/2023/Jul/18/accessing-llama-2/) - 2023-07-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
