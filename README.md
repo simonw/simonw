@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running multiple servers in a single Bash script](https://til.simonwillison.net/bash/multiple-servers) - 2023-08-17
+
 [Processing a stream of chunks of JSON with ijson](https://til.simonwillison.net/json/ijson-stream) - 2023-08-16
 
 [Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django) - 2023-08-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Combined release notes from GitHub with jq and paginate-json](https://til.simonwillison.net/jq/combined-github-release-notes) - 2023-08-12
 
 [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem) - 2023-08-10
-
-[Running a Django and PostgreSQL development environment in GitHub Codespaces](https://til.simonwillison.net/github/django-postgresql-codespaces) - 2023-08-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
