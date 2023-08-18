@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1293<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1294<!-- releases_count ends --> releases across <!-- project_count starts -->215<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
+<br />Fast foreign key addition for sqlite-utils
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - ([12 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-08-18
 <br />Datasette plugin for modifying table schemas
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - ([110 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-08-18
