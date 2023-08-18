@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1291<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1292<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - ([110 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-08-18
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
 <br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1291<!-- releases_count ends --> releases 
 <br />Date utility functions for sqlite-utils
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-07-23
 <br />A simple database migration system for SQLite, based on sqlite-utils
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.34](https://github.com/simonw/sqlite-utils/releases/tag/3.34) - ([109 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-07-22
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
 <br />LLM plugin for models hosted on Replicate
 * **[symbex](https://github.com/simonw/symbex)**: [1.3](https://github.com/simonw/symbex/releases/tag/1.3) - ([16 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-19
