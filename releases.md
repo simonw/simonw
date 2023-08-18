@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1292<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1293<!-- releases_count ends --> releases across <!-- project_count starts -->214<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - ([12 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-08-18
+<br />Datasette plugin for modifying table schemas
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - ([110 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-08-18
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
@@ -137,8 +139,6 @@ Listing <!-- releases_count starts -->1292<!-- releases_count ends --> releases 
 <br />Provide tables that expire after a time limit
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <br />Export pages from Datasette to files on disk
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2) - ([11 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2022-11-18
-<br />Datasette plugin for modifying table schemas
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18

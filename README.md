@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-edit-schema 0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - 2023-08-18
+
 [sqlite-utils 3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - 2023-08-18
 
 [openai-to-sqlite 0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - 2023-08-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [paginate-json 0.3.1](https://github.com/simonw/paginate-json/releases/tag/0.3.1) - 2023-08-12
 
 [llm 0.7](https://github.com/simonw/llm/releases/tag/0.7) - 2023-08-12
-
-[sqlite-utils-jq 0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
