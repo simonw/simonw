@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[A one-liner to output details of the current Python's SQLite](https://til.simonwillison.net/sqlite/python-sqlite-environment) - 2023-08-19
+
 [A simple pattern for inlining binary content in a Python script](https://til.simonwillison.net/python/inlining-binary-data) - 2023-08-19
 
 [Running multiple servers in a single Bash script](https://til.simonwillison.net/bash/multiple-servers) - 2023-08-17
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django) - 2023-08-15
 
 [Storing and serving related documents with openai-to-sqlite and embeddings](https://til.simonwillison.net/llms/openai-embeddings-related-content) - 2023-08-15
-
-[Combined release notes from GitHub with jq and paginate-json](https://til.simonwillison.net/jq/combined-github-release-notes) - 2023-08-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
