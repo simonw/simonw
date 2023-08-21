@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Updating stable docs in ReadTheDocs without pushing a release](https://til.simonwillison.net/readthedocs/stable-docs) - 2023-08-21
+
 [A shell script for running Go one-liners](https://til.simonwillison.net/bash/go-script) - 2023-08-20
 
 [A one-liner to output details of the current Python's SQLite](https://til.simonwillison.net/sqlite/python-sqlite-environment) - 2023-08-19
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running multiple servers in a single Bash script](https://til.simonwillison.net/bash/multiple-servers) - 2023-08-17
 
 [Processing a stream of chunks of JSON with ijson](https://til.simonwillison.net/json/ijson-stream) - 2023-08-16
-
-[Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django) - 2023-08-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
