@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.7.1](https://github.com/simonw/llm/releases/tag/0.7.1) - 2023-08-19
+[llm-openrouter 0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
+
+[llm 0.8](https://github.com/simonw/llm/releases/tag/0.8) - 2023-08-21
 
 [sqlite-utils-fast-fks 0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-mlc 0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - 2023-08-15
 
 [datasette-render-markdown 2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - 2023-08-15
-
-[db-build 0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1295<!-- releases_count ends --> releases across <!-- project_count starts -->215<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1297<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.7.1](https://github.com/simonw/llm/releases/tag/0.7.1) - ([10 releases total](https://github.com/simonw/llm/releases)) - 2023-08-19
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
+<br />LLM plugin for models hosted by OpenRouter
+* **[llm](https://github.com/simonw/llm)**: [0.8](https://github.com/simonw/llm/releases/tag/0.8) - ([11 releases total](https://github.com/simonw/llm/releases)) - 2023-08-21
 <br />Access large language models from the command-line
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
