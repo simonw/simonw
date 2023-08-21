@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1297<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1298<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
+<br />Datasette plugin for publishing data using Fly
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
 <br />LLM plugin for models hosted by OpenRouter
 * **[llm](https://github.com/simonw/llm)**: [0.8](https://github.com/simonw/llm/releases/tag/0.8) - ([11 releases total](https://github.com/simonw/llm/releases)) - 2023-08-21
@@ -123,8 +125,6 @@ Listing <!-- releases_count starts -->1297<!-- releases_count ends --> releases 
 <br />Create separate files on disk based on a JSON object
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
 <br />Datasette plugin for authentication using passwords
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3) - ([9 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-01-09
-<br />Datasette plugin for publishing data using Fly
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
