@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Calculating the size of a SQLite database file using SQL](https://til.simonwillison.net/sqlite/database-file-size) - 2023-08-21
+
 [Updating stable docs in ReadTheDocs without pushing a release](https://til.simonwillison.net/readthedocs/stable-docs) - 2023-08-21
 
 [A shell script for running Go one-liners](https://til.simonwillison.net/bash/go-script) - 2023-08-20
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A simple pattern for inlining binary content in a Python script](https://til.simonwillison.net/python/inlining-binary-data) - 2023-08-19
 
 [Running multiple servers in a single Bash script](https://til.simonwillison.net/bash/multiple-servers) - 2023-08-17
-
-[Processing a stream of chunks of JSON with ijson](https://til.simonwillison.net/json/ijson-stream) - 2023-08-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
