@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Configuring Django SQL Dashboard for Fly PostgreSQL](https://til.simonwillison.net/fly/django-sql-dashboard) - 2023-08-22
+
 [Calculating the size of a SQLite database file using SQL](https://til.simonwillison.net/sqlite/database-file-size) - 2023-08-21
 
 [Updating stable docs in ReadTheDocs without pushing a release](https://til.simonwillison.net/readthedocs/stable-docs) - 2023-08-21
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A one-liner to output details of the current Python's SQLite](https://til.simonwillison.net/sqlite/python-sqlite-environment) - 2023-08-19
 
 [A simple pattern for inlining binary content in a Python script](https://til.simonwillison.net/python/inlining-binary-data) - 2023-08-19
-
-[Running multiple servers in a single Bash script](https://til.simonwillison.net/bash/multiple-servers) - 2023-08-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
