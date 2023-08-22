@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a4](https://github.com/simonw/datasette/releases/tag/1.0a4) - 2023-08-22
+
 [datasette-auth-tokens 0.4a1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1) - 2023-08-21
 
 [datasette-ripgrep 0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - 2023-08-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils-fast-fks 0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 
 [datasette-edit-schema 0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - 2023-08-18
-
-[sqlite-utils 3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - 2023-08-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
