@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1299<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1300<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1) - ([9 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-21
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - ([14 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-08-21
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1299<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted on Replicate
 * **[symbex](https://github.com/simonw/symbex)**: [1.3](https://github.com/simonw/symbex/releases/tag/1.3) - ([16 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-19
 <br />Find the Python code for specified symbols
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a0](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-07-17
-<br />Datasette plugin for authenticating access using API tokens
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
