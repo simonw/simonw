@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1301<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1302<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
+<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a4](https://github.com/simonw/datasette/releases/tag/1.0a4) - ([128 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-22
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1) - ([9 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-21
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->1301<!-- releases_count ends --> releases 
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
 <br />Plugin allowing Datasette templates to be edited within Datasette
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.1](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.1) - ([11 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2022-11-18
-<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
