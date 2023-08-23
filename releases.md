@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1302<!-- releases_count ends --> releases across <!-- project_count starts -->216<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1303<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.1](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1) - 2023-08-23
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a4](https://github.com/simonw/datasette/releases/tag/1.0a4) - ([128 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-22

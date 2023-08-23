@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anyscale-endpoints 0.1](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1) - 2023-08-23
+
 [datasette-configure-fts 1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - 2023-08-23
 
 [datasette 1.0a4](https://github.com/simonw/datasette/releases/tag/1.0a4) - 2023-08-22
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-openrouter 0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
 
 [llm 0.8](https://github.com/simonw/llm/releases/tag/0.8) - 2023-08-21
-
-[sqlite-utils-fast-fks 0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
