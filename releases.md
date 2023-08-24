@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1303<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1305<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - ([4 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2023-08-24
+<br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.1](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1) - 2023-08-23
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
@@ -359,8 +361,6 @@ Listing <!-- releases_count starts -->1303<!-- releases_count ends --> releases 
 <br />Download map tiles and store them in an MBTiles database
 * **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
 <br />Mapping tile server for Datasette, serving tiles from MBTiles packages
-* **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - ([2 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2021-02-06
-<br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01

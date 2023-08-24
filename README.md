@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
+
 [llm-anyscale-endpoints 0.1](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1) - 2023-08-23
 
 [datasette-configure-fts 1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - 2023-08-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-publish-fly 1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - 2023-08-21
 
 [llm-openrouter 0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
-
-[llm 0.8](https://github.com/simonw/llm/releases/tag/0.8) - 2023-08-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
