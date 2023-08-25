@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
+[llm-anyscale-endpoints 0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - 2023-08-25
 
-[llm-anyscale-endpoints 0.1](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1) - 2023-08-23
+[datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
 
 [datasette-configure-fts 1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - 2023-08-23
 
