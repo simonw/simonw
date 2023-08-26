@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Downloading partial YouTube videos with ffmpeg](https://til.simonwillison.net/macos/downloading-partial-youtube-videos) - 2023-08-26
+
 [Compile and run a new SQLite version with the existing sqlite3 Python library on macOS](https://til.simonwillison.net/sqlite/sqlite-version-macos-python) - 2023-08-22
 
 [Configuring Django SQL Dashboard for Fly PostgreSQL](https://til.simonwillison.net/fly/django-sql-dashboard) - 2023-08-22
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Updating stable docs in ReadTheDocs without pushing a release](https://til.simonwillison.net/readthedocs/stable-docs) - 2023-08-21
 
 [A shell script for running Go one-liners](https://til.simonwillison.net/bash/go-script) - 2023-08-20
-
-[A one-liner to output details of the current Python's SQLite](https://til.simonwillison.net/sqlite/python-sqlite-environment) - 2023-08-19
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
