@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Making Large Language Models work for you](http://simonwillison.net/2023/Aug/27/wordcamp-llms/) - 2023-08-27
+
 [Datasette Cloud, Datasette 1.0a3, llm-mlc and more](http://simonwillison.net/2023/Aug/16/datasette-cloud-weeknotes/) - 2023-08-16
 
 [How I make annotated presentations](http://simonwillison.net/2023/Aug/6/annotated-presentations/) - 2023-08-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Catching up on the weird world of LLMs](http://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - 2023-08-03
 
 [Run Llama 2 on your own Mac using LLM and Homebrew](http://simonwillison.net/2023/Aug/1/llama-2-mac/) - 2023-08-01
-
-[sqlite-utils now supports plugins](http://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/) - 2023-07-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
