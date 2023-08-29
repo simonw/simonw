@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-tokens 0.4a2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2) - 2023-08-29
+
 [datasette 1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - 2023-08-29
 
 [llm-anyscale-endpoints 0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - 2023-08-25
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
 
 [datasette-configure-fts 1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - 2023-08-23
-
-[datasette-auth-tokens 0.4a1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1) - 2023-08-21
 
 [datasette-ripgrep 0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - 2023-08-21
 

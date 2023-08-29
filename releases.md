@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1307<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1308<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2) - ([10 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-29
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - ([129 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-29
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-08-25
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1307<!-- releases_count ends --> releases 
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
 <br />Datasette plugin for enabling full-text search against selected table columns
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a1](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1) - ([9 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-21
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - ([14 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-08-21
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
