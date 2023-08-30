@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[paginate-json 1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - 2023-08-30
+
 [datasette-auth-tokens 0.4a2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2) - 2023-08-29
 
 [datasette 1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - 2023-08-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-ripgrep 0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - 2023-08-21
 
 [datasette-publish-fly 1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - 2023-08-21
-
-[llm-openrouter 0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
