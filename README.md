@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Streaming output of an indented JSON array](https://til.simonwillison.net/json/streaming-indented-json-array) - 2023-08-30
+
 [Downloading partial YouTube videos with ffmpeg](https://til.simonwillison.net/macos/downloading-partial-youtube-videos) - 2023-08-26
 
 [Compile and run a new SQLite version with the existing sqlite3 Python library on macOS](https://til.simonwillison.net/sqlite/sqlite-version-macos-python) - 2023-08-22
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Calculating the size of a SQLite database file using SQL](https://til.simonwillison.net/sqlite/database-file-size) - 2023-08-21
 
 [Updating stable docs in ReadTheDocs without pushing a release](https://til.simonwillison.net/readthedocs/stable-docs) - 2023-08-21
-
-[A shell script for running Go one-liners](https://til.simonwillison.net/bash/go-script) - 2023-08-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
