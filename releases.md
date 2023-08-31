@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1309<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1310<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - ([11 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-31
+<br />Datasette plugin for authenticating access using API tokens
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-30
 <br />Command-line tool for fetching JSON from paginated APIs
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2) - ([10 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-29
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - ([129 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-29
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-08-25

@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[paginate-json 1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - 2023-08-30
+[datasette-auth-tokens 0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - 2023-08-31
 
-[datasette-auth-tokens 0.4a2](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2) - 2023-08-29
+[paginate-json 1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - 2023-08-30
 
 [datasette 1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - 2023-08-29
 
