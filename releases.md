@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1311<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1312<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.8.1](https://github.com/simonw/llm/releases/tag/0.8.1) - ([12 releases total](https://github.com/simonw/llm/releases)) - 2023-09-01
+<br />Access large language models from the command-line
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <br />sqlite-utils plugin adding a move-tables command
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - ([11 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-31
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1311<!-- releases_count ends --> releases 
 <br />Datasette plugin for publishing data using Fly
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
 <br />LLM plugin for models hosted by OpenRouter
-* **[llm](https://github.com/simonw/llm)**: [0.8](https://github.com/simonw/llm/releases/tag/0.8) - ([11 releases total](https://github.com/simonw/llm/releases)) - 2023-08-21
-<br />Access large language models from the command-line
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - ([12 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-08-18

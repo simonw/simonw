@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.8.1](https://github.com/simonw/llm/releases/tag/0.8.1) - 2023-09-01
+
 [sqlite-utils-move-tables 0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 
 [datasette-auth-tokens 0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - 2023-08-31
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
 
 [datasette-configure-fts 1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - 2023-08-23
-
-[datasette-ripgrep 0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - 2023-08-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
