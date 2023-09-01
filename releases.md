@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1310<!-- releases_count ends --> releases across <!-- project_count starts -->217<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1311<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
+<br />sqlite-utils plugin adding a move-tables command
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - ([11 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-31
 <br />Datasette plugin for authenticating access using API tokens
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-30
