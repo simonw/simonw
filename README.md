@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.8.1](https://github.com/simonw/llm/releases/tag/0.8.1) - 2023-09-01
+[llm 0.9a0](https://github.com/simonw/llm/releases/tag/0.9a0) - 2023-09-02
 
 [sqlite-utils-move-tables 0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 
