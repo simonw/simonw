@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1313<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1314<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [1.3.1](https://github.com/simonw/symbex/releases/tag/1.3.1) - ([17 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-02
+<br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.9a0](https://github.com/simonw/llm/releases/tag/0.9a0) - ([13 releases total](https://github.com/simonw/llm/releases)) - 2023-09-02
 <br />Access large language models from the command-line
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->1313<!-- releases_count ends --> releases 
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
 <br />LLM plugin for models hosted on Replicate
-* **[symbex](https://github.com/simonw/symbex)**: [1.3](https://github.com/simonw/symbex/releases/tag/1.3) - ([16 releases total](https://github.com/simonw/symbex/releases)) - 2023-07-19
-<br />Find the Python code for specified symbols
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
