@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1314<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1315<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-09-03
+<br />A simple database migration system for SQLite, based on sqlite-utils
 * **[symbex](https://github.com/simonw/symbex)**: [1.3.1](https://github.com/simonw/symbex/releases/tag/1.3.1) - ([17 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-02
 <br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.9a0](https://github.com/simonw/llm/releases/tag/0.9a0) - ([13 releases total](https://github.com/simonw/llm/releases)) - 2023-09-02
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1314<!-- releases_count ends --> releases 
 <br />Interactive shell for sqlite-utils
 * **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
 <br />Date utility functions for sqlite-utils
-* **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a1](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-07-23
-<br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
 <br />LLM plugin for models hosted on Replicate
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-migrate 0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - 2023-09-03
+
 [symbex 1.3.1](https://github.com/simonw/symbex/releases/tag/1.3.1) - 2023-09-02
 
 [llm 0.9a0](https://github.com/simonw/llm/releases/tag/0.9a0) - 2023-09-02
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - 2023-08-29
 
 [llm-anyscale-endpoints 0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - 2023-08-25
-
-[datasette-jellyfish 2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - 2023-08-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
