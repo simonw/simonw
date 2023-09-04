@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1316<!-- releases_count ends --> releases across <!-- project_count starts -->218<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1318<!-- releases_count ends --> releases across <!-- project_count starts -->219<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.9a1](https://github.com/simonw/llm/releases/tag/0.9a1) - ([14 releases total](https://github.com/simonw/llm/releases)) - 2023-09-04
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
+<br />LLM plugin for embeddings using sentence-transformers
+* **[llm](https://github.com/simonw/llm)**: [0.9](https://github.com/simonw/llm/releases/tag/0.9) - ([15 releases total](https://github.com/simonw/llm/releases)) - 2023-09-04
 <br />Access large language models from the command-line
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-09-03
 <br />A simple database migration system for SQLite, based on sqlite-utils
