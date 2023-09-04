@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-cluster 0.1](https://github.com/simonw/llm-cluster/releases/tag/0.1) - 2023-09-04
+
 [llm-sentence-transformers 0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
 
 [llm 0.9](https://github.com/simonw/llm/releases/tag/0.9) - 2023-09-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-auth-tokens 0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - 2023-08-31
 
 [paginate-json 1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - 2023-08-30
-
-[datasette 1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - 2023-08-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1318<!-- releases_count ends --> releases across <!-- project_count starts -->219<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1319<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.1](https://github.com/simonw/llm-cluster/releases/tag/0.1) - 2023-09-04
+<br />LLM plugin for clustering embeddings
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm](https://github.com/simonw/llm)**: [0.9](https://github.com/simonw/llm/releases/tag/0.9) - ([15 releases total](https://github.com/simonw/llm/releases)) - 2023-09-04
