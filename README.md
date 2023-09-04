@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-cluster 0.1](https://github.com/simonw/llm-cluster/releases/tag/0.1) - 2023-09-04
+[llm-cluster 0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - 2023-09-04
 
 [llm-sentence-transformers 0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
 
