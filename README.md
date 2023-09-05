@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - 2023-09-05
+
 [llm-cluster 0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - 2023-09-04
 
 [llm-sentence-transformers 0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
-
-[llm 0.9](https://github.com/simonw/llm/releases/tag/0.9) - 2023-09-04
 
 [sqlite-migrate 0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - 2023-09-03
 
