@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[symbex 1.4](https://github.com/simonw/symbex/releases/tag/1.4) - 2023-09-05
+
 [llm 0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - 2023-09-05
 
 [llm-cluster 0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - 2023-09-04
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
 
 [sqlite-migrate 0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - 2023-09-03
-
-[symbex 1.3.1](https://github.com/simonw/symbex/releases/tag/1.3.1) - 2023-09-02
 
 [sqlite-utils-move-tables 0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 

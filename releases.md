@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1321<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1322<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
+<br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - ([16 releases total](https://github.com/simonw/llm/releases)) - 2023-09-05
 <br />Access large language models from the command-line
 * **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1321<!-- releases_count ends --> releases 
 <br />LLM plugin for embeddings using sentence-transformers
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-09-03
 <br />A simple database migration system for SQLite, based on sqlite-utils
-* **[symbex](https://github.com/simonw/symbex)**: [1.3.1](https://github.com/simonw/symbex/releases/tag/1.3.1) - ([17 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-02
-<br />Find the Python code for specified symbols
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <br />sqlite-utils plugin adding a move-tables command
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - ([11 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-31
