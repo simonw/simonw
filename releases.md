@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1322<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1323<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a0) - ([13 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-06
+<br />Datasette plugin for modifying table schemas
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - ([16 releases total](https://github.com/simonw/llm/releases)) - 2023-09-05
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1322<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.5.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3) - ([12 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-08-18
-<br />Datasette plugin for modifying table schemas
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - ([110 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-08-18
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
