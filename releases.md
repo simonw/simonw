@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1325<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1326<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
+<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - ([15 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-07
 <br />Datasette plugin for modifying table schemas
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
@@ -105,8 +107,6 @@ Listing <!-- releases_count starts -->1325<!-- releases_count ends --> releases 
 <br />Tiny Datasette plugin to disable text truncation in table displays
 * **[datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)**: [0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
 <br />A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
-* **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [2.2](https://github.com/simonw/datasette-graphql/releases/tag/2.2) - ([38 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-03-23
-<br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
 <br />Datasette plugin that adds a .atom output format
 * **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-simple-html/releases)) - 2023-03-12
