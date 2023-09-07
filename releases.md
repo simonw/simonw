@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1324<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1325<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a1) - ([14 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-06
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - ([15 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-07
 <br />Datasette plugin for modifying table schemas
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols

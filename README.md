@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-edit-schema 0.6a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a1) - 2023-09-06
+[datasette-edit-schema 0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - 2023-09-07
 
 [symbex 1.4](https://github.com/simonw/symbex/releases/tag/1.4) - 2023-09-05
 
