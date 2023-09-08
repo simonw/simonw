@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-remote-actors 0.1a0](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0) - 2023-09-08
+
 [datasette-graphql 3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - 2023-09-07
 
 [datasette-edit-schema 0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - 2023-09-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
 
 [sqlite-migrate 0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - 2023-09-03
-
-[sqlite-utils-move-tables 0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

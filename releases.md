@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1326<!-- releases_count ends --> releases across <!-- project_count starts -->220<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1327<!-- releases_count ends --> releases across <!-- project_count starts -->221<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a0](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0) - 2023-09-08
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - ([15 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-07
