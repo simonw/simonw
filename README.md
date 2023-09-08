@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Embedding paragraphs from my blog with E5-large-v2](https://til.simonwillison.net/llms/embed-paragraphs) - 2023-09-08
+
 [Running Datasette on Hugging Face Spaces](https://til.simonwillison.net/datasette/hugging-face-spaces) - 2023-09-08
 
 [Remember to commit when using datasette.execute\_write\_fn()](https://til.simonwillison.net/datasette/remember-to-commit) - 2023-08-31
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Downloading partial YouTube videos with ffmpeg](https://til.simonwillison.net/macos/downloading-partial-youtube-videos) - 2023-08-26
 
 [Compile and run a new SQLite version with the existing sqlite3 Python library on macOS](https://til.simonwillison.net/sqlite/sqlite-version-macos-python) - 2023-08-22
-
-[Configuring Django SQL Dashboard for Fly PostgreSQL](https://til.simonwillison.net/fly/django-sql-dashboard) - 2023-08-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
