@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1328<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1329<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - ([130 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-08
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a0) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a0](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0) - 2023-09-08
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1328<!-- releases_count ends --> releases 
 <br />Datasette plugin for authenticating access using API tokens
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-30
 <br />Command-line tool for fetching JSON from paginated APIs
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a5](https://github.com/simonw/datasette/releases/tag/1.0a5) - ([129 releases total](https://github.com/simonw/datasette/releases)) - 2023-08-29
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-08-25
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - ([4 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2023-08-24
