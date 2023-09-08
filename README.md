@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Datasette on Hugging Face Spaces](https://til.simonwillison.net/datasette/hugging-face-spaces) - 2023-09-08
+
 [Remember to commit when using datasette.execute\_write\_fn()](https://til.simonwillison.net/datasette/remember-to-commit) - 2023-08-31
 
 [Streaming output of an indented JSON array](https://til.simonwillison.net/json/streaming-indented-json-array) - 2023-08-30
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Compile and run a new SQLite version with the existing sqlite3 Python library on macOS](https://til.simonwillison.net/sqlite/sqlite-version-macos-python) - 2023-08-22
 
 [Configuring Django SQL Dashboard for Fly PostgreSQL](https://til.simonwillison.net/fly/django-sql-dashboard) - 2023-08-22
-
-[Calculating the size of a SQLite database file using SQL](https://til.simonwillison.net/sqlite/database-file-size) - 2023-08-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
