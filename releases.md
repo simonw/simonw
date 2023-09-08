@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1331<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1332<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-08
+<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-08
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1331<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
 <br />LLM plugin for clustering embeddings
-* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1) - 2023-09-04
-<br />LLM plugin for embeddings using sentence-transformers
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-09-03
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
