@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1329<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1331<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
+<br />Datasette plugin for trying out the actors_from_ids hook
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-08
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - ([130 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-08
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a0) - 2023-09-08
-<br />Datasette plugin for trying out the actors_from_ids hook
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a0](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0) - 2023-09-08
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - ([15 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-07

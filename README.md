@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-debug-actors-from-ids 0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - 2023-09-08
+
+[datasette-remote-actors 0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - 2023-09-08
+
 [datasette 1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - 2023-09-08
-
-[datasette-debug-actors-from-ids 0.1a0](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a0) - 2023-09-08
-
-[datasette-remote-actors 0.1a0](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0) - 2023-09-08
 
 [datasette-graphql 3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - 2023-09-07
 
