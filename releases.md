@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1332<!-- releases_count ends --> releases across <!-- project_count starts -->222<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1333<!-- releases_count ends --> releases across <!-- project_count starts -->223<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.1a0](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0) - 2023-09-08
+<br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-08
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
