@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1333<!-- releases_count ends --> releases across <!-- project_count starts -->223<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1334<!-- releases_count ends --> releases across <!-- project_count starts -->223<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6) - ([16 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-09
+<br />Datasette plugin for modifying table schemas
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.1a0](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0) - 2023-09-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-08
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1333<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - ([15 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-07
-<br />Datasette plugin for modifying table schemas
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols
 * **[llm](https://github.com/simonw/llm)**: [0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - ([16 releases total](https://github.com/simonw/llm/releases)) - 2023-09-05

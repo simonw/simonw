@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-edit-schema 0.6](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6) - 2023-09-09
+
 [datasette-llm-embed 0.1a0](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0) - 2023-09-08
 
 [llm-sentence-transformers 0.1.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1) - 2023-09-08
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette 1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - 2023-09-08
 
 [datasette-graphql 3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - 2023-09-07
-
-[datasette-edit-schema 0.6a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2) - 2023-09-07
 
 [symbex 1.4](https://github.com/simonw/symbex/releases/tag/1.4) - 2023-09-05
 <!-- recent_releases ends -->
