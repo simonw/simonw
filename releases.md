@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1334<!-- releases_count ends --> releases across <!-- project_count starts -->223<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1335<!-- releases_count ends --> releases across <!-- project_count starts -->223<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - ([111 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-09-09
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.6](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6) - ([16 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-09-09
 <br />Datasette plugin for modifying table schemas
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.1a0](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0) - 2023-09-08
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->1334<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35](https://github.com/simonw/sqlite-utils/releases/tag/3.35) - ([110 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-08-18
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
 <br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
