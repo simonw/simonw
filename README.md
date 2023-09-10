@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[blip-caption 0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
+
 [sqlite-utils 3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - 2023-09-09
 
 [datasette-edit-schema 0.6](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6) - 2023-09-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-remote-actors 0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - 2023-09-08
 
 [datasette 1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - 2023-09-08
-
-[datasette-graphql 3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - 2023-09-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
