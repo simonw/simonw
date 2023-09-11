@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1337<!-- releases_count ends --> releases across <!-- project_count starts -->225<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1338<!-- releases_count ends --> releases across <!-- project_count starts -->225<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
+<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
@@ -279,8 +281,6 @@ Listing <!-- releases_count starts -->1337<!-- releases_count ends --> releases 
 <br />Prettier formatting for ?_trace=1 traces
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.17.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2) - ([20 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2021-12-07
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
