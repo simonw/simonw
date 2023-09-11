@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-chronicle 0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
+
 [blip-caption 0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 
 [sqlite-utils 3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - 2023-09-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-debug-actors-from-ids 0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - 2023-09-08
 
 [datasette-remote-actors 0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - 2023-09-08
-
-[datasette 1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - 2023-09-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

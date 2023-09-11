@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1336<!-- releases_count ends --> releases across <!-- project_count starts -->224<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1337<!-- releases_count ends --> releases across <!-- project_count starts -->225<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
+<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 <br />Generate captions for images with Salesforce BLIP
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - ([111 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-09-09
