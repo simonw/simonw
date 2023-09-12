@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1338<!-- releases_count ends --> releases across <!-- project_count starts -->225<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1339<!-- releases_count ends --> releases across <!-- project_count starts -->225<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.10a1](https://github.com/simonw/llm/releases/tag/0.10a1) - ([17 releases total](https://github.com/simonw/llm/releases)) - 2023-09-12
+<br />Access large language models from the command-line
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1338<!-- releases_count ends --> releases 
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols
-* **[llm](https://github.com/simonw/llm)**: [0.10a0](https://github.com/simonw/llm/releases/tag/0.10a0) - ([16 releases total](https://github.com/simonw/llm/releases)) - 2023-09-05
-<br />Access large language models from the command-line
 * **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
 <br />LLM plugin for clustering embeddings
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1a2](https://github.com/simonw/sqlite-migrate/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-09-03
