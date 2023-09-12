@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1340<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1342<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1a0](https://github.com/simonw/llm-clip/releases/tag/0.1a0) - 2023-09-12
+* **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
 <br />Generate embeddings for images and text using CLIP with LLM
-* **[llm](https://github.com/simonw/llm)**: [0.10a1](https://github.com/simonw/llm/releases/tag/0.10a1) - ([17 releases total](https://github.com/simonw/llm/releases)) - 2023-09-12
+* **[llm](https://github.com/simonw/llm)**: [0.10](https://github.com/simonw/llm/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/llm/releases)) - 2023-09-12
 <br />Access large language models from the command-line
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns

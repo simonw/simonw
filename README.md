@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-clip 0.1a0](https://github.com/simonw/llm-clip/releases/tag/0.1a0) - 2023-09-12
+[llm-clip 0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - 2023-09-12
 
-[llm 0.10a1](https://github.com/simonw/llm/releases/tag/0.10a1) - 2023-09-12
+[llm 0.10](https://github.com/simonw/llm/releases/tag/0.10) - 2023-09-12
 
 [datasette-cluster-map 0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - 2023-09-11
 
