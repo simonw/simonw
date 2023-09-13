@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using llama-cpp-python grammars to generate JSON](https://til.simonwillison.net/llms/llama-cpp-python-grammars) - 2023-09-13
+
 [Trying out cr-sqlite on macOS](https://til.simonwillison.net/sqlite/cr-sqlite-macos) - 2023-09-13
 
 [Summarizing Hacker News discussion themes with Claude and LLM](https://til.simonwillison.net/llms/claude-hacker-news-themes) - 2023-09-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Datasette on Hugging Face Spaces](https://til.simonwillison.net/datasette/hugging-face-spaces) - 2023-09-08
 
 [Remember to commit when using datasette.execute\_write\_fn()](https://til.simonwillison.net/datasette/remember-to-commit) - 2023-08-31
-
-[Streaming output of an indented JSON array](https://til.simonwillison.net/json/streaming-indented-json-array) - 2023-08-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
