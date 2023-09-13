@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1342<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1343<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-13
+<br />LLM plugin for embeddings using sentence-transformers
 * **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
 <br />Generate embeddings for images and text using CLIP with LLM
 * **[llm](https://github.com/simonw/llm)**: [0.10](https://github.com/simonw/llm/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/llm/releases)) - 2023-09-12
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1342<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.1a0](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0) - 2023-09-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
-* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-08
-<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-08
