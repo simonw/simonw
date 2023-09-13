@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Trying out cr-sqlite on macOS](https://til.simonwillison.net/sqlite/cr-sqlite-macos) - 2023-09-13
+
 [Summarizing Hacker News discussion themes with Claude and LLM](https://til.simonwillison.net/llms/claude-hacker-news-themes) - 2023-09-09
 
 [Embedding paragraphs from my blog with E5-large-v2](https://til.simonwillison.net/llms/embed-paragraphs) - 2023-09-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Remember to commit when using datasette.execute\_write\_fn()](https://til.simonwillison.net/datasette/remember-to-commit) - 2023-08-31
 
 [Streaming output of an indented JSON array](https://til.simonwillison.net/json/streaming-indented-json-array) - 2023-08-30
-
-[Downloading partial YouTube videos with ffmpeg](https://til.simonwillison.net/macos/downloading-partial-youtube-videos) - 2023-08-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
