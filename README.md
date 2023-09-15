@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running tests against multiple versions of a Python dependency in GitHub Actions](https://til.simonwillison.net/github-actions/running-tests-against-multiple-verisons-of-dependencies) - 2023-09-15
+
 [Using llama-cpp-python grammars to generate JSON](https://til.simonwillison.net/llms/llama-cpp-python-grammars) - 2023-09-13
 
 [Trying out cr-sqlite on macOS](https://til.simonwillison.net/sqlite/cr-sqlite-macos) - 2023-09-13
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Embedding paragraphs from my blog with E5-large-v2](https://til.simonwillison.net/llms/embed-paragraphs) - 2023-09-08
 
 [Running Datasette on Hugging Face Spaces](https://til.simonwillison.net/datasette/hugging-face-spaces) - 2023-09-08
-
-[Remember to commit when using datasette.execute\_write\_fn()](https://til.simonwillison.net/datasette/remember-to-commit) - 2023-08-31
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
