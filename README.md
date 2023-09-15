@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-export-notebook 1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - 2023-09-15
+
 [llm-sentence-transformers 0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - 2023-09-13
 
 [llm-clip 0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - 2023-09-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [blip-caption 0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 
 [sqlite-utils 3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - 2023-09-09
-
-[datasette-edit-schema 0.6](https://github.com/simonw/datasette-edit-schema/releases/tag/0.6) - 2023-09-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

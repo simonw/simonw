@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1343<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1344<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
+<br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-13
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
@@ -331,8 +333,6 @@ Listing <!-- releases_count starts -->1343<!-- releases_count ends --> releases 
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2](https://github.com/simonw/datasette-haversine/releases/tag/0.2) - 2021-07-28
 <br />Datasette plugin that adds a custom SQL function for haversine distances
-* **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2021-07-17
-<br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
