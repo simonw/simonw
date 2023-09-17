@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Embeddings, more embeddings and Datasette Cloud](http://simonwillison.net/2023/Sep/17/weeknotes-embeddings/) - 2023-09-17
+
 [Build an image search engine with llm-clip, chat with models with llm chat](http://simonwillison.net/2023/Sep/12/llm-clip-and-chat/) - 2023-09-12
 
 [LLM now provides tools for working with embeddings](http://simonwillison.net/2023/Sep/4/llm-embeddings/) - 2023-09-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Making Large Language Models work for you](http://simonwillison.net/2023/Aug/27/wordcamp-llms/) - 2023-08-27
 
 [Datasette Cloud, Datasette 1.0a3, llm-mlc and more](http://simonwillison.net/2023/Aug/16/datasette-cloud-weeknotes/) - 2023-08-16
-
-[How I make annotated presentations](http://simonwillison.net/2023/Aug/6/annotated-presentations/) - 2023-08-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
