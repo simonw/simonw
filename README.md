@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-mask-columns 0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - 2023-09-20
+
 [llm 0.11](https://github.com/simonw/llm/releases/tag/0.11) - 2023-09-19
 
 [datasette-export-notebook 1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - 2023-09-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-chronicle 0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
 
 [blip-caption 0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
-
-[sqlite-utils 3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - 2023-09-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

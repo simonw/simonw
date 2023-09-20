@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1345<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1346<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
+<br />Datasette plugin that masks specified database columns
 * **[llm](https://github.com/simonw/llm)**: [0.11](https://github.com/simonw/llm/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/llm/releases)) - 2023-09-19
 <br />Access large language models from the command-line
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
@@ -343,8 +345,6 @@ Listing <!-- releases_count starts -->1345<!-- releases_count ends --> releases 
 <br />Utility for converting YAML files to SQLite
 * **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
 <br />CLI tool for loading markdown files into a SQLite database
-* **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.1](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2021-06-10
-<br />Datasette plugin that masks specified database columns
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11
