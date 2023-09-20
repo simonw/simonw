@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1346<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1347<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
+<br />Upload SQLite database files to Datasette
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[llm](https://github.com/simonw/llm)**: [0.11](https://github.com/simonw/llm/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/llm/releases)) - 2023-09-19
@@ -69,8 +71,6 @@ Listing <!-- releases_count starts -->1346<!-- releases_count ends --> releases 
 <br />Tools for building SQLite databases from files and directories
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 <br />Plugin adding a jq() SQL function to sqlite-utils
-* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-08-10
-<br />Upload SQLite database files to Datasette
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
 <br />LLM plugin for running models using llama.cpp
 * **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
