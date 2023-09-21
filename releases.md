@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1347<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1348<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.4](https://github.com/simonw/datasette/releases/tag/0.64.4) - ([131 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-21
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
 <br />Upload SQLite database files to Datasette
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1347<!-- releases_count ends --> releases 
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-08
 <br />Datasette plugin for fetching details of actors from a remote endpoint
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a6](https://github.com/simonw/datasette/releases/tag/1.0a6) - ([130 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-08
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05

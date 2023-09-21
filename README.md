@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.64.4](https://github.com/simonw/datasette/releases/tag/0.64.4) - 2023-09-21
+
 [datasette-upload-dbs 0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - 2023-09-20
 
 [datasette-mask-columns 0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - 2023-09-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-clip 0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - 2023-09-12
 
 [datasette-cluster-map 0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - 2023-09-11
-
-[sqlite-chronicle 0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
