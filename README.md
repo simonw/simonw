@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-llama-cpp 0.2b0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b0) - 2023-09-22
+
 [datasette 1.0a7](https://github.com/simonw/datasette/releases/tag/1.0a7) - 2023-09-21
 
 [datasette-upload-dbs 0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - 2023-09-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - 2023-09-13
 
 [llm-clip 0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - 2023-09-12
-
-[datasette-cluster-map 0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - 2023-09-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

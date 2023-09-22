@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1349<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1350<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b0) - ([2 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-22
+<br />LLM plugin for running models using llama.cpp
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a7](https://github.com/simonw/datasette/releases/tag/1.0a7) - ([132 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-21
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
@@ -71,8 +73,6 @@ Listing <!-- releases_count starts -->1349<!-- releases_count ends --> releases 
 <br />Tools for building SQLite databases from files and directories
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
 <br />Plugin adding a jq() SQL function to sqlite-utils
-* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.1a0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.1a0) - 2023-08-01
-<br />LLM plugin for running models using llama.cpp
 * **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
 <br />Interactive shell for sqlite-utils using litecli
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.1.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-07-25
