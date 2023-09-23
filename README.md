@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Trying out the facebook/musicgen-small sound generation model](https://til.simonwillison.net/machinelearning/musicgen) - 2023-09-23
+
 [Limited JSON API for Google searches using Programmable Search Engine](https://til.simonwillison.net/google/json-api-programmable-search-engine) - 2023-09-17
 
 [Running tests against multiple versions of a Python dependency in GitHub Actions](https://til.simonwillison.net/github-actions/running-tests-against-multiple-verisons-of-dependencies) - 2023-09-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Trying out cr-sqlite on macOS](https://til.simonwillison.net/sqlite/cr-sqlite-macos) - 2023-09-13
 
 [Summarizing Hacker News discussion themes with Claude and LLM](https://til.simonwillison.net/llms/claude-hacker-news-themes) - 2023-09-09
-
-[Embedding paragraphs from my blog with E5-large-v2](https://til.simonwillison.net/llms/embed-paragraphs) - 2023-09-08
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
