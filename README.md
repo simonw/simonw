@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg) - 2023-09-25
+
 [Trying out the facebook/musicgen-small sound generation model](https://til.simonwillison.net/machinelearning/musicgen) - 2023-09-23
 
 [Limited JSON API for Google searches using Programmable Search Engine](https://til.simonwillison.net/google/json-api-programmable-search-engine) - 2023-09-17
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using llama-cpp-python grammars to generate JSON](https://til.simonwillison.net/llms/llama-cpp-python-grammars) - 2023-09-13
 
 [Trying out cr-sqlite on macOS](https://til.simonwillison.net/sqlite/cr-sqlite-macos) - 2023-09-13
-
-[Summarizing Hacker News discussion themes with Claude and LLM](https://til.simonwillison.net/llms/claude-hacker-news-themes) - 2023-09-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
