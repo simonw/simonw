@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1350<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1351<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
+<br />Datasette plugin for authenticating access using API tokens
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b0) - ([2 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-22
 <br />LLM plugin for running models using llama.cpp
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a7](https://github.com/simonw/datasette/releases/tag/1.0a7) - ([132 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-21
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->1350<!-- releases_count ends --> releases 
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <br />sqlite-utils plugin adding a move-tables command
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a3](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3) - ([11 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-08-31
-<br />Datasette plugin for authenticating access using API tokens
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-30
 <br />Command-line tool for fetching JSON from paginated APIs
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-08-25
