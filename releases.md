@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1351<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1352<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - ([3 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-28
+<br />LLM plugin for running models using llama.cpp
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
 <br />Datasette plugin for authenticating access using API tokens
-* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b0](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b0) - ([2 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-22
-<br />LLM plugin for running models using llama.cpp
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a7](https://github.com/simonw/datasette/releases/tag/1.0a7) - ([132 releases total](https://github.com/simonw/datasette/releases)) - 2023-09-21
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
