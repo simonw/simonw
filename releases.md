@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1352<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1353<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - ([3 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-28
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1352<!-- releases_count ends --> releases 
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a1](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-08
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
