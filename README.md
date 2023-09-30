@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Understanding the CSS auto-resizing textarea trick](https://til.simonwillison.net/css/resizing-textarea) - 2023-09-30
+
 [Snapshot testing with Syrupy](https://til.simonwillison.net/pytest/syrupy) - 2023-09-26
 
 [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg) - 2023-09-25
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Limited JSON API for Google searches using Programmable Search Engine](https://til.simonwillison.net/google/json-api-programmable-search-engine) - 2023-09-17
 
 [Running tests against multiple versions of a Python dependency in GitHub Actions](https://til.simonwillison.net/github-actions/running-tests-against-multiple-verisons-of-dependencies) - 2023-09-15
-
-[Using llama-cpp-python grammars to generate JSON](https://til.simonwillison.net/llms/llama-cpp-python-grammars) - 2023-09-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
