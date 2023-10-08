@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - 2023-10-08
+
 [datasette-llm-embed 0.1](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1) - 2023-10-08
 
 [datasette-remote-actors 0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - 2023-09-28
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-llama-cpp 0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - 2023-09-28
 
 [datasette-auth-tokens 0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - 2023-09-26
-
-[datasette 1.0a7](https://github.com/simonw/datasette/releases/tag/1.0a7) - 2023-09-21
 
 [datasette-upload-dbs 0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - 2023-09-20
 
