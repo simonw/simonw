@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-llm-embed 0.1a1](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a1) - 2023-10-08
+[datasette-llm-embed 0.1](https://github.com/simonw/datasette-llm-embed/releases/tag/0.1) - 2023-10-08
 
 [datasette-remote-actors 0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - 2023-09-28
 
