@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Open questions for AI engineering](http://simonwillison.net/2023/Oct/17/open-questions/) - 2023-10-17
+
 [Multi-modal prompt injection image attacks against GPT-4V](http://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) - 2023-10-14
 
 [Weeknotes: the Datasette Cloud API, a podcast appearance and more](http://simonwillison.net/2023/Oct/1/datasette-cloud-api/) - 2023-10-01
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Talking Large Language Models with Rooftop Ruby](http://simonwillison.net/2023/Sep/29/llms-podcast/) - 2023-09-29
 
 [Weeknotes: Embeddings, more embeddings and Datasette Cloud](http://simonwillison.net/2023/Sep/17/weeknotes-embeddings/) - 2023-09-17
-
-[Build an image search engine with llm-clip, chat with models with llm chat](http://simonwillison.net/2023/Sep/12/llm-clip-and-chat/) - 2023-09-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
