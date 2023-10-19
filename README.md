@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Deploying the CLIP embedding model on Fly](https://til.simonwillison.net/fly/clip-on-fly) - 2023-10-18
+
 [Understanding the CSS auto-resizing textarea trick](https://til.simonwillison.net/css/resizing-textarea) - 2023-09-30
 
 [Snapshot testing with Syrupy](https://til.simonwillison.net/pytest/syrupy) - 2023-09-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Trying out the facebook/musicgen-small sound generation model](https://til.simonwillison.net/machinelearning/musicgen) - 2023-09-23
 
 [Limited JSON API for Google searches using Programmable Search Engine](https://til.simonwillison.net/google/json-api-programmable-search-engine) - 2023-09-17
-
-[Running tests against multiple versions of a Python dependency in GitHub Actions](https://til.simonwillison.net/github-actions/running-tests-against-multiple-verisons-of-dependencies) - 2023-09-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
