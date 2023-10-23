@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Embeddings: What they are and why they matter](http://simonwillison.net/2023/Oct/23/embeddings/) - 2023-10-23
+
 [Weeknotes: PyBay, AI Engineer Summit, Datasette metadata and JavaScript plugins](http://simonwillison.net/2023/Oct/22/weeknotes/) - 2023-10-22
 
 [Open questions for AI engineering](http://simonwillison.net/2023/Oct/17/open-questions/) - 2023-10-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: the Datasette Cloud API, a podcast appearance and more](http://simonwillison.net/2023/Oct/1/datasette-cloud-api/) - 2023-10-01
 
 [Things I've learned about building CLI tools in Python](http://simonwillison.net/2023/Sep/30/cli-tools-python/) - 2023-09-30
-
-[Talking Large Language Models with Rooftop Ruby](http://simonwillison.net/2023/Sep/29/llms-podcast/) - 2023-09-29
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
