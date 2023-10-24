@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gpt4all 0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - 2023-10-24
+
 [datasette-llm-embed 0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - 2023-10-08
 
 [datasette 0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - 2023-10-08
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-upload-dbs 0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - 2023-09-20
 
 [datasette-mask-columns 0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - 2023-09-20
-
-[llm 0.11](https://github.com/simonw/llm/releases/tag/0.11) - 2023-09-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

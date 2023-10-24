@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1357<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1358<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-10-24
+<br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - ([133 releases total](https://github.com/simonw/datasette/releases)) - 2023-10-08
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->1357<!-- releases_count ends --> releases 
 <br />Plugin adding a jq() SQL function to sqlite-utils
 * **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
 <br />Interactive shell for sqlite-utils using litecli
-* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.1.1](https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-07-25
-<br />Plugin for LLM adding support for the GPT4All collection of models
 * **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
 <br />A client CLI utility for Datasette instances
 * **[asgi-replay](https://github.com/simonw/asgi-replay)**: [0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
