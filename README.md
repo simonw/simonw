@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
+
 [Serving a JavaScript project built using Vite from GitHub Pages](https://til.simonwillison.net/github-actions/vite-github-pages) - 2023-10-24
 
 [Deploying the CLIP embedding model on Fly](https://til.simonwillison.net/fly/clip-on-fly) - 2023-10-18
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Snapshot testing with Syrupy](https://til.simonwillison.net/pytest/syrupy) - 2023-09-26
 
 [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg) - 2023-09-25
-
-[Trying out the facebook/musicgen-small sound generation model](https://til.simonwillison.net/machinelearning/musicgen) - 2023-09-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
