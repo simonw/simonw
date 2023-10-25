@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1358<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1359<!-- releases_count ends --> releases across <!-- project_count starts -->226<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
+<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-10-24
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->1358<!-- releases_count ends --> releases 
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
 <br />Datasette plugin for enabling full-text search against selected table columns
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.1](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1) - ([14 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-08-21
-<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
 <br />Datasette plugin for publishing data using Fly
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
