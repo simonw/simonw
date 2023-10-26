@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Now add a walrus: Prompt engineering in DALL-E 3](http://simonwillison.net/2023/Oct/26/add-a-walrus/) - 2023-10-26
+
 [Execute Jina embeddings with a CLI using llm-embed-jina](http://simonwillison.net/2023/Oct/26/llm-embed-jina/) - 2023-10-26
 
 [Embeddings: What they are and why they matter](http://simonwillison.net/2023/Oct/23/embeddings/) - 2023-10-23
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Open questions for AI engineering](http://simonwillison.net/2023/Oct/17/open-questions/) - 2023-10-17
 
 [Multi-modal prompt injection image attacks against GPT-4V](http://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) - 2023-10-14
-
-[Weeknotes: the Datasette Cloud API, a podcast appearance and more](http://simonwillison.net/2023/Oct/1/datasette-cloud-api/) - 2023-10-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
