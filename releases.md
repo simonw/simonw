@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1361<!-- releases_count ends --> releases across <!-- project_count starts -->227<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1362<!-- releases_count ends --> releases across <!-- project_count starts -->227<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1](https://github.com/simonw/llm-embed-jina/releases/tag/0.1) - 2023-10-26
+* **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.1](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7) - ([17 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-10-26
 <br />Datasette plugin for modifying table schemas
