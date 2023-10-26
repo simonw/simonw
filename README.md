@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-embed-jina 0.1.1](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.1) - 2023-10-26
+[llm-embed-jina 0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - 2023-10-26
 
 [datasette-edit-schema 0.7](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7) - 2023-10-26
 
