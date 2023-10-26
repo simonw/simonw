@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-embed-jina 0.1](https://github.com/simonw/llm-embed-jina/releases/tag/0.1) - 2023-10-26
+
+[datasette-edit-schema 0.7](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7) - 2023-10-26
+
 [datasette-ripgrep 0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - 2023-10-25
 
 [llm-gpt4all 0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - 2023-10-24
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-remote-actors 0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - 2023-09-28
 
 [llm-llama-cpp 0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - 2023-09-28
-
-[datasette-auth-tokens 0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - 2023-09-26
-
-[datasette-upload-dbs 0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - 2023-09-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
