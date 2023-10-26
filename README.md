@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Execute Jina embeddings with a CLI using llm-embed-jina](http://simonwillison.net/2023/Oct/26/llm-embed-jina/) - 2023-10-26
+
 [Embeddings: What they are and why they matter](http://simonwillison.net/2023/Oct/23/embeddings/) - 2023-10-23
 
 [Weeknotes: PyBay, AI Engineer Summit, Datasette metadata and JavaScript plugins](http://simonwillison.net/2023/Oct/22/weeknotes/) - 2023-10-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Multi-modal prompt injection image attacks against GPT-4V](http://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) - 2023-10-14
 
 [Weeknotes: the Datasette Cloud API, a podcast appearance and more](http://simonwillison.net/2023/Oct/1/datasette-cloud-api/) - 2023-10-01
-
-[Things I've learned about building CLI tools in Python](http://simonwillison.net/2023/Sep/30/cli-tools-python/) - 2023-09-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
