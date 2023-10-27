@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[A simple two column CSS grid](https://til.simonwillison.net/css/simple-two-column-grid) - 2023-10-27
+
 [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
 
 [Serving a JavaScript project built using Vite from GitHub Pages](https://til.simonwillison.net/github-actions/vite-github-pages) - 2023-10-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Understanding the CSS auto-resizing textarea trick](https://til.simonwillison.net/css/resizing-textarea) - 2023-09-30
 
 [Snapshot testing with Syrupy](https://til.simonwillison.net/pytest/syrupy) - 2023-09-26
-
-[Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg) - 2023-09-25
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
