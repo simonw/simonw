@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-migrate 0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - 2023-10-27
+
 [llm-python 0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
 
 [llm-embed-jina 0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - 2023-10-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-llm-embed 0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - 2023-10-08
 
 [datasette 0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - 2023-10-08
-
-[datasette-remote-actors 0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - 2023-09-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
