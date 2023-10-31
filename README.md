@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[DALL-E 3, GPT4All, PMTiles, sqlite-migrate, datasette-edit-schema](http://simonwillison.net/2023/Oct/30/weeknotes/) - 2023-10-30
+
 [Now add a walrus: Prompt engineering in DALL-E 3](http://simonwillison.net/2023/Oct/26/add-a-walrus/) - 2023-10-26
 
 [Execute Jina embeddings with a CLI using llm-embed-jina](http://simonwillison.net/2023/Oct/26/llm-embed-jina/) - 2023-10-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: PyBay, AI Engineer Summit, Datasette metadata and JavaScript plugins](http://simonwillison.net/2023/Oct/22/weeknotes/) - 2023-10-22
 
 [Open questions for AI engineering](http://simonwillison.net/2023/Oct/17/open-questions/) - 2023-10-17
-
-[Multi-modal prompt injection image attacks against GPT-4V](http://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) - 2023-10-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
