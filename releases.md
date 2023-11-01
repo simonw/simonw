@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1366<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1367<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
+<br />A command-line utility for taking automated screenshots of websites
 * **[llm](https://github.com/simonw/llm)**: [0.11.1](https://github.com/simonw/llm/releases/tag/0.11.1) - ([20 releases total](https://github.com/simonw/llm/releases)) - 2023-11-01
 <br />Access large language models from the command-line
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
@@ -115,8 +117,6 @@ Listing <!-- releases_count starts -->1366<!-- releases_count ends --> releases 
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
 <br />A tool for creating credentials for accessing S3 buckets
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.2](https://github.com/simonw/shot-scraper/releases/tag/1.2) - ([27 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-04-27
-<br />A command-line utility for taking automated screenshots of websites
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14

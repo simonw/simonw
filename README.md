@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - 2023-11-01
+
 [llm 0.11.1](https://github.com/simonw/llm/releases/tag/0.11.1) - 2023-11-01
 
 [sqlite-migrate 0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - 2023-10-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-ripgrep 0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - 2023-10-25
 
 [llm-gpt4all 0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - 2023-10-24
-
-[datasette-llm-embed 0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - 2023-10-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
