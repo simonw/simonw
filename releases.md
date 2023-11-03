@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1367<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-11-03
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm](https://github.com/simonw/llm)**: [0.11.1](https://github.com/simonw/llm/releases/tag/0.11.1) - ([20 releases total](https://github.com/simonw/llm/releases)) - 2023-11-01
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1367<!-- releases_count ends --> releases 
 <br />sqlite-utils plugin adding a move-tables command
 * **[paginate-json](https://github.com/simonw/paginate-json)**: [1.0](https://github.com/simonw/paginate-json/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/paginate-json/releases)) - 2023-08-30
 <br />Command-line tool for fetching JSON from paginated APIs
-* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.2](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-08-25
-<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - ([4 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2023-08-24
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
