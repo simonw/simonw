@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1369<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1370<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
+<br />Datasette plugin for modifying table schemas
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - ([112 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-11-04
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-11-03
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1369<!-- releases_count ends --> releases 
 <br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7) - ([17 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-10-26
-<br />Datasette plugin for modifying table schemas
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-10-24
