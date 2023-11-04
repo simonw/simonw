@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1369<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - ([112 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-11-04
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-11-03
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 <br />Generate captions for images with Salesforce BLIP
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.1](https://github.com/simonw/sqlite-utils/releases/tag/3.35.1) - ([111 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-09-09
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
