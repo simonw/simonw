@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1371<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1372<!-- releases_count ends --> releases across <!-- project_count starts -->228<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.11.2](https://github.com/simonw/llm/releases/tag/0.11.2) - ([21 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
+* **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
 <br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas

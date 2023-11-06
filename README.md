@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.11.2](https://github.com/simonw/llm/releases/tag/0.11.2) - 2023-11-06
+[llm 0.12](https://github.com/simonw/llm/releases/tag/0.12) - 2023-11-06
 
 [datasette-edit-schema 0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - 2023-11-04
 
