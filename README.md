@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.11.2](https://github.com/simonw/llm/releases/tag/0.11.2) - 2023-11-06
+
 [datasette-edit-schema 0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - 2023-11-04
 
 [sqlite-utils 3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - 2023-11-04
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-anyscale-endpoints 0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - 2023-11-03
 
 [shot-scraper 1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - 2023-11-01
-
-[llm 0.11.1](https://github.com/simonw/llm/releases/tag/0.11.1) - 2023-11-01
 
 [sqlite-migrate 0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - 2023-10-27
 
