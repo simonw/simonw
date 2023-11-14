@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet) - 2023-11-14
+
 [A simple two column CSS grid](https://til.simonwillison.net/css/simple-two-column-grid) - 2023-10-27
 
 [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Deploying the CLIP embedding model on Fly](https://til.simonwillison.net/fly/clip-on-fly) - 2023-10-18
 
 [Understanding the CSS auto-resizing textarea trick](https://til.simonwillison.net/css/resizing-textarea) - 2023-09-30
-
-[Snapshot testing with Syrupy](https://til.simonwillison.net/pytest/syrupy) - 2023-09-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
