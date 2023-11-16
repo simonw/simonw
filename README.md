@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-enrichments 0.1a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a1) - 2023-11-16
+[datasette-enrichments 0.1a2](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a2) - 2023-11-16
 
 [ospeak 0.2](https://github.com/simonw/ospeak/releases/tag/0.2) - 2023-11-07
 
