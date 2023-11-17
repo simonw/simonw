@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1377<!-- releases_count ends --> releases across <!-- project_count starts -->230<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1378<!-- releases_count ends --> releases across <!-- project_count starts -->230<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.1a2](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-16
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.1a3](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-17
 <br />Tools for running enrichments against data stored in Datasette
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.2](https://github.com/simonw/ospeak/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ospeak/releases)) - 2023-11-07
 <br />CLI tool for running text through OpenAI Text to speech
