@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Deciphering clues in a news article to understand how it was reported](http://simonwillison.net/2023/Nov/22/deciphering-clues/) - 2023-11-22
+
 [Exploring GPTs: ChatGPT in a trench coat?](http://simonwillison.net/2023/Nov/15/gpts/) - 2023-11-15
 
 [Financial sustainability for open source projects at GitHub Universe](http://simonwillison.net/2023/Nov/10/universe/) - 2023-11-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [DALL-E 3, GPT4All, PMTiles, sqlite-migrate, datasette-edit-schema](http://simonwillison.net/2023/Oct/30/weeknotes/) - 2023-10-30
 
 [Now add a walrus: Prompt engineering in DALL-E 3](http://simonwillison.net/2023/Oct/26/add-a-walrus/) - 2023-10-26
-
-[Execute Jina embeddings with a CLI using llm-embed-jina](http://simonwillison.net/2023/Oct/26/llm-embed-jina/) - 2023-10-26
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
