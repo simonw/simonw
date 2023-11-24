@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running pip install '.[docs]' on ReadTheDocs](https://til.simonwillison.net/readthedocs/pip-install-docs) - 2023-11-24
+
 [Cloning my voice with ElevenLabs](https://til.simonwillison.net/misc/voice-cloning) - 2023-11-16
 
 [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet) - 2023-11-14
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
 
 [Serving a JavaScript project built using Vite from GitHub Pages](https://til.simonwillison.net/github-actions/vite-github-pages) - 2023-10-24
-
-[Deploying the CLIP embedding model on Fly](https://til.simonwillison.net/fly/clip-on-fly) - 2023-10-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
