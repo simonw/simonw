@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I'm on the Newsroom Robots podcast, with thoughts on the OpenAI board](http://simonwillison.net/2023/Nov/25/newsroom-robots/) - 2023-11-25
+
 [Weeknotes: DevDay, GitHub Universe, OpenAI chaos](http://simonwillison.net/2023/Nov/22/weeknotes/) - 2023-11-22
 
 [Deciphering clues in a news article to understand how it was reported](http://simonwillison.net/2023/Nov/22/deciphering-clues/) - 2023-11-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Financial sustainability for open source projects at GitHub Universe](http://simonwillison.net/2023/Nov/10/universe/) - 2023-11-10
 
 [ospeak: a CLI tool for speaking text in the terminal via OpenAI](http://simonwillison.net/2023/Nov/7/ospeak/) - 2023-11-07
-
-[DALL-E 3, GPT4All, PMTiles, sqlite-migrate, datasette-edit-schema](http://simonwillison.net/2023/Oct/30/weeknotes/) - 2023-10-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
