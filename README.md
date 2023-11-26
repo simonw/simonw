@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Cryptography in Pyodide](https://til.simonwillison.net/pyodide/cryptography-in-pyodide) - 2023-11-26
+
 [Running pip install '.[docs]' on ReadTheDocs](https://til.simonwillison.net/readthedocs/pip-install-docs) - 2023-11-24
 
 [Cloning my voice with ElevenLabs](https://til.simonwillison.net/misc/voice-cloning) - 2023-11-16
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A simple two column CSS grid](https://til.simonwillison.net/css/simple-two-column-grid) - 2023-10-27
 
 [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
-
-[Serving a JavaScript project built using Vite from GitHub Pages](https://til.simonwillison.net/github-actions/vite-github-pages) - 2023-10-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
