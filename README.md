@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Prompt injection explained, November 2023 edition](http://simonwillison.net/2023/Nov/27/prompt-injection-explained/) - 2023-11-27
+
 [I'm on the Newsroom Robots podcast, with thoughts on the OpenAI board](http://simonwillison.net/2023/Nov/25/newsroom-robots/) - 2023-11-25
 
 [Weeknotes: DevDay, GitHub Universe, OpenAI chaos](http://simonwillison.net/2023/Nov/22/weeknotes/) - 2023-11-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Exploring GPTs: ChatGPT in a trench coat?](http://simonwillison.net/2023/Nov/15/gpts/) - 2023-11-15
 
 [Financial sustainability for open source projects at GitHub Universe](http://simonwillison.net/2023/Nov/10/universe/) - 2023-11-10
-
-[ospeak: a CLI tool for speaking text in the terminal via OpenAI](http://simonwillison.net/2023/Nov/7/ospeak/) - 2023-11-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
