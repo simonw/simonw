@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-pretty-json 0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - 2023-11-28
+
 [datasette-enrichments 1.0a6](https://github.com/datasette/datasette-enrichments/releases/tag/1.0a6) - 2023-11-28
 
 [datasette-sentry 0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - 2023-11-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - 2023-11-04
 
 [llm-anyscale-endpoints 0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - 2023-11-03
-
-[shot-scraper 1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - 2023-11-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
