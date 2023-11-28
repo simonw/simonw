@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1380<!-- releases_count ends --> releases across <!-- project_count starts -->230<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1381<!-- releases_count ends --> releases across <!-- project_count starts -->230<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.1a5](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-28
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
 <br />Datasette plugin for configuring Sentry
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.1a4](https://github.com/datasette/datasette-enrichments/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-20
-<br />Tools for running enrichments against data stored in Datasette
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.2](https://github.com/simonw/ospeak/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ospeak/releases)) - 2023-11-07
 <br />CLI tool for running text through OpenAI Text to speech
 * **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
