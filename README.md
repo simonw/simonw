@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/) - 2023-11-29
+
 [Prompt injection explained, November 2023 edition](http://simonwillison.net/2023/Nov/27/prompt-injection-explained/) - 2023-11-27
 
 [I'm on the Newsroom Robots podcast, with thoughts on the OpenAI board](http://simonwillison.net/2023/Nov/25/newsroom-robots/) - 2023-11-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Deciphering clues in a news article to understand how it was reported](http://simonwillison.net/2023/Nov/22/deciphering-clues/) - 2023-11-22
 
 [Exploring GPTs: ChatGPT in a trench coat?](http://simonwillison.net/2023/Nov/15/gpts/) - 2023-11-15
-
-[Financial sustainability for open source projects at GitHub Universe](http://simonwillison.net/2023/Nov/10/universe/) - 2023-11-10
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
