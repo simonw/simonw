@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1386<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1387<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
+<br />SQL statistics functions for Datasette
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
@@ -311,8 +313,6 @@ Listing <!-- releases_count starts -->1386<!-- releases_count ends --> releases 
 <br />JupyterLite as a Datasette plugin
 * **[datasette-notebook](https://github.com/simonw/datasette-notebook)**: [0.2a0](https://github.com/simonw/datasette-notebook/releases/tag/0.2a0) - ([4 releases total](https://github.com/simonw/datasette-notebook/releases)) - 2021-11-02
 <br />A markdown wiki and dashboarding system for Datasette
-* **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2](https://github.com/simonw/datasette-statistics/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2021-10-15
-<br />SQL statistics functions for Datasette
 * **[datasette-template-request](https://github.com/simonw/datasette-template-request)**: [0.1](https://github.com/simonw/datasette-template-request/releases/tag/0.1) - 2021-09-23
 <br />Expose the Datasette request object to custom templates
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
