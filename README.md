@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments-opencage 0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
+
 [datasette-enrichments 0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - 2023-11-29
 
 [datasette-pretty-json 0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - 2023-11-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-edit-schema 0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - 2023-11-04
 
 [sqlite-utils 3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - 2023-11-04
-
-[llm-anyscale-endpoints 0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - 2023-11-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

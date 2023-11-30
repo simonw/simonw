@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1385<!-- releases_count ends --> releases across <!-- project_count starts -->230<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1386<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
+<br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2023-11-28
