@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Grabbing a transcript of a short snippet of a YouTube video with MacWhisper](https://til.simonwillison.net/macos/quick-whisper-youtube) - 2023-12-01
+
 [Cryptography in Pyodide](https://til.simonwillison.net/pyodide/cryptography-in-pyodide) - 2023-11-26
 
 [Running pip install '.[docs]' on ReadTheDocs](https://til.simonwillison.net/readthedocs/pip-install-docs) - 2023-11-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet) - 2023-11-14
 
 [A simple two column CSS grid](https://til.simonwillison.net/css/simple-two-column-grid) - 2023-10-27
-
-[Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles) - 2023-10-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
