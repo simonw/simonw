@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Datasette Enrichments: a new plugin framework for augmenting your data](http://simonwillison.net/2023/Dec/1/datasette-enrichments/) - 2023-12-01
+
 [llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/) - 2023-11-29
 
 [Prompt injection explained, November 2023 edition](http://simonwillison.net/2023/Nov/27/prompt-injection-explained/) - 2023-11-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: DevDay, GitHub Universe, OpenAI chaos](http://simonwillison.net/2023/Nov/22/weeknotes/) - 2023-11-22
 
 [Deciphering clues in a news article to understand how it was reported](http://simonwillison.net/2023/Nov/22/deciphering-clues/) - 2023-11-22
-
-[Exploring GPTs: ChatGPT in a trench coat?](http://simonwillison.net/2023/Nov/15/gpts/) - 2023-11-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
