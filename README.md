@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-chronicle 0.2](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2) - 2023-12-06
+
 [datasette-statistics 0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - 2023-11-30
 
 [datasette-enrichments-opencage 0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [ospeak 0.2](https://github.com/simonw/ospeak/releases/tag/0.2) - 2023-11-07
 
 [llm 0.12](https://github.com/simonw/llm/releases/tag/0.12) - 2023-11-06
-
-[datasette-edit-schema 0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - 2023-11-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

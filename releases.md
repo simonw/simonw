@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1387<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1388<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
+<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
 <br />SQL statistics functions for Datasette
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->1387<!-- releases_count ends --> releases 
 <br />Generate embeddings for images and text using CLIP with LLM
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.1) - 2023-09-11
-<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 <br />Generate captions for images with Salesforce BLIP
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
