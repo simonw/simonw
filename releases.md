@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1388<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1389<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
 <br />SQL statistics functions for Datasette

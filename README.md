@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-chronicle 0.2](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2) - 2023-12-06
+[sqlite-chronicle 0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - 2023-12-06
 
 [datasette-statistics 0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - 2023-11-30
 
