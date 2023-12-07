@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1389<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1390<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
+<br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
@@ -395,8 +397,6 @@ Listing <!-- releases_count starts -->1389<!-- releases_count ends --> releases 
 <br />Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br />Datasette plugin for executing SQL queries from templates
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8) - ([6 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2021-01-26
-<br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
