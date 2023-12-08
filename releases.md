@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1339<!-- releases_count ends --> releases across <!-- project_count starts -->229<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
@@ -69,18 +69,8 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
 <br />Generate embeddings for images and text using CLIP with LLM
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[datasette-sqlite-trace](https://github.com/datasette/datasette-sqlite-trace)**: [0.1](https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1) - 2023-09-10
-<br />Datasette plugin that prints all executed SQL to stderr
-* **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
-<br />Generate captions for images with Salesforce BLIP
-* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
-<br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
-<br />Find the Python code for specified symbols
 * **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
 <br />LLM plugin for clustering embeddings
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
@@ -91,8 +81,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Command-line tool for fetching JSON from paginated APIs
 * **[datasette-jellyfish](https://github.com/simonw/datasette-jellyfish)**: [2.0](https://github.com/simonw/datasette-jellyfish/releases/tag/2.0) - ([4 releases total](https://github.com/simonw/datasette-jellyfish/releases)) - 2023-08-24
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
-* **[datasette-debug-permissions](https://github.com/datasette/datasette-debug-permissions)**: [0.2](https://github.com/datasette/datasette-debug-permissions/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-debug-permissions/releases)) - 2023-08-24
-<br />A Datasette plugin that outputs debug information about permission checks
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.2](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.2) - ([12 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2023-08-23
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
@@ -105,8 +93,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
 <br />LLM plugin for running models using MLC
-* **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
-<br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
 <br />Tools for building SQLite databases from files and directories
 * **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
@@ -129,8 +115,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding a Markov chain generating model
 * **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
 <br />Plugin for LLM adding support for Google's PaLM 2 model
-* **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
-<br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
@@ -395,8 +379,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Block all access to specific path prefixes
 * **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
 <br />Python class for reading and writing data to a GitHub repository
-* **[csv-diff](https://github.com/simonw/csv-diff)**: [1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - ([9 releases total](https://github.com/simonw/csv-diff/releases)) - 2021-02-23
-<br />Python CLI tool and library for diffing CSV and JSON files
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
 <br />Preview of new JSON default format for Datasette
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
