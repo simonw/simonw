@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1400<!-- releases_count ends --> releases across <!-- project_count starts -->235<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
@@ -27,8 +27,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
 <br />Datasette plugin for configuring Sentry
-* **[ospeak](https://github.com/simonw/ospeak)**: [0.2](https://github.com/simonw/ospeak/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ospeak/releases)) - 2023-11-07
-<br />CLI tool for running text through OpenAI Text to speech
 * **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
 <br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
@@ -53,8 +51,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
-* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - ([3 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-28
-<br />LLM plugin for running models using llama.cpp
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
@@ -269,8 +265,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
-* **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
-<br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
