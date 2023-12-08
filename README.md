@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-chronicle 0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - 2023-12-08
+
 [sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
 
 [datasette-leaflet-geojson 0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - 2023-12-07
-
-[datasette-chronicle 0.2](https://github.com/datasette/datasette-chronicle/releases/tag/0.2) - 2023-12-06
 
 [datasette-enrichments-jinja 0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - 2023-12-06
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-enrichments, datasette-comments, sqlite-chronicle](http://simonwillison.net/2023/Dec/8/weeknotes/) - 2023-12-08
+
 [Datasette Enrichments: a new plugin framework for augmenting your data](http://simonwillison.net/2023/Dec/1/datasette-enrichments/) - 2023-12-01
 
 [llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/) - 2023-11-29
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [I'm on the Newsroom Robots podcast, with thoughts on the OpenAI board](http://simonwillison.net/2023/Nov/25/newsroom-robots/) - 2023-11-25
 
 [Weeknotes: DevDay, GitHub Universe, OpenAI chaos](http://simonwillison.net/2023/Nov/22/weeknotes/) - 2023-11-22
-
-[Deciphering clues in a news article to understand how it was reported](http://simonwillison.net/2023/Nov/22/deciphering-clues/) - 2023-11-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
