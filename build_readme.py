@@ -9,8 +9,18 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
-
 TOKEN = os.environ.get("SIMONW_TOKEN", "")
+
+SKIP_REPOS = {
+    "playing-with-actions",
+    "simonw-readthedocs-experiments",
+    "datasette-comments",
+    "datasette-plot",
+    "datasette-write-ui",
+    "datasette-litestream",
+    "datasette-metadata-editable",
+    "datasette-short-links",
+}
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -24,42 +34,16 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-organization_graphql = """
-  organization(login: "dogsheep") {
-    repositories(first: 100, privacy: PUBLIC) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        name
-        description
-        url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
-    }
-  }
-"""
-
-
-def make_query(after_cursor=None, include_organization=False):
-    return """
+GRAPHQL_SEARCH_QUERY = """
 query {
-  ORGANIZATION
-  viewer {
-    repositories(first: 100, privacy: PUBLIC, after: AFTER) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    nodes {
+      __typename
+      ... on Repository {
         name
         description
         url
@@ -75,10 +59,12 @@ query {
     }
   }
 }
-""".replace(
+"""
+
+
+def make_query(after_cursor=None, include_organization=False):
+    return GRAPHQL_SEARCH_QUERY.replace(
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    ).replace(
-        "ORGANIZATION", organization_graphql if include_organization else "",
     )
 
 
@@ -86,7 +72,7 @@ def fetch_releases(oauth_token):
     repos = []
     releases = []
     # Skip these repos:
-    repo_names = {"playing-with-actions", "simonw-readthedocs-experiments"}
+    repo_names = set(SKIP_REPOS)
     has_next_page = True
     after_cursor = None
 
@@ -101,9 +87,7 @@ def fetch_releases(oauth_token):
         print()
         print(json.dumps(data, indent=4))
         print()
-        repo_nodes = data["data"]["viewer"]["repositories"]["nodes"]
-        if "organization" in data["data"]:
-            repo_nodes += data["data"]["organization"]["repositories"]["nodes"]
+        repo_nodes = data["data"]["search"]["nodes"]
         for repo in repo_nodes:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
@@ -124,7 +108,7 @@ def fetch_releases(oauth_token):
                         "total_releases": repo["releases"]["totalCount"],
                     }
                 )
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
     return releases
 
@@ -136,7 +120,10 @@ def fetch_tils():
     """.strip()
     return httpx.get(
         "https://til.simonwillison.net/tils.json",
-        params={"sql": sql, "_shape": "array",},
+        params={
+            "sql": sql,
+            "_shape": "array",
+        },
     ).json()
 
 
