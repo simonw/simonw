@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1405<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1406<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2](https://github.com/datasette/datasette-chronicle/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-06
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1405<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.35.2](https://github.com/simonw/sqlite-utils/releases/tag/3.35.2) - ([112 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-11-04
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-11-03
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01

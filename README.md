@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
+
 [datasette-leaflet-geojson 0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - 2023-12-07
 
 [datasette-chronicle 0.2](https://github.com/datasette/datasette-chronicle/releases/tag/0.2) - 2023-12-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-statistics 0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - 2023-11-30
 
 [datasette-enrichments-opencage 0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
-
-[datasette-enrichments-re2 0.1](https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1) - 2023-11-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
