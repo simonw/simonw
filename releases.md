@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1372<!-- releases_count ends --> releases across <!-- project_count starts -->235<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
@@ -69,6 +69,10 @@ Listing <!-- releases_count starts -->1372<!-- releases_count ends --> releases 
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
 <br />Generate embeddings for images and text using CLIP with LLM
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
+<br />Datasette plugin that shows a map for any data with latitude/longitude columns
+* **[datasette-sqlite-trace](https://github.com/datasette/datasette-sqlite-trace)**: [0.1](https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1) - 2023-09-10
+<br />Datasette plugin that prints all executed SQL to stderr
 * **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
 <br />Generate captions for images with Salesforce BLIP
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
@@ -317,6 +321,8 @@ Listing <!-- releases_count starts -->1372<!-- releases_count ends --> releases 
 <br />Save data from GitHub to a SQLite database
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
+* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
+<br />Convert CSV files into a SQLite database
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
 <br />The hello world of Datasette plugins
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
