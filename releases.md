@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
+<br />LLM plugin for running models using llama.cpp
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
 <br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1407<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
-* **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.2b1](https://github.com/simonw/llm-llama-cpp/releases/tag/0.2b1) - ([3 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-09-28
-<br />LLM plugin for running models using llama.cpp
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
