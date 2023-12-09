@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1382<!-- releases_count ends --> releases across <!-- project_count starts -->233<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
@@ -69,12 +69,6 @@ Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases 
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
 <br />Generate embeddings for images and text using CLIP with LLM
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[datasette-sqlite-trace](https://github.com/datasette/datasette-sqlite-trace)**: [0.1](https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1) - 2023-09-10
-<br />Datasette plugin that prints all executed SQL to stderr
-* **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
-<br />Generate captions for images with Salesforce BLIP
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
@@ -119,8 +113,6 @@ Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases 
 <br />Record and replay ASGI web page loads
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.2](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-07-24
 <br />Interactive shell for sqlite-utils
-* **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
-<br />Date utility functions for sqlite-utils
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
 <br />LLM plugin for models hosted on Replicate
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
@@ -129,8 +121,6 @@ Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding a Markov chain generating model
 * **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
 <br />Plugin for LLM adding support for Google's PaLM 2 model
-* **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
-<br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
