@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1409<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
+<br />Save data from GitHub to a SQLite database
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
@@ -317,8 +319,6 @@ Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases 
 <br />Stream a file or stdin one line at a time with a delay
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.8.3](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.8.3) - ([22 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2021-12-01
-<br />Save data from GitHub to a SQLite database
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
