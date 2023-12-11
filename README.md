@@ -8,8 +8,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [llm-llama-cpp 0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - 2023-12-09
 
-[datasette-chronicle 0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - 2023-12-08
-
 [sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
 
 [datasette-leaflet-geojson 0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - 2023-12-07
@@ -19,6 +17,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-chronicle 0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - 2023-12-06
 
 [datasette-enrichments-gpt 0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - 2023-12-01
+
+[datasette-statistics 0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - 2023-11-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
