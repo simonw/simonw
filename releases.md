@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1409<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1273<!-- releases_count ends --> releases across <!-- project_count starts -->236<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
@@ -17,8 +17,6 @@ Listing <!-- releases_count starts -->1409<!-- releases_count ends --> releases 
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
-* **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2023-12-01
-<br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
 <br />SQL statistics functions for Datasette
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
@@ -53,8 +51,6 @@ Listing <!-- releases_count starts -->1409<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - ([133 releases total](https://github.com/simonw/datasette/releases)) - 2023-10-08
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
