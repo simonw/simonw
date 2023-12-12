@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Editing an iPhone home screen using macOS](https://til.simonwillison.net/macos/edit-ios-home-screen) - 2023-12-12
+
 [Grabbing a transcript of a short snippet of a YouTube video with MacWhisper](https://til.simonwillison.net/macos/quick-whisper-youtube) - 2023-12-01
 
 [Cryptography in Pyodide](https://til.simonwillison.net/pyodide/cryptography-in-pyodide) - 2023-11-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Cloning my voice with ElevenLabs](https://til.simonwillison.net/misc/voice-cloning) - 2023-11-16
 
 [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet) - 2023-11-14
-
-[A simple two column CSS grid](https://til.simonwillison.net/css/simple-two-column-grid) - 2023-10-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
