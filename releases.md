@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
@@ -479,4 +479,6 @@ Listing <!-- releases_count starts -->1408<!-- releases_count ends --> releases 
 <br />Datasette plugin for working with Apple's binary plist format
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.3](https://github.com/simonw/asgi-cors/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
 <br />ASGI middleware for applying CORS headers to an ASGI application
+* **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
+<br />Datasette plugin for visualizing data using Vega
 <!-- recent_releases ends -->
