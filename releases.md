@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1409<!-- releases_count ends --> releases across <!-- project_count starts -->237<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
@@ -45,8 +45,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
 <br />A simple database migration system for SQLite, based on sqlite-utils
-* **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
-<br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
@@ -85,8 +83,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols
-* **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
-<br />LLM plugin for clustering embeddings
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <br />sqlite-utils plugin adding a move-tables command
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2023-08-30
