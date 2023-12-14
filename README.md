@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anyscale-endpoints 0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - 2023-12-14
+
 [llm-gemini 0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
 
 [ospeak 0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - 2023-12-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
 
 [datasette-leaflet-geojson 0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - 2023-12-07
-
-[datasette-enrichments-jinja 0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - 2023-12-06
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

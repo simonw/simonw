@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
 <br />LLM plugin to access Google's Gemini family of models
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas
-* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.3](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-11-03
-<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
 <br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
