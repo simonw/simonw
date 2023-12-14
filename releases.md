@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1347<!-- releases_count ends --> releases across <!-- project_count starts -->231<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
@@ -31,8 +31,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-enrichments-re2](https://github.com/datasette/datasette-enrichments-re2)**: [0.1](https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-re2/releases)) - 2023-11-30
 <br />Enrich data using regular expressions powered by re2
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2023-11-28
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
@@ -41,8 +39,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
-<br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
@@ -273,14 +269,8 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
-* **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
-<br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
-* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
-<br />Datasette plugin that authenticates users based on existing domain cookies
-* **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
-<br />Create a SQLite database containing your data from Google Calendar
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
 <br />Copy database files into an in-memory database on startup
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-28
@@ -405,8 +395,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br />Download map tiles and store them in an MBTiles database
-* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
-<br />Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
@@ -415,10 +403,6 @@ Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases 
 <br />Datasette plugin for executing SQL queries from templates
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
-* **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
-<br />Experimental plugin that adds a column inspector
-* **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
-<br />Statistical visualizations for Datasette using Seaborn
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br />Export Datasette records as YAML
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
