@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1415<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1392<!-- releases_count ends --> releases across <!-- project_count starts -->237<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
@@ -273,16 +273,10 @@ Listing <!-- releases_count starts -->1415<!-- releases_count ends --> releases 
 <br />Datasette plugin that redirects all non-https requests to https
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
 <br />Datasette plugin to expose some environment variables at /-/env for debugging
-* **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
-<br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
-* **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
-<br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
-* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
-<br />Datasette plugin that authenticates users based on existing domain cookies
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
 <br />Create a SQLite database containing your data from Google Calendar
 * **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
@@ -409,8 +403,6 @@ Listing <!-- releases_count starts -->1415<!-- releases_count ends --> releases 
 <br />Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br />Download map tiles and store them in an MBTiles database
-* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
-<br />Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
