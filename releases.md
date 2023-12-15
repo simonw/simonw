@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1414<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1415<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.1](https://github.com/simonw/llm-mistral/releases/tag/0.1) - 2023-12-15
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
 <br />LLM plugin providing access to Mistral models busing the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism

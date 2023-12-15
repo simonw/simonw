@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-mistral 0.1](https://github.com/simonw/llm-mistral/releases/tag/0.1) - 2023-12-15
+[llm-mistral 0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - 2023-12-15
 
 [datasette-sqlite-authorizer 0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 
