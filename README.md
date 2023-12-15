@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-mistral 0.1](https://github.com/simonw/llm-mistral/releases/tag/0.1) - 2023-12-15
+
 [datasette-sqlite-authorizer 0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 
 [llm-anyscale-endpoints 0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - 2023-12-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-llama-cpp 0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - 2023-12-09
 
 [datasette-chronicle 0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - 2023-12-08
-
-[sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
