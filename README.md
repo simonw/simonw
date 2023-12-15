@@ -18,7 +18,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-chronicle 0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - 2023-12-08
 
-[sqlite-utils 3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - 2023-12-08
+[datasette-enrichments-jinja 0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - 2023-12-06
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
