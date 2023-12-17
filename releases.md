@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1370<!-- releases_count ends --> releases across <!-- project_count starts -->233<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
@@ -181,12 +181,8 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />The Datasette macOS application
 * **[datasette-codespaces](https://github.com/simonw/datasette-codespaces)**: [0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-codespaces/releases)) - 2023-02-23
 <br />Conveniences for running Datasette on GitHub Codespaces
-* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - ([21 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
-<br />Part of https://github.com/simonw/datasette-app
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
-<br />Turn YouTube URLs into embedded players in Datasette
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
 <br />Run Datasette using the Granian HTTP server
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2](https://github.com/simonw/datasette-faiss/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2023-01-19
@@ -223,16 +219,10 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Datasette plugin for importing tables from other Datasette instances
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
-<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
-<br />Datasette plugin for searching all searchable tables at once
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
-* **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
-<br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
 <br />gzip middleware for ASGI applications, extracted from Starlette
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
@@ -247,8 +237,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
 * **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
 <br />Generate sitemap.xml for Datasette sites
-* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2022-08-30
-<br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[datasette-multiline-links](https://github.com/simonw/datasette-multiline-links)**: [0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <br />Make multiple newline separated URLs clickable in Datasette
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - ([23 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-08-24
@@ -259,8 +247,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
 <br />Tools for running OCR against files stored in S3
-* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
-<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - ([2 releases total](https://github.com/simonw/datasette-sqlite-fts4/releases)) - 2022-07-31
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30
@@ -479,8 +465,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [0.3](https://github.com/simonw/datasette-cors/releases/tag/0.3) - 2019-07-11
 <br />Datasette plugin for configuring CORS headers
-* **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
-<br />Datasette plugin for working with Apple's binary plist format
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.3](https://github.com/simonw/asgi-cors/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
 <br />ASGI middleware for applying CORS headers to an ASGI application
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
