@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1412<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
@@ -39,8 +39,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Enrich data using regular expressions powered by re2
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2023-11-28
-<br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
 <br />Datasette plugin for configuring Sentry
 * **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
@@ -107,8 +105,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
 <br />Datasette plugin for publishing data using Fly
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
-<br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
