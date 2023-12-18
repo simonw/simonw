@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
+
 [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) - 2023-12-14
 
 [Weeknotes: datasette-enrichments, datasette-comments, sqlite-chronicle](https://simonwillison.net/2023/Dec/8/weeknotes/) - 2023-12-08
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [llamafile is the new best way to run a LLM on your own computer](https://simonwillison.net/2023/Nov/29/llamafile/) - 2023-11-29
 
 [Prompt injection explained, November 2023 edition](https://simonwillison.net/2023/Nov/27/prompt-injection-explained/) - 2023-11-27
-
-[I'm on the Newsroom Robots podcast, with thoughts on the OpenAI board](https://simonwillison.net/2023/Nov/25/newsroom-robots/) - 2023-11-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
