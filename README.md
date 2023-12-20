@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Recommendations to help mitigate prompt injection](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
+
 [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
 
 [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) - 2023-12-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette Enrichments: a new plugin framework for augmenting your data](https://simonwillison.net/2023/Dec/1/datasette-enrichments/) - 2023-12-01
 
 [llamafile is the new best way to run a LLM on your own computer](https://simonwillison.net/2023/Nov/29/llamafile/) - 2023-11-29
-
-[Prompt injection explained, November 2023 edition](https://simonwillison.net/2023/Nov/27/prompt-injection-explained/) - 2023-11-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
