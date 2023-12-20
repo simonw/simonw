@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1373<!-- releases_count ends --> releases across <!-- project_count starts -->237<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
-<br />Django app for building dashboards using raw SQL queries
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
 <br />LLM plugin providing access to Mistral models busing the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
@@ -25,10 +23,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
-<br />Datasette enrichment for evaluating templates in a Jinja sandbox
-* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
-<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2023-12-01
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
@@ -69,8 +63,6 @@ Listing <!-- releases_count starts -->1416<!-- releases_count ends --> releases 
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
 <br />Upload SQLite database files to Datasette
-* **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1) - 2023-09-20
-<br />Debug SQLite authorizer calls
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
