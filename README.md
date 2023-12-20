@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Recommendations to help mitigate prompt injection](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
+[Recommendations to help mitigate prompt injection: limit the blast radius](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
 
 [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
 
