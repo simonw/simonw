@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils-shell 0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - 2023-12-21
+
 [django-sql-dashboard 1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - 2023-12-16
 
 [llm-mistral 0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - 2023-12-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [ospeak 0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - 2023-12-13
 
 [github-to-sqlite 2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - 2023-12-10
-
-[llm-llama-cpp 0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - 2023-12-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
