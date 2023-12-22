@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.5](https://github.com/simonw/datasette/releases/tag/0.64.5) - ([133 releases total](https://github.com/simonw/datasette/releases)) - 2023-10-08
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a4](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4) - ([12 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2023-09-26
