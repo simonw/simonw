@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases across <!-- project_count starts -->229<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
@@ -275,10 +275,22 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />Datasette plugin that redirects all non-https requests to https
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
 <br />Datasette plugin to expose some environment variables at /-/env for debugging
+* **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
+<br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
+* **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
+<br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
 * **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
 <br />Load email from .mbox files into SQLite
+* **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
+<br />Datasette plugin that authenticates users based on existing domain cookies
+* **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
+<br />Create a SQLite database containing your data from Google Calendar
+* **[datasette-copy-to-memory](https://github.com/simonw/datasette-copy-to-memory)**: [0.2](https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2) - ([5 releases total](https://github.com/simonw/datasette-copy-to-memory/releases)) - 2022-04-30
+<br />Copy database files into an in-memory database on startup
+* **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.2](https://github.com/simonw/datasette-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2022-04-28
+<br />Add gzip compression to Datasette
 * **[datasette-total-page-time](https://github.com/simonw/datasette-total-page-time)**: [0.1](https://github.com/simonw/datasette-total-page-time/releases/tag/0.1) - 2022-04-26
 <br />Add a note to the Datasette footer measuring the total page load time
 * **[tweet-images](https://github.com/simonw/tweet-images)**: [0.1.2](https://github.com/simonw/tweet-images/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/tweet-images/releases)) - 2022-04-18
@@ -299,12 +311,16 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />dateutil functions for Datasette
 * **[datasette-redirect-forbidden](https://github.com/simonw/datasette-redirect-forbidden)**: [0.1](https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1) - 2022-02-23
 <br />Redirect forbidden requests to a login page
+* **[google-drive-to-sqlite](https://github.com/simonw/google-drive-to-sqlite)**: [0.4](https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/google-drive-to-sqlite/releases)) - 2022-02-20
+<br />Create a SQLite database containing metadata from Google Drive
 * **[datasette-tiddlywiki](https://github.com/simonw/datasette-tiddlywiki)**: [0.2](https://github.com/simonw/datasette-tiddlywiki/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-tiddlywiki/releases)) - 2022-02-14
 <br />Run TiddlyWiki in Datasette and save Tiddlers to a SQLite database
 * **[strip-hidden-form-values](https://github.com/simonw/strip-hidden-form-values)**: [0.2.1](https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/strip-hidden-form-values/releases)) - 2022-02-11
 <br />CLI tool for stripping hidden form values from an HTML document
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
+<br />Prettier formatting for ?_trace=1 traces
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
@@ -359,6 +375,8 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/yaml-to-sqlite/releases)) - 2021-06-13
 <br />Utility for converting YAML files to SQLite
+* **[markdown-to-sqlite](https://github.com/simonw/markdown-to-sqlite)**: [1.0](https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/markdown-to-sqlite/releases)) - 2021-06-13
+<br />CLI tool for loading markdown files into a SQLite database
 * **[datasette-placekey](https://github.com/simonw/datasette-placekey)**: [0.1](https://github.com/simonw/datasette-placekey/releases/tag/0.1) - 2021-06-10
 <br />SQL functions for working with placekeys
 * **[json-post](https://github.com/simonw/json-post)**: [0.2](https://github.com/simonw/json-post/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/json-post/releases)) - 2021-04-11
@@ -371,6 +389,8 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />Load Amazon IAM data into a SQLite database
 * **[tableau-to-sqlite](https://github.com/simonw/tableau-to-sqlite)**: [0.2.1](https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/tableau-to-sqlite/releases)) - 2021-03-22
 <br />Fetch data from Tableau into a SQLite database
+* **[c64](https://github.com/simonw/c64)**: [0.1a0](https://github.com/simonw/c64/releases/tag/0.1a0) - 2021-03-21
+<br />Experimental package of ASGI utilities extracted from Datasette
 * **[hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite)**: [0.4](https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4) - ([5 releases total](https://github.com/dogsheep/hacker-news-to-sqlite/releases)) - 2021-03-13
 <br />Create a SQLite database containing data pulled from Hacker News
 * **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
@@ -389,8 +409,12 @@ Listing <!-- releases_count starts -->1368<!-- releases_count ends --> releases 
 <br />Functions for finding numbers using higher/lower
 * **[download-tiles](https://github.com/simonw/download-tiles)**: [0.4.1](https://github.com/simonw/download-tiles/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/download-tiles/releases)) - 2021-02-16
 <br />Download map tiles and store them in an MBTiles database
+* **[datasette-tiles](https://github.com/simonw/datasette-tiles)**: [0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/datasette-tiles/releases)) - 2021-02-11
+<br />Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
+* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
+<br />Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br />Datasette plugin for executing SQL queries from templates
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
