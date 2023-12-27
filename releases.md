@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1290<!-- releases_count ends --> releases across <!-- project_count starts -->237<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
@@ -25,10 +25,6 @@ Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases 
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
 <br />Enable sqlite-chronicle against tables in Datasette
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
-<br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
-<br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
@@ -115,8 +111,6 @@ Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases 
 <br />Fast foreign key addition for sqlite-utils
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
 <br />Save OpenAI API results to a SQLite database
-* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
-<br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
 <br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
@@ -131,8 +125,6 @@ Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases 
 <br />Record and replay ASGI web page loads
 * **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
 <br />Date utility functions for sqlite-utils
-* **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
-<br />LLM plugin for models hosted on Replicate
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
