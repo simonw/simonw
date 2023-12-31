@@ -12,7 +12,7 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
 <br />Django app for building dashboards using raw SQL queries
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
-<br />LLM plugin providing access to Mistral models busing the Mistral API
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
