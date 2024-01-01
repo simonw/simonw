@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
@@ -17,8 +17,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
 <br />LLM plugin for models hosted by Anyscale Endpoints
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
-<br />LLM plugin to access Google's Gemini family of models
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
 <br />CLI tool for running text through OpenAI Text to speech
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
@@ -453,8 +451,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Tool for generating demo SQLite databases
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
 <br />Demo for https://github.com/simonw/click-app
-* **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
-<br />Demonstrating https://github.com/simonw/datasette-plugin
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
 <br />Datasette plugin adding a /-/psutil debugging endpoint
 * **[datasette-permissions-sql](https://github.com/simonw/datasette-permissions-sql)**: [0.3a](https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a) - ([4 releases total](https://github.com/simonw/datasette-permissions-sql/releases)) - 2020-06-12
