@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/) - 2023-12-31
+
 [Last weeknotes of 2023](https://simonwillison.net/2023/Dec/31/weeknotes/) - 2023-12-31
 
 [Recommendations to help mitigate prompt injection: limit the blast radius](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) - 2023-12-14
 
 [Weeknotes: datasette-enrichments, datasette-comments, sqlite-chronicle](https://simonwillison.net/2023/Dec/8/weeknotes/) - 2023-12-08
-
-[Datasette Enrichments: a new plugin framework for augmenting your data](https://simonwillison.net/2023/Dec/1/datasette-enrichments/) - 2023-12-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
