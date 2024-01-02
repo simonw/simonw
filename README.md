@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[GitHub Actions, Issues and Pages to build a daily planner](https://til.simonwillison.net/github-actions/daily-planner) - 2024-01-02
+
 [Running Steampipe extensions in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/steampipe) - 2023-12-21
 
 [Editing an iPhone home screen using macOS](https://til.simonwillison.net/macos/edit-ios-home-screen) - 2023-12-12
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Cryptography in Pyodide](https://til.simonwillison.net/pyodide/cryptography-in-pyodide) - 2023-11-26
 
 [Running pip install '.[docs]' on ReadTheDocs](https://til.simonwillison.net/readthedocs/pip-install-docs) - 2023-11-24
-
-[Cloning my voice with ElevenLabs](https://til.simonwillison.net/misc/voice-cloning) - 2023-11-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
