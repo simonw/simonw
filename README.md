@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) - 2024-01-02
+
 [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/) - 2023-12-31
 
 [Last weeknotes of 2023](https://simonwillison.net/2023/Dec/31/weeknotes/) - 2023-12-31
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
 
 [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) - 2023-12-14
-
-[Weeknotes: datasette-enrichments, datasette-comments, sqlite-chronicle](https://simonwillison.net/2023/Dec/8/weeknotes/) - 2023-12-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
