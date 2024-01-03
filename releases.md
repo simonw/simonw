@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases across <!-- project_count starts -->241<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1399<!-- releases_count ends --> releases across <!-- project_count starts -->236<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
@@ -73,8 +73,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
 <br />Upload SQLite database files to Datasette
-* **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1) - 2023-09-20
-<br />Debug SQLite authorizer calls
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
@@ -111,8 +109,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
 <br />Datasette plugin for publishing data using Fly
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
-<br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
@@ -123,8 +119,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
 <br />Tools for building SQLite databases from files and directories
-* **[sqlite-utils-jq](https://github.com/simonw/sqlite-utils-jq)**: [0.1](https://github.com/simonw/sqlite-utils-jq/releases/tag/0.1) - 2023-08-11
-<br />Plugin adding a jq() SQL function to sqlite-utils
 * **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
 <br />Interactive shell for sqlite-utils using litecli
 * **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
@@ -201,8 +195,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Tools for analyzing Git history using SQLite
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
-<br />Datasette plugin for authentication using passwords
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
@@ -461,8 +453,6 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring permission checks using SQL queries
 * **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
 <br />ASGI middleware that authenticates users against GitHub
-* **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
-<br />Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br />Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/datasette-render-timestamps/releases)) - 2020-03-21
