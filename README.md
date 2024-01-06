@@ -8,8 +8,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-haversine 0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - 2023-12-29
 
-[datasette 0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - 2023-12-22
-
 [sqlite-utils-shell 0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - 2023-12-21
 
 [django-sql-dashboard 1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - 2023-12-16
@@ -18,7 +16,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-sqlite-authorizer 0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 
-[llm-anyscale-endpoints 0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - 2023-12-14
+[llm-gemini 0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
+
+[ospeak 0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - 2023-12-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
