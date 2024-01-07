@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1381<!-- releases_count ends --> releases across <!-- project_count starts -->240<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1420<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
@@ -11,6 +11,8 @@ Listing <!-- releases_count starts -->1381<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
 <br />Interactive shell for sqlite-utils
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
+<br />Django app for building dashboards using raw SQL queries
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
@@ -33,6 +35,8 @@ Listing <!-- releases_count starts -->1381<!-- releases_count ends --> releases 
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
+<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2023-12-01
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
