@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[It's OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/) - 2024-01-07
+
 [Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) - 2024-01-02
 
 [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/) - 2023-12-31
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Recommendations to help mitigate prompt injection: limit the blast radius](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
 
 [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
-
-[The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) - 2023-12-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
