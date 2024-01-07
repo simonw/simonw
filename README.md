@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Page caching and custom templates for Datasette Cloud](https://simonwillison.net/2024/Jan/7/page-caching-and-custom-templates-for-datasette-cloud/) - 2024-01-07
+
 [It's OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/) - 2024-01-07
 
 [Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) - 2024-01-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Last weeknotes of 2023](https://simonwillison.net/2023/Dec/31/weeknotes/) - 2023-12-31
 
 [Recommendations to help mitigate prompt injection: limit the blast radius](https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/) - 2023-12-20
-
-[Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/) - 2023-12-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
