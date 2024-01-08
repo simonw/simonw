@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1415<!-- releases_count ends --> releases across <!-- project_count starts -->240<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
@@ -183,8 +183,6 @@ Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases 
 <br />Export Apple Notes to SQLite
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - ([4 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2023-03-09
 <br />Plugin for selectively rendering the HTML is specific columns
-* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-app/releases)) - 2023-02-27
-<br />The Datasette macOS application
 * **[datasette-codespaces](https://github.com/simonw/datasette-codespaces)**: [0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-codespaces/releases)) - 2023-02-23
 <br />Conveniences for running Datasette on GitHub Codespaces
 * **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - ([21 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
@@ -329,8 +327,6 @@ Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases 
 <br />Stream a file or stdin one line at a time with a delay
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
 <br />Add preview hovercards to links in Datasette
-* **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
-<br />A Web Component for embedding a Datasette table on a page
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
 <br />Convert CSV files into a SQLite database
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
