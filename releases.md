@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1420<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 <br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
@@ -231,8 +233,6 @@ Listing <!-- releases_count starts -->1420<!-- releases_count ends --> releases 
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.1](https://github.com/simonw/datasette-search-all/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2022-11-18
-<br />Datasette plugin for searching all searchable tables at once
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
