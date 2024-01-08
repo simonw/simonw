@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1420<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1418<!-- releases_count ends --> releases across <!-- project_count starts -->240<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
-<br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
 <br />Datasette plugin that adds a custom SQL function for haversine distances
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
@@ -19,8 +17,6 @@ Listing <!-- releases_count starts -->1420<!-- releases_count ends --> releases 
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
 <br />LLM plugin for models hosted by Anyscale Endpoints
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
-<br />LLM plugin to access Google's Gemini family of models
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
 <br />CLI tool for running text through OpenAI Text to speech
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
