@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Writing Playwright tests for a Datasette Plugin](https://til.simonwillison.net/datasette/playwright-tests-datasette-plugin) - 2024-01-09
+
 [How to get Cloudflare to cache HTML](https://til.simonwillison.net/cloudflare/cloudflare-cache-html) - 2024-01-09
 
 [Running Varnish on Fly](https://til.simonwillison.net/fly/varnish-on-fly) - 2024-01-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Steampipe extensions in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/steampipe) - 2023-12-21
 
 [Editing an iPhone home screen using macOS](https://til.simonwillison.net/macos/edit-ios-home-screen) - 2023-12-12
-
-[Grabbing a transcript of a short snippet of a YouTube video with MacWhisper](https://til.simonwillison.net/macos/quick-whisper-youtube) - 2023-12-01
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
