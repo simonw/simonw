@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[How to get Cloudflare to cache HTML](https://til.simonwillison.net/cloudflare/cloudflare-cache-html) - 2024-01-09
+
 [Running Varnish on Fly](https://til.simonwillison.net/fly/varnish-on-fly) - 2024-01-08
 
 [GitHub Actions, Issues and Pages to build a daily planner](https://til.simonwillison.net/github-actions/daily-planner) - 2024-01-02
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Editing an iPhone home screen using macOS](https://til.simonwillison.net/macos/edit-ios-home-screen) - 2023-12-12
 
 [Grabbing a transcript of a short snippet of a YouTube video with MacWhisper](https://til.simonwillison.net/macos/quick-whisper-youtube) - 2023-12-01
-
-[Cryptography in Pyodide](https://til.simonwillison.net/pyodide/cryptography-in-pyodide) - 2023-11-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
