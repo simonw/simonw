@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[literalinclude with markers for showing code in documentation](https://til.simonwillison.net/sphinx/literalinclude-with-markers) - 2024-01-10
+
 [Writing Playwright tests for a Datasette Plugin](https://til.simonwillison.net/datasette/playwright-tests-datasette-plugin) - 2024-01-09
 
 [How to get Cloudflare to cache HTML](https://til.simonwillison.net/cloudflare/cloudflare-cache-html) - 2024-01-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [GitHub Actions, Issues and Pages to build a daily planner](https://til.simonwillison.net/github-actions/daily-planner) - 2024-01-02
 
 [Running Steampipe extensions in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/steampipe) - 2023-12-21
-
-[Editing an iPhone home screen using macOS](https://til.simonwillison.net/macos/edit-ios-home-screen) - 2023-12-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
