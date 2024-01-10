@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-tokens 0.4a5](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a5) - 2024-01-10
+
 [datasette-search-all 1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - 2024-01-08
 
 [datasette-upgrade 0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [django-sql-dashboard 1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - 2023-12-16
 
 [llm-mistral 0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - 2023-12-15
-
-[datasette-sqlite-authorizer 0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
