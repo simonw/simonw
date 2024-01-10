@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1422<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a5](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a5) - ([13 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-10
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a6](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a6) - ([14 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-10
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
 <br />Datasette plugin for searching all searchable tables at once
