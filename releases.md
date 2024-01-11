@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1403<!-- releases_count ends --> releases across <!-- project_count starts -->238<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a6](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a6) - ([14 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-10
@@ -119,8 +119,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
-* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
-<br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
 <br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
@@ -159,8 +157,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
-* **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
-<br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
@@ -205,8 +201,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />Tools for analyzing Git history using SQLite
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
-* **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
-<br />Datasette plugin for authentication using passwords
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
@@ -485,6 +479,4 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />Datasette plugin for working with Apple's binary plist format
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.3](https://github.com/simonw/asgi-cors/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
 <br />ASGI middleware for applying CORS headers to an ASGI application
-* **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
-<br />Datasette plugin for visualizing data using Vega
 <!-- recent_releases ends -->
