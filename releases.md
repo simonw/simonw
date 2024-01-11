@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a6](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a6) - ([14 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-10
@@ -19,6 +19,8 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Django app for building dashboards using raw SQL queries
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
 <br />LLM plugin providing access to Mistral models using the Mistral API
+* **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
+<br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
@@ -83,6 +85,8 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-13
 <br />LLM plugin for embeddings using sentence-transformers
+* **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
+<br />Generate embeddings for images and text using CLIP with LLM
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18a0](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0) - ([21 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2023-09-11
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-sqlite-trace](https://github.com/datasette/datasette-sqlite-trace)**: [0.1](https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1) - 2023-09-10
@@ -449,6 +453,8 @@ Listing <!-- releases_count starts -->1419<!-- releases_count ends --> releases 
 <br />Always allow access to /-/permissions, for debugging
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br />Tool for generating demo SQLite databases
+* **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
+<br />Demo for https://github.com/simonw/click-app
 * **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
 <br />Demonstrating https://github.com/simonw/datasette-plugin
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
