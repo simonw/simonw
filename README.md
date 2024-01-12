@@ -16,9 +16,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [sqlite-utils-shell 0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - 2023-12-21
 
-[llm-mistral 0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - 2023-12-15
+[django-sql-dashboard 1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - 2023-12-16
 
-[datasette-sqlite-authorizer 0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
+[llm-mistral 0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - 2023-12-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
