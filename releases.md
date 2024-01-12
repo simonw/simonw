@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1302<!-- releases_count ends --> releases across <!-- project_count starts -->239<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a6](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a6) - ([14 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-10
@@ -33,8 +33,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
 <br />Enable sqlite-chronicle against tables in Datasette
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
@@ -73,8 +71,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
 <br />Upload SQLite database files to Datasette
 * **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1) - 2023-09-20
@@ -121,8 +117,6 @@ Listing <!-- releases_count starts -->1423<!-- releases_count ends --> releases 
 <br />Fast foreign key addition for sqlite-utils
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
 <br />Save OpenAI API results to a SQLite database
-* **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
-<br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
 <br />Datasette plugin for rendering Markdown
 * **[db-build](https://github.com/simonw/db-build)**: [0.1](https://github.com/simonw/db-build/releases/tag/0.1) - 2023-08-15
