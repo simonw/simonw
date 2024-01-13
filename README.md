@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using expect() to wait for a selector to match multiple items](https://til.simonwillison.net/playwright/expect-selector-count) - 2024-01-13
+
 [literalinclude with markers for showing code in documentation](https://til.simonwillison.net/sphinx/literalinclude-with-markers) - 2024-01-10
 
 [Writing Playwright tests for a Datasette Plugin](https://til.simonwillison.net/datasette/playwright-tests-datasette-plugin) - 2024-01-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Varnish on Fly](https://til.simonwillison.net/fly/varnish-on-fly) - 2024-01-08
 
 [GitHub Actions, Issues and Pages to build a daily planner](https://til.simonwillison.net/github-actions/daily-planner) - 2024-01-02
-
-[Running Steampipe extensions in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/steampipe) - 2023-12-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
