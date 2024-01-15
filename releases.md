@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1425<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1426<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
+<br />Build a directory full of files into a SQLite database
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - ([15 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-13
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18) - ([22 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-01-13
