@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases across <!-- project_count starts -->240<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1426<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
@@ -15,6 +15,8 @@ Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases 
 <br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
 <br />Datasette plugin that adds a custom SQL function for haversine distances
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
@@ -23,6 +25,8 @@ Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
 <br />LLM plugin to access Google's Gemini family of models
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
@@ -41,6 +45,8 @@ Listing <!-- releases_count starts -->1285<!-- releases_count ends --> releases 
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
+* **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2023-12-01
+<br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
 <br />SQL statistics functions for Datasette
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
