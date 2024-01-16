@@ -16,9 +16,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-upgrade 0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 
-[datasette 0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - 2023-12-22
+[datasette-haversine 0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - 2023-12-29
 
-[sqlite-utils-shell 0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - 2023-12-21
+[datasette 0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - 2023-12-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
