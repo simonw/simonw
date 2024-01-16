@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1426<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1427<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-16
+<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 <br />Build a directory full of files into a SQLite database
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - ([15 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-13
@@ -231,8 +233,6 @@ Listing <!-- releases_count starts -->1426<!-- releases_count ends --> releases 
 <br />Datasette plugin for importing tables from other Datasette instances
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
-* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.2](https://github.com/simonw/datasette-edit-templates/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2022-11-18
-<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
