@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases across <!-- project_count starts -->236<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1426<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
@@ -277,6 +277,10 @@ Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases 
 <br />Tools for running data in a SQLite database through AWS Comprehend
 * **[datasette-ics](https://github.com/simonw/datasette-ics)**: [0.5.2](https://github.com/simonw/datasette-ics/releases/tag/0.5.2) - ([5 releases total](https://github.com/simonw/datasette-ics/releases)) - 2022-07-12
 <br />Datasette plugin for outputting iCalendar files
+* **[datasette-redirect-to-https](https://github.com/simonw/datasette-redirect-to-https)**: [0.2](https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-redirect-to-https/releases)) - 2022-07-04
+<br />Datasette plugin that redirects all non-https requests to https
+* **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
+<br />Datasette plugin to expose some environment variables at /-/env for debugging
 * **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
@@ -425,6 +429,16 @@ Listing <!-- releases_count starts -->1411<!-- releases_count ends --> releases 
 <br />Statistical visualizations for Datasette using Seaborn
 * **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
 <br />Export Datasette records as YAML
+* **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
+<br />Create a SQLite database from Sphinx documentation
+* **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
+<br />Create a SQLite database containing your observation history from iNaturalist
+* **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
+<br />Custom SQL function for making DNS lookups
+* **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
+<br />Plugin adding backup options to Datasette
+* **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
+<br />An improved version of .iterdump() for sqlite3
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.1](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2020-08-15
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
