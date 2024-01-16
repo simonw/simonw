@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-cluster-map 0.18.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1) - 2024-01-16
+
 [datasette-edit-templates 0.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.3) - 2024-01-16
 
 [datasette-build 0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 
 [datasette-auth-tokens 0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - 2024-01-13
-
-[datasette-cluster-map 0.18](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18) - 2024-01-13
 
 [datasette-search-all 1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - 2024-01-08
 
