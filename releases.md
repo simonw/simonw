@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1431<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1432<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.1](https://github.com/datasette/datasette-test/releases/tag/0.1) - 2024-01-16
+* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.1.1](https://github.com/datasette/datasette-test/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-01-16
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.1) - ([6 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-16
 <br />Plugin allowing Datasette templates to be edited within Datasette
