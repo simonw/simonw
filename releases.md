@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1430<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1362<!-- releases_count ends --> releases across <!-- project_count starts -->237<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.1](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.1) - ([6 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-16
@@ -15,8 +15,6 @@ Listing <!-- releases_count starts -->1430<!-- releases_count ends --> releases 
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 <br />Upgrade Datasette instance configuration to handle new features
-* **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
-<br />Datasette plugin that adds a custom SQL function for haversine distances
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
@@ -33,8 +31,6 @@ Listing <!-- releases_count starts -->1430<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
 <br />CLI tool for running text through OpenAI Text to speech
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
-<br />Save data from GitHub to a SQLite database
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
@@ -63,18 +59,12 @@ Listing <!-- releases_count starts -->1430<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring Sentry
 * **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
 <br />Access large language models from the command-line
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
-<br />Datasette plugin for modifying table schemas
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
 <br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
 <br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
-* **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
-<br />Embedding models from Jina AI
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
-<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.2](https://github.com/simonw/llm-gpt4all/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2023-10-24
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
@@ -151,8 +141,6 @@ Listing <!-- releases_count starts -->1430<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding support for Google's PaLM 2 model
 * **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
 <br />Count and truncate text based on tokens
-* **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
-<br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
 <br />Create a SQLite database containing data from your Pocket account
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
