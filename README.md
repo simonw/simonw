@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Talking about Open Source LLMs on Oxide and Friends](https://simonwillison.net/2024/Jan/17/oxide-and-friends/) - 2024-01-17
+
 [Publish Python packages to PyPI with a python-lib cookiecutter template and GitHub Actions](https://simonwillison.net/2024/Jan/16/python-lib-pypi/) - 2024-01-16
 
 [What I should have said about the term Artificial Intelligence](https://simonwillison.net/2024/Jan/9/what-i-should-have-said-about-ai/) - 2024-01-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [It's OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/) - 2024-01-07
 
 [Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) - 2024-01-02
-
-[Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/) - 2023-12-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
