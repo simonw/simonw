@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1432<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
@@ -21,8 +21,6 @@ Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases 
 <br />Datasette plugin that adds a custom SQL function for haversine distances
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
 <br />An open source multi-tool for exploring and publishing data
-* **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
-<br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
 <br />Django app for building dashboards using raw SQL queries
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
