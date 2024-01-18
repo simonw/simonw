@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
@@ -181,6 +181,10 @@ Listing <!-- releases_count starts -->1421<!-- releases_count ends --> releases 
 <br />Tiny Datasette plugin to disable text truncation in table displays
 * **[datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)**: [0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
 <br />A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
+<br />Datasette plugin that adds a .atom output format
+* **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-simple-html/releases)) - 2023-03-12
+<br />Datasette SQL functions for very simple HTML operations
 * **[apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite)**: [0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
 <br />Export Apple Notes to SQLite
 * **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - ([4 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2023-03-09
