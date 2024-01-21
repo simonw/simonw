@@ -1,14 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1410<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-test](https://github.com/datasette/datasette-test)**: [0.2](https://github.com/datasette/datasette-test/releases/tag/0.2) - ([3 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-01-16
 <br />Utilities to help write tests for Datasette plugins and applications
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1) - ([23 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-01-16
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 <br />Build a directory full of files into a SQLite database
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - ([15 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-13
@@ -245,8 +243,6 @@ Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases 
 <br />gzip middleware for ASGI applications, extracted from Starlette
 * **[ttml-to-json](https://github.com/simonw/ttml-to-json)**: [0.2](https://github.com/simonw/ttml-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttml-to-json/releases)) - 2022-09-25
 <br /> Convert TTML to JSON
-* **[webvtt-to-json](https://github.com/simonw/webvtt-to-json)**: [0.2](https://github.com/simonw/webvtt-to-json/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/webvtt-to-json/releases)) - 2022-09-25
-<br />Convert WebVTT to JSON, optionally removing duplicate lines
 * **[image-diff](https://github.com/simonw/image-diff)**: [0.2.2](https://github.com/simonw/image-diff/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/image-diff/releases)) - 2022-09-19
 <br />CLI tool for comparing images
 * **[datasette-sandstorm-support](https://github.com/simonw/datasette-sandstorm-support)**: [0.2](https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-sandstorm-support/releases)) - 2022-09-16
