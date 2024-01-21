@@ -10,6 +10,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-cluster-map 0.18.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1) - 2024-01-16
 
+[datasette-build 0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
+
 [datasette-auth-tokens 0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - 2024-01-13
 
 [datasette-search-all 1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - 2024-01-08
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-upgrade 0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 
 [datasette-haversine 0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - 2023-12-29
-
-[datasette 0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - 2023-12-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
