@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes/) - 2024-01-21
+
 [Talking about Open Source LLMs on Oxide and Friends](https://simonwillison.net/2024/Jan/17/oxide-and-friends/) - 2024-01-17
 
 [Publish Python packages to PyPI with a python-lib cookiecutter template and GitHub Actions](https://simonwillison.net/2024/Jan/16/python-lib-pypi/) - 2024-01-16
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Page caching and custom templates for Datasette Cloud](https://simonwillison.net/2024/Jan/7/page-caching-and-custom-templates-for-datasette-cloud/) - 2024-01-07
 
 [It's OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/) - 2024-01-07
-
-[Tom Scott, and the formidable power of escalating streaks](https://simonwillison.net/2024/Jan/2/escalating-streaks/) - 2024-01-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
