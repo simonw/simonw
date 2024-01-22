@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases across <!-- project_count starts -->240<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
@@ -13,6 +13,8 @@ Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases 
 <br />Build a directory full of files into a SQLite database
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - ([15 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-13
 <br />Datasette plugin for authenticating access using API tokens
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 <br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
@@ -23,6 +25,8 @@ Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases 
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
 <br />Django app for building dashboards using raw SQL queries
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.2](https://github.com/simonw/llm-mistral/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-mistral/releases)) - 2023-12-15
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
@@ -67,6 +71,8 @@ Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases 
 <br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
 <br />A simple database migration system for SQLite, based on sqlite-utils
+* **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
+<br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
@@ -461,6 +467,8 @@ Listing <!-- releases_count starts -->1417<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring permission checks using SQL queries
 * **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
 <br />ASGI middleware that authenticates users against GitHub
+* **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
+<br />Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
 <br />Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/datasette-render-timestamps/releases)) - 2020-03-21
