@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1436<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1437<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1) - 2024-01-23
+* **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
 <br />Proxy a URL through a Datasette instance
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
 <br />Plugin allowing Datasette templates to be edited within Datasette
