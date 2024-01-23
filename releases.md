@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1437<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1438<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
+<br />Run Datasette using the Granian HTTP server
 * **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
 <br />Proxy a URL through a Datasette instance
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
@@ -201,8 +203,6 @@ Listing <!-- releases_count starts -->1437<!-- releases_count ends --> releases 
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
 <br />Turn YouTube URLs into embedded players in Datasette
-* **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1a0](https://github.com/simonw/datasette-granian/releases/tag/0.1a0) - 2023-01-20
-<br />Run Datasette using the Granian HTTP server
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2](https://github.com/simonw/datasette-faiss/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2023-01-19
 <br />Maintain a FAISS index for specified Datasette tables
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.2](https://github.com/simonw/datasette-openai/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-14
