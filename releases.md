@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1432<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
@@ -429,8 +429,6 @@ Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases 
 <br />Experimental plugin that adds a column inspector
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br />Statistical visualizations for Datasette using Seaborn
-* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
-<br />Export Datasette records as YAML
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
