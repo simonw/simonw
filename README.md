@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-proxy-url 0.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1) - 2024-01-23
+
 [datasette-edit-templates 0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - 2024-01-17
 
 [datasette-test 0.2](https://github.com/datasette/datasette-test/releases/tag/0.2) - 2024-01-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-search-all 1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - 2024-01-08
 
 [datasette-upgrade 0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
-
-[datasette-haversine 0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - 2023-12-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
