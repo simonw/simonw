@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1438<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1435<!-- releases_count ends --> releases across <!-- project_count starts -->244<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
@@ -425,8 +425,6 @@ Listing <!-- releases_count starts -->1438<!-- releases_count ends --> releases 
 <br />Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
 <br />Datasette plugin for executing SQL queries from templates
-* **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
-<br />Experimental Datasette output plugin using CSS properties
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
 <br />Experimental plugin that adds a column inspector
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
