@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1365<!-- releases_count ends --> releases across <!-- project_count starts -->234<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
@@ -185,12 +185,28 @@ Listing <!-- releases_count starts -->1365<!-- releases_count ends --> releases 
 <br />Tiny Datasette plugin to disable text truncation in table displays
 * **[datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)**: [0.1](https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1) - 2023-03-24
 <br />A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.9](https://github.com/simonw/datasette-atom/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/datasette-atom/releases)) - 2023-03-14
+<br />Datasette plugin that adds a .atom output format
+* **[datasette-simple-html](https://github.com/simonw/datasette-simple-html)**: [0.2](https://github.com/simonw/datasette-simple-html/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-simple-html/releases)) - 2023-03-12
+<br />Datasette SQL functions for very simple HTML operations
 * **[apple-notes-to-sqlite](https://github.com/dogsheep/apple-notes-to-sqlite)**: [0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
 <br />Export Apple Notes to SQLite
+* **[datasette-render-html](https://github.com/simonw/datasette-render-html)**: [1.0](https://github.com/simonw/datasette-render-html/releases/tag/1.0) - ([4 releases total](https://github.com/simonw/datasette-render-html/releases)) - 2023-03-09
+<br />Plugin for selectively rendering the HTML is specific columns
+* **[datasette-app](https://github.com/simonw/datasette-app)**: [0.2.3](https://github.com/simonw/datasette-app/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-app/releases)) - 2023-02-27
+<br />The Datasette macOS application
+* **[datasette-codespaces](https://github.com/simonw/datasette-codespaces)**: [0.1.1](https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-codespaces/releases)) - 2023-02-23
+<br />Conveniences for running Datasette on GitHub Codespaces
+* **[datasette-app-support](https://github.com/simonw/datasette-app-support)**: [0.11.8](https://github.com/simonw/datasette-app-support/releases/tag/0.11.8) - ([21 releases total](https://github.com/simonw/datasette-app-support/releases)) - 2023-02-17
+<br />Part of https://github.com/simonw/datasette-app
+* **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
+<br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
 <br />Turn YouTube URLs into embedded players in Datasette
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2](https://github.com/simonw/datasette-faiss/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2023-01-19
 <br />Maintain a FAISS index for specified Datasette tables
+* **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.2](https://github.com/simonw/datasette-openai/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-14
+<br />SQL functions for calling OpenAI APIs
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
 <br />UI for setting cookies to populate magic parameters
 * **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
@@ -207,10 +223,14 @@ Listing <!-- releases_count starts -->1365<!-- releases_count ends --> releases 
 <br />Datasette plugin for serving media based on a SQL query
 * **[datasette-secret-santa](https://github.com/simonw/datasette-secret-santa)**: [0.1](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-secret-santa/releases)) - 2022-12-11
 <br />Run secret santa gift circles using Datasette
+* **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
+<br />Datasette plugin for rendering binary data
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-12-02
 <br />Make specific Datasette tables visible to the public
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
 <br />Provide tables that expire after a time limit
+* **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
+<br />Export pages from Datasette to files on disk
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
@@ -243,6 +263,8 @@ Listing <!-- releases_count starts -->1365<!-- releases_count ends --> releases 
 <br />Make multiple newline separated URLs clickable in Datasette
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - ([23 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-08-24
 <br />Datasette plugin for publishing data using Vercel
+* **[datasette-mp3-audio](https://github.com/simonw/datasette-mp3-audio)**: [0.2](https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-mp3-audio/releases)) - 2022-08-20
+<br />Turn .mp3 URLs into an audio player in the Datasette interface
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.5](https://github.com/simonw/sqlite-diffable/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2022-08-18
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
