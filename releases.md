@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases across <!-- project_count starts -->235<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
@@ -81,6 +81,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
+<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
@@ -93,14 +95,22 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
 <br />Datasette plugin providing instructions for exporting data to Jupyter or Observable
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.1.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2023-09-13
+<br />LLM plugin for embeddings using sentence-transformers
+* **[llm-clip](https://github.com/simonw/llm-clip)**: [0.1](https://github.com/simonw/llm-clip/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-clip/releases)) - 2023-09-12
+<br />Generate embeddings for images and text using CLIP with LLM
 * **[datasette-sqlite-trace](https://github.com/datasette/datasette-sqlite-trace)**: [0.1](https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1) - 2023-09-10
 <br />Datasette plugin that prints all executed SQL to stderr
+* **[blip-caption](https://github.com/simonw/blip-caption)**: [0.1](https://github.com/simonw/blip-caption/releases/tag/0.1) - 2023-09-10
+<br />Generate captions for images with Salesforce BLIP
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a1](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2023-09-08
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
 * **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
 <br />Find the Python code for specified symbols
+* **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
+<br />LLM plugin for clustering embeddings
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01
 <br />sqlite-utils plugin adding a move-tables command
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2023-08-30
@@ -145,6 +155,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />Plugin for LLM adding a Markov chain generating model
 * **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
 <br />Plugin for LLM adding support for Google's PaLM 2 model
+* **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
+<br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
@@ -159,6 +171,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
+<br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
@@ -195,6 +209,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />SQL functions for calling OpenAI APIs
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
 <br />UI for setting cookies to populate magic parameters
+* **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
+<br />Tools for analyzing Git history using SQLite
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) - ([12 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2023-01-09
@@ -239,6 +255,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />Authentication and permissions for Datasette on Sandstorm
 * **[datasette-render-image-tags](https://github.com/simonw/datasette-render-image-tags)**: [0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
 <br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
+* **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
+<br />Generate sitemap.xml for Datasette sites
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2022-08-30
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[datasette-multiline-links](https://github.com/simonw/datasette-multiline-links)**: [0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
@@ -273,6 +291,8 @@ Listing <!-- releases_count starts -->1384<!-- releases_count ends --> releases 
 <br />Show a list of currently installed Python packages
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
 <br />Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space
+* **[mbox-to-sqlite](https://github.com/simonw/mbox-to-sqlite)**: [0.1a0](https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0) - 2022-05-31
+<br />Load email from .mbox files into SQLite
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a1](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1) - ([12 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2022-05-29
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[google-calendar-to-sqlite](https://github.com/simonw/google-calendar-to-sqlite)**: [0.1a0](https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0) - 2022-05-21
