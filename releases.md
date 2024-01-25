@@ -1,18 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1429<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
-<br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
 <br />Run Datasette using the Granian HTTP server
 * **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
 <br />Proxy a URL through a Datasette instance
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
 <br />Plugin allowing Datasette templates to be edited within Datasette
-* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.2](https://github.com/datasette/datasette-test/releases/tag/0.2) - ([3 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-01-16
-<br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1) - ([23 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-01-16
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
@@ -45,8 +41,6 @@ Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases 
 <br />Save data from GitHub to a SQLite database
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
 <br />LLM plugin for running models using llama.cpp
-* **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
-<br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
