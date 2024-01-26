@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1433<!-- releases_count ends --> releases across <!-- project_count starts -->242<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
@@ -129,8 +129,6 @@ Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
-* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
-<br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
 <br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
@@ -153,8 +151,6 @@ Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases 
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12
 <br />Plugin for LLM adding a Markov chain generating model
-* **[llm-palm](https://github.com/simonw/llm-palm)**: [0.1](https://github.com/simonw/llm-palm/releases/tag/0.1) - 2023-07-12
-<br />Plugin for LLM adding support for Google's PaLM 2 model
 * **[ttok](https://github.com/simonw/ttok)**: [0.2](https://github.com/simonw/ttok/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/ttok/releases)) - 2023-07-10
 <br />Count and truncate text based on tokens
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.5.1](https://github.com/simonw/strip-tags/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/strip-tags/releases)) - 2023-07-09
@@ -169,8 +165,6 @@ Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases 
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
-* **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
-<br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
