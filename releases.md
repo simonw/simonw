@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1433<!-- releases_count ends --> releases across <!-- project_count starts -->243<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
@@ -51,6 +51,10 @@ Listing <!-- releases_count starts -->1433<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
+* **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
+<br />Datasette enrichment for evaluating templates in a Jinja sandbox
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
+<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.3](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2023-12-01
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
