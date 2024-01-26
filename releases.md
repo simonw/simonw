@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1440<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.13](https://github.com/simonw/llm/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm/releases)) - 2024-01-26
+<br />Access large language models from the command-line
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
@@ -69,8 +71,6 @@ Listing <!-- releases_count starts -->1439<!-- releases_count ends --> releases 
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
 <br />Datasette plugin for configuring Sentry
-* **[llm](https://github.com/simonw/llm)**: [0.12](https://github.com/simonw/llm/releases/tag/0.12) - ([22 releases total](https://github.com/simonw/llm/releases)) - 2023-11-06
-<br />Access large language models from the command-line
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
