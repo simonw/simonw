@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.13](https://github.com/simonw/llm/releases/tag/0.13) - 2024-01-26
+[llm 0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - 2024-01-27
 
 [llm-gpt4all 0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - 2024-01-24
 

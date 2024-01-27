@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1440<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1441<!-- releases_count ends --> releases across <!-- project_count starts -->245<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.13](https://github.com/simonw/llm/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm/releases)) - 2024-01-26
+* **[llm](https://github.com/simonw/llm)**: [0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm/releases)) - 2024-01-27
 <br />Access large language models from the command-line
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
 <br />Plugin for LLM adding support for the GPT4All collection of models
