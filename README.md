@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Exploring ColBERT with RAGatouille](https://til.simonwillison.net/llms/colbert-ragatouille) - 2024-01-28
+
 [Logging OpenAI API requests and responses using HTTPX](https://til.simonwillison.net/httpx/openai-log-requests-responses) - 2024-01-26
 
 [Publish releases to PyPI from GitHub Actions without a password or token](https://til.simonwillison.net/pypi/pypi-releases-from-github) - 2024-01-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using expect() to wait for a selector to match multiple items](https://til.simonwillison.net/playwright/expect-selector-count) - 2024-01-13
 
 [literalinclude with markers for showing code in documentation](https://til.simonwillison.net/sphinx/literalinclude-with-markers) - 2024-01-10
-
-[Writing Playwright tests for a Datasette Plugin](https://til.simonwillison.net/datasette/playwright-tests-datasette-plugin) - 2024-01-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
