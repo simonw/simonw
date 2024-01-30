@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1442<!-- releases_count ends --> releases across <!-- project_count starts -->246<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1443<!-- releases_count ends --> releases across <!-- project_count starts -->246<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9) - ([15 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-01-30
+<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[llm-embed-onnx](https://github.com/simonw/llm-embed-onnx)**: [0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28
 <br />Run embedding models using ONNX
 * **[llm](https://github.com/simonw/llm)**: [0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm/releases)) - 2024-01-27
@@ -165,8 +167,6 @@ Listing <!-- releases_count starts -->1442<!-- releases_count ends --> releases 
 <br />Create a SQLite database containing data from your Pocket account
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
 <br />An ASGI function for proxying to a backend over HTTP
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.8.3](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3) - ([14 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2023-06-28
-<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
