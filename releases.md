@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1443<!-- releases_count ends --> releases across <!-- project_count starts -->246<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1444<!-- releases_count ends --> releases across <!-- project_count starts -->247<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.1](https://github.com/datasette/datasette-homepage-table/releases/tag/0.1) - 2024-01-31
+<br />Show a specific Datasette table on the homepage
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9) - ([15 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-01-30
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[llm-embed-onnx](https://github.com/simonw/llm-embed-onnx)**: [0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28

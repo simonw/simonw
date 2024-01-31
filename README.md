@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-homepage-table 0.1](https://github.com/datasette/datasette-homepage-table/releases/tag/0.1) - 2024-01-31
+
 [datasette-upload-csvs 0.9](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9) - 2024-01-30
 
 [llm-embed-onnx 0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-proxy-url 0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - 2024-01-23
 
 [datasette-edit-templates 0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - 2024-01-17
-
-[datasette-test 0.2](https://github.com/datasette/datasette-test/releases/tag/0.2) - 2024-01-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
