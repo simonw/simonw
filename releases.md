@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1446<!-- releases_count ends --> releases across <!-- project_count starts -->247<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1447<!-- releases_count ends --> releases across <!-- project_count starts -->247<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - ([29 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-02-05
+<br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2024-02-04
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31
@@ -81,8 +83,6 @@ Listing <!-- releases_count starts -->1446<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring Sentry
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.7.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1) - ([18 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2023-11-04
 <br />Datasette plugin for modifying table schemas
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.3](https://github.com/simonw/shot-scraper/releases/tag/1.3) - ([28 releases total](https://github.com/simonw/shot-scraper/releases)) - 2023-11-01
-<br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27

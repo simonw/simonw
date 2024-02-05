@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - 2024-02-05
+
 [llm-sentence-transformers 0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - 2024-02-04
 
 [datasette-homepage-table 0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - 2024-01-31
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gpt4all 0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - 2024-01-24
 
 [datasette-granian 0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - 2024-01-23
-
-[datasette-proxy-url 0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - 2024-01-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
