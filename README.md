@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a8](https://github.com/simonw/datasette/releases/tag/1.0a8) - 2024-02-07
+
 [shot-scraper 1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - 2024-02-05
 
 [llm-sentence-transformers 0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - 2024-02-04
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm 0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - 2024-01-27
 
 [llm-gpt4all 0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - 2024-01-24
-
-[datasette-granian 0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - 2024-01-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Datasette 1.0a8: JavaScript plugins, new plugin hooks and plugin configuration in datasette.yaml](https://simonwillison.net/2024/Feb/7/datasette-1a8/) - 2024-02-07
+
 [LLM 0.13: The annotated release notes](https://simonwillison.net/2024/Jan/26/llm/) - 2024-01-26
 
 [Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes/) - 2024-01-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Publish Python packages to PyPI with a python-lib cookiecutter template and GitHub Actions](https://simonwillison.net/2024/Jan/16/python-lib-pypi/) - 2024-01-16
 
 [What I should have said about the term Artificial Intelligence](https://simonwillison.net/2024/Jan/9/what-i-should-have-said-about-ai/) - 2024-01-09
-
-[Weeknotes: Page caching and custom templates for Datasette Cloud](https://simonwillison.net/2024/Jan/7/page-caching-and-custom-templates-for-datasette-cloud/) - 2024-01-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

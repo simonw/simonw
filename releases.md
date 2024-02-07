@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1447<!-- releases_count ends --> releases across <!-- project_count starts -->247<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1448<!-- releases_count ends --> releases across <!-- project_count starts -->247<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a8](https://github.com/simonw/datasette/releases/tag/1.0a8) - ([135 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-07
+<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - ([29 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-02-05
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2024-02-04
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1447<!-- releases_count ends --> releases 
 <br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
 <br />Datasette plugin that adds a custom SQL function for haversine distances
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.6](https://github.com/simonw/datasette/releases/tag/0.64.6) - ([134 releases total](https://github.com/simonw/datasette/releases)) - 2023-12-22
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-shell](https://github.com/simonw/sqlite-utils-shell)**: [0.3](https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/sqlite-utils-shell/releases)) - 2023-12-21
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
