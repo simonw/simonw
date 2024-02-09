@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Creating GitHub repository labels with an Actions workflow](https://til.simonwillison.net/github-actions/creating-github-labels) - 2024-02-09
+
 [Exploring ColBERT with RAGatouille](https://til.simonwillison.net/llms/colbert-ragatouille) - 2024-01-28
 
 [Logging OpenAI API requests and responses using HTTPX](https://til.simonwillison.net/httpx/openai-log-requests-responses) - 2024-01-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using pprint() to print dictionaries while preserving their key order](https://til.simonwillison.net/python/pprint-no-sort-dicts) - 2024-01-15
 
 [Using expect() to wait for a selector to match multiple items](https://til.simonwillison.net/playwright/expect-selector-count) - 2024-01-13
-
-[literalinclude with markers for showing code in documentation](https://til.simonwillison.net/sphinx/literalinclude-with-markers) - 2024-01-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
