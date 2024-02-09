@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1449<!-- releases_count ends --> releases across <!-- project_count starts -->248<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1450<!-- releases_count ends --> releases across <!-- project_count starts -->249<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
+<br />Enrich data with a custom JavaScript function
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
 <br />Log Datasette events to a database table
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a8](https://github.com/simonw/datasette/releases/tag/1.0a8) - ([135 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-07
