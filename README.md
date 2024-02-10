@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: a Datasette release, an LLM release and a bunch of new plugins](https://simonwillison.net/2024/Feb/9/weeknotes/) - 2024-02-09
 
+[Datasette 1.0a8: JavaScript plugins, new plugin hooks and plugin configuration in datasette.yaml](https://simonwillison.net/2024/Feb/7/datasette-1a8/) - 2024-02-07
+
+[LLM 0.13: The annotated release notes](https://simonwillison.net/2024/Jan/26/llm/) - 2024-01-26
+
+[Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes/) - 2024-01-21
+
+[Talking about Open Source LLMs on Oxide and Friends](https://simonwillison.net/2024/Jan/17/oxide-and-friends/) - 2024-01-17
+
+[Publish Python packages to PyPI with a python-lib cookiecutter template and GitHub Actions](https://simonwillison.net/2024/Jan/16/python-lib-pypi/) - 2024-01-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
