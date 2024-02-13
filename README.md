@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Ethernet over existing coaxial cable](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable) - 2024-02-13
+
 [Piping from rg to llm to answer questions about code](https://til.simonwillison.net/llms/rg-pipe-llm-trick) - 2024-02-11
 
 [Creating GitHub repository labels with an Actions workflow](https://til.simonwillison.net/github-actions/creating-github-labels) - 2024-02-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Logging OpenAI API requests and responses using HTTPX](https://til.simonwillison.net/httpx/openai-log-requests-responses) - 2024-01-26
 
 [Publish releases to PyPI from GitHub Actions without a password or token](https://til.simonwillison.net/pypi/pypi-releases-from-github) - 2024-01-15
-
-[Using pprint() to print dictionaries while preserving their key order](https://til.simonwillison.net/python/pprint-no-sort-dicts) - 2024-01-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
