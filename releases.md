@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1450<!-- releases_count ends --> releases across <!-- project_count starts -->249<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1451<!-- releases_count ends --> releases across <!-- project_count starts -->249<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - ([16 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-14
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
 <br />Enrich data with a custom JavaScript function
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1450<!-- releases_count ends --> releases 
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 <br />Build a directory full of files into a SQLite database
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a7](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7) - ([15 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-01-13
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
