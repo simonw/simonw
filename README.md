@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-scribe 0.1a2](https://github.com/datasette/datasette-scribe/releases/tag/0.1a2) - 2024-02-14
+
 [datasette-auth-tokens 0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - 2024-02-14
 
 [datasette-enrichments-quickjs 0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - 2024-02-04
 
 [datasette-homepage-table 0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - 2024-01-31
-
-[datasette-upload-csvs 0.9](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9) - 2024-01-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
