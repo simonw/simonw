@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1455<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1456<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a4](https://github.com/datasette/datasette-scribe/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-16
+<br />None
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
 <br />Geocoding and reverse geocoding using OpenCage
-* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a3](https://github.com/datasette/datasette-scribe/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-14
-<br />None
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - ([16 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-14
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
