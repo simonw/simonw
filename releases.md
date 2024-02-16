@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1456<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1457<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a9](https://github.com/simonw/datasette/releases/tag/1.0a9) - ([136 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-16
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a4](https://github.com/datasette/datasette-scribe/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-16
 <br />None
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1456<!-- releases_count ends --> releases 
 <br />Enrich data with a custom JavaScript function
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
 <br />Log Datasette events to a database table
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a8](https://github.com/simonw/datasette/releases/tag/1.0a8) - ([135 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-07
-<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - ([29 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-02-05
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2024-02-04
