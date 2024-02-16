@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments-opencage 0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - 2024-02-16
+
 [datasette-scribe 0.1a3](https://github.com/datasette/datasette-scribe/releases/tag/0.1a3) - 2024-02-14
 
 [datasette-auth-tokens 0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - 2024-02-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [shot-scraper 1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - 2024-02-05
 
 [llm-sentence-transformers 0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - 2024-02-04
-
-[datasette-homepage-table 0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - 2024-01-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

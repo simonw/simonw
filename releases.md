@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1454<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1455<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
+<br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a3](https://github.com/datasette/datasette-scribe/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-14
 <br />None
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - ([16 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-14
@@ -77,8 +79,6 @@ Listing <!-- releases_count starts -->1454<!-- releases_count ends --> releases 
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
 <br />SQL statistics functions for Datasette
-* **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1) - 2023-11-30
-<br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-enrichments-re2](https://github.com/datasette/datasette-enrichments-re2)**: [0.1](https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-re2/releases)) - 2023-11-30
 <br />Enrich data using regular expressions powered by re2
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
