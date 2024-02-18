@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-studio 0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
+
 [datasette-unsafe-actor-debug 0.1](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.1) - 2024-02-18
 
 [datasette 1.0a10](https://github.com/simonw/datasette/releases/tag/1.0a10) - 2024-02-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments-quickjs 0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
 
 [datasette-events-db 0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
-
-[shot-scraper 1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - 2024-02-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
