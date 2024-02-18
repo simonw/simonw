@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1457<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1458<!-- releases_count ends --> releases across <!-- project_count starts -->250<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a9](https://github.com/simonw/datasette/releases/tag/1.0a9) - ([136 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-16
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a10](https://github.com/simonw/datasette/releases/tag/1.0a10) - ([137 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-18
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a4](https://github.com/datasette/datasette-scribe/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-16
 <br />None
