@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-studio 0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
+[datasette-unsafe-actor-debug 0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - 2024-02-18
 
-[datasette-unsafe-actor-debug 0.1](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.1) - 2024-02-18
+[datasette-studio 0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
 
 [datasette 1.0a10](https://github.com/simonw/datasette/releases/tag/1.0a10) - 2024-02-18
 
