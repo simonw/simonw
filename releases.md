@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1462<!-- releases_count ends --> releases across <!-- project_count starts -->252<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1463<!-- releases_count ends --> releases across <!-- project_count starts -->252<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a11](https://github.com/simonw/datasette/releases/tag/1.0a11) - ([138 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-19
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0) - ([19 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-02-18
 <br />Datasette plugin for modifying table schemas
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a10](https://github.com/simonw/datasette/releases/tag/1.0a10) - ([137 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-18
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a4](https://github.com/datasette/datasette-scribe/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-16
 <br />None
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
