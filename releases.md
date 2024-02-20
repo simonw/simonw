@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1463<!-- releases_count ends --> releases across <!-- project_count starts -->252<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1464<!-- releases_count ends --> releases across <!-- project_count starts -->252<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a11](https://github.com/simonw/datasette/releases/tag/1.0a11) - ([138 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-19
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0) - ([19 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-02-18
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1463<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
 <br />Geocoding and reverse geocoding using OpenCage
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a8](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8) - ([16 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-14
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
 <br />Enrich data with a custom JavaScript function
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
