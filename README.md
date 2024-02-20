@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-events-forward 0.1a0](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a0) - 2024-02-20
+[datasette-events-forward 0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - 2024-02-20
 
 [datasette-auth-tokens 0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - 2024-02-20
 

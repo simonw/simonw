@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1465<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1466<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a0](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a0) - 2024-02-20
+* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
 <br />Datasette plugin for authenticating access using API tokens
