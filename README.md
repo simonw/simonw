@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running a scheduled function on Val Town to import Atom feeds into Datasette Cloud](https://til.simonwillison.net/valtown/scheduled) - 2024-02-21
+
 [Getting Python MD5 to work with FIPS systems](https://til.simonwillison.net/python/md5-fips) - 2024-02-14
 
 [Running Ethernet over existing coaxial cable](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable) - 2024-02-13
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Creating GitHub repository labels with an Actions workflow](https://til.simonwillison.net/github-actions/creating-github-labels) - 2024-02-09
 
 [Exploring ColBERT with RAGatouille](https://til.simonwillison.net/llms/colbert-ragatouille) - 2024-01-28
-
-[Logging OpenAI API requests and responses using HTTPX](https://til.simonwillison.net/httpx/openai-log-requests-responses) - 2024-01-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
