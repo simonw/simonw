@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1466<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1467<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
+<br />None
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1466<!-- releases_count ends --> releases 
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
-* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a4](https://github.com/datasette/datasette-scribe/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-16
-<br />None
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
