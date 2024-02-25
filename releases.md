@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1467<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1468<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.3](https://github.com/simonw/dclient/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-25
+<br />A client CLI utility for Datasette instances
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
 <br />None
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
@@ -159,8 +161,6 @@ Listing <!-- releases_count starts -->1467<!-- releases_count ends --> releases 
 <br />Plugin adding a jq() SQL function to sqlite-utils
 * **[sqlite-utils-litecli](https://github.com/simonw/sqlite-utils-litecli)**: [0.1.1](https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-utils-litecli/releases)) - 2023-07-26
 <br />Interactive shell for sqlite-utils using litecli
-* **[dclient](https://github.com/simonw/dclient)**: [0.2](https://github.com/simonw/dclient/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/dclient/releases)) - 2023-07-24
-<br />A client CLI utility for Datasette instances
 * **[asgi-replay](https://github.com/simonw/asgi-replay)**: [0.1a0](https://github.com/simonw/asgi-replay/releases/tag/0.1a0) - 2023-07-24
 <br />Record and replay ASGI web page loads
 * **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
