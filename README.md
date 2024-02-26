@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-mistral 0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - 2024-02-26
+
 [dclient 0.3](https://github.com/simonw/dclient/releases/tag/0.3) - 2024-02-25
 
 [datasette-scribe 0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - 2024-02-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-edit-schema 0.8a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0) - 2024-02-18
 
 [datasette-unsafe-actor-debug 0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - 2024-02-18
-
-[datasette-studio 0.1a0](https://github.com/datasette/datasette-studio/releases/tag/0.1a0) - 2024-02-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
