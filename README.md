@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Getting ready for NICAR](https://simonwillison.net/2024/Feb/27/weeknotes-getting-ready-for-nicar/) - 2024-02-27
+
 [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/) - 2024-02-21
 
 [Weeknotes: a Datasette release, an LLM release and a bunch of new plugins](https://simonwillison.net/2024/Feb/9/weeknotes/) - 2024-02-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [LLM 0.13: The annotated release notes](https://simonwillison.net/2024/Jan/26/llm/) - 2024-01-26
 
 [Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes/) - 2024-01-21
-
-[Talking about Open Source LLMs on Oxide and Friends](https://simonwillison.net/2024/Jan/17/oxide-and-friends/) - 2024-01-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
