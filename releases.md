@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1469<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1470<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3](https://github.com/simonw/datasette-write/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-02-27
+<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-02-26
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[dclient](https://github.com/simonw/dclient)**: [0.3](https://github.com/simonw/dclient/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-25
@@ -365,8 +367,6 @@ Listing <!-- releases_count starts -->1469<!-- releases_count ends --> releases 
 <br />Expose the Datasette request object to custom templates
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)**: [0.22](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22) - ([28 releases total](https://github.com/dogsheep/twitter-to-sqlite/releases)) - 2021-09-21
 <br />Save data from Twitter to a SQLite database
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.2](https://github.com/simonw/datasette-write/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-write/releases)) - 2021-09-11
-<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.2](https://github.com/simonw/datasette-schema-versions/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2021-09-11
 <br />Datasette plugin that shows the schema version of every attached database
 * **[pids](https://github.com/simonw/pids)**: [0.1.2](https://github.com/simonw/pids/releases/tag/0.1.2) - 2021-09-07
