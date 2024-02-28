@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1471<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1472<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2](https://github.com/simonw/datasette-explain/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
+<br />Explain and validate SQL queries as you type them into Datasette
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-28
 <br />A client CLI utility for Datasette instances
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3](https://github.com/simonw/datasette-write/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-02-27
@@ -191,8 +193,6 @@ Listing <!-- releases_count starts -->1471<!-- releases_count ends --> releases 
 <br />Download ESM modules from npm and jsdelivr
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
 <br />A tool for creating credentials for accessing S3 buckets
-* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.1a2](https://github.com/simonw/datasette-explain/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-explain/releases)) - 2023-04-24
-<br />Explain and validate SQL queries as you type them into Datasette
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
