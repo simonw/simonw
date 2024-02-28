@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[dclient 0.4](https://github.com/simonw/dclient/releases/tag/0.4) - 2024-02-28
+
 [datasette-write 0.3](https://github.com/simonw/datasette-write/releases/tag/0.3) - 2024-02-27
 
 [llm-mistral 0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - 2024-02-26
-
-[dclient 0.3](https://github.com/simonw/dclient/releases/tag/0.3) - 2024-02-25
 
 [datasette-scribe 0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - 2024-02-23
 

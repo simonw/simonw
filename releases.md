@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1470<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1471<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-28
+<br />A client CLI utility for Datasette instances
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3](https://github.com/simonw/datasette-write/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-02-27
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-02-26
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[dclient](https://github.com/simonw/dclient)**: [0.3](https://github.com/simonw/dclient/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-25
-<br />A client CLI utility for Datasette instances
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
 <br />None
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
