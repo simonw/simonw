@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1472<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1473<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2](https://github.com/simonw/datasette-explain/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-28
 <br />A client CLI utility for Datasette instances

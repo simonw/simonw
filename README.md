@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-explain 0.2](https://github.com/simonw/datasette-explain/releases/tag/0.2) - 2024-02-28
+[datasette-explain 0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - 2024-02-28
 
 [dclient 0.4](https://github.com/simonw/dclient/releases/tag/0.4) - 2024-02-28
 
