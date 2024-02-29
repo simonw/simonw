@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1475<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1476<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a12](https://github.com/simonw/datasette/releases/tag/1.0a12) - ([139 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-29
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2024-02-29
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1475<!-- releases_count ends --> releases 
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a11](https://github.com/simonw/datasette/releases/tag/1.0a11) - ([138 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-19
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0) - ([19 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-02-18
 <br />Datasette plugin for modifying table schemas
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
