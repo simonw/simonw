@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1473<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1474<!-- releases_count ends --> releases across <!-- project_count starts -->253<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2024-02-29
+<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-02-28
@@ -287,8 +289,6 @@ Listing <!-- releases_count starts -->1473<!-- releases_count ends --> releases 
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[s3-ocr](https://github.com/simonw/s3-ocr)**: [0.6.3](https://github.com/simonw/s3-ocr/releases/tag/0.6.3) - ([9 releases total](https://github.com/simonw/s3-ocr/releases)) - 2022-08-10
 <br />Tools for running OCR against files stored in S3
-* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2022-08-05
-<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-sqlite-fts4](https://github.com/simonw/datasette-sqlite-fts4)**: [0.3.2](https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2) - ([2 releases total](https://github.com/simonw/datasette-sqlite-fts4/releases)) - 2022-07-31
 <br />Datasette plugin that adds custom SQL functions for working with SQLite FTS4
 * **[sqlite-fts4](https://github.com/simonw/sqlite-fts4)**: [1.0.3](https://github.com/simonw/sqlite-fts4/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/sqlite-fts4/releases)) - 2022-07-30

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-scale-to-zero 0.3](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3) - 2024-02-29
+
 [datasette-explain 0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - 2024-02-28
 
 [dclient 0.4](https://github.com/simonw/dclient/releases/tag/0.4) - 2024-02-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-events-forward 0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - 2024-02-20
 
 [datasette-auth-tokens 0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - 2024-02-20
-
-[datasette 1.0a11](https://github.com/simonw/datasette/releases/tag/1.0a11) - 2024-02-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
