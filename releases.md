@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1479<!-- releases_count ends --> releases across <!-- project_count starts -->254<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1480<!-- releases_count ends --> releases across <!-- project_count starts -->255<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a0](https://github.com/datasette/datasette-tail/releases/tag/0.1a0) - 2024-03-01
+<br />Tools for tailing your database
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a0](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a0) - 2024-03-01
 <br />Sum the values in numeric Datasette columns
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.3](https://github.com/simonw/datasette-schema-versions/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2024-03-01
