@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using packages from JSR with esbuild](https://til.simonwillison.net/javascript/jsr-esbuild) - 2024-03-02
+
 [Tracking SQLite table history using a JSON audit log](https://til.simonwillison.net/sqlite/json-audit-log) - 2024-02-27
 
 [Running a scheduled function on Val Town to import Atom feeds into Datasette Cloud](https://til.simonwillison.net/valtown/scheduled) - 2024-02-21
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running Ethernet over existing coaxial cable](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable) - 2024-02-13
 
 [Piping from rg to llm to answer questions about code](https://til.simonwillison.net/llms/rg-pipe-llm-trick) - 2024-02-11
-
-[Creating GitHub repository labels with an Actions workflow](https://til.simonwillison.net/github-actions/creating-github-labels) - 2024-02-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
