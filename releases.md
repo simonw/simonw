@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1480<!-- releases_count ends --> releases across <!-- project_count starts -->255<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1481<!-- releases_count ends --> releases across <!-- project_count starts -->255<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.2](https://github.com/simonw/datasette-expose-env/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-expose-env/releases)) - 2024-03-03
+<br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a0](https://github.com/datasette/datasette-tail/releases/tag/0.1a0) - 2024-03-01
 <br />Tools for tailing your database
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a0](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a0) - 2024-03-01
@@ -309,8 +311,6 @@ Listing <!-- releases_count starts -->1480<!-- releases_count ends --> releases 
 <br />Datasette plugin that redirects all non-https requests to https
 * **[datasette-unsafe-expose-env](https://github.com/simonw/datasette-unsafe-expose-env)**: [0.1.1](https://github.com/simonw/datasette-unsafe-expose-env/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-unsafe-expose-env/releases)) - 2022-07-03
 <br />Datasette plugin to expose some environment variables at /-/env for debugging
-* **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.1](https://github.com/simonw/datasette-expose-env/releases/tag/0.1) - 2022-07-03
-<br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2](https://github.com/simonw/datasette-packages/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-packages/releases)) - 2022-07-03
 <br />Show a list of currently installed Python packages
 * **[datasette-low-disk-space-hook](https://github.com/simonw/datasette-low-disk-space-hook)**: [0.1](https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-low-disk-space-hook/releases)) - 2022-06-17
