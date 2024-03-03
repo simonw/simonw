@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/) - 2024-03-03
+
 [Weeknotes: Getting ready for NICAR](https://simonwillison.net/2024/Feb/27/weeknotes-getting-ready-for-nicar/) - 2024-02-27
 
 [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/) - 2024-02-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 1.0a8: JavaScript plugins, new plugin hooks and plugin configuration in datasette.yaml](https://simonwillison.net/2024/Feb/7/datasette-1a8/) - 2024-02-07
 
 [LLM 0.13: The annotated release notes](https://simonwillison.net/2024/Jan/26/llm/) - 2024-01-26
-
-[Weeknotes: datasette-test, datasette-build, PSF board retreat](https://simonwillison.net/2024/Jan/21/weeknotes/) - 2024-01-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
