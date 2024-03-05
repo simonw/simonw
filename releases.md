@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1482<!-- releases_count ends --> releases across <!-- project_count starts -->256<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1484<!-- releases_count ends --> releases across <!-- project_count starts -->256<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.2](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-sqlite-authorizer/releases)) - 2024-03-05
+<br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
+* **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases)) - 2024-03-05
+<br />Debug SQLite authorizer calls
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.1](https://github.com/simonw/llm-claude-3/releases/tag/0.1) - 2024-03-04
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.2](https://github.com/simonw/datasette-expose-env/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-expose-env/releases)) - 2024-03-03
@@ -79,8 +83,6 @@ Listing <!-- releases_count starts -->1482<!-- releases_count ends --> releases 
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
 <br />Django app for building dashboards using raw SQL queries
-* **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1) - 2023-12-14
-<br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a0](https://github.com/simonw/llm-gemini/releases/tag/0.1a0) - 2023-12-13
@@ -127,8 +129,6 @@ Listing <!-- releases_count starts -->1482<!-- releases_count ends --> releases 
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
 <br />Upload SQLite database files to Datasette
-* **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1) - 2023-09-20
-<br />Debug SQLite authorizer calls
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
