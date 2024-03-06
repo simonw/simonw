@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[pypi-to-sqlite 0.2.3](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.3) - 2024-03-06
+
 [datasette-uptime 0.1.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1.1) - 2024-03-06
 
 [datasette-sqlite-authorizer 0.2](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2) - 2024-03-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-tail 0.1a0](https://github.com/datasette/datasette-tail/releases/tag/0.1a0) - 2024-03-01
 
 [datasette-column-sum 0.1a0](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a0) - 2024-03-01
-
-[datasette-schema-versions 0.3](https://github.com/simonw/datasette-schema-versions/releases/tag/0.3) - 2024-03-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
