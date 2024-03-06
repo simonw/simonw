@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1485<!-- releases_count ends --> releases across <!-- project_count starts -->257<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1486<!-- releases_count ends --> releases across <!-- project_count starts -->257<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-uptime](https://github.com/datasette/datasette-uptime)**: [0.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1) - 2024-03-06
+* **[datasette-uptime](https://github.com/datasette/datasette-uptime)**: [0.1.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-uptime/releases)) - 2024-03-06
 <br />Datasette plugin showing uptime at /-/uptime
 * **[datasette-sqlite-authorizer](https://github.com/datasette/datasette-sqlite-authorizer)**: [0.2](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-sqlite-authorizer/releases)) - 2024-03-05
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism

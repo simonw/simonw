@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-uptime 0.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1) - 2024-03-06
+[datasette-uptime 0.1.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1.1) - 2024-03-06
 
 [datasette-sqlite-authorizer 0.2](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2) - 2024-03-05
 
