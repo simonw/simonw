@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1492<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1493<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a1](https://github.com/datasette/datasette-extract/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-07
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a2](https://github.com/datasette/datasette-extract/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-07
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.2](https://github.com/simonw/llm-claude-3/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-07
 <br />LLM plugin for interacting with the Claude 3 family of models
