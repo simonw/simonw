@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-extract 0.1a0](https://github.com/datasette/datasette-extract/releases/tag/0.1a0) - 2024-03-07
+[datasette-extract 0.1a1](https://github.com/datasette/datasette-extract/releases/tag/0.1a1) - 2024-03-07
+
+[llm-claude-3 0.2](https://github.com/simonw/llm-claude-3/releases/tag/0.2) - 2024-03-07
 
 [datasette-saved-queries 0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - 2024-03-07
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-sqlite-authorizer 0.2](https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2) - 2024-03-05
 
 [datasette-sqlite-debug-authorizer 0.1.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1.1) - 2024-03-05
-
-[llm-claude-3 0.1](https://github.com/simonw/llm-claude-3/releases/tag/0.1) - 2024-03-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

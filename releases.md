@@ -1,10 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1490<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1492<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a0](https://github.com/datasette/datasette-extract/releases/tag/0.1a0) - 2024-03-07
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a1](https://github.com/datasette/datasette-extract/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-07
 <br />Import unstructured data (text and images) into structured tables
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.2](https://github.com/simonw/llm-claude-3/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-07
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1](https://github.com/datasette/datasette-create-view/releases/tag/0.1) - 2024-03-07
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1490<!-- releases_count ends --> releases 
 <br />Configure Datasette to block operations using the SQLIte set_authorizer mechanism
 * **[datasette-sqlite-debug-authorizer](https://github.com/datasette/datasette-sqlite-debug-authorizer)**: [0.1.1](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases)) - 2024-03-05
 <br />Debug SQLite authorizer calls
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.1](https://github.com/simonw/llm-claude-3/releases/tag/0.1) - 2024-03-04
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-expose-env](https://github.com/simonw/datasette-expose-env)**: [0.2](https://github.com/simonw/datasette-expose-env/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-expose-env/releases)) - 2024-03-03
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a0](https://github.com/datasette/datasette-tail/releases/tag/0.1a0) - 2024-03-01
