@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1487<!-- releases_count ends --> releases across <!-- project_count starts -->257<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1488<!-- releases_count ends --> releases across <!-- project_count starts -->258<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1](https://github.com/datasette/datasette-create-view/releases/tag/0.1) - 2024-03-07
+<br />Create a SQL view from a query
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.3](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.3) - ([4 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2024-03-06
 <br />Load data about Python packages from PyPI into SQLite
 * **[datasette-uptime](https://github.com/datasette/datasette-uptime)**: [0.1.1](https://github.com/datasette/datasette-uptime/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-uptime/releases)) - 2024-03-06
