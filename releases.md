@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1489<!-- releases_count ends --> releases across <!-- project_count starts -->258<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1490<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a0](https://github.com/datasette/datasette-extract/releases/tag/0.1a0) - 2024-03-07
+<br />Import unstructured data (text and images) into structured tables
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1](https://github.com/datasette/datasette-create-view/releases/tag/0.1) - 2024-03-07
