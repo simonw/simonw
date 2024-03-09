@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1493<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1494<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a1](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-03-09
+<br />Enrich data with a custom JavaScript function
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a2](https://github.com/datasette/datasette-extract/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-07
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1493<!-- releases_count ends --> releases 
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
 <br />Geocoding and reverse geocoding using OpenCage
-* **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a0](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0) - 2024-02-09
-<br />Enrich data with a custom JavaScript function
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
 <br />Log Datasette events to a database table
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - ([29 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-02-05
