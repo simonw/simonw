@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1494<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1495<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a1](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-03-09
 <br />Enrich data with a custom JavaScript function
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1494<!-- releases_count ends --> releases 
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a1](https://github.com/datasette/datasette-studio/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-02-29
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a12](https://github.com/simonw/datasette/releases/tag/1.0a12) - ([139 releases total](https://github.com/simonw/datasette/releases)) - 2024-02-29
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2024-02-29
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
