@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-claude-3 0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - 2024-03-13
+
 [datasette-extract 0.1a3](https://github.com/datasette/datasette-extract/releases/tag/0.1a3) - 2024-03-13
 
 [datasette 1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - 2024-03-13
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments-quickjs 0.1a1](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a1) - 2024-03-09
 
 [dclient 0.4](https://github.com/simonw/dclient/releases/tag/0.4) - 2024-03-08
-
-[llm-claude-3 0.2](https://github.com/simonw/llm-claude-3/releases/tag/0.2) - 2024-03-07
 
 [datasette-saved-queries 0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - 2024-03-07
 

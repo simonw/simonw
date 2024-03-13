@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1496<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1497<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a3](https://github.com/datasette/datasette-extract/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-13
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1496<!-- releases_count ends --> releases 
 <br />Enrich data with a custom JavaScript function
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.2](https://github.com/simonw/llm-claude-3/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-07
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
 <br />Datasette plugin that lets users save and execute queries
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1](https://github.com/datasette/datasette-create-view/releases/tag/0.1) - 2024-03-07
