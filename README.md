@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Generating URLs to a Gmail compose window](https://til.simonwillison.net/google/gmail-compose-url) - 2024-03-13
+
 [Using packages from JSR with esbuild](https://til.simonwillison.net/javascript/jsr-esbuild) - 2024-03-02
 
 [Tracking SQLite table history using a JSON audit log](https://til.simonwillison.net/sqlite/json-audit-log) - 2024-02-27
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Getting Python MD5 to work with FIPS systems](https://til.simonwillison.net/python/md5-fips) - 2024-02-14
 
 [Running Ethernet over existing coaxial cable](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable) - 2024-02-13
-
-[Piping from rg to llm to answer questions about code](https://til.simonwillison.net/llms/rg-pipe-llm-trick) - 2024-02-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
