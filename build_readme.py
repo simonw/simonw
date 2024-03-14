@@ -132,7 +132,7 @@ def fetch_blog_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["link"].split("#")[0],
+            "url": entry["link"].split("#")[0].replace(".net", ".org"),
             "published": entry["published"].split("T")[0],
         }
         for entry in entries
@@ -188,7 +188,7 @@ if __name__ == "__main__":
     tils = fetch_tils()
     tils_md = "\n\n".join(
         [
-            "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
+            "[{title}](https://til.simonwillison.org/{topic}/{slug}) - {created_at}".format(
                 title=til["title"],
                 topic=til["topic"],
                 slug=til["slug"],
