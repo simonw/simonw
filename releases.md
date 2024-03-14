@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1497<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1500<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - ([16 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-03-14
+<br />Datasette plugin for uploading CSV files and converting them to database tables
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.1](https://github.com/simonw/datasette-write/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-14
+<br />Datasette plugin providing a UI for executing SQL writes against the database
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1) - ([20 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-03-14
+<br />Datasette plugin for modifying table schemas
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a3](https://github.com/datasette/datasette-extract/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-13
@@ -39,8 +45,6 @@ Listing <!-- releases_count starts -->1497<!-- releases_count ends --> releases 
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3](https://github.com/simonw/datasette-write/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-02-27
-<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-02-26
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
@@ -49,8 +53,6 @@ Listing <!-- releases_count starts -->1497<!-- releases_count ends --> releases 
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a0](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0) - ([19 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-02-18
-<br />Datasette plugin for modifying table schemas
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1497<!-- releases_count ends --> releases 
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31
 <br />Show a specific Datasette table on the homepage
-* **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9) - ([15 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-01-30
-<br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[llm-embed-onnx](https://github.com/simonw/llm-embed-onnx)**: [0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28
 <br />Run embedding models using ONNX
 * **[llm](https://github.com/simonw/llm)**: [0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm/releases)) - 2024-01-27
