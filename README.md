@@ -1,4 +1,4 @@
-Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/) or <a href="https://fedi.simonwillison.net/@simon">follow `@simon@simonwillison.net` on Mastodon</a>.
+Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.org/)<!-- or <a href="https://fedi.simonwillison.net/@simon">follow `@simon@simonwillison.net` on Mastodon</a>-->.
 
 <table><tr><td valign="top" width="33%">
 
