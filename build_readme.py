@@ -119,7 +119,7 @@ def fetch_tils():
         from til order by created_utc desc limit 6
     """.strip()
     return httpx.get(
-        "https://til.simonwillison.net/tils.json",
+        "https://til.simonwillison.org/tils.json",
         params={
             "sql": sql,
             "_shape": "array",
@@ -128,7 +128,7 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
+    entries = feedparser.parse("https://simonwillison.org/atom/entries/")["entries"]
     return [
         {
             "title": entry["title"],
