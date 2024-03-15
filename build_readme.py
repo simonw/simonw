@@ -119,7 +119,7 @@ def fetch_tils():
         from til order by created_utc desc limit 6
     """.strip()
     return httpx.get(
-        "https://til.simonwillison.org/tils.json",
+        "https://til.simonwillison.net/tils.json",
         params={
             "sql": sql,
             "_shape": "array",
@@ -128,11 +128,11 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://simonwillison.org/atom/entries/")["entries"]
+    entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
     return [
         {
             "title": entry["title"],
-            "url": entry["link"].split("#")[0].replace(".net", ".org"),
+            "url": entry["link"].split("#")[0],
             "published": entry["published"].split("T")[0],
         }
         for entry in entries
@@ -188,7 +188,7 @@ if __name__ == "__main__":
     tils = fetch_tils()
     tils_md = "\n\n".join(
         [
-            "[{title}](https://til.simonwillison.org/{topic}/{slug}) - {created_at}".format(
+            "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
                 title=til["title"],
                 topic=til["topic"],
                 slug=til["slug"],
