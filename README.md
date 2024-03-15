@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-export-database 0.1.1](https://github.com/datasette/datasette-export-database/releases/tag/0.1.1) - 2024-03-15
+[datasette-export-database 0.2](https://github.com/datasette/datasette-export-database/releases/tag/0.2) - 2024-03-15
 
 [datasette-configure-fts 1.1.3](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.3) - 2024-03-14
 
