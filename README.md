@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments 0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - 2024-03-17
+
 [datasette-packages 0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - 2024-03-16
 
 [datasette-export-database 0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - 2024-03-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-edit-schema 0.8a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1) - 2024-03-14
 
 [llm-claude-3 0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - 2024-03-13
-
-[datasette-extract 0.1a3](https://github.com/datasette/datasette-extract/releases/tag/0.1a3) - 2024-03-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
+
 [Redirecting a whole domain with Cloudflare](https://til.simonwillison.net/cloudflare/redirect-whole-domain) - 2024-03-15
 
 [SQLite timestamps with floating point seconds](https://til.simonwillison.net/sqlite/floating-point-seconds) - 2024-03-14
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using packages from JSR with esbuild](https://til.simonwillison.net/javascript/jsr-esbuild) - 2024-03-02
 
 [Tracking SQLite table history using a JSON audit log](https://til.simonwillison.net/sqlite/json-audit-log) - 2024-02-27
-
-[Running a scheduled function on Val Town to import Atom feeds into Datasette Cloud](https://til.simonwillison.net/valtown/scheduled) - 2024-02-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

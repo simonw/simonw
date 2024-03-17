@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1506<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1507<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - ([10 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-17
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
 <br />Show a list of currently installed Python packages
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - ([4 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2024-03-16
@@ -125,8 +127,6 @@ Listing <!-- releases_count starts -->1506<!-- releases_count ends --> releases 
 <br />SQL statistics functions for Datasette
 * **[datasette-enrichments-re2](https://github.com/datasette/datasette-enrichments-re2)**: [0.1](https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-re2/releases)) - 2023-11-30
 <br />Enrich data using regular expressions powered by re2
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.2) - ([9 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2023-11-29
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-pretty-json](https://github.com/simonw/datasette-pretty-json)**: [0.3](https://github.com/simonw/datasette-pretty-json/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-pretty-json/releases)) - 2023-11-28
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
