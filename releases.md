@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1507<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1508<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
+<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - ([10 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-17
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1507<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - ([16 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-03-14
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.1](https://github.com/simonw/datasette-write/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-14
-<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1) - ([20 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-03-14
 <br />Datasette plugin for modifying table schemas
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
