@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1508<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1509<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-03-18
+<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - ([10 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-17
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->1508<!-- releases_count ends --> releases 
 <br />Sum the values in numeric Datasette columns
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.3](https://github.com/simonw/datasette-schema-versions/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2024-03-01
 <br />Datasette plugin that shows the schema version of every attached database
-* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a1](https://github.com/datasette/datasette-studio/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-02-29
-<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2024-02-29
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
