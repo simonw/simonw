@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments 0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - 2024-03-19
+
 [datasette-studio 0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - 2024-03-18
 
 [datasette-write 0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - 2024-03-18
-
-[datasette-enrichments 0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - 2024-03-17
 
 [datasette-packages 0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - 2024-03-16
 

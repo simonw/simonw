@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1509<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1510<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-03-18
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
 <br />Datasette plugin providing a UI for executing SQL writes against the database
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.3) - ([10 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-17
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
 <br />Show a list of currently installed Python packages
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - ([4 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2024-03-16
