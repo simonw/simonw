@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-paste 0.1a1](https://github.com/datasette/datasette-paste/releases/tag/0.1a1) - 2024-03-20
+
 [datasette-enrichments 0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - 2024-03-19
 
 [datasette-studio 0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - 2024-03-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-configure-fts 1.1.3](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.3) - 2024-03-14
 
 [datasette-upload-csvs 0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - 2024-03-14
-
-[datasette-edit-schema 0.8a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1) - 2024-03-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

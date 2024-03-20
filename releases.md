@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1510<!-- releases_count ends --> releases across <!-- project_count starts -->260<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1511<!-- releases_count ends --> releases across <!-- project_count starts -->261<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a1](https://github.com/datasette/datasette-paste/releases/tag/0.1a1) - 2024-03-20
+<br />Paste data to create tables in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-03-18
