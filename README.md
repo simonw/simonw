@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running self-hosted QuickJS in a browser](https://til.simonwillison.net/npm/self-hosted-quickjs) - 2024-03-20
+
 [Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
 
 [Redirecting a whole domain with Cloudflare](https://til.simonwillison.net/cloudflare/redirect-whole-domain) - 2024-03-15
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Generating URLs to a Gmail compose window](https://til.simonwillison.net/google/gmail-compose-url) - 2024-03-13
 
 [Using packages from JSR with esbuild](https://til.simonwillison.net/javascript/jsr-esbuild) - 2024-03-02
-
-[Tracking SQLite table history using a JSON audit log](https://til.simonwillison.net/sqlite/json-audit-log) - 2024-02-27
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
