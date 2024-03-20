@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Reviewing your history of public GitHub repositories using ClickHouse](https://til.simonwillison.net/clickhouse/github-public-history) - 2024-03-20
+
 [Running self-hosted QuickJS in a browser](https://til.simonwillison.net/npm/self-hosted-quickjs) - 2024-03-20
 
 [Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [SQLite timestamps with floating point seconds](https://til.simonwillison.net/sqlite/floating-point-seconds) - 2024-03-14
 
 [Generating URLs to a Gmail compose window](https://til.simonwillison.net/google/gmail-compose-url) - 2024-03-13
-
-[Using packages from JSR with esbuild](https://til.simonwillison.net/javascript/jsr-esbuild) - 2024-03-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
