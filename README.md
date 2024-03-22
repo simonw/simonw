@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Claude and ChatGPT for ad-hoc tasks, a case study](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/) - 2024-03-22
+[Claude and ChatGPT for ad-hoc tasks](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/) - 2024-03-22
 
 [Weeknotes: the aftermath of NICAR](https://simonwillison.net/2024/Mar/16/weeknotes-the-aftermath-of-nicar/) - 2024-03-16
 
