@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Google Chrome --headless mode](https://til.simonwillison.net/chrome/headless) - 2024-03-24
+
 [Reviewing your history of public GitHub repositories using ClickHouse](https://til.simonwillison.net/clickhouse/github-public-history) - 2024-03-20
 
 [Running self-hosted QuickJS in a browser](https://til.simonwillison.net/npm/self-hosted-quickjs) - 2024-03-20
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Redirecting a whole domain with Cloudflare](https://til.simonwillison.net/cloudflare/redirect-whole-domain) - 2024-03-15
 
 [SQLite timestamps with floating point seconds](https://til.simonwillison.net/sqlite/floating-point-seconds) - 2024-03-14
-
-[Generating URLs to a Gmail compose window](https://til.simonwillison.net/google/gmail-compose-url) - 2024-03-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
