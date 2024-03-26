@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
+
 [Google Chrome --headless mode](https://til.simonwillison.net/chrome/headless) - 2024-03-24
 
 [Reviewing your history of public GitHub repositories using ClickHouse](https://til.simonwillison.net/clickhouse/github-public-history) - 2024-03-20
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
 
 [Redirecting a whole domain with Cloudflare](https://til.simonwillison.net/cloudflare/redirect-whole-domain) - 2024-03-15
-
-[SQLite timestamps with floating point seconds](https://til.simonwillison.net/sqlite/floating-point-seconds) - 2024-03-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
