@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1518<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1519<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a4](https://github.com/datasette/datasette-paste/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-03-29
+<br />Paste data to create tables in Datasette
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-03-27
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1518<!-- releases_count ends --> releases 
 <br />Store and query embedding vectors in Datasette tables
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.1](https://github.com/simonw/files-to-prompt/releases/tag/0.1) - 2024-03-22
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a3](https://github.com/datasette/datasette-paste/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-03-20
-<br />Paste data to create tables in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-03-18
