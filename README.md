@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[textract-cli 0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
+
 [llm-gemini 0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - 2024-03-27
 
 [llm-cmd 0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments 0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - 2024-03-19
 
 [datasette-studio 0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - 2024-03-18
-
-[datasette-write 0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - 2024-03-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1517<!-- releases_count ends --> releases across <!-- project_count starts -->264<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1518<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
+<br />CLI for running files through AWS Textract
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-03-27
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
