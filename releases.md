@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1519<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1520<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a2](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-03-30
+<br />Store and query embedding vectors in Datasette tables
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a4](https://github.com/datasette/datasette-paste/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-03-29
 <br />Paste data to create tables in Datasette
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1519<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
 <br />Use LLM to generate and execute commands in your shell
-* **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a0](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a0) - 2024-03-26
-<br />Store and query embedding vectors in Datasette tables
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.1](https://github.com/simonw/files-to-prompt/releases/tag/0.1) - 2024-03-22
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
