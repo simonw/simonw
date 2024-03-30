@@ -25,17 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[llm cmd undo last git commit - a new plugin for LLM](https://simonwillison.net/2024/Mar/26/llm-cmd/) - 2024-03-26
 
-[Building and testing C extensions for SQLite with ChatGPT Code Interpreter](https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/) - 2024-03-23
-
-[Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/) - 2024-03-22
-
-[Weeknotes: the aftermath of NICAR](https://simonwillison.net/2024/Mar/16/weeknotes-the-aftermath-of-nicar/) - 2024-03-16
-
-[The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/) - 2024-03-08
-
-[Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/) - 2024-03-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
