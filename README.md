@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-nomic-api-embed 0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
+
 [datasette-embeddings 0.1a2](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2) - 2024-03-30
 
 [datasette-paste 0.1a4](https://github.com/datasette/datasette-paste/releases/tag/0.1a4) - 2024-03-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [files-to-prompt 0.1](https://github.com/simonw/files-to-prompt/releases/tag/0.1) - 2024-03-22
 
 [datasette-enrichments 0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - 2024-03-19
-
-[datasette-studio 0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - 2024-03-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

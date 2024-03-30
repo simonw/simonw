@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1520<!-- releases_count ends --> releases across <!-- project_count starts -->265<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1521<!-- releases_count ends --> releases across <!-- project_count starts -->266<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
+<br />Create embeddings for LLM using the Nomic API
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a2](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-03-30
 <br />Store and query embedding vectors in Datasette tables
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a4](https://github.com/datasette/datasette-paste/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-03-29
