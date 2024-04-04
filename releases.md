@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1522<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1523<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.1](https://github.com/simonw/llm-command-r/releases/tag/0.1) - 2024-04-04
+* **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-command-r/releases)) - 2024-04-04
 <br />Access the Cohere Command R family of models
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
 <br />Create embeddings for LLM using the Nomic API

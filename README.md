@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-command-r 0.1](https://github.com/simonw/llm-command-r/releases/tag/0.1) - 2024-04-04
+[llm-command-r 0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - 2024-04-04
 
 [llm-nomic-api-embed 0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
 
