@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1525<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1526<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a2](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-04-05
+<br />Enrich data with a custom JavaScript function
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - ([18 releases total](https://github.com/simonw/s3-credentials/releases)) - 2024-04-05
 <br />A tool for creating credentials for accessing S3 buckets
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-command-r/releases)) - 2024-04-04
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->1525<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a1](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-03-09
-<br />Enrich data with a custom JavaScript function
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
