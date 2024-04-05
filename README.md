@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[impaste: pasting images to piped commands on macOS](https://til.simonwillison.net/macos/impaste) - 2024-04-04
+
 [Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
 
 [Google Chrome --headless mode](https://til.simonwillison.net/chrome/headless) - 2024-03-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running self-hosted QuickJS in a browser](https://til.simonwillison.net/npm/self-hosted-quickjs) - 2024-03-20
 
 [Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
-
-[Redirecting a whole domain with Cloudflare](https://til.simonwillison.net/cloudflare/redirect-whole-domain) - 2024-03-15
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
