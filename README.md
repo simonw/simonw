@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[s3-credentials 0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - 2024-04-05
+
 [llm-command-r 0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - 2024-04-04
 
 [llm-nomic-api-embed 0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gemini 0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - 2024-03-27
 
 [llm-cmd 0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
-
-[files-to-prompt 0.1](https://github.com/simonw/files-to-prompt/releases/tag/0.1) - 2024-03-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1523<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1525<!-- releases_count ends --> releases across <!-- project_count starts -->267<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - ([18 releases total](https://github.com/simonw/s3-credentials/releases)) - 2024-04-05
+<br />A tool for creating credentials for accessing S3 buckets
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-command-r/releases)) - 2024-04-04
 <br />Access the Cohere Command R family of models
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
@@ -231,8 +233,6 @@ Listing <!-- releases_count starts -->1523<!-- releases_count ends --> releases 
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.15](https://github.com/simonw/s3-credentials/releases/tag/0.15) - ([16 releases total](https://github.com/simonw/s3-credentials/releases)) - 2023-04-30
-<br />A tool for creating credentials for accessing S3 buckets
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
