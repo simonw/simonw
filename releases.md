@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1528<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1529<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a3](https://github.com/datasette/datasette-studio/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-04-06
+<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
 <br />Paste data to create tables in Datasette
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a4](https://github.com/datasette/datasette-import/releases/tag/0.1a4) - 2024-04-06
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1528<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a2](https://github.com/datasette/datasette-studio/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-03-18
-<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
