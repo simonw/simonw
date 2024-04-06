@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-paste 0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - 2024-04-06
+
+[datasette-import 0.1a4](https://github.com/datasette/datasette-import/releases/tag/0.1a4) - 2024-04-06
+
 [datasette-enrichments-quickjs 0.1a2](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2) - 2024-04-05
 
 [s3-credentials 0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - 2024-04-05
@@ -14,11 +18,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [datasette-embeddings 0.1a2](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2) - 2024-03-30
 
-[datasette-paste 0.1a4](https://github.com/datasette/datasette-paste/releases/tag/0.1a4) - 2024-03-29
-
 [textract-cli 0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
-
-[llm-gemini 0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - 2024-03-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
