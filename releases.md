@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1533<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1534<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0](https://github.com/simonw/datasette-cors/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-08
+<br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0](https://github.com/simonw/asgi-cors/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-08
 <br />ASGI middleware for applying CORS headers to an ASGI application
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
@@ -533,8 +535,6 @@ Listing <!-- releases_count starts -->1533<!-- releases_count ends --> releases 
 <br />Import your genome into a SQLite database
 * **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-rure/releases)) - 2019-09-11
 <br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
-* **[datasette-cors](https://github.com/simonw/datasette-cors)**: [0.3](https://github.com/simonw/datasette-cors/releases/tag/0.3) - 2019-07-11
-<br />Datasette plugin for configuring CORS headers
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
 <br />Datasette plugin for working with Apple's binary plist format
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
