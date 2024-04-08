@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building files-to-prompt entirely using Claude 3 Opus](https://simonwillison.net/2024/Apr/8/files-to-prompt/) - 2024-04-08
+
 [Running OCR against PDFs and images directly in your browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/) - 2024-03-30
 
 [llm cmd undo last git commit - a new plugin for LLM](https://simonwillison.net/2024/Mar/26/llm-cmd/) - 2024-03-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/) - 2024-03-22
 
 [Weeknotes: the aftermath of NICAR](https://simonwillison.net/2024/Mar/16/weeknotes-the-aftermath-of-nicar/) - 2024-03-16
-
-[The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/) - 2024-03-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
