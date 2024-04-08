@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1532<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1533<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0](https://github.com/simonw/asgi-cors/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-08
+<br />ASGI middleware for applying CORS headers to an ASGI application
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
@@ -535,8 +537,6 @@ Listing <!-- releases_count starts -->1532<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring CORS headers
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
 <br />Datasette plugin for working with Apple's binary plist format
-* **[asgi-cors](https://github.com/simonw/asgi-cors)**: [0.3](https://github.com/simonw/asgi-cors/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/asgi-cors/releases)) - 2019-05-07
-<br />ASGI middleware for applying CORS headers to an ASGI application
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
 <br />Datasette plugin for visualizing data using Vega
 <!-- recent_releases ends -->

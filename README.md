@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asgi-cors 1.0](https://github.com/simonw/asgi-cors/releases/tag/1.0) - 2024-04-08
+
 [files-to-prompt 0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - 2024-04-08
 
 [datasette-embeddings 0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - 2024-04-08
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments-quickjs 0.1a2](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2) - 2024-04-05
 
 [s3-credentials 0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - 2024-04-05
-
-[llm-command-r 0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - 2024-04-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
