@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1529<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1530<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
+<br />Store and query embedding vectors in Datasette tables
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a3](https://github.com/datasette/datasette-studio/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-04-06
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1529<!-- releases_count ends --> releases 
 <br />Access the Cohere Command R family of models
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
 <br />Create embeddings for LLM using the Nomic API
-* **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a2](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-03-30
-<br />Store and query embedding vectors in Datasette tables
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-03-27
