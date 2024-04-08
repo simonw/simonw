@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1531<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1532<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2](https://github.com/simonw/files-to-prompt/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
+* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
 <br />Store and query embedding vectors in Datasette tables

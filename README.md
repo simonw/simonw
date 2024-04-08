@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[files-to-prompt 0.2](https://github.com/simonw/files-to-prompt/releases/tag/0.2) - 2024-04-08
+[files-to-prompt 0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - 2024-04-08
 
 [datasette-embeddings 0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - 2024-04-08
 
