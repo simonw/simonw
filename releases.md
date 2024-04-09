@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1536<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1537<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-public/releases)) - 2024-04-09
+<br />Make specific Datasette tables visible to the public
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - ([12 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-09
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a4](https://github.com/datasette/datasette-extract/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-09
@@ -289,8 +291,6 @@ Listing <!-- releases_count starts -->1536<!-- releases_count ends --> releases 
 <br />Run secret santa gift circles using Datasette
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
 <br />Datasette plugin for rendering binary data
-* **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.2](https://github.com/simonw/datasette-public/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-public/releases)) - 2022-12-02
-<br />Make specific Datasette tables visible to the public
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
 <br />Provide tables that expire after a time limit
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
