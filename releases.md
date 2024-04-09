@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1534<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1535<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a4](https://github.com/datasette/datasette-extract/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-09
+<br />Import unstructured data (text and images) into structured tables
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0](https://github.com/simonw/datasette-cors/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-08
 <br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0](https://github.com/simonw/asgi-cors/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-08
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->1534<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a3](https://github.com/datasette/datasette-extract/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-03-13
-<br />Import unstructured data (text and images) into structured tables
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13
 <br />An open source multi-tool for exploring and publishing data
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
