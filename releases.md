@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1535<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1536<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - ([12 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-09
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a4](https://github.com/datasette/datasette-extract/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-09
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0](https://github.com/simonw/datasette-cors/releases/tag/1.0) - ([2 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-08
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1535<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
 <br />Use LLM to generate and execute commands in your shell
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1) - ([11 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-03-19
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
