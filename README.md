@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Weeknotes: Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/) - 2024-04-10
+[Three major LLM releases in 24 hours (plus weeknotes)](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/) - 2024-04-10
 
 [Building files-to-prompt entirely using Claude 3 Opus](https://simonwillison.net/2024/Apr/8/files-to-prompt/) - 2024-04-08
 
