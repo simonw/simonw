@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1537<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1538<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a2](https://github.com/simonw/llm-gemini/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-04-10
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-public/releases)) - 2024-04-09
 <br />Make specific Datasette tables visible to the public
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - ([12 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-09
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1537<!-- releases_count ends --> releases 
 <br />Create embeddings for LLM using the Nomic API
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a1](https://github.com/simonw/llm-gemini/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-03-27
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
 <br />Use LLM to generate and execute commands in your shell
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
