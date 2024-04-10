@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1539<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1540<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a3](https://github.com/simonw/llm-gemini/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-04-10
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.4](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-04-10
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a2](https://github.com/simonw/llm-gemini/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-04-10
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-public/releases)) - 2024-04-09
 <br />Make specific Datasette tables visible to the public
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - ([12 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-09
