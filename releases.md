@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1542<!-- releases_count ends --> releases across <!-- project_count starts -->268<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1543<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a0](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a0) - 2024-04-16
+<br />Query databases and tables with AI assistance
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - ([3 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-12
 <br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0.1](https://github.com/simonw/asgi-cors/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-12
