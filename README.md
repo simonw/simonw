@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-query-assistant 0.1a0](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a0) - 2024-04-16
+[datasette-query-assistant 0.1a1](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a1) - 2024-04-16
 
 [datasette-cors 1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - 2024-04-12
 
