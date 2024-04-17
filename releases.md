@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1547<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1548<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.5](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-17
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17
 <br />Save OpenAI API results to a SQLite database
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2024-04-16
@@ -133,8 +135,6 @@ Listing <!-- releases_count starts -->1547<!-- releases_count ends --> releases 
 <br />Interactive shell for sqlite-utils
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [1.2](https://github.com/simonw/django-sql-dashboard/releases/tag/1.2) - ([36 releases total](https://github.com/simonw/django-sql-dashboard/releases)) - 2023-12-16
 <br />Django app for building dashboards using raw SQL queries
-* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.4](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2023-12-14
-<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
 <br />CLI tool for running text through OpenAI Text to speech
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
