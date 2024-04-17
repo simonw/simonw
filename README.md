@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[openai-to-sqlite 0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - 2024-04-17
+
 [datasette-query-assistant 0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - 2024-04-16
 
 [datasette-cors 1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - 2024-04-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-public 0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - 2024-04-09
 
 [datasette-enrichments 0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - 2024-04-09
-
-[datasette-extract 0.1a4](https://github.com/datasette/datasette-extract/releases/tag/0.1a4) - 2024-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[A script to capture frames from a QuickTime video](https://til.simonwillison.net/macos/quicktime-capture-script) - 2024-04-17
+
 [impaste: pasting images to piped commands on macOS](https://til.simonwillison.net/macos/impaste) - 2024-04-04
 
 [Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Reviewing your history of public GitHub repositories using ClickHouse](https://til.simonwillison.net/clickhouse/github-public-history) - 2024-03-20
 
 [Running self-hosted QuickJS in a browser](https://til.simonwillison.net/npm/self-hosted-quickjs) - 2024-03-20
-
-[Programmatically comparing Python version strings](https://til.simonwillison.net/python/comparing-version-numbers) - 2024-03-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>

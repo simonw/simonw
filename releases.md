@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1545<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1547<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17
+<br />Save OpenAI API results to a SQLite database
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2024-04-16
 <br />Query databases and tables with AI assistance
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - ([3 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-12
@@ -205,8 +207,6 @@ Listing <!-- releases_count starts -->1545<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
-* **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2023-08-15
-<br />Save OpenAI API results to a SQLite database
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
 <br />LLM plugin for running models using MLC
 * **[datasette-render-markdown](https://github.com/simonw/datasette-render-markdown)**: [2.2.1](https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1) - ([12 releases total](https://github.com/simonw/datasette-render-markdown/releases)) - 2023-08-15
