@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1550<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1551<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-replicate/releases)) - 2024-04-18
+<br />LLM plugin for models hosted on Replicate
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-04-18
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-reka](https://github.com/simonw/llm-reka)**: [0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
@@ -223,8 +225,6 @@ Listing <!-- releases_count starts -->1550<!-- releases_count ends --> releases 
 <br />Record and replay ASGI web page loads
 * **[sqlite-utils-dateutil](https://github.com/simonw/sqlite-utils-dateutil)**: [0.1](https://github.com/simonw/sqlite-utils-dateutil/releases/tag/0.1) - 2023-07-24
 <br />Date utility functions for sqlite-utils
-* **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3](https://github.com/simonw/llm-replicate/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-replicate/releases)) - 2023-07-20
-<br />LLM plugin for models hosted on Replicate
 * **[llm-mpt30b](https://github.com/simonw/llm-mpt30b)**: [0.1](https://github.com/simonw/llm-mpt30b/releases/tag/0.1) - 2023-07-12
 <br />LLM plugin adding support for the MPT-30B language model
 * **[llm-markov](https://github.com/simonw/llm-markov)**: [0.1](https://github.com/simonw/llm-markov/releases/tag/0.1) - 2023-07-12

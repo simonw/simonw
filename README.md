@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-replicate 0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - 2024-04-18
+
 [llm-mistral 0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - 2024-04-18
 
 [llm-reka 0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-cors 1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - 2024-04-12
 
 [asgi-cors 1.0.1](https://github.com/simonw/asgi-cors/releases/tag/1.0.1) - 2024-04-12
-
-[llm-gemini 0.1a3](https://github.com/simonw/llm-gemini/releases/tag/0.1a3) - 2024-04-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
