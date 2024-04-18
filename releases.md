@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1548<!-- releases_count ends --> releases across <!-- project_count starts -->269<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1549<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-reka](https://github.com/simonw/llm-reka)**: [0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
+<br />Access Reka models via the Reka API
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.5](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-17
 <br />LLM plugin for models hosted by Anyscale Endpoints
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17

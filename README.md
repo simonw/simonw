@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-reka 0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
+
 [llm-anyscale-endpoints 0.5](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5) - 2024-04-17
 
 [openai-to-sqlite 0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - 2024-04-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gemini 0.1a3](https://github.com/simonw/llm-gemini/releases/tag/0.1a3) - 2024-04-10
 
 [datasette-enrichments-gpt 0.4](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.4) - 2024-04-10
-
-[datasette-public 0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - 2024-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
