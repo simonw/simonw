@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1551<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1552<!-- releases_count ends --> releases across <!-- project_count starts -->271<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fireworks](https://github.com/simonw/llm-fireworks)**: [0.1a0](https://github.com/simonw/llm-fireworks/releases/tag/0.1a0) - 2024-04-18
+<br />Access fireworks.ai models via API
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-replicate/releases)) - 2024-04-18
 <br />LLM plugin for models hosted on Replicate
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-04-18
