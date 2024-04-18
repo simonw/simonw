@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1549<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1550<!-- releases_count ends --> releases across <!-- project_count starts -->270<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-04-18
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-reka](https://github.com/simonw/llm-reka)**: [0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
 <br />Access Reka models via the Reka API
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.5](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-17
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->1549<!-- releases_count ends --> releases 
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3](https://github.com/simonw/llm-mistral/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-02-26
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
 <br />None
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
