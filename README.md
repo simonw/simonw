@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gpt4all 0.4](https://github.com/simonw/llm-gpt4all/releases/tag/0.4) - 2024-04-20
+
 [llm-fireworks 0.1a0](https://github.com/simonw/llm-fireworks/releases/tag/0.1a0) - 2024-04-18
 
 [llm-replicate 0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - 2024-04-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [openai-to-sqlite 0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - 2024-04-17
 
 [datasette-query-assistant 0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - 2024-04-16
-
-[datasette-cors 1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - 2024-04-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

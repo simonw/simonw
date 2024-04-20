@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1552<!-- releases_count ends --> releases across <!-- project_count starts -->271<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1553<!-- releases_count ends --> releases across <!-- project_count starts -->271<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.4](https://github.com/simonw/llm-gpt4all/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-04-20
+<br />Plugin for LLM adding support for the GPT4All collection of models
 * **[llm-fireworks](https://github.com/simonw/llm-fireworks)**: [0.1a0](https://github.com/simonw/llm-fireworks/releases/tag/0.1a0) - 2024-04-18
 <br />Access fireworks.ai models via API
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-replicate/releases)) - 2024-04-18
@@ -117,8 +119,6 @@ Listing <!-- releases_count starts -->1552<!-- releases_count ends --> releases 
 <br />Run embedding models using ONNX
 * **[llm](https://github.com/simonw/llm)**: [0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm/releases)) - 2024-01-27
 <br />Access large language models from the command-line
-* **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.3](https://github.com/simonw/llm-gpt4all/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-01-24
-<br />Plugin for LLM adding support for the GPT4All collection of models
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
 <br />Run Datasette using the Granian HTTP server
 * **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
