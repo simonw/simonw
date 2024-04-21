@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1554<!-- releases_count ends --> releases across <!-- project_count starts -->272<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1555<!-- releases_count ends --> releases across <!-- project_count starts -->272<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.6](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-21
+<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[llm-evals-plugin](https://github.com/simonw/llm-evals-plugin)**: [0.1a0](https://github.com/simonw/llm-evals-plugin/releases/tag/0.1a0) - 2024-04-21
 <br />Run evals using LLM
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.4](https://github.com/simonw/llm-gpt4all/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-04-20
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1554<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-reka](https://github.com/simonw/llm-reka)**: [0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
 <br />Access Reka models via the Reka API
-* **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.5](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-17
-<br />LLM plugin for models hosted by Anyscale Endpoints
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17
 <br />Save OpenAI API results to a SQLite database
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2024-04-16
