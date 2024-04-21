@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1553<!-- releases_count ends --> releases across <!-- project_count starts -->271<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1554<!-- releases_count ends --> releases across <!-- project_count starts -->272<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-evals-plugin](https://github.com/simonw/llm-evals-plugin)**: [0.1a0](https://github.com/simonw/llm-evals-plugin/releases/tag/0.1a0) - 2024-04-21
+<br />Run evals using LLM
 * **[llm-gpt4all](https://github.com/simonw/llm-gpt4all)**: [0.4](https://github.com/simonw/llm-gpt4all/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-gpt4all/releases)) - 2024-04-20
 <br />Plugin for LLM adding support for the GPT4All collection of models
 * **[llm-fireworks](https://github.com/simonw/llm-fireworks)**: [0.1a0](https://github.com/simonw/llm-fireworks/releases/tag/0.1a0) - 2024-04-18
