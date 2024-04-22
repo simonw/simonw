@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/) - 2024-04-22
+
 [AI for Data Journalism: demonstrating what we can do with this stuff right now](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/) - 2024-04-17
 
 [Three major LLM releases in 24 hours (plus weeknotes)](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/) - 2024-04-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Running OCR against PDFs and images directly in your browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/) - 2024-03-30
 
 [llm cmd undo last git commit - a new plugin for LLM](https://simonwillison.net/2024/Mar/26/llm-cmd/) - 2024-03-26
-
-[Building and testing C extensions for SQLite with ChatGPT Code Interpreter](https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/) - 2024-03-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
