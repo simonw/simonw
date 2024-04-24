@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1561<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1562<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a3](https://github.com/datasette/datasette-secrets/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-24
+<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a5](https://github.com/datasette/datasette-extract/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-24
 <br />Import unstructured data (text and images) into structured tables
-* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a2](https://github.com/datasette/datasette-secrets/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-24
-<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
 <br />Datasette plugin for modifying table schemas
 * **[llm-llamafile](https://github.com/simonw/llm-llamafile)**: [0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
