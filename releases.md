@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1560<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1561<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a5](https://github.com/datasette/datasette-extract/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-24
+<br />Import unstructured data (text and images) into structured tables
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a2](https://github.com/datasette/datasette-secrets/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-24
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->1560<!-- releases_count ends --> releases 
 <br />Make specific Datasette tables visible to the public
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.3.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2) - ([12 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-09
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a4](https://github.com/datasette/datasette-extract/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-09
-<br />Import unstructured data (text and images) into structured tables
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
