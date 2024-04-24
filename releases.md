@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1558<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1559<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
+<br />Datasette plugin for modifying table schemas
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a1](https://github.com/datasette/datasette-secrets/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-23
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[llm-llamafile](https://github.com/simonw/llm-llamafile)**: [0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
@@ -71,8 +73,6 @@ Listing <!-- releases_count starts -->1558<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - ([16 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-03-14
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1) - ([20 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-03-14
-<br />Datasette plugin for modifying table schemas
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13

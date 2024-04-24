@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-edit-schema 0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - 2024-04-24
+
 [datasette-secrets 0.1a1](https://github.com/datasette/datasette-secrets/releases/tag/0.1a1) - 2024-04-23
 
 [llm-llamafile 0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-fireworks 0.1a0](https://github.com/simonw/llm-fireworks/releases/tag/0.1a0) - 2024-04-18
 
 [llm-replicate 0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - 2024-04-18
-
-[llm-mistral 0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - 2024-04-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
