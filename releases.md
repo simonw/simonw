@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1559<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1560<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a2](https://github.com/datasette/datasette-secrets/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-24
+<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
 <br />Datasette plugin for modifying table schemas
-* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a1](https://github.com/datasette/datasette-secrets/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-23
-<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[llm-llamafile](https://github.com/simonw/llm-llamafile)**: [0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
 <br />Access llamafile localhost models via LLM
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.6](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-21
