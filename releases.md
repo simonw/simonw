@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1562<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1563<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a3](https://github.com/datasette/datasette-secrets/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-24
+* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a4](https://github.com/datasette/datasette-secrets/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-25
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a5](https://github.com/datasette/datasette-extract/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-24
 <br />Import unstructured data (text and images) into structured tables
