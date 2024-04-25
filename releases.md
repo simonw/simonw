@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1563<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1564<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - ([8 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2024-04-25
+<br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a4](https://github.com/datasette/datasette-secrets/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-25
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a5](https://github.com/datasette/datasette-extract/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-24
@@ -157,8 +159,6 @@ Listing <!-- releases_count starts -->1563<!-- releases_count ends --> releases 
 <br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.36](https://github.com/simonw/sqlite-utils/releases/tag/3.36) - ([113 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2023-12-08
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.1](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1) - ([7 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2023-12-07
-<br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.2.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2023-12-06
