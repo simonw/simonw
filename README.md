@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-extract 0.1a6](https://github.com/datasette/datasette-extract/releases/tag/0.1a6) - 2024-04-25
+
 [datasette-leaflet-geojson 0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - 2024-04-25
 
 [datasette-secrets 0.1a4](https://github.com/datasette/datasette-secrets/releases/tag/0.1a4) - 2024-04-25
-
-[datasette-extract 0.1a5](https://github.com/datasette/datasette-extract/releases/tag/0.1a5) - 2024-04-24
 
 [datasette-edit-schema 0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - 2024-04-24
 
