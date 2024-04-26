@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1569<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1570<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - ([6 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-26
+<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3.2](https://github.com/datasette/datasette-test/releases/tag/0.3.2) - ([6 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-test-plugin](https://github.com/datasette/datasette-test-plugin)**: [0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1569<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - ([8 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2024-04-25
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.1a4](https://github.com/datasette/datasette-secrets/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-25
-<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
 <br />Datasette plugin for modifying table schemas
 * **[llm-llamafile](https://github.com/simonw/llm-llamafile)**: [0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
