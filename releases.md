@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1565<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1566<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3](https://github.com/datasette/datasette-test/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
+<br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a6](https://github.com/datasette/datasette-extract/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-25
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - ([8 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2024-04-25
@@ -133,8 +135,6 @@ Listing <!-- releases_count starts -->1565<!-- releases_count ends --> releases 
 <br />Proxy a URL through a Datasette instance
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
 <br />Plugin allowing Datasette templates to be edited within Datasette
-* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.2](https://github.com/datasette/datasette-test/releases/tag/0.2) - ([3 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-01-16
-<br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1) - ([23 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-01-16
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
