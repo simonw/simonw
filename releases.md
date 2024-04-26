@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1566<!-- releases_count ends --> releases across <!-- project_count starts -->274<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1567<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3](https://github.com/datasette/datasette-test/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
+* **[datasette-test-plugin](https://github.com/datasette/datasette-test-plugin)**: [0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
+<br />Part of datasette-test
+* **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3 - release yanked](https://github.com/datasette/datasette-test/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a6](https://github.com/datasette/datasette-extract/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-25
 <br />Import unstructured data (text and images) into structured tables
