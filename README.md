@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-test-plugin 0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
+[datasette-test 0.3.1](https://github.com/datasette/datasette-test/releases/tag/0.3.1) - 2024-04-26
 
-[datasette-test 0.3 - release yanked](https://github.com/datasette/datasette-test/releases/tag/0.3) - 2024-04-26
+[datasette-test-plugin 0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
 
 [datasette-extract 0.1a6](https://github.com/datasette/datasette-extract/releases/tag/0.1a6) - 2024-04-25
 
