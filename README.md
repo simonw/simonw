@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-enrichments 0.4](https://github.com/datasette/datasette-enrichments/releases/tag/0.4) - 2024-04-27
+[datasette-enrichments 0.4.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.1) - 2024-04-27
 
 [datasette-secrets 0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - 2024-04-26
 
