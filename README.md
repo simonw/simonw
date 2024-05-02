@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[ttok 0.3](https://github.com/simonw/ttok/releases/tag/0.3) - 2024-05-02
+
 [datasette-enrichments 0.4.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.2) - 2024-04-27
 
 [datasette-secrets 0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - 2024-04-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-leaflet-geojson 0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - 2024-04-25
 
 [datasette-edit-schema 0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - 2024-04-24
-
-[llm-llamafile 0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
