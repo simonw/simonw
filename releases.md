@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1574<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1575<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
+<br />Upload SQLite database files to Datasette
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
 <br />Count and truncate text based on tokens
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.4.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.2) - ([15 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-27
@@ -187,8 +189,6 @@ Listing <!-- releases_count starts -->1574<!-- releases_count ends --> releases 
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
-* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.1](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2023-09-20
-<br />Upload SQLite database files to Datasette
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
