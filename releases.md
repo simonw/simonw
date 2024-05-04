@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1575<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1576<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
+<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
 <br />Upload SQLite database files to Datasette
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
@@ -219,8 +221,6 @@ Listing <!-- releases_count starts -->1575<!-- releases_count ends --> releases 
 <br />A Datasette plugin that outputs debug information about permission checks
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
 <br />Datasette plugin for publishing data using Fly
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.1](https://github.com/simonw/llm-openrouter/releases/tag/0.1) - 2023-08-21
-<br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
