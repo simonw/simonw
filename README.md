@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/) - 2024-05-08
+
 [Weeknotes: more datasette-secrets, plus a mystery video project](https://simonwillison.net/2024/May/7/datasette-secrets/) - 2024-05-07
 
 [Weeknotes: Llama 3, AI for Data Journalism, llm-evals and datasette-secrets](https://simonwillison.net/2024/Apr/23/weeknotes/) - 2024-04-23
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [AI for Data Journalism: demonstrating what we can do with this stuff right now](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/) - 2024-04-17
 
 [Three major LLM releases in 24 hours (plus weeknotes)](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/) - 2024-04-10
-
-[Building files-to-prompt entirely using Claude 3 Opus](https://simonwillison.net/2024/Apr/8/files-to-prompt/) - 2024-04-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
