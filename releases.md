@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1576<!-- releases_count ends --> releases across <!-- project_count starts -->275<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1578<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a2](https://github.com/datasette/datasette-pins/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-05-08
+<br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
