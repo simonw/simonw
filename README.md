@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
+
 [Transcribing MP3s with whisper-cpp on macOS](https://til.simonwillison.net/macos/whisper-cpp) - 2024-04-26
 
 [A script to capture frames from a QuickTime video](https://til.simonwillison.net/macos/quicktime-capture-script) - 2024-04-17
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
 
 [Google Chrome --headless mode](https://til.simonwillison.net/chrome/headless) - 2024-03-24
-
-[Reviewing your history of public GitHub repositories using ClickHouse](https://til.simonwillison.net/clickhouse/github-public-history) - 2024-03-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
