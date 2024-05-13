@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.14](https://github.com/simonw/llm/releases/tag/0.14) - 2024-05-13
+
 [datasette-pins 0.1a2](https://github.com/datasette/datasette-pins/releases/tag/0.1a2) - 2024-05-08
 
 [llm-openrouter 0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - 2024-05-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-secrets 0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - 2024-04-26
 
 [datasette-test 0.3.2](https://github.com/datasette/datasette-test/releases/tag/0.3.2) - 2024-04-26
-
-[datasette-test-plugin 0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

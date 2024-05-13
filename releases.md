@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1578<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1579<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.14](https://github.com/simonw/llm/releases/tag/0.14) - ([25 releases total](https://github.com/simonw/llm/releases)) - 2024-05-13
+<br />Access large language models from the command-line
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a2](https://github.com/datasette/datasette-pins/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-05-08
 <br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
@@ -137,8 +139,6 @@ Listing <!-- releases_count starts -->1578<!-- releases_count ends --> releases 
 <br />Show a specific Datasette table on the homepage
 * **[llm-embed-onnx](https://github.com/simonw/llm-embed-onnx)**: [0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28
 <br />Run embedding models using ONNX
-* **[llm](https://github.com/simonw/llm)**: [0.13.1](https://github.com/simonw/llm/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm/releases)) - 2024-01-27
-<br />Access large language models from the command-line
 * **[datasette-granian](https://github.com/simonw/datasette-granian)**: [0.1](https://github.com/simonw/datasette-granian/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-granian/releases)) - 2024-01-23
 <br />Run Datasette using the Granian HTTP server
 * **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
