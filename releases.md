@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1582<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1583<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15
+<br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a7](https://github.com/datasette/datasette-extract/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-05-15
