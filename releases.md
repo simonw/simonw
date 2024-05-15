@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1580<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1581<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a7](https://github.com/datasette/datasette-extract/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-05-15
+<br />Import unstructured data (text and images) into structured tables
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a4](https://github.com/simonw/llm-gemini/releases/tag/0.1a4) - ([5 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-05-14
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm](https://github.com/simonw/llm)**: [0.14](https://github.com/simonw/llm/releases/tag/0.14) - ([25 releases total](https://github.com/simonw/llm/releases)) - 2024-05-13
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1580<!-- releases_count ends --> releases 
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-test-plugin](https://github.com/datasette/datasette-test-plugin)**: [0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
 <br />Part of datasette-test
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a6](https://github.com/datasette/datasette-extract/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-04-25
-<br />Import unstructured data (text and images) into structured tables
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - ([8 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2024-04-25
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
