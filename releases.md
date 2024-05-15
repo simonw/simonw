@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1581<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1582<!-- releases_count ends --> releases across <!-- project_count starts -->276<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
+<br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a7](https://github.com/datasette/datasette-extract/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-05-15
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a4](https://github.com/simonw/llm-gemini/releases/tag/0.1a4) - ([5 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-05-14
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->1581<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0.1](https://github.com/simonw/asgi-cors/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-12
 <br />ASGI middleware for applying CORS headers to an ASGI application
-* **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.4](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-04-10
-<br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-public/releases)) - 2024-04-09
 <br />Make specific Datasette tables visible to the public
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
