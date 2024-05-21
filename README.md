@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Listen to a web page in Mobile Safari](https://til.simonwillison.net/ios/listen-to-page) - 2024-05-21
+
 [How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
 
 [Transcribing MP3s with whisper-cpp on macOS](https://til.simonwillison.net/macos/whisper-cpp) - 2024-04-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [impaste: pasting images to piped commands on macOS](https://til.simonwillison.net/macos/impaste) - 2024-04-04
 
 [Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
-
-[Google Chrome --headless mode](https://til.simonwillison.net/chrome/headless) - 2024-03-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
