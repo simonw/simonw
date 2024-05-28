@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: PyCon US 2024](https://simonwillison.net/2024/May/28/weeknotes/) - 2024-05-28
+
 [ChatGPT in "4o" mode is not running the new features yet](https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/) - 2024-05-15
 
 [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/) - 2024-05-08
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Llama 3, AI for Data Journalism, llm-evals and datasette-secrets](https://simonwillison.net/2024/Apr/23/weeknotes/) - 2024-04-23
 
 [Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/) - 2024-04-22
-
-[AI for Data Journalism: demonstrating what we can do with this stuff right now](https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/) - 2024-04-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
