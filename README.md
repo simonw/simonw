@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Training is not the same as chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/) - 2024-05-29
+
 [Weeknotes: PyCon US 2024](https://simonwillison.net/2024/May/28/weeknotes/) - 2024-05-28
 
 [ChatGPT in "4o" mode is not running the new features yet](https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/) - 2024-05-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: more datasette-secrets, plus a mystery video project](https://simonwillison.net/2024/May/7/datasette-secrets/) - 2024-05-07
 
 [Weeknotes: Llama 3, AI for Data Journalism, llm-evals and datasette-secrets](https://simonwillison.net/2024/Apr/23/weeknotes/) - 2024-04-23
-
-[Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/) - 2024-04-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
