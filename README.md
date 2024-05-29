@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Cloudflare redirect rules with dynamic expressions](https://til.simonwillison.net/cloudflare/redirect-rules) - 2024-05-29
+
 [Listen to a web page in Mobile Safari](https://til.simonwillison.net/ios/listen-to-page) - 2024-05-21
 
 [How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A script to capture frames from a QuickTime video](https://til.simonwillison.net/macos/quicktime-capture-script) - 2024-04-17
 
 [impaste: pasting images to piped commands on macOS](https://til.simonwillison.net/macos/impaste) - 2024-04-04
-
-[Installing tools written in Go](https://til.simonwillison.net/go/installing-tools) - 2024-03-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
