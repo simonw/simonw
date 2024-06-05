@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1583<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1584<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a4](https://github.com/datasette/datasette-studio/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-06-05
+<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1583<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
 <br />Store and query embedding vectors in Datasette tables
-* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a3](https://github.com/datasette/datasette-studio/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-04-06
-<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
 <br />Paste data to create tables in Datasette
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a4](https://github.com/datasette/datasette-import/releases/tag/0.1a4) - 2024-04-06
