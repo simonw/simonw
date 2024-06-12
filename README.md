@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[A homepage redesign for my blog's 22nd birthday](https://simonwillison.net/2024/Jun/12/homepage-redesign/) - 2024-06-12
+
 [Thoughts on the WWDC 2024 keynote on Apple Intelligence](https://simonwillison.net/2024/Jun/10/apple-intelligence/) - 2024-06-10
 
 [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/) - 2024-06-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: PyCon US 2024](https://simonwillison.net/2024/May/28/weeknotes/) - 2024-05-28
 
 [ChatGPT in "4o" mode is not running the new features yet](https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/) - 2024-05-15
-
-[Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/) - 2024-05-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
