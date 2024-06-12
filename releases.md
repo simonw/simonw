@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1584<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1585<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.7](https://github.com/simonw/datasette/releases/tag/0.64.7) - ([141 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-12
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a4](https://github.com/datasette/datasette-studio/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-06-05
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15
@@ -93,8 +95,6 @@ Listing <!-- releases_count starts -->1584<!-- releases_count ends --> releases 
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a13](https://github.com/simonw/datasette/releases/tag/1.0a13) - ([140 releases total](https://github.com/simonw/datasette/releases)) - 2024-03-13
-<br />An open source multi-tool for exploring and publishing data
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
