@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/) - 2024-06-17
+
 [A homepage redesign for my blog's 22nd birthday](https://simonwillison.net/2024/Jun/12/homepage-redesign/) - 2024-06-12
 
 [Thoughts on the WWDC 2024 keynote on Apple Intelligence](https://simonwillison.net/2024/Jun/10/apple-intelligence/) - 2024-06-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Training is not the same as chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/) - 2024-05-29
 
 [Weeknotes: PyCon US 2024](https://simonwillison.net/2024/May/28/weeknotes/) - 2024-05-28
-
-[ChatGPT in "4o" mode is not running the new features yet](https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/) - 2024-05-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
