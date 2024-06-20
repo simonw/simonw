@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
+
 [Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
 
 [Cloudflare redirect rules with dynamic expressions](https://til.simonwillison.net/cloudflare/redirect-rules) - 2024-05-29
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
 
 [Transcribing MP3s with whisper-cpp on macOS](https://til.simonwillison.net/macos/whisper-cpp) - 2024-04-26
-
-[A script to capture frames from a QuickTime video](https://til.simonwillison.net/macos/quicktime-capture-script) - 2024-04-17
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
