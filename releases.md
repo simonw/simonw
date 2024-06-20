@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1587<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1588<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-06-20
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
 <br />Maintain a FAISS index for specified Datasette tables
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - ([24 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-06-13
@@ -97,8 +99,6 @@ Listing <!-- releases_count starts -->1587<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - ([16 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-03-14
 <br />Datasette plugin for uploading CSV files and converting them to database tables
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.3](https://github.com/simonw/llm-claude-3/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-03-13
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
