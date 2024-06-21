@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1588<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1589<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - ([142 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-21
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-06-20
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
 <br />Maintain a FAISS index for specified Datasette tables
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - ([24 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-06-13
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[datasette](https://github.com/simonw/datasette)**: [0.64.7](https://github.com/simonw/datasette/releases/tag/0.64.7) - ([141 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-12
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a4](https://github.com/datasette/datasette-studio/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-06-05
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15

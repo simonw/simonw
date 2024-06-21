@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - 2024-06-21
+
 [llm-claude-3 0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - 2024-06-20
 
 [datasette-faiss 0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - 2024-06-17
 
 [datasette-cluster-map 0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - 2024-06-13
-
-[datasette 0.64.7](https://github.com/simonw/datasette/releases/tag/0.64.7) - 2024-06-12
 
 [datasette-studio 0.1a4](https://github.com/datasette/datasette-studio/releases/tag/0.1a4) - 2024-06-05
 
