@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Building search-based RAG using Claude, Datasette and Val.Town](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
+[Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
 
 [Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
 
