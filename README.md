@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Open challenges for AI engineering](https://simonwillison.net/2024/Jun/27/ai-worlds-fair/) - 2024-06-27
+
 [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
 
 [Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [A homepage redesign for my blog's 22nd birthday](https://simonwillison.net/2024/Jun/12/homepage-redesign/) - 2024-06-12
 
 [Thoughts on the WWDC 2024 keynote on Apple Intelligence](https://simonwillison.net/2024/Jun/10/apple-intelligence/) - 2024-06-10
-
-[Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/) - 2024-06-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
