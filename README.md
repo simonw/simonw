@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
+
 [Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
 
 [Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Listen to a web page in Mobile Safari](https://til.simonwillison.net/ios/listen-to-page) - 2024-05-21
 
 [How I studied for my Ham radio general exam](https://til.simonwillison.net/ham-radio/general) - 2024-05-11
-
-[Transcribing MP3s with whisper-cpp on macOS](https://til.simonwillison.net/macos/whisper-cpp) - 2024-04-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
