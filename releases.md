@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1589<!-- releases_count ends --> releases across <!-- project_count starts -->277<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1590<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
+<br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - ([142 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-21
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-06-20
