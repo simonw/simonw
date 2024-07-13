@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python) - 2024-07-13
+
 [Accessing 1Password items from the terminal](https://til.simonwillison.net/macos/1password-terminal) - 2024-07-10
 
 [Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
 
 [Cloudflare redirect rules with dynamic expressions](https://til.simonwillison.net/cloudflare/redirect-rules) - 2024-05-29
-
-[Listen to a web page in Mobile Safari](https://til.simonwillison.net/ios/listen-to-page) - 2024-05-21
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
