@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
+
 [Weeknotes: a livestream, a surprise keynote and progress on Datasette Cloud billing](https://simonwillison.net/2024/Jul/2/weeknotes/) - 2024-07-02
 
 [Open challenges for AI engineering](https://simonwillison.net/2024/Jun/27/ai-worlds-fair/) - 2024-06-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
 
 [Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/) - 2024-06-17
-
-[A homepage redesign for my blog's 22nd birthday](https://simonwillison.net/2024/Jun/12/homepage-redesign/) - 2024-06-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
