@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Imitation Intelligence, a talk at PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/) - 2024-07-14
+
 [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
 
 [Weeknotes: a livestream, a surprise keynote and progress on Datasette Cloud billing](https://simonwillison.net/2024/Jul/2/weeknotes/) - 2024-07-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
 
 [Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
-
-[Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/) - 2024-06-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
