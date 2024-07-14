@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Imitation Intelligence, a talk at PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/) - 2024-07-14
+[Imitation Intelligence, my keynote for PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/) - 2024-07-14
 
 [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
 
