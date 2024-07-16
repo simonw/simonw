@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1590<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1591<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.4](https://github.com/simonw/llm-mistral/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-16
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - ([142 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-21
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->1590<!-- releases_count ends --> releases 
 <br />Access fireworks.ai models via API
 * **[llm-replicate](https://github.com/simonw/llm-replicate)**: [0.3.1](https://github.com/simonw/llm-replicate/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-replicate/releases)) - 2024-04-18
 <br />LLM plugin for models hosted on Replicate
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.3.1](https://github.com/simonw/llm-mistral/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-04-18
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-reka](https://github.com/simonw/llm-reka)**: [0.1a0](https://github.com/simonw/llm-reka/releases/tag/0.1a0) - 2024-04-18
 <br />Access Reka models via the Reka API
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17
