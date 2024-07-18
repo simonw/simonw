@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1592<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1593<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.15](https://github.com/simonw/llm/releases/tag/0.15) - ([26 releases total](https://github.com/simonw/llm/releases)) - 2024-07-18
+<br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.4](https://github.com/simonw/llm-mistral/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-16
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1592<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a4](https://github.com/simonw/llm-gemini/releases/tag/0.1a4) - ([5 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-05-14
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm](https://github.com/simonw/llm)**: [0.14](https://github.com/simonw/llm/releases/tag/0.14) - ([25 releases total](https://github.com/simonw/llm/releases)) - 2024-05-13
-<br />Access large language models from the command-line
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a2](https://github.com/datasette/datasette-pins/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-05-08
 <br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
