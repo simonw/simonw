@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment](https://simonwillison.net/2024/Jul/19/weeknotes/) - 2024-07-19
+
 [Imitation Intelligence, my keynote for PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/) - 2024-07-14
 
 [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Open challenges for AI engineering](https://simonwillison.net/2024/Jun/27/ai-worlds-fair/) - 2024-06-27
 
 [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/) - 2024-06-21
-
-[Weeknotes: Datasette Studio and a whole lot of blogging](https://simonwillison.net/2024/Jun/19/datasette-studio/) - 2024-06-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
