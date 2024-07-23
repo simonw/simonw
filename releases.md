@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1593<!-- releases_count ends --> releases across <!-- project_count starts -->278<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1594<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
+<br />Run models distributed as GGUF files using LLM
 * **[llm](https://github.com/simonw/llm)**: [0.15](https://github.com/simonw/llm/releases/tag/0.15) - ([26 releases total](https://github.com/simonw/llm/releases)) - 2024-07-18
 <br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
