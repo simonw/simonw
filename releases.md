@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1594<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1595<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-24
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
 <br />Run models distributed as GGUF files using LLM
 * **[llm](https://github.com/simonw/llm)**: [0.15](https://github.com/simonw/llm/releases/tag/0.15) - ([26 releases total](https://github.com/simonw/llm/releases)) - 2024-07-18
 <br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.4](https://github.com/simonw/llm-mistral/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-16
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette](https://github.com/simonw/datasette)**: [0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - ([142 releases total](https://github.com/simonw/datasette/releases)) - 2024-06-21
