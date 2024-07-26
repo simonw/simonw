@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1595<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1596<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
+<br />Import unstructured data (text and images) into structured tables
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-24
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1595<!-- releases_count ends --> releases 
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a7](https://github.com/datasette/datasette-extract/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-05-15
-<br />Import unstructured data (text and images) into structured tables
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a4](https://github.com/simonw/llm-gemini/releases/tag/0.1a4) - ([5 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-05-14
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a2](https://github.com/datasette/datasette-pins/releases/tag/0.1a2) - ([2 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-05-08
