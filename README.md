@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[fetch-github-issues 0.1](https://github.com/simonw/fetch-github-issues/releases/tag/0.1) - 2024-07-29
+[fetch-github-issues 0.1.1](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.1) - 2024-07-29
 
 [datasette-extract 0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - 2024-07-26
 
