@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[fetch-github-issues 0.1](https://github.com/simonw/fetch-github-issues/releases/tag/0.1) - 2024-07-29
+
 [datasette-extract 0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - 2024-07-26
 
 [llm-mistral 0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - 2024-07-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-python 0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 
 [datasette 0.64.8](https://github.com/simonw/datasette/releases/tag/0.64.8) - 2024-06-21
-
-[llm-claude-3 0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - 2024-06-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

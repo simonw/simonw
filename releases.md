@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1596<!-- releases_count ends --> releases across <!-- project_count starts -->279<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1597<!-- releases_count ends --> releases across <!-- project_count starts -->280<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1](https://github.com/simonw/fetch-github-issues/releases/tag/0.1) - 2024-07-29
+<br />Fetch all GitHub issues for a repository
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-24
