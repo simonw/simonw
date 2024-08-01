@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits) - 2024-08-01
+
 [HTML video with subtitles](https://til.simonwillison.net/html/video-with-subtitles) - 2024-07-31
 
 [Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python) - 2024-07-13
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
 
 [Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
-
-[Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
