@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1600<!-- releases_count ends --> releases across <!-- project_count starts -->280<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1601<!-- releases_count ends --> releases across <!-- project_count starts -->280<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
+<br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a14](https://github.com/simonw/datasette/releases/tag/1.0a14) - ([143 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-05
 <br />An open source multi-tool for exploring and publishing data
 * **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/fetch-github-issues/releases)) - 2024-07-29
@@ -449,8 +451,6 @@ Listing <!-- releases_count starts -->1600<!-- releases_count ends --> releases 
 <br />Tool for running transformations on columns in a SQLite database
 * **[datasette-json-html](https://github.com/simonw/datasette-json-html)**: [1.0.1](https://github.com/simonw/datasette-json-html/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-json-html/releases)) - 2021-07-31
 <br />Datasette plugin for rendering HTML based on JSON values
-* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.1](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2021-07-29
-<br />Periodically refresh Datasette metadata from a remote URL
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
