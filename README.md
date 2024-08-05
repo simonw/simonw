@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Assistance with release notes using GitHub Issues](https://til.simonwillison.net/github/release-note-assistance) - 2024-08-05
+
 [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits) - 2024-08-01
 
 [HTML video with subtitles](https://til.simonwillison.net/html/video-with-subtitles) - 2024-07-31
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Accessing 1Password items from the terminal](https://til.simonwillison.net/macos/1password-terminal) - 2024-07-10
 
 [Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
-
-[Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
