@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: a staging environment, a Datasette alpha and a bunch of new LLMs](https://simonwillison.net/2024/Aug/6/staging/) - 2024-08-06
+
 [Datasette 1.0a14: The annotated release notes](https://simonwillison.net/2024/Aug/5/datasette-1a14/) - 2024-08-05
 
 [Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment](https://simonwillison.net/2024/Jul/19/weeknotes/) - 2024-07-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
 
 [Weeknotes: a livestream, a surprise keynote and progress on Datasette Cloud billing](https://simonwillison.net/2024/Jul/2/weeknotes/) - 2024-07-02
-
-[Open challenges for AI engineering](https://simonwillison.net/2024/Jun/27/ai-worlds-fair/) - 2024-06-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
