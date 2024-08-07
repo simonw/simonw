@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[django-http-debug 0.1a0](https://github.com/simonw/django-http-debug/releases/tag/0.1a0) - 2024-08-07
+[django-http-debug 0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - 2024-08-07
 
 [datasette-remote-metadata 0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - 2024-08-05
 
