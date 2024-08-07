@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-http-debug 0.1a0](https://github.com/simonw/django-http-debug/releases/tag/0.1a0) - 2024-08-07
+
 [datasette-remote-metadata 0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - 2024-08-05
 
 [datasette 1.0a14](https://github.com/simonw/datasette/releases/tag/1.0a14) - 2024-08-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gguf 0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
 
 [llm 0.15](https://github.com/simonw/llm/releases/tag/0.15) - 2024-07-18
-
-[sqlite-utils 3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - 2024-07-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

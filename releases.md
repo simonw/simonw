@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1601<!-- releases_count ends --> releases across <!-- project_count starts -->280<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1602<!-- releases_count ends --> releases across <!-- project_count starts -->281<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.1a0](https://github.com/simonw/django-http-debug/releases/tag/0.1a0) - 2024-08-07
+<br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a14](https://github.com/simonw/datasette/releases/tag/1.0a14) - ([143 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-05
