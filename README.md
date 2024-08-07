@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-pins 0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - 2024-08-07
+
 [django-http-debug 0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - 2024-08-07
 
 [datasette-remote-metadata 0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - 2024-08-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-mistral 0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - 2024-07-24
 
 [llm-gguf 0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
-
-[llm 0.15](https://github.com/simonw/llm/releases/tag/0.15) - 2024-07-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using pytest-django with a reusable Django application](https://til.simonwillison.net/django/pytest-django) - 2024-08-07
+
 [Assistance with release notes using GitHub Issues](https://til.simonwillison.net/github/release-note-assistance) - 2024-08-05
 
 [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits) - 2024-08-01
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python) - 2024-07-13
 
 [Accessing 1Password items from the terminal](https://til.simonwillison.net/macos/1password-terminal) - 2024-07-10
-
-[Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
