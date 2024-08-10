@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->1604<!-- releases_count ends --> releases 
 
 <!-- recent_releases starts -->
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-08-07
-<br />None
+<br />Pin databases, tables, and other items to the Datasette homepage
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
