@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1604<!-- releases_count ends --> releases across <!-- project_count starts -->281<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1605<!-- releases_count ends --> releases across <!-- project_count starts -->281<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-08-15
+<br />ASGI middleware for protecting against CSRF attacks
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-08-07
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
@@ -455,8 +457,6 @@ Listing <!-- releases_count starts -->1604<!-- releases_count ends --> releases 
 <br />Datasette plugin for rendering HTML based on JSON values
 * **[conditional-get](https://github.com/simonw/conditional-get)**: [0.3](https://github.com/simonw/conditional-get/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/conditional-get/releases)) - 2021-07-14
 <br />CLI tool for fetching data using HTTP conditional get
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.9](https://github.com/simonw/asgi-csrf/releases/tag/0.9) - ([17 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2021-06-23
-<br />ASGI middleware for protecting against CSRF attacks
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.10.2](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2) - ([20 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2021-06-13
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite)**: [1.0](https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/yaml-to-sqlite/releases)) - 2021-06-13
