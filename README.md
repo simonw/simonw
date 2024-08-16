@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - 2024-08-16
+
 [asgi-csrf 0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - 2024-08-15
 
 [datasette-pins 0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - 2024-08-07
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [django-http-debug 0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - 2024-08-07
 
 [datasette-remote-metadata 0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - 2024-08-05
-
-[datasette 1.0a14](https://github.com/simonw/datasette/releases/tag/1.0a14) - 2024-08-05
 
 [fetch-github-issues 0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - 2024-07-29
 

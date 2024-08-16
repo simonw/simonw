@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1605<!-- releases_count ends --> releases across <!-- project_count starts -->281<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1606<!-- releases_count ends --> releases across <!-- project_count starts -->281<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - ([144 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-16
+<br />An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-08-15
 <br />ASGI middleware for protecting against CSRF attacks
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-08-07
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1605<!-- releases_count ends --> releases 
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
 <br />Periodically refresh Datasette metadata from a remote URL
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a14](https://github.com/simonw/datasette/releases/tag/1.0a14) - ([143 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-05
-<br />An open source multi-tool for exploring and publishing data
 * **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/fetch-github-issues/releases)) - 2024-07-29
 <br />Fetch all GitHub issues for a repository
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
