@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-checkbox 0.1a0](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a0) - 2024-08-16
+
 [datasette 1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - 2024-08-16
 
 [asgi-csrf 0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - 2024-08-15
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [fetch-github-issues 0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - 2024-07-29
 
 [datasette-extract 0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - 2024-07-26
-
-[llm-mistral 0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - 2024-07-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
