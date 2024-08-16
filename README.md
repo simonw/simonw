@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-checkbox 0.1a0](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a0) - 2024-08-16
+[datasette-checkbox 0.1a1](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a1) - 2024-08-16
 
 [datasette 1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - 2024-08-16
 
