@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1609<!-- releases_count ends --> releases across <!-- project_count starts -->282<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1610<!-- releases_count ends --> releases across <!-- project_count starts -->283<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.1a0](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0) - 2024-08-19
+<br />Ask questions of your data with LLM assistance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - ([144 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-16
