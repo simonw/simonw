@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1610<!-- releases_count ends --> releases across <!-- project_count starts -->283<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1611<!-- releases_count ends --> releases across <!-- project_count starts -->283<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
+<br />Prettier formatting for ?_trace=1 traces
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.1a0](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0) - 2024-08-19
 <br />Ask questions of your data with LLM assistance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
@@ -419,8 +421,6 @@ Listing <!-- releases_count starts -->1610<!-- releases_count ends --> releases 
 <br />CLI tool for stripping hidden form values from an HTML document
 * **[datasette-leaflet-freedraw](https://github.com/simonw/datasette-leaflet-freedraw)**: [0.3.1](https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1) - ([9 releases total](https://github.com/simonw/datasette-leaflet-freedraw/releases)) - 2022-02-03
 <br />Draw polygons on maps in Datasette
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.4](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2022-01-14
-<br />Prettier formatting for ?_trace=1 traces
 * **[stream-delay](https://github.com/simonw/stream-delay)**: [0.1](https://github.com/simonw/stream-delay/releases/tag/0.1) - 2022-01-08
 <br />Stream a file or stdin one line at a time with a delay
 * **[datasette-hovercards](https://github.com/simonw/datasette-hovercards)**: [0.1a0](https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0) - 2021-12-02
