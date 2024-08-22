@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Optimizing Datasette (and other weeknotes)](https://simonwillison.net/2024/Aug/22/optimizing-datasette/) - 2024-08-22
+
 [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/) - 2024-08-08
 
 [Weeknotes: a staging environment, a Datasette alpha and a bunch of new LLMs](https://simonwillison.net/2024/Aug/6/staging/) - 2024-08-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment](https://simonwillison.net/2024/Jul/19/weeknotes/) - 2024-07-19
 
 [Imitation Intelligence, my keynote for PyCon US 2024](https://simonwillison.net/2024/Jul/14/pycon/) - 2024-07-14
-
-[Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/) - 2024-07-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
