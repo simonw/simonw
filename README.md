@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-claude-3 0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - 2024-08-30
+
 [datasette-acl 0.1a0](https://github.com/datasette/datasette-acl/releases/tag/0.1a0) - 2024-08-30
 
 [datasette-pretty-traces 0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - 2024-08-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [asgi-csrf 0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - 2024-08-15
 
 [datasette-pins 0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - 2024-08-07
-
-[django-http-debug 0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - 2024-08-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

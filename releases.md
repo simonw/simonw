@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1612<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1613<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.1a0](https://github.com/datasette/datasette-acl/releases/tag/0.1a0) - 2024-08-30
 <br />Advanced permission management for Datasette
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1612<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4](https://github.com/simonw/llm-claude-3/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-06-20
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
 <br />Maintain a FAISS index for specified Datasette tables
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - ([24 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-06-13
