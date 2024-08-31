@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using namedtuple for pytest parameterized tests](https://til.simonwillison.net/pytest/namedtuple-parameterized-tests) - 2024-08-31
+
 [Using sqlite-vec with embeddings in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/sqlite-vec) - 2024-08-11
 
 [Using pytest-django with a reusable Django application](https://til.simonwillison.net/django/pytest-django) - 2024-08-07
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits) - 2024-08-01
 
 [HTML video with subtitles](https://til.simonwillison.net/html/video-with-subtitles) - 2024-07-31
-
-[Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python) - 2024-07-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
