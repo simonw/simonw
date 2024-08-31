@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1613<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1614<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.2a0](https://github.com/datasette/datasette-acl/releases/tag/0.2a0) - ([2 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-08-31
+<br />Advanced permission management for Datasette
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.1a0](https://github.com/datasette/datasette-acl/releases/tag/0.1a0) - 2024-08-30
-<br />Advanced permission management for Datasette
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
 <br />Prettier formatting for ?_trace=1 traces
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.1a0](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0) - 2024-08-19

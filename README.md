@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-claude-3 0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - 2024-08-30
+[datasette-acl 0.2a0](https://github.com/datasette/datasette-acl/releases/tag/0.2a0) - 2024-08-31
 
-[datasette-acl 0.1a0](https://github.com/datasette/datasette-acl/releases/tag/0.1a0) - 2024-08-30
+[llm-claude-3 0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - 2024-08-30
 
 [datasette-pretty-traces 0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - 2024-08-21
 
