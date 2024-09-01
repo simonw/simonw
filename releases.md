@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1618<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1619<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
+<br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - ([6 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-01
 <br />Advanced permission management for Datasette
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1618<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-08-15
 <br />ASGI middleware for protecting against CSRF attacks
-* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a3](https://github.com/datasette/datasette-pins/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-08-07
-<br />Pin databases, tables, and other items to the Datasette homepage
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
