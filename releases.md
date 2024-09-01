@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1616<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1617<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a0](https://github.com/datasette/datasette-acl/releases/tag/0.4a0) - ([4 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-01
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a1](https://github.com/datasette/datasette-acl/releases/tag/0.4a1) - ([5 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-01
 <br />Advanced permission management for Datasette
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
 <br />LLM plugin for interacting with the Claude 3 family of models
