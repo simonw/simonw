@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-acl 0.4a1](https://github.com/datasette/datasette-acl/releases/tag/0.4a1) - 2024-09-01
+[datasette-acl 0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - 2024-09-01
 
 [llm-claude-3 0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - 2024-08-30
 
