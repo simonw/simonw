@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1621<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1623<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.4.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.3) - ([16 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-09-03
+<br />Tools for running enrichments against data stored in Datasette
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
+<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3) - ([22 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-09-03
@@ -59,8 +63,6 @@ Listing <!-- releases_count starts -->1621<!-- releases_count ends --> releases 
 <br />Upload SQLite database files to Datasette
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
 <br />Count and truncate text based on tokens
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.4.2](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.2) - ([15 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-04-27
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - ([6 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-26
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3.2](https://github.com/datasette/datasette-test/releases/tag/0.3.2) - ([6 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->1621<!-- releases_count ends --> releases 
 <br />Show a list of currently installed Python packages
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - ([4 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2024-03-16
 <br />Export a copy of a mutable SQLite database on demand
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.3](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.3) - ([13 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-03-14
-<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.9.1](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1) - ([16 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2024-03-14
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
