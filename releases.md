@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1620<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1621<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3) - ([22 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-09-03
 <br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->1620<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a1](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2024-02-20
 <br />Forward Datasette analytical events on to another Datasette instance
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a9](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9) - ([17 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-02-20
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16
