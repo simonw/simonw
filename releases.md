@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1619<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1620<!-- releases_count ends --> releases across <!-- project_count starts -->284<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3) - ([22 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-09-03
+<br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - ([6 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-01
@@ -65,8 +67,6 @@ Listing <!-- releases_count starts -->1619<!-- releases_count ends --> releases 
 <br />Part of datasette-test
 * **[datasette-leaflet-geojson](https://github.com/simonw/datasette-leaflet-geojson)**: [0.8.2](https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2) - ([8 releases total](https://github.com/simonw/datasette-leaflet-geojson/releases)) - 2024-04-25
 <br />Datasette plugin that replaces any GeoJSON column values with a Leaflet map.
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a2](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2) - ([21 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-04-24
-<br />Datasette plugin for modifying table schemas
 * **[llm-llamafile](https://github.com/simonw/llm-llamafile)**: [0.1](https://github.com/simonw/llm-llamafile/releases/tag/0.1) - 2024-04-22
 <br />Access llamafile localhost models via LLM
 * **[llm-anyscale-endpoints](https://github.com/simonw/llm-anyscale-endpoints)**: [0.6](https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/llm-anyscale-endpoints/releases)) - 2024-04-21
