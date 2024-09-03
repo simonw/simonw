@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-auth-passwords 1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - 2024-09-03
+
 [datasette-enrichments 0.4.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.3) - 2024-09-03
 
 [datasette-configure-fts 1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - 2024-09-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-acl 0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - 2024-09-01
 
 [llm-claude-3 0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - 2024-08-30
-
-[datasette-pretty-traces 0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - 2024-08-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
