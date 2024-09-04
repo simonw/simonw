@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Testing HTML tables with Playwright Python](https://til.simonwillison.net/playwright/testing-tables) - 2024-09-04
+
 [Using namedtuple for pytest parameterized tests](https://til.simonwillison.net/pytest/namedtuple-parameterized-tests) - 2024-08-31
 
 [Using sqlite-vec with embeddings in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/sqlite-vec) - 2024-08-11
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Assistance with release notes using GitHub Issues](https://til.simonwillison.net/github/release-note-assistance) - 2024-08-05
 
 [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits) - 2024-08-01
-
-[HTML video with subtitles](https://til.simonwillison.net/html/video-with-subtitles) - 2024-07-31
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
