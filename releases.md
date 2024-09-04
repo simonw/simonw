@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1627<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1628<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - ([2 releases total](https://github.com/datasette/datasette-import/releases)) - 2024-09-04
+<br />Tools for importing data into Datasette
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.3](https://github.com/simonw/datasette-search-all/releases/tag/1.1.3) - ([11 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-04
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
@@ -109,8 +111,6 @@ Listing <!-- releases_count starts -->1627<!-- releases_count ends --> releases 
 <br />Store and query embedding vectors in Datasette tables
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
 <br />Paste data to create tables in Datasette
-* **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a4](https://github.com/datasette/datasette-import/releases/tag/0.1a4) - 2024-04-06
-<br />Tools for importing data into Datasette
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a2](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-04-05
 <br />Enrich data with a custom JavaScript function
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - ([18 releases total](https://github.com/simonw/s3-credentials/releases)) - 2024-04-05
