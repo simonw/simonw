@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1626<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1627<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.3](https://github.com/simonw/datasette-search-all/releases/tag/1.1.3) - ([11 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-04
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
@@ -179,8 +181,6 @@ Listing <!-- releases_count starts -->1626<!-- releases_count ends --> releases 
 <br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 <br />Build a directory full of files into a SQLite database
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.2](https://github.com/simonw/datasette-search-all/releases/tag/1.1.2) - ([10 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-01-08
-<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
 <br />Upgrade Datasette instance configuration to handle new features
 * **[datasette-haversine](https://github.com/simonw/datasette-haversine)**: [0.2.1](https://github.com/simonw/datasette-haversine/releases/tag/0.2.1) - ([2 releases total](https://github.com/simonw/datasette-haversine/releases)) - 2023-12-29
