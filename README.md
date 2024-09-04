@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-write 0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - 2024-09-04
+
 [datasette-debug-events 0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
 
 [datasette-auth-passwords 1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - 2024-09-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-edit-schema 0.8a3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3) - 2024-09-03
 
 [datasette-pins 0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - 2024-09-01
-
-[datasette-acl 0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - 2024-09-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

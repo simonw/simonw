@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1625<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1626<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
+<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
 <br />Print Datasette events to standard error
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->1625<!-- releases_count ends --> releases 
 <br />CLI for running files through AWS Textract
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.1a0](https://github.com/simonw/llm-cmd/releases/tag/0.1a0) - 2024-03-26
 <br />Use LLM to generate and execute commands in your shell
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.3.2](https://github.com/simonw/datasette-write/releases/tag/0.3.2) - ([6 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-03-18
-<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
 <br />Show a list of currently installed Python packages
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - ([4 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2024-03-16
