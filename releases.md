@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1629<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1630<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a16](https://github.com/simonw/datasette/releases/tag/1.0a16) - ([145 releases total](https://github.com/simonw/datasette/releases)) - 2024-09-06
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.4](https://github.com/simonw/datasette-search-all/releases/tag/1.1.4) - ([12 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-06
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - ([2 releases total](https://github.com/datasette/datasette-import/releases)) - 2024-09-04
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1629<!-- releases_count ends --> releases 
 <br />Ask questions of your data with LLM assistance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
 <br />Add interactive checkboxes to columns in Datasette
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a15](https://github.com/simonw/datasette/releases/tag/1.0a15) - ([144 releases total](https://github.com/simonw/datasette/releases)) - 2024-08-16
-<br />An open source multi-tool for exploring and publishing data
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-08-15
 <br />ASGI middleware for protecting against CSRF attacks
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
