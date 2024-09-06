@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-import 0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - 2024-09-04
+[datasette-search-all 1.1.4](https://github.com/simonw/datasette-search-all/releases/tag/1.1.4) - 2024-09-06
 
-[datasette-search-all 1.1.3](https://github.com/simonw/datasette-search-all/releases/tag/1.1.3) - 2024-09-04
+[datasette-import 0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - 2024-09-04
 
 [datasette-write 0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - 2024-09-04
 
