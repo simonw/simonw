@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1630<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1631<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
+<br />Python CLI tool and library for diffing CSV and JSON files
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a16](https://github.com/simonw/datasette/releases/tag/1.0a16) - ([145 releases total](https://github.com/simonw/datasette/releases)) - 2024-09-06
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.4](https://github.com/simonw/datasette-search-all/releases/tag/1.1.4) - ([12 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-06
@@ -495,8 +497,6 @@ Listing <!-- releases_count starts -->1630<!-- releases_count ends --> releases 
 <br />Block all access to specific path prefixes
 * **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
 <br />Python class for reading and writing data to a GitHub repository
-* **[csv-diff](https://github.com/simonw/csv-diff)**: [1.1](https://github.com/simonw/csv-diff/releases/tag/1.1) - ([9 releases total](https://github.com/simonw/csv-diff/releases)) - 2021-02-23
-<br />Python CLI tool and library for diffing CSV and JSON files
 * **[datasette-json-preview](https://github.com/simonw/datasette-json-preview)**: [0.3](https://github.com/simonw/datasette-json-preview/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-json-preview/releases)) - 2021-02-20
 <br />Preview of new JSON default format for Datasette
 * **[higher-lower](https://github.com/simonw/higher-lower)**: [0.1](https://github.com/simonw/higher-lower/releases/tag/0.1) - 2021-02-16
