@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1631<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1632<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
+<br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
 <br />Python CLI tool and library for diffing CSV and JSON files
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a16](https://github.com/simonw/datasette/releases/tag/1.0a16) - ([145 releases total](https://github.com/simonw/datasette/releases)) - 2024-09-06
@@ -345,8 +347,6 @@ Listing <!-- releases_count starts -->1631<!-- releases_count ends --> releases 
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
-* **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3](https://github.com/simonw/json-flatten/releases/tag/0.3) - ([2 releases total](https://github.com/simonw/json-flatten/releases)) - 2022-10-29
-<br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14
 <br />Screenshots of Datasette, taken using shot-scraper
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.2](https://github.com/simonw/asgi-gzip/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2022-10-13
