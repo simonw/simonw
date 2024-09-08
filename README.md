@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Teresa T is name of the whale in Pillar Point Harbor near Half Moon Bay](https://simonwillison.net/2024/Sep/8/teresa-t-whale-pillar-point/) - 2024-09-08
+
 [Calling LLMs from client-side JavaScript, converting PDFs to HTML + weeknotes](https://simonwillison.net/2024/Sep/6/weeknotes/) - 2024-09-06
 
 [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/) - 2024-08-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Optimizing Datasette (and other weeknotes)](https://simonwillison.net/2024/Aug/22/optimizing-datasette/) - 2024-08-22
 
 [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/) - 2024-08-08
-
-[Weeknotes: a staging environment, a Datasette alpha and a bunch of new LLMs](https://simonwillison.net/2024/Aug/6/staging/) - 2024-08-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
