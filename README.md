@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-cmd 0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - 2024-09-09
+
 [files-to-prompt 0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - 2024-09-09
 
 [json-flatten 0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - 2024-09-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-import 0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - 2024-09-04
 
 [datasette-write 0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - 2024-09-04
-
-[datasette-debug-events 0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
