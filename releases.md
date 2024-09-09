@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1632<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1633<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-09-09
+<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
@@ -109,8 +111,6 @@ Listing <!-- releases_count starts -->1632<!-- releases_count ends --> releases 
 <br />ASGI middleware for applying CORS headers to an ASGI application
 * **[datasette-public](https://github.com/simonw/datasette-public)**: [0.2.3](https://github.com/simonw/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-public/releases)) - 2024-04-09
 <br />Make specific Datasette tables visible to the public
-* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.2.1](https://github.com/simonw/files-to-prompt/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-04-08
-<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
 <br />Store and query embedding vectors in Datasette tables
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
