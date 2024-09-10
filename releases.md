@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1634<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1635<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a3](https://github.com/datasette/datasette-acl/releases/tag/0.4a3) - ([7 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
+<br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
 <br />Use LLM to generate and execute commands in your shell
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-09-09
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1634<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
 <br />Pin databases, tables, and other items to the Datasette homepage
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a2](https://github.com/datasette/datasette-acl/releases/tag/0.4a2) - ([6 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-01
-<br />Advanced permission management for Datasette
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
