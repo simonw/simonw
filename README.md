@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Notes from my appearance on the Software Misadventures Podcast](https://simonwillison.net/2024/Sep/10/software-misadventures/) - 2024-09-10
+
 [Teresa T is name of the whale in Pillar Point Harbor near Half Moon Bay](https://simonwillison.net/2024/Sep/8/teresa-t-whale-pillar-point/) - 2024-09-08
 
 [Calling LLMs from client-side JavaScript, converting PDFs to HTML + weeknotes](https://simonwillison.net/2024/Sep/6/weeknotes/) - 2024-09-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/) - 2024-08-23
 
 [Optimizing Datasette (and other weeknotes)](https://simonwillison.net/2024/Aug/22/optimizing-datasette/) - 2024-08-22
-
-[django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/) - 2024-08-08
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
