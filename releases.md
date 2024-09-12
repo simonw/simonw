@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1636<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1637<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.16](https://github.com/simonw/llm/releases/tag/0.16) - ([27 releases total](https://github.com/simonw/llm/releases)) - 2024-09-12
+<br />Access large language models from the command-line
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - ([8 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
 <br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->1636<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
 <br />Run models distributed as GGUF files using LLM
-* **[llm](https://github.com/simonw/llm)**: [0.15](https://github.com/simonw/llm/releases/tag/0.15) - ([26 releases total](https://github.com/simonw/llm/releases)) - 2024-07-18
-<br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
