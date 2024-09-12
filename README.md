@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) - 2024-09-12
+
 [Notes from my appearance on the Software Misadventures Podcast](https://simonwillison.net/2024/Sep/10/software-misadventures/) - 2024-09-10
 
 [Teresa T is name of the whale in Pillar Point Harbor near Half Moon Bay](https://simonwillison.net/2024/Sep/8/teresa-t-whale-pillar-point/) - 2024-09-08
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/) - 2024-08-26
 
 [Claude's API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/) - 2024-08-23
-
-[Optimizing Datasette (and other weeknotes)](https://simonwillison.net/2024/Aug/22/optimizing-datasette/) - 2024-08-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
