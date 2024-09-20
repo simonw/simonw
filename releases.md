@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1637<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1638<!-- releases_count ends --> releases across <!-- project_count starts -->286<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
+<br />Access Jina AI embeddings via their API
 * **[llm](https://github.com/simonw/llm)**: [0.16](https://github.com/simonw/llm/releases/tag/0.16) - ([27 releases total](https://github.com/simonw/llm/releases)) - 2024-09-12
 <br />Access large language models from the command-line
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - ([8 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
