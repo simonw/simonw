@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[djp 0.1](https://github.com/simonw/djp/releases/tag/0.1) - 2024-09-23
+
 [llm-jina-api 0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
 
 [llm 0.16](https://github.com/simonw/llm/releases/tag/0.16) - 2024-09-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [json-flatten 0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - 2024-09-07
 
 [csv-diff 1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - 2024-09-06
-
-[datasette 1.0a16](https://github.com/simonw/datasette/releases/tag/1.0a16) - 2024-09-06
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
