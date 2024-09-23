@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1639<!-- releases_count ends --> releases across <!-- project_count starts -->287<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1641<!-- releases_count ends --> releases across <!-- project_count starts -->289<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-plugin-django-header](https://github.com/simonw/django-plugin-django-header)**: [0.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1) - 2024-09-23
+<br />Add a Django-Compositions HTTP header to a Django app
+* **[django-plugin-blog](https://github.com/simonw/django-plugin-blog)**: [0.1](https://github.com/simonw/django-plugin-blog/releases/tag/0.1) - 2024-09-23
+<br />A blog for Django as a DJP plugin.
 * **[djp](https://github.com/simonw/djp)**: [0.1](https://github.com/simonw/djp/releases/tag/0.1) - 2024-09-23
 <br />A plugin system for Django
 * **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20

@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-plugin-django-header 0.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1) - 2024-09-23
+
+[django-plugin-blog 0.1](https://github.com/simonw/django-plugin-blog/releases/tag/0.1) - 2024-09-23
+
 [djp 0.1](https://github.com/simonw/djp/releases/tag/0.1) - 2024-09-23
 
 [llm-jina-api 0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-cmd 0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - 2024-09-09
 
 [files-to-prompt 0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - 2024-09-09
-
-[json-flatten 0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - 2024-09-07
-
-[csv-diff 1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - 2024-09-06
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
