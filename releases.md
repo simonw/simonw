@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1646<!-- releases_count ends --> releases across <!-- project_count starts -->290<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1647<!-- releases_count ends --> releases across <!-- project_count starts -->290<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a5](https://github.com/simonw/llm-gemini/releases/tag/0.1a5) - ([6 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-09-24
+<br />LLM plugin to access Google's Gemini family of models
 * **[django-plugin-blog](https://github.com/simonw/django-plugin-blog)**: [0.1.1](https://github.com/simonw/django-plugin-blog/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/django-plugin-blog/releases)) - 2024-09-24
 <br />A blog for Django as a DJP plugin.
 * **[django-plugin-database-url](https://github.com/simonw/django-plugin-database-url)**: [0.1](https://github.com/simonw/django-plugin-database-url/releases/tag/0.1) - 2024-09-24
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->1646<!-- releases_count ends --> releases 
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a4](https://github.com/simonw/llm-gemini/releases/tag/0.1a4) - ([5 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-05-14
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
