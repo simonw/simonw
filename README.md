@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[django-plugin-database-url 0.1](https://github.com/simonw/django-plugin-database-url/releases/tag/0.1) - 2024-09-24
+
 [djp 0.1.2](https://github.com/simonw/djp/releases/tag/0.1.2) - 2024-09-23
 
 [django-plugin-django-header 0.1.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1.1) - 2024-09-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-acl 0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - 2024-09-10
 
 [llm-cmd 0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - 2024-09-09
-
-[files-to-prompt 0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - 2024-09-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

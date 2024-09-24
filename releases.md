@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1644<!-- releases_count ends --> releases across <!-- project_count starts -->289<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1645<!-- releases_count ends --> releases across <!-- project_count starts -->290<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[django-plugin-database-url](https://github.com/simonw/django-plugin-database-url)**: [0.1](https://github.com/simonw/django-plugin-database-url/releases/tag/0.1) - 2024-09-24
+<br />Django plugin for reading the DATABASE_URL environment variable
 * **[djp](https://github.com/simonw/djp)**: [0.1.2](https://github.com/simonw/djp/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/djp/releases)) - 2024-09-23
 <br />A plugin system for Django
 * **[django-plugin-django-header](https://github.com/simonw/django-plugin-django-header)**: [0.1.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/django-plugin-django-header/releases)) - 2024-09-23
