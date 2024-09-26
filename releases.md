@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1650<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1651<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[djp](https://github.com/simonw/djp)**: [0.3.1](https://github.com/simonw/djp/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/djp/releases)) - 2024-09-26
+<br />A plugin system for Django
 * **[django-plugin-datasette](https://github.com/simonw/django-plugin-datasette)**: [0.1](https://github.com/simonw/django-plugin-datasette/releases/tag/0.1) - 2024-09-26
 <br />Django plugin to run Datasette inside of Django
-* **[djp](https://github.com/simonw/djp)**: [0.3](https://github.com/simonw/djp/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/djp/releases)) - 2024-09-26
-<br />A plugin system for Django
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.1a5](https://github.com/simonw/llm-gemini/releases/tag/0.1a5) - ([6 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-09-24
 <br />LLM plugin to access Google's Gemini family of models
 * **[django-plugin-blog](https://github.com/simonw/django-plugin-blog)**: [0.1.1](https://github.com/simonw/django-plugin-blog/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/django-plugin-blog/releases)) - 2024-09-24
