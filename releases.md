@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1652<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1653<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.5](https://github.com/simonw/shot-scraper/releases/tag/1.5) - ([30 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-09-27
+<br />A command-line utility for taking automated screenshots of websites
 * **[django-plugin-datasette](https://github.com/simonw/django-plugin-datasette)**: [0.2](https://github.com/simonw/django-plugin-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-plugin-datasette/releases)) - 2024-09-26
 <br />Django plugin to run Datasette inside of Django
 * **[djp](https://github.com/simonw/djp)**: [0.3.1](https://github.com/simonw/djp/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/djp/releases)) - 2024-09-26
@@ -181,8 +183,6 @@ Listing <!-- releases_count starts -->1652<!-- releases_count ends --> releases 
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
 <br />Log Datasette events to a database table
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.4](https://github.com/simonw/shot-scraper/releases/tag/1.4) - ([29 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-02-05
-<br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2024-02-04
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31
