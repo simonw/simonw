@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: Three podcasts, two trips and a new plugin system](https://simonwillison.net/2024/Sep/30/weeknotes/) - 2024-09-30
+
 [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/) - 2024-09-29
 
 [Themes from DjangoCon US 2024](https://simonwillison.net/2024/Sep/27/themes-from-djangocon-us-2024/) - 2024-09-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Notes on using LLMs for code](https://simonwillison.net/2024/Sep/20/using-llms-for-code/) - 2024-09-20
 
 [Things I've learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/) - 2024-09-18
-
-[Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) - 2024-09-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
