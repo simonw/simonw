@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
+
 [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis) - 2024-09-21
 
 [Testing HTML tables with Playwright Python](https://til.simonwillison.net/playwright/testing-tables) - 2024-09-04
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using sqlite-vec with embeddings in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/sqlite-vec) - 2024-08-11
 
 [Using pytest-django with a reusable Django application](https://til.simonwillison.net/django/pytest-django) - 2024-08-07
-
-[Assistance with release notes using GitHub Issues](https://til.simonwillison.net/github/release-note-assistance) - 2024-08-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
