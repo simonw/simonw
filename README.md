@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
+
 [Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
 
 [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis) - 2024-09-21
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using namedtuple for pytest parameterized tests](https://til.simonwillison.net/pytest/namedtuple-parameterized-tests) - 2024-08-31
 
 [Using sqlite-vec with embeddings in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/sqlite-vec) - 2024-08-11
-
-[Using pytest-django with a reusable Django application](https://til.simonwillison.net/django/pytest-django) - 2024-08-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
