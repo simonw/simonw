@@ -42,7 +42,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
+[Compiling and running sqlite3-rsync](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
 
 [Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
 
