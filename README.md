@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 0.65](https://github.com/simonw/datasette/releases/tag/0.65) - 2024-10-07
+
 [llm-gemini 0.2](https://github.com/simonw/llm-gemini/releases/tag/0.2) - 2024-10-03
 
 [shot-scraper 1.5](https://github.com/simonw/shot-scraper/releases/tag/1.5) - 2024-09-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [django-plugin-database-url 0.1](https://github.com/simonw/django-plugin-database-url/releases/tag/0.1) - 2024-09-24
 
 [django-plugin-django-header 0.1.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1.1) - 2024-09-23
-
-[llm-jina-api 0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

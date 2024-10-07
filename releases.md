@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1654<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1655<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.65](https://github.com/simonw/datasette/releases/tag/0.65) - ([146 releases total](https://github.com/simonw/datasette/releases)) - 2024-10-07
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.2](https://github.com/simonw/llm-gemini/releases/tag/0.2) - ([7 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-10-03
 <br />LLM plugin to access Google's Gemini family of models
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.5](https://github.com/simonw/shot-scraper/releases/tag/1.5) - ([30 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-09-27
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1654<!-- releases_count ends --> releases 
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
 <br />Python CLI tool and library for diffing CSV and JSON files
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a16](https://github.com/simonw/datasette/releases/tag/1.0a16) - ([145 releases total](https://github.com/simonw/datasette/releases)) - 2024-09-06
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.4](https://github.com/simonw/datasette-search-all/releases/tag/1.1.4) - ([12 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-06
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a5](https://github.com/datasette/datasette-import/releases/tag/0.1a5) - ([2 releases total](https://github.com/datasette/datasette-import/releases)) - 2024-09-04
