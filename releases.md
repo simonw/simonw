@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1655<!-- releases_count ends --> releases across <!-- project_count starts -->291<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1656<!-- releases_count ends --> releases across <!-- project_count starts -->292<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
+<br />Load example SQL scripts into Datasette on startup
 * **[datasette](https://github.com/simonw/datasette)**: [0.65](https://github.com/simonw/datasette/releases/tag/0.65) - ([146 releases total](https://github.com/simonw/datasette/releases)) - 2024-10-07
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.2](https://github.com/simonw/llm-gemini/releases/tag/0.2) - ([7 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-10-03
