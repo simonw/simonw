@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Collecting replies to tweets using JavaScript](https://til.simonwillison.net/twitter/collecting-replies) - 2024-10-09
+
 [Compiling and running sqlite3-rsync](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
 
 [Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Testing HTML tables with Playwright Python](https://til.simonwillison.net/playwright/testing-tables) - 2024-09-04
 
 [Using namedtuple for pytest parameterized tests](https://til.simonwillison.net/pytest/namedtuple-parameterized-tests) - 2024-08-31
-
-[Using sqlite-vec with embeddings in sqlite-utils and Datasette](https://til.simonwillison.net/sqlite/sqlite-vec) - 2024-08-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
