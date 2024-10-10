@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Livestreaming a community election event on YouTube](https://til.simonwillison.net/youtube/livestreaming) - 2024-10-10
+
 [Upgrading Homebrew and avoiding the failed to verify attestation error](https://til.simonwillison.net/homebrew/no-verify-attestations) - 2024-10-09
 
 [Collecting replies to tweets using JavaScript](https://til.simonwillison.net/twitter/collecting-replies) - 2024-10-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
 
 [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis) - 2024-09-21
-
-[Testing HTML tables with Playwright Python](https://til.simonwillison.net/playwright/testing-tables) - 2024-09-04
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
