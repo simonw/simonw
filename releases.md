@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1657<!-- releases_count ends --> releases across <!-- project_count starts -->292<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1658<!-- releases_count ends --> releases across <!-- project_count starts -->292<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-10-16
+<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.6](https://github.com/simonw/llm-mistral/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1657<!-- releases_count ends --> releases 
 <br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
 <br />Use LLM to generate and execute commands in your shell
-* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.3](https://github.com/simonw/files-to-prompt/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-09-09
-<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
