@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1656<!-- releases_count ends --> releases across <!-- project_count starts -->292<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1657<!-- releases_count ends --> releases across <!-- project_count starts -->292<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.6](https://github.com/simonw/llm-mistral/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-16
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
 <br />Load example SQL scripts into Datasette on startup
 * **[datasette](https://github.com/simonw/datasette)**: [0.65](https://github.com/simonw/datasette/releases/tag/0.65) - ([146 releases total](https://github.com/simonw/datasette/releases)) - 2024-10-07
@@ -73,8 +75,6 @@ Listing <!-- releases_count starts -->1656<!-- releases_count ends --> releases 
 <br />Fetch all GitHub issues for a repository
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
 <br />Import unstructured data (text and images) into structured tables
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.5](https://github.com/simonw/llm-mistral/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-07-24
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
 <br />Run models distributed as GGUF files using LLM
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
