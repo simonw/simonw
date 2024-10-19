@@ -25,7 +25,17 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Experimenting with audio input and output for the OpenAI Chat Completion API](https://simonwillison.net/2024/Oct/18/openai-audio/) - 2024-10-18
 
+[Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/) - 2024-10-17
+
+[ChatGPT will happily write you a thinly disguised horoscope](https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/) - 2024-10-15
+
+[OpenAI DevDay: Let’s build developer tools, not digital God](https://simonwillison.net/2024/Oct/2/not-digital-god/) - 2024-10-02
+
+[OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/) - 2024-10-01
+
+[Weeknotes: Three podcasts, two trips and a new plugin system](https://simonwillison.net/2024/Sep/30/weeknotes/) - 2024-09-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
