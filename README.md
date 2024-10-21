@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[claude-to-sqlite ](https://github.com/simonw/claude-to-sqlite/releases/tag/0.1) - 2024-10-21
+[claude-to-sqlite 0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - 2024-10-21
 
 [files-to-prompt 0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - 2024-10-16
 

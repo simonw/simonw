@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1659<!-- releases_count ends --> releases across <!-- project_count starts -->293<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1660<!-- releases_count ends --> releases across <!-- project_count starts -->293<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [](https://github.com/simonw/claude-to-sqlite/releases/tag/0.1) - 2024-10-21
+* **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
 <br />Convert a Claude.ai export to SQLite
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-10-16
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
