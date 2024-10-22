@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1660<!-- releases_count ends --> releases across <!-- project_count starts -->293<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1661<!-- releases_count ends --> releases across <!-- project_count starts -->293<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.5](https://github.com/simonw/llm-claude-3/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-10-22
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
 <br />Convert a Claude.ai export to SQLite
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-10-16
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1660<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
 <br />Pin databases, tables, and other items to the Datasette homepage
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.4.1](https://github.com/simonw/llm-claude-3/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-08-30
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
 <br />Prettier formatting for ?_trace=1 traces
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.1a0](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0) - 2024-08-19

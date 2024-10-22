@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-claude-3 0.5](https://github.com/simonw/llm-claude-3/releases/tag/0.5) - 2024-10-22
+
 [claude-to-sqlite 0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - 2024-10-21
 
 [files-to-prompt 0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - 2024-10-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gemini 0.2](https://github.com/simonw/llm-gemini/releases/tag/0.2) - 2024-10-03
 
 [shot-scraper 1.5](https://github.com/simonw/shot-scraper/releases/tag/1.5) - 2024-09-27
-
-[django-plugin-datasette 0.2](https://github.com/simonw/django-plugin-datasette/releases/tag/0.2) - 2024-09-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
