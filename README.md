@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running prompts against images and PDFs with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
+
 [The most basic possible Hugo site](https://til.simonwillison.net/hugo/basic) - 2024-10-23
 
 [Livestreaming a community election event on YouTube](https://til.simonwillison.net/youtube/livestreaming) - 2024-10-10
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Collecting replies to tweets using JavaScript](https://til.simonwillison.net/twitter/collecting-replies) - 2024-10-09
 
 [Compiling and running sqlite3-rsync](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
-
-[Building an automatically updating live blog in Django](https://til.simonwillison.net/django/live-blog) - 2024-10-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
