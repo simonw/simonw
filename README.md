@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Setting cache-control: max-age=31536000 with a Cloudflare Transform Rule](https://til.simonwillison.net/cloudflare/cache-control-transform-rule) - 2024-10-24
+
 [Running prompts against images and PDFs with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
 
 [The most basic possible Hugo site](https://til.simonwillison.net/hugo/basic) - 2024-10-23
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Upgrading Homebrew and avoiding the failed to verify attestation error](https://til.simonwillison.net/homebrew/no-verify-attestations) - 2024-10-09
 
 [Collecting replies to tweets using JavaScript](https://til.simonwillison.net/twitter/collecting-replies) - 2024-10-09
-
-[Compiling and running sqlite3-rsync](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync) - 2024-10-04
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
