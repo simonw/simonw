@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Installing flash-attn without compiling it](https://til.simonwillison.net/python/installing-flash-attention) - 2024-10-25
+
 [Using uv to develop Python command-line applications](https://til.simonwillison.net/python/uv-cli-apps) - 2024-10-24
 
 [Setting cache-control: max-age=31536000 with a Cloudflare Transform Rule](https://til.simonwillison.net/cloudflare/cache-control-transform-rule) - 2024-10-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [The most basic possible Hugo site](https://til.simonwillison.net/hugo/basic) - 2024-10-23
 
 [Livestreaming a community election event on YouTube](https://til.simonwillison.net/youtube/livestreaming) - 2024-10-10
-
-[Upgrading Homebrew and avoiding the failed to verify attestation error](https://til.simonwillison.net/homebrew/no-verify-attestations) - 2024-10-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
