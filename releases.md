@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1663<!-- releases_count ends --> releases across <!-- project_count starts -->294<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1664<!-- releases_count ends --> releases across <!-- project_count starts -->294<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1](https://github.com/simonw/llm-jq/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
+* **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
 <br />Write and execute jq programs with the help of LLM
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.5](https://github.com/simonw/llm-claude-3/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-10-22
 <br />LLM plugin for interacting with the Claude 3 family of models
