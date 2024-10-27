@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1661<!-- releases_count ends --> releases across <!-- project_count starts -->293<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1662<!-- releases_count ends --> releases across <!-- project_count starts -->294<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1a0](https://github.com/simonw/llm-jq/releases/tag/0.1a0) - 2024-10-27
+<br />Write and execute jq programs with the help of LLM
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.5](https://github.com/simonw/llm-claude-3/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-10-22
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
