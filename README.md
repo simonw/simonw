@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-whisper-api 0.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1) - 2024-10-27
+[llm-whisper-api 0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - 2024-10-27
 
 [llm-jq 0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - 2024-10-27
 
