@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.3a0](https://github.com/simonw/llm-gemini/releases/tag/0.3a0) - 2024-10-28
+
 [llm 0.17a0](https://github.com/simonw/llm/releases/tag/0.17a0) - 2024-10-28
 
 [llm-whisper-api 0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - 2024-10-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [files-to-prompt 0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - 2024-10-16
 
 [llm-mistral 0.6](https://github.com/simonw/llm-mistral/releases/tag/0.6) - 2024-10-16
-
-[datasette-examples 0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
