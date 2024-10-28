@@ -48,7 +48,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 [Setting cache-control: max-age=31536000 with a Cloudflare Transform Rule](https://til.simonwillison.net/cloudflare/cache-control-transform-rule) - 2024-10-24
 
-[Running prompts against images and PDFs with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
+[Running prompts against images, PDFs, audio and video with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
 
 [The most basic possible Hugo site](https://til.simonwillison.net/hugo/basic) - 2024-10-23
 
