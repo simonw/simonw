@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1666<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1667<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.17a0](https://github.com/simonw/llm/releases/tag/0.17a0) - ([28 releases total](https://github.com/simonw/llm/releases)) - 2024-10-28
+<br />Access large language models from the command-line
 * **[llm-whisper-api](https://github.com/simonw/llm-whisper-api)**: [0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-whisper-api/releases)) - 2024-10-27
 <br />Run transcriptions using the OpenAI Whisper API
 * **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1666<!-- releases_count ends --> releases 
 <br />Add a Django-Compositions HTTP header to a Django app
 * **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
 <br />Access Jina AI embeddings via their API
-* **[llm](https://github.com/simonw/llm)**: [0.16](https://github.com/simonw/llm/releases/tag/0.16) - ([27 releases total](https://github.com/simonw/llm/releases)) - 2024-09-12
-<br />Access large language models from the command-line
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - ([8 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
 <br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
