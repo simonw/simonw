@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-mistral 0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - 2024-10-29
+
 [llm 0.17](https://github.com/simonw/llm/releases/tag/0.17) - 2024-10-29
 
 [llm-claude-3 0.6a0](https://github.com/simonw/llm-claude-3/releases/tag/0.6a0) - 2024-10-29
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [claude-to-sqlite 0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - 2024-10-21
 
 [files-to-prompt 0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - 2024-10-16
-
-[llm-mistral 0.6](https://github.com/simonw/llm-mistral/releases/tag/0.6) - 2024-10-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

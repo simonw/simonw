@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1670<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1671<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-29
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm](https://github.com/simonw/llm)**: [0.17](https://github.com/simonw/llm/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm/releases)) - 2024-10-29
 <br />Access large language models from the command-line
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.6a0](https://github.com/simonw/llm-claude-3/releases/tag/0.6a0) - ([7 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-10-29
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1670<!-- releases_count ends --> releases 
 <br />Convert a Claude.ai export to SQLite
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-10-16
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.6](https://github.com/simonw/llm-mistral/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-16
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
 <br />Load example SQL scripts into Datasette on startup
 * **[datasette](https://github.com/simonw/datasette)**: [0.65](https://github.com/simonw/datasette/releases/tag/0.65) - ([146 releases total](https://github.com/simonw/datasette/releases)) - 2024-10-07
