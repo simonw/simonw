@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[W̶e̶e̶k̶n̶o̶t̶e̶s̶  Monthnotes for October](https://simonwillison.net/2024/Oct/30/monthnotes/) - 2024-10-30
+
 [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/) - 2024-10-29
 
 [Run a prompt to generate and execute jq programs using llm-jq](https://simonwillison.net/2024/Oct/27/llm-jq/) - 2024-10-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Initial explorations of Anthropic's new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/) - 2024-10-22
 
 [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) - 2024-10-21
-
-[Running Llama 3.2 Vision and Phi-3.5 Vision on a Mac with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/) - 2024-10-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
