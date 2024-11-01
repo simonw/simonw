@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1675<!-- releases_count ends --> releases across <!-- project_count starts -->296<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1676<!-- releases_count ends --> releases across <!-- project_count starts -->296<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.17.1](https://github.com/simonw/llm/releases/tag/0.17.1) - ([30 releases total](https://github.com/simonw/llm/releases)) - 2024-11-01
+<br />Access large language models from the command-line
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
 <br />Transcribe audio using the Groq.com Whisper API
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.7](https://github.com/simonw/llm-claude-3/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-01
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1675<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.3](https://github.com/simonw/llm-gemini/releases/tag/0.3) - ([9 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-10-29
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm](https://github.com/simonw/llm)**: [0.17](https://github.com/simonw/llm/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm/releases)) - 2024-10-29
-<br />Access large language models from the command-line
 * **[llm-whisper-api](https://github.com/simonw/llm-whisper-api)**: [0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-whisper-api/releases)) - 2024-10-27
 <br />Run transcriptions using the OpenAI Whisper API
 * **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
