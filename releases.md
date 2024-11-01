@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1673<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1674<!-- releases_count ends --> releases across <!-- project_count starts -->295<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.7](https://github.com/simonw/llm-claude-3/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-01
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-29
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.6](https://github.com/simonw/llm-claude-3/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-10-29
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.3](https://github.com/simonw/llm-gemini/releases/tag/0.3) - ([9 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-10-29
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm](https://github.com/simonw/llm)**: [0.17](https://github.com/simonw/llm/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm/releases)) - 2024-10-29
