@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1676<!-- releases_count ends --> releases across <!-- project_count starts -->296<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1677<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
+<br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm](https://github.com/simonw/llm)**: [0.17.1](https://github.com/simonw/llm/releases/tag/0.17.1) - ([30 releases total](https://github.com/simonw/llm/releases)) - 2024-11-01
 <br />Access large language models from the command-line
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01

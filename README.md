@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-lambda-labs 0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
+
 [llm 0.17.1](https://github.com/simonw/llm/releases/tag/0.17.1) - 2024-11-01
 
 [llm-groq-whisper 0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-whisper-api 0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - 2024-10-27
 
 [llm-jq 0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - 2024-10-27
-
-[claude-to-sqlite 0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - 2024-10-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
