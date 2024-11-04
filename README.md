@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Claude 3.5 Haiku](https://simonwillison.net/2024/Nov/4/haiku/) - 2024-11-04
+
 [W̶e̶e̶k̶n̶o̶t̶e̶s̶  Monthnotes for October](https://simonwillison.net/2024/Oct/30/monthnotes/) - 2024-10-30
 
 [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/) - 2024-10-29
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/) - 2024-10-24
 
 [Initial explorations of Anthropic's new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/) - 2024-10-22
-
-[Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) - 2024-10-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
