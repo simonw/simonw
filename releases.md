@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1677<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1678<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.8](https://github.com/simonw/llm-claude-3/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-04
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm](https://github.com/simonw/llm)**: [0.17.1](https://github.com/simonw/llm/releases/tag/0.17.1) - ([30 releases total](https://github.com/simonw/llm/releases)) - 2024-11-01
 <br />Access large language models from the command-line
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
 <br />Transcribe audio using the Groq.com Whisper API
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.7](https://github.com/simonw/llm-claude-3/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-01
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-29
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.3](https://github.com/simonw/llm-gemini/releases/tag/0.3) - ([9 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-10-29
