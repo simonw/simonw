@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Generating documentation from tests using files-to-prompt and LLM](https://til.simonwillison.net/llms/docs-from-tests) - 2024-11-05
+
 [Installing flash-attn without compiling it](https://til.simonwillison.net/python/installing-flash-attention) - 2024-10-25
 
 [Using uv to develop Python command-line applications](https://til.simonwillison.net/python/uv-cli-apps) - 2024-10-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running prompts against images, PDFs, audio and video with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
 
 [The most basic possible Hugo site](https://til.simonwillison.net/hugo/basic) - 2024-10-23
-
-[Livestreaming a community election event on YouTube](https://til.simonwillison.net/youtube/livestreaming) - 2024-10-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
