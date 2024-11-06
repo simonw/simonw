@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1678<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1679<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
+<br />An ASGI function for proxying to a backend over HTTP
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.8](https://github.com/simonw/llm-claude-3/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-04
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
@@ -305,8 +307,6 @@ Listing <!-- releases_count starts -->1678<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)**: [0.2.3](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3) - ([5 releases total](https://github.com/dogsheep/pocket-to-sqlite/releases)) - 2023-07-09
 <br />Create a SQLite database containing data from your Pocket account
-* **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.1a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0) - 2023-07-01
-<br />An ASGI function for proxying to a backend over HTTP
 * **[datasette-render-images](https://github.com/simonw/datasette-render-images)**: [0.4](https://github.com/simonw/datasette-render-images/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/datasette-render-images/releases)) - 2023-06-14
 <br />Datasette plugin that renders binary blob images using data-uris
 * **[datasette-sqlite-url-lite](https://github.com/simonw/datasette-sqlite-url-lite)**: [0.1](https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1) - 2023-05-26
