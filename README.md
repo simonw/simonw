@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Project: VERDAD - tracking misinformation in radio broadcasts using Gemini 1.5](https://simonwillison.net/2024/Nov/7/project-verdad/) - 2024-11-07
+
 [Claude 3.5 Haiku](https://simonwillison.net/2024/Nov/4/haiku/) - 2024-11-04
 
 [W̶e̶e̶k̶n̶o̶t̶e̶s̶  Monthnotes for October](https://simonwillison.net/2024/Oct/30/monthnotes/) - 2024-10-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Run a prompt to generate and execute jq programs using llm-jq](https://simonwillison.net/2024/Oct/27/llm-jq/) - 2024-10-27
 
 [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/) - 2024-10-24
-
-[Initial explorations of Anthropic's new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/) - 2024-10-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
