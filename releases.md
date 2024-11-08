@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1679<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - ([115 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-08
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.8](https://github.com/simonw/llm-claude-3/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-04
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->1679<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
 <br />Run models distributed as GGUF files using LLM
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.37](https://github.com/simonw/sqlite-utils/releases/tag/3.37) - ([114 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-07-18
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
