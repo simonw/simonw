@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1681<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1682<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.9a0](https://github.com/simonw/llm-claude-3/releases/tag/0.9a0) - ([11 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-14
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm](https://github.com/simonw/llm)**: [0.18a0](https://github.com/simonw/llm/releases/tag/0.18a0) - ([31 releases total](https://github.com/simonw/llm/releases)) - 2024-11-14
 <br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - ([115 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-08
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.8](https://github.com/simonw/llm-claude-3/releases/tag/0.8) - ([10 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-04
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01

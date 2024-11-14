@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-claude-3 0.9a0](https://github.com/simonw/llm-claude-3/releases/tag/0.9a0) - 2024-11-14
+
 [llm 0.18a0](https://github.com/simonw/llm/releases/tag/0.18a0) - 2024-11-14
 
 [sqlite-utils 3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - 2024-11-08
 
 [asgi-proxy-lib 0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - 2024-11-06
-
-[llm-claude-3 0.8](https://github.com/simonw/llm-claude-3/releases/tag/0.8) - 2024-11-04
 
 [llm-lambda-labs 0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
 
