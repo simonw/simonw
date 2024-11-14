@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1681<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.18a0](https://github.com/simonw/llm/releases/tag/0.18a0) - ([31 releases total](https://github.com/simonw/llm/releases)) - 2024-11-14
+<br />Access large language models from the command-line
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - ([115 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-08
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases 
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
 <br />Run prompts against LLMs hosted by lambdalabs.com
-* **[llm](https://github.com/simonw/llm)**: [0.17.1](https://github.com/simonw/llm/releases/tag/0.17.1) - ([30 releases total](https://github.com/simonw/llm/releases)) - 2024-11-01
-<br />Access large language models from the command-line
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
 <br />Transcribe audio using the Groq.com Whisper API
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-10-29
