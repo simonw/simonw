@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1683<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1684<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-11-15
+<br />ASGI middleware for protecting against CSRF attacks
 * **[llm](https://github.com/simonw/llm)**: [0.18a1](https://github.com/simonw/llm/releases/tag/0.18a1) - ([32 releases total](https://github.com/simonw/llm/releases)) - 2024-11-14
 <br />Access large language models from the command-line
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.9a0](https://github.com/simonw/llm-claude-3/releases/tag/0.9a0) - ([11 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-14
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->1683<!-- releases_count ends --> releases 
 <br />Ask questions of your data with LLM assistance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
 <br />Add interactive checkboxes to columns in Datasette
-* **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.10](https://github.com/simonw/asgi-csrf/releases/tag/0.10) - ([18 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-08-15
-<br />ASGI middleware for protecting against CSRF attacks
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asgi-csrf 0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - 2024-11-15
+
 [llm 0.18a1](https://github.com/simonw/llm/releases/tag/0.18a1) - 2024-11-14
 
 [llm-claude-3 0.9a0](https://github.com/simonw/llm-claude-3/releases/tag/0.9a0) - 2024-11-14
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-groq-whisper 0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
 
 [llm-mistral 0.7](https://github.com/simonw/llm-mistral/releases/tag/0.7) - 2024-10-29
-
-[llm-gemini 0.3](https://github.com/simonw/llm-gemini/releases/tag/0.3) - 2024-10-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
