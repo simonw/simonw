@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1685<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1686<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.9](https://github.com/simonw/llm-claude-3/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-17
+<br />LLM plugin for interacting with the Claude 3 family of models
 * **[llm](https://github.com/simonw/llm)**: [0.18](https://github.com/simonw/llm/releases/tag/0.18) - ([33 releases total](https://github.com/simonw/llm/releases)) - 2024-11-17
 <br />Access large language models from the command-line
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-11-15
 <br />ASGI middleware for protecting against CSRF attacks
-* **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.9a0](https://github.com/simonw/llm-claude-3/releases/tag/0.9a0) - ([11 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-14
-<br />LLM plugin for interacting with the Claude 3 family of models
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - ([115 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-08
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
