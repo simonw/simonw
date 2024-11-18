@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1687<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1688<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.4](https://github.com/simonw/llm-gemini/releases/tag/0.4) - ([10 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-11-18
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.4.1](https://github.com/simonw/llm-gemini/releases/tag/0.4.1) - ([11 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-11-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.9](https://github.com/simonw/llm-claude-3/releases/tag/0.9) - ([12 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-17
 <br />LLM plugin for interacting with the Claude 3 family of models
