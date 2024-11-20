@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1692<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1693<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.19a1](https://github.com/simonw/llm/releases/tag/0.19a1) - ([35 releases total](https://github.com/simonw/llm/releases)) - 2024-11-20
+<br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.5a0](https://github.com/simonw/llm-gemini/releases/tag/0.5a0) - ([12 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-11-20
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10a0](https://github.com/simonw/llm-claude-3/releases/tag/0.10a0) - ([13 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-11-20
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[llm](https://github.com/simonw/llm)**: [0.19a0](https://github.com/simonw/llm/releases/tag/0.19a0) - ([34 releases total](https://github.com/simonw/llm/releases)) - 2024-11-20
-<br />Access large language models from the command-line
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.8](https://github.com/simonw/llm-mistral/releases/tag/0.8) - ([9 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-11-19
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-11-15

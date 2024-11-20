@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.19a1](https://github.com/simonw/llm/releases/tag/0.19a1) - 2024-11-20
+
 [llm-gemini 0.5a0](https://github.com/simonw/llm-gemini/releases/tag/0.5a0) - 2024-11-20
 
 [llm-claude-3 0.10a0](https://github.com/simonw/llm-claude-3/releases/tag/0.10a0) - 2024-11-20
-
-[llm 0.19a0](https://github.com/simonw/llm/releases/tag/0.19a0) - 2024-11-20
 
 [llm-mistral 0.8](https://github.com/simonw/llm-mistral/releases/tag/0.8) - 2024-11-19
 
