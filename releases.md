@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1696<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1697<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.2](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
+<br />Create embeddings for LLM using the Nomic API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-gguf/releases)) - 2024-11-21
 <br />Run models distributed as GGUF files using LLM
 * **[llm](https://github.com/simonw/llm)**: [0.19a2](https://github.com/simonw/llm/releases/tag/0.19a2) - ([36 releases total](https://github.com/simonw/llm/releases)) - 2024-11-21
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->1696<!-- releases_count ends --> releases 
 <br />A tool for creating credentials for accessing S3 buckets
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-command-r/releases)) - 2024-04-04
 <br />Access the Cohere Command R family of models
-* **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.1](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1) - 2024-03-30
-<br />Create embeddings for LLM using the Nomic API
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
