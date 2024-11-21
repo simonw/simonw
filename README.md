@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gguf 0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - 2024-11-21
+
 [llm 0.19a2](https://github.com/simonw/llm/releases/tag/0.19a2) - 2024-11-21
 
 [llm-mistral 0.9a0](https://github.com/simonw/llm-mistral/releases/tag/0.9a0) - 2024-11-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-utils 3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - 2024-11-08
 
 [asgi-proxy-lib 0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - 2024-11-06
-
-[llm-lambda-labs 0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

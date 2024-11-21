@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1695<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1696<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-gguf/releases)) - 2024-11-21
+<br />Run models distributed as GGUF files using LLM
 * **[llm](https://github.com/simonw/llm)**: [0.19a2](https://github.com/simonw/llm/releases/tag/0.19a2) - ([36 releases total](https://github.com/simonw/llm/releases)) - 2024-11-21
 <br />Access large language models from the command-line
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.9a0](https://github.com/simonw/llm-mistral/releases/tag/0.9a0) - ([10 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-11-20
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->1695<!-- releases_count ends --> releases 
 <br />Fetch all GitHub issues for a repository
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
 <br />Import unstructured data (text and images) into structured tables
-* **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.1a0](https://github.com/simonw/llm-gguf/releases/tag/0.1a0) - 2024-07-23
-<br />Run models distributed as GGUF files using LLM
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
