@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1697<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1698<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.2](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
+* **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
 <br />Create embeddings for LLM using the Nomic API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-gguf/releases)) - 2024-11-21
 <br />Run models distributed as GGUF files using LLM
