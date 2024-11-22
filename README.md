@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Weeknotes: asynchronous LLMs, synchronous embeddings, and I kind of started a podcast](https://simonwillison.net/2024/Nov/22/weeknotes/) - 2024-11-22
+
 [Notes from Bing Chat—Our First Encounter With Manipulative AI](https://simonwillison.net/2024/Nov/19/notes-from-bing-chat/) - 2024-11-19
 
 [Project: Civic Band - scraping and searching PDF meeting minutes from hundreds of municipalities](https://simonwillison.net/2024/Nov/16/civic-band/) - 2024-11-16
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/) - 2024-11-09
 
 [Project: VERDAD - tracking misinformation in radio broadcasts using Gemini 1.5](https://simonwillison.net/2024/Nov/7/project-verdad/) - 2024-11-07
-
-[Claude 3.5 Haiku](https://simonwillison.net/2024/Nov/4/haiku/) - 2024-11-04
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
