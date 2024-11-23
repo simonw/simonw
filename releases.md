@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1699<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1700<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - ([116 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-23
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.4.2](https://github.com/simonw/llm-gemini/releases/tag/0.4.2) - ([13 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-11-22
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1699<!-- releases_count ends --> releases 
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[asgi-csrf](https://github.com/simonw/asgi-csrf)**: [0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - ([19 releases total](https://github.com/simonw/asgi-csrf/releases)) - 2024-11-15
 <br />ASGI middleware for protecting against CSRF attacks
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - ([115 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-08
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04

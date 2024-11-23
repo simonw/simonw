@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - 2024-11-23
+
 [llm-gemini 0.4.2](https://github.com/simonw/llm-gemini/releases/tag/0.4.2) - 2024-11-22
 
 [llm-nomic-api-embed 0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - 2024-11-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-claude-3 0.10a0](https://github.com/simonw/llm-claude-3/releases/tag/0.10a0) - 2024-11-20
 
 [asgi-csrf 0.11](https://github.com/simonw/asgi-csrf/releases/tag/0.11) - 2024-11-15
-
-[sqlite-utils 3.38a0](https://github.com/simonw/sqlite-utils/releases/tag/3.38a0) - 2024-11-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
