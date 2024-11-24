@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1700<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1701<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
+<br />Ask questions of your data with LLM assistance
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - ([116 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-23
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.4.2](https://github.com/simonw/llm-gemini/releases/tag/0.4.2) - ([13 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-11-22
@@ -81,8 +83,6 @@ Listing <!-- releases_count starts -->1700<!-- releases_count ends --> releases 
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
 <br />Prettier formatting for ?_trace=1 traces
-* **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.1a0](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0) - 2024-08-19
-<br />Ask questions of your data with LLM assistance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
 <br />Add interactive checkboxes to columns in Datasette
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
