@@ -4,21 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils-ask 0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - 2024-11-24
 
-[sqlite-utils 3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - 2024-11-23
-
-[llm-gemini 0.4.2](https://github.com/simonw/llm-gemini/releases/tag/0.4.2) - 2024-11-22
-
-[llm-nomic-api-embed 0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - 2024-11-21
-
-[llm-gguf 0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - 2024-11-21
-
-[llm 0.19a2](https://github.com/simonw/llm/releases/tag/0.19a2) - 2024-11-21
-
-[llm-mistral 0.9a0](https://github.com/simonw/llm-mistral/releases/tag/0.9a0) - 2024-11-20
-
-[llm-claude-3 0.10a0](https://github.com/simonw/llm-claude-3/releases/tag/0.10a0) - 2024-11-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
