@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/) - 2024-11-25
+
 [Weeknotes: asynchronous LLMs, synchronous embeddings, and I kind of started a podcast](https://simonwillison.net/2024/Nov/22/weeknotes/) - 2024-11-22
 
 [Notes from Bing Chat—Our First Encounter With Manipulative AI](https://simonwillison.net/2024/Nov/19/notes-from-bing-chat/) - 2024-11-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/) - 2024-11-12
 
 [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/) - 2024-11-09
-
-[Project: VERDAD - tracking misinformation in radio broadcasts using Gemini 1.5](https://simonwillison.net/2024/Nov/7/project-verdad/) - 2024-11-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
