@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) - 2024-11-29
+
 [Running cog automatically against GitHub pull requests](https://til.simonwillison.net/github-actions/cog) - 2024-11-06
 
 [Generating documentation from tests using files-to-prompt and LLM](https://til.simonwillison.net/llms/docs-from-tests) - 2024-11-05
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using uv to develop Python command-line applications](https://til.simonwillison.net/python/uv-cli-apps) - 2024-10-24
 
 [Setting cache-control: max-age=31536000 with a Cloudflare Transform Rule](https://til.simonwillison.net/cloudflare/cache-control-transform-rule) - 2024-10-24
-
-[Running prompts against images, PDFs, audio and video with Google Gemini](https://til.simonwillison.net/llms/prompt-gemini) - 2024-10-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
