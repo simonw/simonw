@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1701<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1702<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - ([147 releases total](https://github.com/simonw/datasette/releases)) - 2024-11-29
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
 <br />Ask questions of your data with LLM assistance
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - ([116 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-23
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1701<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
 <br />Load example SQL scripts into Datasette on startup
-* **[datasette](https://github.com/simonw/datasette)**: [0.65](https://github.com/simonw/datasette/releases/tag/0.65) - ([146 releases total](https://github.com/simonw/datasette/releases)) - 2024-10-07
-<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.5](https://github.com/simonw/shot-scraper/releases/tag/1.5) - ([30 releases total](https://github.com/simonw/shot-scraper/releases)) - 2024-09-27
 <br />A command-line utility for taking automated screenshots of websites
 * **[django-plugin-datasette](https://github.com/simonw/django-plugin-datasette)**: [0.2](https://github.com/simonw/django-plugin-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-plugin-datasette/releases)) - 2024-09-26
