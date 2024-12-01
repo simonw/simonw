@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases across <!-- project_count starts -->286<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1702<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette](https://github.com/simonw/datasette)**: [0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - ([147 releases total](https://github.com/simonw/datasette/releases)) - 2024-11-29
@@ -553,8 +553,18 @@ Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases 
 <br />Plugin adding backup options to Datasette
 * **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
 <br />An improved version of .iterdump() for sqlite3
+* **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
+<br />Unsafe permissions for datasette-insert - allows all actions without authentication
 * **[datasette-clone](https://github.com/simonw/datasette-clone)**: [0.5](https://github.com/simonw/datasette-clone/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/datasette-clone/releases)) - 2020-07-22
 <br />Create a local copy of database files from a Datasette instance
+* **[datasette-plugin-demos](https://github.com/simonw/datasette-plugin-demos)**: [0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
+<br />Some examples plugins for Datasette
+* **[datasette-glitch](https://github.com/simonw/datasette-glitch)**: [0.1](https://github.com/simonw/datasette-glitch/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-glitch/releases)) - 2020-07-01
+<br />Utilities to help run Datasette on Glitch
+* **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-init/releases)) - 2020-07-01
+<br />Ensure specific tables and views exist on startup
+* **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1) - 2020-06-30
+<br />Always allow access to /-/permissions, for debugging
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br />Tool for generating demo SQLite databases
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
@@ -563,14 +573,26 @@ Listing <!-- releases_count starts -->1680<!-- releases_count ends --> releases 
 <br />Demonstrating https://github.com/simonw/datasette-plugin
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
 <br />Datasette plugin adding a /-/psutil debugging endpoint
+* **[datasette-permissions-sql](https://github.com/simonw/datasette-permissions-sql)**: [0.3a](https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a) - ([4 releases total](https://github.com/simonw/datasette-permissions-sql/releases)) - 2020-06-12
+<br />Datasette plugin for configuring permission checks using SQL queries
 * **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
 <br />ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br />Upload your photos to S3 and import metadata about them into a SQLite database
+* **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
+<br />Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
 * **[datasette-render-timestamps](https://github.com/simonw/datasette-render-timestamps)**: [1.0.1](https://github.com/simonw/datasette-render-timestamps/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/datasette-render-timestamps/releases)) - 2020-03-21
 <br />Datasette plugin for rendering timestamps
+* **[datasette-show-errors](https://github.com/simonw/datasette-show-errors)**: [0.2](https://github.com/simonw/datasette-show-errors/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-show-errors/releases)) - 2020-03-21
+<br />Datasette plugin for displaying error tracebacks
 * **[fec-to-sqlite](https://github.com/simonw/fec-to-sqlite)**: [0.2](https://github.com/simonw/fec-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/fec-to-sqlite/releases)) - 2020-03-07
 <br />Save FEC campaign finance data to a SQLite database
+* **[asgi-log-to-sqlite](https://github.com/simonw/asgi-log-to-sqlite)**: [0.1.1](https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/asgi-log-to-sqlite/releases)) - 2020-02-24
+<br />ASGI middleware for logging traffic to a SQLite database
+* **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)**: [0.1](https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1) - 2019-09-19
+<br />Import your genome into a SQLite database
+* **[datasette-rure](https://github.com/simonw/datasette-rure)**: [0.3](https://github.com/simonw/datasette-rure/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-rure/releases)) - 2019-09-11
+<br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
 <br />Datasette plugin for working with Apple's binary plist format
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
