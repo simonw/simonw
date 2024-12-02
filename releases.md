@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1706<!-- releases_count ends --> releases across <!-- project_count starts -->297<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1707<!-- releases_count ends --> releases across <!-- project_count starts -->298<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0) - 2024-12-02
+<br />Track usage of LLM tokens in a SQLite table
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.9](https://github.com/simonw/llm-mistral/releases/tag/0.9) - ([11 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-12-02
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.5](https://github.com/simonw/llm-gemini/releases/tag/0.5) - ([14 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-02
