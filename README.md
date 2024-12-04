@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-bedrock 0.2.1](https://github.com/simonw/llm-bedrock/releases/tag/0.2.1) - 2024-12-04
+[llm-bedrock 0.3](https://github.com/simonw/llm-bedrock/releases/tag/0.3) - 2024-12-04
 
 [datasette-queries 0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
 
