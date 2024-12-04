@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1712<!-- releases_count ends --> releases across <!-- project_count starts -->300<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1713<!-- releases_count ends --> releases across <!-- project_count starts -->300<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.3](https://github.com/simonw/llm-bedrock/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
+* **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.3.1](https://github.com/simonw/llm-bedrock/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
 <br />Run prompts against models hosted on AWS Bedrock
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
 <br />Save SQL queries in Datasette
