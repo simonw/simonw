@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1714<!-- releases_count ends --> releases across <!-- project_count starts -->300<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1715<!-- releases_count ends --> releases across <!-- project_count starts -->300<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - ([38 releases total](https://github.com/simonw/llm/releases)) - 2024-12-05
+<br />Access large language models from the command-line
 * **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
 <br />Run prompts against models hosted on AWS Bedrock
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1714<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[llm](https://github.com/simonw/llm)**: [0.19](https://github.com/simonw/llm/releases/tag/0.19) - ([37 releases total](https://github.com/simonw/llm/releases)) - 2024-12-01
-<br />Access large language models from the command-line
 * **[datasette](https://github.com/simonw/datasette)**: [0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - ([147 releases total](https://github.com/simonw/datasette/releases)) - 2024-11-29
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
