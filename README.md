@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments-llm 0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
+
 [llm 0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - 2024-12-05
 
 [llm-bedrock 0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - 2024-12-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-gemini 0.5](https://github.com/simonw/llm-gemini/releases/tag/0.5) - 2024-12-02
 
 [llm-claude-3 0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - 2024-12-02
-
-[datasette 0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - 2024-11-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

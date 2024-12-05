@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1715<!-- releases_count ends --> releases across <!-- project_count starts -->300<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1716<!-- releases_count ends --> releases across <!-- project_count starts -->301<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
+<br />Enrich data by prompting LLMs
 * **[llm](https://github.com/simonw/llm)**: [0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - ([38 releases total](https://github.com/simonw/llm/releases)) - 2024-12-05
 <br />Access large language models from the command-line
 * **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
