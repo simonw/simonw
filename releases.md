@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1717<!-- releases_count ends --> releases across <!-- project_count starts -->301<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1719<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.2](https://github.com/simonw/prompts-js/releases/tag/0.0.2) - ([2 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-07
+<br />async alternatives to browser alert() and prompt() and confirm()
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.6](https://github.com/simonw/llm-gemini/releases/tag/0.6) - ([15 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-06
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
