@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Prompts.js](https://simonwillison.net/2024/Dec/7/prompts-js/) - 2024-12-07
+
 [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/) - 2024-12-04
 
 [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/) - 2024-11-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: asynchronous LLMs, synchronous embeddings, and I kind of started a podcast](https://simonwillison.net/2024/Nov/22/weeknotes/) - 2024-11-22
 
 [Notes from Bing Chat—Our First Encounter With Manipulative AI](https://simonwillison.net/2024/Nov/19/notes-from-bing-chat/) - 2024-11-19
-
-[Project: Civic Band - scraping and searching PDF meeting minutes from hundreds of municipalities](https://simonwillison.net/2024/Nov/16/civic-band/) - 2024-11-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
