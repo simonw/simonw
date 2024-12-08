@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[prompts-js 0.0.3](https://github.com/simonw/prompts-js/releases/tag/0.0.3) - 2024-12-07
+[prompts-js 0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - 2024-12-08
 
 [llm-gemini 0.6](https://github.com/simonw/llm-gemini/releases/tag/0.6) - 2024-12-06
 
