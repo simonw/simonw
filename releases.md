@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1721<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1722<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
+<br />LLM plugin for models hosted by OpenRouter
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08
 <br />async alternatives to browser alert() and prompt() and confirm()
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.6](https://github.com/simonw/llm-gemini/releases/tag/0.6) - ([15 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-06
@@ -115,8 +117,6 @@ Listing <!-- releases_count starts -->1721<!-- releases_count ends --> releases 
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.2](https://github.com/simonw/llm-openrouter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-05-03
-<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
 <br />Upload SQLite database files to Datasette
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
