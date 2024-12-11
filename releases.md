@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1722<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1723<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.7](https://github.com/simonw/llm-gemini/releases/tag/0.7) - ([16 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-11
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
 <br />LLM plugin for models hosted by OpenRouter
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08
 <br />async alternatives to browser alert() and prompt() and confirm()
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.6](https://github.com/simonw/llm-gemini/releases/tag/0.6) - ([15 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-06
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
 <br />Enrich data by prompting LLMs
 * **[llm](https://github.com/simonw/llm)**: [0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - ([38 releases total](https://github.com/simonw/llm/releases)) - 2024-12-05
