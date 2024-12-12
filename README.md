@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Fixes for datetime UTC warnings in Python](https://til.simonwillison.net/python/utc-warning-fix) - 2024-12-12
+
 [Publishing a simple client-side JavaScript package to npm with GitHub Actions](https://til.simonwillison.net/npm/npm-publish-github-actions) - 2024-12-08
 
 [GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) - 2024-11-29
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Generating documentation from tests using files-to-prompt and LLM](https://til.simonwillison.net/llms/docs-from-tests) - 2024-11-05
 
 [Installing flash-attn without compiling it](https://til.simonwillison.net/python/installing-flash-attention) - 2024-10-25
-
-[Using uv to develop Python command-line applications](https://til.simonwillison.net/python/uv-cli-apps) - 2024-10-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
