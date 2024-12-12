@@ -25,17 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode](https://simonwillison.net/2024/Dec/11/gemini-2/) - 2024-12-11
 
-[ChatGPT Canvas can make API requests now, but it's complicated](https://simonwillison.net/2024/Dec/10/chatgpt-canvas/) - 2024-12-10
-
-[I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/) - 2024-12-09
-
-[Prompts.js](https://simonwillison.net/2024/Dec/7/prompts-js/) - 2024-12-07
-
-[First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/) - 2024-12-04
-
-[Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/) - 2024-11-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
