@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
+
 [llm-gemini 0.7](https://github.com/simonw/llm-gemini/releases/tag/0.7) - 2024-12-11
 
 [llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - 2024-12-08
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-bedrock 0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - 2024-12-04
 
 [datasette-queries 0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
-
-[datasette-llm-usage 0.1a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0) - 2024-12-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

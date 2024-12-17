@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1723<!-- releases_count ends --> releases across <!-- project_count starts -->302<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1724<!-- releases_count ends --> releases across <!-- project_count starts -->303<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.7](https://github.com/simonw/llm-gemini/releases/tag/0.7) - ([16 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-11
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
