@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1724<!-- releases_count ends --> releases across <!-- project_count starts -->303<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1725<!-- releases_count ends --> releases across <!-- project_count starts -->304<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.1](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.1) - 2024-12-18
+<br />An enrichment on a slow loop to help debug progress bars
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.7](https://github.com/simonw/llm-gemini/releases/tag/0.7) - ([16 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-11
