@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.8](https://github.com/simonw/llm-gemini/releases/tag/0.8) - 2024-12-19
+
 [datasette-enrichments-slow 0.1](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.1) - 2024-12-18
 
 [llm-anthropic 0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
-
-[llm-gemini 0.7](https://github.com/simonw/llm-gemini/releases/tag/0.7) - 2024-12-11
 
 [llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - 2024-12-08
 
