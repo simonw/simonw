@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Live blog: the 12th day of OpenAI](https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/) - 2024-12-20
+
 [December in LLMs has been a lot](https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/) - 2024-12-20
 
 [Gemini 2.0 Flash "Thinking mode"](https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/) - 2024-12-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode](https://simonwillison.net/2024/Dec/11/gemini-2/) - 2024-12-11
 
 [ChatGPT Canvas can make API requests now, but it's complicated](https://simonwillison.net/2024/Dec/10/chatgpt-canvas/) - 2024-12-10
-
-[I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/) - 2024-12-09
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
