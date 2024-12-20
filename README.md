@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Live blog: the 12th day of OpenAI](https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/) - 2024-12-20
+[Live blog: the 12th day of OpenAI - "Early evals for OpenAI o3"](https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/) - 2024-12-20
 
 [December in LLMs has been a lot](https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/) - 2024-12-20
 
