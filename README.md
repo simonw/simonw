@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Trying out QvQ - Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/) - 2024-12-24
+
 [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) - 2024-12-22
 
 [Live blog: the 12th day of OpenAI - "Early evals for OpenAI o3"](https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/) - 2024-12-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Gemini 2.0 Flash "Thinking mode"](https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/) - 2024-12-19
 
 [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/) - 2024-12-19
-
-[Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode](https://simonwillison.net/2024/Dec/11/gemini-2/) - 2024-12-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
