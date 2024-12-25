@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Calculating the size of all LFS files in a repo](https://til.simonwillison.net/git/size-of-lfs-files) - 2024-12-25
+
 [Named Entity Resolution with dslim/distilbert-NER](https://til.simonwillison.net/llms/bert-ner) - 2024-12-24
 
 [Fixes for datetime UTC warnings in Python](https://til.simonwillison.net/python/utc-warning-fix) - 2024-12-12
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) - 2024-11-29
 
 [Running cog automatically against GitHub pull requests](https://til.simonwillison.net/github-actions/cog) - 2024-11-06
-
-[Generating documentation from tests using files-to-prompt and LLM](https://til.simonwillison.net/llms/docs-from-tests) - 2024-11-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
