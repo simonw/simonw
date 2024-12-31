@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
+[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
 
 [Trying out QvQ - Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/) - 2024-12-24
 
