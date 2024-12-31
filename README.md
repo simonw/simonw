@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
+
 [Trying out QvQ - Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/) - 2024-12-24
 
 [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) - 2024-12-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [December in LLMs has been a lot](https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/) - 2024-12-20
 
 [Gemini 2.0 Flash "Thinking mode"](https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/) - 2024-12-19
-
-[Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/) - 2024-12-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
