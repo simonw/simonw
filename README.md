@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I still don't think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/) - 2025-01-02
+
 [Ending a year long posting streak](https://simonwillison.net/2025/Jan/2/ending-a-year-long-posting-streak/) - 2025-01-02
 
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) - 2024-12-22
 
 [Live blog: the 12th day of OpenAI - "Early evals for OpenAI o3"](https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/) - 2024-12-20
-
-[December in LLMs has been a lot](https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/) - 2024-12-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
