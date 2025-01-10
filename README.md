@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends](https://simonwillison.net/2025/Jan/10/ai-predictions/) - 2025-01-10
+
 [Weeknotes: Starting 2025 a little slow](https://simonwillison.net/2025/Jan/4/weeknotes/) - 2025-01-04
 
 [I still don't think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/) - 2025-01-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
 
 [Trying out QvQ - Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/) - 2024-12-24
-
-[My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) - 2024-12-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
