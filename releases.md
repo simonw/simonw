@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1726<!-- releases_count ends --> releases across <!-- project_count starts -->304<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1727<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
+<br />Terminal UI for sqlite-utils
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.8](https://github.com/simonw/llm-gemini/releases/tag/0.8) - ([17 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-19
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.1](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.1) - 2024-12-18
