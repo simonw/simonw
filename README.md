@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments 0.5a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a0) - 2025-01-14
+
 [datasette-enrichments-slow 0.2](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.2) - 2025-01-14
 
 [sqlite-utils-tui 0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [prompts-js 0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - 2024-12-08
 
 [datasette-enrichments-llm 0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
-
-[llm 0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - 2024-12-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

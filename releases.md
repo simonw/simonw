@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1728<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1729<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a0) - ([17 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-14
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.2](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-14
 <br />An enrichment on a slow loop to help debug progress bars
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
@@ -89,8 +91,6 @@ Listing <!-- releases_count starts -->1728<!-- releases_count ends --> releases 
 <br />Print Datasette events to standard error
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.4.3](https://github.com/datasette/datasette-enrichments/releases/tag/0.4.3) - ([16 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2024-09-03
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
