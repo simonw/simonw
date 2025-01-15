@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-enrichments 0.5a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a1) - 2025-01-15
+[datasette-enrichments-slow 0.3a0](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3a0) - 2025-01-15
 
-[datasette-enrichments-slow 0.2](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.2) - 2025-01-14
+[datasette-enrichments 0.5a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a1) - 2025-01-15
 
 [sqlite-utils-tui 0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 
