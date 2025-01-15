@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1729<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1730<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a0) - ([17 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-14
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5a1) - ([18 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-15
 <br />Tools for running enrichments against data stored in Datasette
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.2](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-14
 <br />An enrichment on a slow loop to help debug progress bars
