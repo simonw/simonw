@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Downloading every video for a TikTok account](https://til.simonwillison.net/tiktok/download-all-videos) - 2025-01-19
+
 [Calculating the size of all LFS files in a repo](https://til.simonwillison.net/git/size-of-lfs-files) - 2024-12-25
 
 [Named Entity Resolution with dslim/distilbert-NER](https://til.simonwillison.net/llms/bert-ner) - 2024-12-24
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Publishing a simple client-side JavaScript package to npm with GitHub Actions](https://til.simonwillison.net/npm/npm-publish-github-actions) - 2024-12-08
 
 [GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) - 2024-11-29
-
-[Running cog automatically against GitHub pull requests](https://til.simonwillison.net/github-actions/cog) - 2024-11-06
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
