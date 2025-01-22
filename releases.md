@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1733<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1734<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.9](https://github.com/simonw/llm-gemini/releases/tag/0.9) - ([18 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-01-22
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
 <br />An enrichment on a slow loop to help debug progress bars
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - ([19 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-15
 <br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 <br />Terminal UI for sqlite-utils
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.8](https://github.com/simonw/llm-gemini/releases/tag/0.8) - ([17 releases total](https://github.com/simonw/llm-gemini/releases)) - 2024-12-19
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
