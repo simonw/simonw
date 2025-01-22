@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Six short video demos of LLM and Datasette projects](https://simonwillison.net/2025/Jan/22/office-hours-demos/) - 2025-01-22
+
 [DeepSeek-R1 and exploring DeepSeek-R1-Distill-Llama-8B](https://simonwillison.net/2025/Jan/20/deepseek-r1/) - 2025-01-20
 
 [My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends](https://simonwillison.net/2025/Jan/10/ai-predictions/) - 2025-01-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [I still don't think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/) - 2025-01-02
 
 [Ending a year long posting streak](https://simonwillison.net/2025/Jan/2/ending-a-year-long-posting-streak/) - 2025-01-02
-
-[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) - 2024-12-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
