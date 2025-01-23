@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1734<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1735<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.20](https://github.com/simonw/llm/releases/tag/0.20) - ([39 releases total](https://github.com/simonw/llm/releases)) - 2025-01-23
+<br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.9](https://github.com/simonw/llm-gemini/releases/tag/0.9) - ([18 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-01-22
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1734<!-- releases_count ends --> releases 
 <br />async alternatives to browser alert() and prompt() and confirm()
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
 <br />Enrich data by prompting LLMs
-* **[llm](https://github.com/simonw/llm)**: [0.19.1](https://github.com/simonw/llm/releases/tag/0.19.1) - ([38 releases total](https://github.com/simonw/llm/releases)) - 2024-12-05
-<br />Access large language models from the command-line
 * **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
 <br />Run prompts against models hosted on AWS Bedrock
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
