@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/) - 2025-01-24
+
 [Anthropic's new Citations API](https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/) - 2025-01-24
 
 [Six short video demos of LLM and Datasette projects](https://simonwillison.net/2025/Jan/22/office-hours-demos/) - 2025-01-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends](https://simonwillison.net/2025/Jan/10/ai-predictions/) - 2025-01-10
 
 [Weeknotes: Starting 2025 a little slow](https://simonwillison.net/2025/Jan/4/weeknotes/) - 2025-01-04
-
-[I still don't think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/) - 2025-01-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
