@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1735<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1736<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm](https://github.com/simonw/llm)**: [0.20](https://github.com/simonw/llm/releases/tag/0.20) - ([39 releases total](https://github.com/simonw/llm/releases)) - 2025-01-23
 <br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.9](https://github.com/simonw/llm-gemini/releases/tag/0.9) - ([18 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-01-22
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1735<!-- releases_count ends --> releases 
 <br />Save SQL queries in Datasette
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0) - 2024-12-02
 <br />Track usage of LLM tokens in a SQLite table
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.9](https://github.com/simonw/llm-mistral/releases/tag/0.9) - ([11 releases total](https://github.com/simonw/llm-mistral/releases)) - 2024-12-02
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[datasette](https://github.com/simonw/datasette)**: [0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - ([147 releases total](https://github.com/simonw/datasette/releases)) - 2024-11-29
