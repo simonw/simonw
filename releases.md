@@ -381,7 +381,7 @@ Listing <!-- releases_count starts -->1736<!-- releases_count ends --> releases 
 <br />Export pages from Datasette to files on disk
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
 <br />Datasette authentication using IndieAuth and RelMeAuth
-* **[datasette-import-table](https://github.com/simonw/datasette-import-table)**: [0.3.1](https://github.com/simonw/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/simonw/datasette-import-table/releases)) - 2022-11-18
+* **[datasette-import-table](https://github.com/datasette/datasette-import-table)**: [0.3.1](https://github.com/datasette/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/datasette/datasette-import-table/releases)) - 2022-11-18
 <br />Datasette plugin for importing tables from other Datasette instances
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
