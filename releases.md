@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1736<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1737<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - ([2 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-01-31
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm](https://github.com/simonw/llm)**: [0.20](https://github.com/simonw/llm/releases/tag/0.20) - ([39 releases total](https://github.com/simonw/llm/releases)) - 2025-01-23
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1736<!-- releases_count ends --> releases 
 <br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 <br />Terminal UI for sqlite-utils
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
-<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
 <br />LLM plugin for models hosted by OpenRouter
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08

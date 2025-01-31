@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - 2025-01-31
+
 [llm-mistral 0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - 2025-01-30
 
 [llm 0.20](https://github.com/simonw/llm/releases/tag/0.20) - 2025-01-23
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments 0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - 2025-01-15
 
 [sqlite-utils-tui 0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
-
-[llm-anthropic 0.11](https://github.com/simonw/llm-anthropic/releases/tag/0.11) - 2024-12-17
 
 [llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - 2024-12-08
 <!-- recent_releases ends -->
