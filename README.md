@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[OpenAI o3-mini, now available in LLM](https://simonwillison.net/2025/Jan/31/o3-mini/) - 2025-01-31
+
 [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/) - 2025-01-24
 
 [Anthropic's new Citations API](https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/) - 2025-01-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [DeepSeek-R1 and exploring DeepSeek-R1-Distill-Llama-8B](https://simonwillison.net/2025/Jan/20/deepseek-r1/) - 2025-01-20
 
 [My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends](https://simonwillison.net/2025/Jan/10/ai-predictions/) - 2025-01-10
-
-[Weeknotes: Starting 2025 a little slow](https://simonwillison.net/2025/Jan/4/weeknotes/) - 2025-01-04
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
