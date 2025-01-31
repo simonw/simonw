@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1737<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1738<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.21](https://github.com/simonw/llm/releases/tag/0.21) - ([40 releases total](https://github.com/simonw/llm/releases)) - 2025-01-31
+<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - ([2 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-01-31
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[llm](https://github.com/simonw/llm)**: [0.20](https://github.com/simonw/llm/releases/tag/0.20) - ([39 releases total](https://github.com/simonw/llm/releases)) - 2025-01-23
-<br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.9](https://github.com/simonw/llm-gemini/releases/tag/0.9) - ([18 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-01-22
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
