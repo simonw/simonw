@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-load 0.1a0](https://github.com/datasette/datasette-load/releases/tag/0.1a0) - 2025-02-06
+
 [llm-gemini 0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - 2025-02-05
 
 [llm 0.21](https://github.com/simonw/llm/releases/tag/0.21) - 2025-01-31
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-enrichments 0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - 2025-01-15
 
 [sqlite-utils-tui 0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
-
-[llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - 2024-12-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

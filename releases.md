@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1739<!-- releases_count ends --> releases across <!-- project_count starts -->305<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1740<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a0](https://github.com/datasette/datasette-load/releases/tag/0.1a0) - 2025-02-06
+<br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - ([19 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-05
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm](https://github.com/simonw/llm)**: [0.21](https://github.com/simonw/llm/releases/tag/0.21) - ([40 releases total](https://github.com/simonw/llm/releases)) - 2025-01-31
