@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1741<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1742<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a0](https://github.com/datasette/datasette-public/releases/tag/0.3a0) - ([6 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-06
+<br />Make selected Datasette databases and tables visible to the public
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a0](https://github.com/datasette/datasette-load/releases/tag/0.1a0) - 2025-02-06
@@ -159,8 +161,6 @@ Listing <!-- releases_count starts -->1741<!-- releases_count ends --> releases 
 <br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0.1](https://github.com/simonw/asgi-cors/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-12
 <br />ASGI middleware for applying CORS headers to an ASGI application
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.2.3](https://github.com/datasette/datasette-public/releases/tag/0.2.3) - ([5 releases total](https://github.com/datasette/datasette-public/releases)) - 2024-04-09
-<br />Make specific Datasette tables visible to the public
 * **[datasette-embeddings](https://github.com/datasette/datasette-embeddings)**: [0.1a3](https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3) - ([3 releases total](https://github.com/datasette/datasette-embeddings/releases)) - 2024-04-08
 <br />Store and query embedding vectors in Datasette tables
 * **[datasette-paste](https://github.com/datasette/datasette-paste)**: [0.1a5](https://github.com/datasette/datasette-paste/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-paste/releases)) - 2024-04-06
