@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1740<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1741<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a0](https://github.com/datasette/datasette-load/releases/tag/0.1a0) - 2025-02-06
 <br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - ([19 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-05
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1740<!-- releases_count ends --> releases 
 <br />Track usage of LLM tokens in a SQLite table
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[datasette](https://github.com/simonw/datasette)**: [0.65.1](https://github.com/simonw/datasette/releases/tag/0.65.1) - ([147 releases total](https://github.com/simonw/datasette/releases)) - 2024-11-29
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
 <br />Ask questions of your data with LLM assistance
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - ([116 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-23
