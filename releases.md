@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1742<!-- releases_count ends --> releases across <!-- project_count starts -->306<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1744<!-- releases_count ends --> releases across <!-- project_count starts -->307<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-smollm2](https://github.com/simonw/llm-smollm2)**: [0.1.1](https://github.com/simonw/llm-smollm2/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-smollm2/releases)) - 2025-02-07
+<br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a0](https://github.com/datasette/datasette-public/releases/tag/0.3a0) - ([6 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-06
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
