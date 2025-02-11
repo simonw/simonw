@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-load 0.1a1](https://github.com/datasette/datasette-load/releases/tag/0.1a1) - 2025-02-11
+[datasette-load 0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - 2025-02-11
 
 [llm-smollm2 0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - 2025-02-07
 
