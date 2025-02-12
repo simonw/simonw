@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-remove-database 0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
+
 [datasette-load 0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - 2025-02-11
 
 [llm-smollm2 0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - 2025-02-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm 0.21](https://github.com/simonw/llm/releases/tag/0.21) - 2025-01-31
 
 [llm-anthropic 0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - 2025-01-31
-
-[llm-mistral 0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - 2025-01-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
