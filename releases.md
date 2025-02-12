@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1748<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1749<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-02-12
+<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
 <br />Remove a database from Datasette
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-02-11
@@ -219,8 +221,6 @@ Listing <!-- releases_count starts -->1748<!-- releases_count ends --> releases 
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a0](https://github.com/datasette/datasette-events-db/releases/tag/0.1a0) - 2024-02-08
 <br />Log Datasette events to a database table
-* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2024-02-04
-<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31
 <br />Show a specific Datasette table on the homepage
 * **[llm-embed-onnx](https://github.com/simonw/llm-embed-onnx)**: [0.1](https://github.com/simonw/llm-embed-onnx/releases/tag/0.1) - 2024-01-28
