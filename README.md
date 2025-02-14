@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[files-to-prompt 0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - 2025-02-14
+
 [datasette-public 0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - 2025-02-14
 
 [shot-scraper 1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - 2025-02-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-smollm2 0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - 2025-02-07
 
 [datasette 1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - 2025-02-06
-
-[llm-gemini 0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - 2025-02-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1751<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1752<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-14
+<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
 <br />Make selected Datasette databases and tables visible to the public
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - ([31 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-13
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1751<!-- releases_count ends --> releases 
 <br />Write and execute jq programs with the help of LLM
 * **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
 <br />Convert a Claude.ai export to SQLite
-* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.4](https://github.com/simonw/files-to-prompt/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2024-10-16
-<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
 <br />Load example SQL scripts into Datasette on startup
 * **[django-plugin-datasette](https://github.com/simonw/django-plugin-datasette)**: [0.2](https://github.com/simonw/django-plugin-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-plugin-datasette/releases)) - 2024-09-26
