@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1750<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1751<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
+<br />Make selected Datasette databases and tables visible to the public
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - ([31 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-13
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-02-12
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1750<!-- releases_count ends --> releases 
 <br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-smollm2](https://github.com/simonw/llm-smollm2)**: [0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-smollm2/releases)) - 2025-02-07
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a0](https://github.com/datasette/datasette-public/releases/tag/0.3a0) - ([6 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-06
-<br />Make selected Datasette databases and tables visible to the public
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - ([19 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-05

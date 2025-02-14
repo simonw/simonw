@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - 2025-02-14
+
 [shot-scraper 1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - 2025-02-13
 
 [llm-sentence-transformers 0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - 2025-02-12
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-load 0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - 2025-02-11
 
 [llm-smollm2 0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - 2025-02-07
-
-[datasette-public 0.3a0](https://github.com/datasette/datasette-public/releases/tag/0.3a0) - 2025-02-06
 
 [datasette 1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - 2025-02-06
 
