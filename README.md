@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Trying out Python packages with ipython and uvx](https://til.simonwillison.net/python/itry) - 2025-02-14
+
 [Running pytest against a specific Python version with uv run](https://til.simonwillison.net/pytest/pytest-uv) - 2025-02-04
 
 [Geocoding from Python on macOS using pyobjc-framework-CoreLocation](https://til.simonwillison.net/python/pyobjc-framework-corelocation) - 2025-01-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Calculating the size of all LFS files in a repo](https://til.simonwillison.net/git/size-of-lfs-files) - 2024-12-25
 
 [Named Entity Resolution with dslim/distilbert-NER](https://til.simonwillison.net/llms/bert-ner) - 2024-12-24
-
-[Fixes for datetime UTC warnings in Python](https://til.simonwillison.net/python/utc-warning-fix) - 2024-12-12
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
