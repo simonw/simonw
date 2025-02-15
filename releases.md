@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1752<!-- releases_count ends --> releases across <!-- project_count starts -->308<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1753<!-- releases_count ends --> releases across <!-- project_count starts -->309<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.1](https://github.com/simonw/llm-mlx/releases/tag/0.1) - 2025-02-15
+<br />Support for MLX models in LLM
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-14
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
