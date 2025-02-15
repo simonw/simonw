@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Run LLMs on macOS using llm-mlx and Apple's MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) - 2025-02-15
+
 [URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) - 2025-02-13
 
 [Using pip to install a Large Language Model that's under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/) - 2025-02-07
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/) - 2025-01-24
 
 [Anthropic's new Citations API](https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/) - 2025-01-24
-
-[Six short video demos of LLM and Datasette projects](https://simonwillison.net/2025/Jan/22/office-hours-demos/) - 2025-01-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
