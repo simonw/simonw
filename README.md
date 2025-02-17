@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.13](https://github.com/simonw/llm-anthropic/releases/tag/0.13) - 2025-02-17
+
 [llm 0.22](https://github.com/simonw/llm/releases/tag/0.22) - 2025-02-17
 
 [llm-mlx 0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - 2025-02-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - 2025-02-12
 
 [datasette-remove-database 0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
-
-[datasette-load 0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - 2025-02-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
