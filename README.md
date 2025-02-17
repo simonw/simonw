@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-mlx 0.2.1](https://github.com/simonw/llm-mlx/releases/tag/0.2.1) - 2025-02-15
+[llm-mlx 0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - 2025-02-17
 
 [files-to-prompt 0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - 2025-02-14
 
