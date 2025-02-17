@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1758<!-- releases_count ends --> releases across <!-- project_count starts -->309<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1759<!-- releases_count ends --> releases across <!-- project_count starts -->309<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.11](https://github.com/simonw/llm-gemini/releases/tag/0.11) - ([20 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-17
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.13](https://github.com/simonw/llm-anthropic/releases/tag/0.13) - ([3 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.22](https://github.com/simonw/llm/releases/tag/0.22) - ([41 releases total](https://github.com/simonw/llm/releases)) - 2025-02-17
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->1758<!-- releases_count ends --> releases 
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
 <br />An open source multi-tool for exploring and publishing data
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - ([19 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-05
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
