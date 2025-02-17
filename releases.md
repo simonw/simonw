@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1756<!-- releases_count ends --> releases across <!-- project_count starts -->309<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1757<!-- releases_count ends --> releases across <!-- project_count starts -->309<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.22](https://github.com/simonw/llm/releases/tag/0.22) - ([41 releases total](https://github.com/simonw/llm/releases)) - 2025-02-17
+<br />Access large language models from the command-line
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-14
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1756<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.10](https://github.com/simonw/llm-gemini/releases/tag/0.10) - ([19 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-05
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm](https://github.com/simonw/llm)**: [0.21](https://github.com/simonw/llm/releases/tag/0.21) - ([40 releases total](https://github.com/simonw/llm/releases)) - 2025-01-31
-<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.12](https://github.com/simonw/llm-anthropic/releases/tag/0.12) - ([2 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-01-31
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
