@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1761<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1762<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
+<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/condense-json/releases)) - 2025-02-18
 <br />Python function for condensing JSON using replacement strings
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.11](https://github.com/simonw/llm-gemini/releases/tag/0.11) - ([20 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-17
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1761<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
-* **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.5](https://github.com/simonw/files-to-prompt/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-14
-<br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
 <br />Make selected Datasette databases and tables visible to the public
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - ([31 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-13
