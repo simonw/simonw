@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using S3 triggers to maintain a list of files in DynamoDB](https://til.simonwillison.net/aws/s3-triggers-dynamodb) - 2025-02-19
+
 [Trying out Python packages with ipython and uvx](https://til.simonwillison.net/python/itry) - 2025-02-14
 
 [Running pytest against a specific Python version with uv run](https://til.simonwillison.net/pytest/pytest-uv) - 2025-02-04
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Downloading every video for a TikTok account](https://til.simonwillison.net/tiktok/download-all-videos) - 2025-01-19
 
 [Calculating the size of all LFS files in a repo](https://til.simonwillison.net/git/size-of-lfs-files) - 2024-12-25
-
-[Named Entity Resolution with dslim/distilbert-NER](https://til.simonwillison.net/llms/bert-ner) - 2024-12-24
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
