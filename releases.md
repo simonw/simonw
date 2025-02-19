@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1762<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1763<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
+<br />Find the Python code for specified symbols
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/condense-json/releases)) - 2025-02-18
@@ -291,8 +293,6 @@ Listing <!-- releases_count starts -->1762<!-- releases_count ends --> releases 
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a0](https://github.com/simonw/datasette-graphql/releases/tag/3.0a0) - ([39 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2023-09-07
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[symbex](https://github.com/simonw/symbex)**: [1.4](https://github.com/simonw/symbex/releases/tag/1.4) - ([18 releases total](https://github.com/simonw/symbex/releases)) - 2023-09-05
-<br />Find the Python code for specified symbols
 * **[llm-cluster](https://github.com/simonw/llm-cluster)**: [0.2](https://github.com/simonw/llm-cluster/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-cluster/releases)) - 2023-09-04
 <br />LLM plugin for clustering embeddings
 * **[sqlite-utils-move-tables](https://github.com/simonw/sqlite-utils-move-tables)**: [0.1](https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1) - 2023-09-01

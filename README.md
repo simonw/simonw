@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[symbex 1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - 2025-02-19
+
 [files-to-prompt 0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - 2025-02-19
 
 [condense-json 0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - 2025-02-18
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-mlx 0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - 2025-02-17
 
 [datasette-public 0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - 2025-02-14
-
-[shot-scraper 1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - 2025-02-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
