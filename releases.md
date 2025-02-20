@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1763<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1764<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
+<br />A command-line utility for taking automated screenshots of websites
 * **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
 <br />Find the Python code for specified symbols
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1763<!-- releases_count ends --> releases 
 <br />Support for MLX models in LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
 <br />Make selected Datasette databases and tables visible to the public
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.6](https://github.com/simonw/shot-scraper/releases/tag/1.6) - ([31 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-13
-<br />A command-line utility for taking automated screenshots of websites
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-02-12
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
