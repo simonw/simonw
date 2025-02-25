@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Claude 3.7 Sonnet, extended thinking and long output, llm-anthropic 0.14](https://simonwillison.net/2025/Feb/25/llm-anthropic-014/) - 2025-02-25
+
 [LLM 0.22, the annotated release notes](https://simonwillison.net/2025/Feb/17/llm/) - 2025-02-17
 
 [Run LLMs on macOS using llm-mlx and Apple's MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) - 2025-02-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Using pip to install a Large Language Model that's under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/) - 2025-02-07
 
 [OpenAI o3-mini, now available in LLM](https://simonwillison.net/2025/Jan/31/o3-mini/) - 2025-01-31
-
-[A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/) - 2025-01-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
