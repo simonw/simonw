@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1765<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1766<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.12](https://github.com/simonw/llm-gemini/releases/tag/0.12) - ([21 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-25
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.14](https://github.com/simonw/llm-anthropic/releases/tag/0.14) - ([4 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-25
 <br />LLM access to models by Anthropic, including the Claude series
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1765<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/condense-json/releases)) - 2025-02-18
 <br />Python function for condensing JSON using replacement strings
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.11](https://github.com/simonw/llm-gemini/releases/tag/0.11) - ([20 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-17
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm](https://github.com/simonw/llm)**: [0.22](https://github.com/simonw/llm/releases/tag/0.22) - ([41 releases total](https://github.com/simonw/llm/releases)) - 2025-02-17
 <br />Access large language models from the command-line
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
