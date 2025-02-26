@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-gemini 0.12](https://github.com/simonw/llm-gemini/releases/tag/0.12) - 2025-02-25
+[llm-anthropic 0.14.1](https://github.com/simonw/llm-anthropic/releases/tag/0.14.1) - 2025-02-26
 
-[llm-anthropic 0.14](https://github.com/simonw/llm-anthropic/releases/tag/0.14) - 2025-02-25
+[llm-gemini 0.12](https://github.com/simonw/llm-gemini/releases/tag/0.12) - 2025-02-25
 
 [shot-scraper 1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - 2025-02-20
 
