@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1767<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1768<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.23a0](https://github.com/simonw/llm/releases/tag/0.23a0) - ([42 releases total](https://github.com/simonw/llm/releases)) - 2025-02-27
+<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.14.1](https://github.com/simonw/llm-anthropic/releases/tag/0.14.1) - ([5 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-26
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.12](https://github.com/simonw/llm-gemini/releases/tag/0.12) - ([21 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-25
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1767<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/condense-json/releases)) - 2025-02-18
 <br />Python function for condensing JSON using replacement strings
-* **[llm](https://github.com/simonw/llm)**: [0.22](https://github.com/simonw/llm/releases/tag/0.22) - ([41 releases total](https://github.com/simonw/llm/releases)) - 2025-02-17
-<br />Access large language models from the command-line
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
