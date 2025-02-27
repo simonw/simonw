@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Initial impressions of GPT-4.5](https://simonwillison.net/2025/Feb/27/introducing-gpt-45/) - 2025-02-27
+
 [Claude 3.7 Sonnet, extended thinking and long output, llm-anthropic 0.14](https://simonwillison.net/2025/Feb/25/llm-anthropic-014/) - 2025-02-25
 
 [LLM 0.22, the annotated release notes](https://simonwillison.net/2025/Feb/17/llm/) - 2025-02-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) - 2025-02-13
 
 [Using pip to install a Large Language Model that's under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/) - 2025-02-07
-
-[OpenAI o3-mini, now available in LLM](https://simonwillison.net/2025/Jan/31/o3-mini/) - 2025-01-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
