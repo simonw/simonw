@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[strip-tags 0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - 2025-02-28
+
 [llm-gemini 0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - 2025-02-28
 
 [llm-anthropic 0.15](https://github.com/simonw/llm-anthropic/releases/tag/0.15) - 2025-02-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [files-to-prompt 0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - 2025-02-19
 
 [condense-json 0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - 2025-02-18
-
-[llm-mlx 0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - 2025-02-17
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
