@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-gemini 0.13a0](https://github.com/simonw/llm-gemini/releases/tag/0.13a0) - 2025-02-27
+[llm-gemini 0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - 2025-02-28
 
-[llm-anthropic 0.15a0](https://github.com/simonw/llm-anthropic/releases/tag/0.15a0) - 2025-02-27
+[llm-anthropic 0.15](https://github.com/simonw/llm-anthropic/releases/tag/0.15) - 2025-02-28
 
-[llm 0.23a0](https://github.com/simonw/llm/releases/tag/0.23a0) - 2025-02-27
+[llm 0.23](https://github.com/simonw/llm/releases/tag/0.23) - 2025-02-28
 
 [shot-scraper 1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - 2025-02-20
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/) - 2025-02-28
+
 [Initial impressions of GPT-4.5](https://simonwillison.net/2025/Feb/27/introducing-gpt-45/) - 2025-02-27
 
 [Claude 3.7 Sonnet, extended thinking and long output, llm-anthropic 0.14](https://simonwillison.net/2025/Feb/25/llm-anthropic-014/) - 2025-02-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Run LLMs on macOS using llm-mlx and Apple's MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) - 2025-02-15
 
 [URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) - 2025-02-13
-
-[Using pip to install a Large Language Model that's under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/) - 2025-02-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

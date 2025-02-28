@@ -1,13 +1,13 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1770<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1773<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13a0](https://github.com/simonw/llm-gemini/releases/tag/0.13a0) - ([22 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-27
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-28
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15a0](https://github.com/simonw/llm-anthropic/releases/tag/0.15a0) - ([6 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-27
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15](https://github.com/simonw/llm-anthropic/releases/tag/0.15) - ([7 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-28
 <br />LLM access to models by Anthropic, including the Claude series
-* **[llm](https://github.com/simonw/llm)**: [0.23a0](https://github.com/simonw/llm/releases/tag/0.23a0) - ([42 releases total](https://github.com/simonw/llm/releases)) - 2025-02-27
+* **[llm](https://github.com/simonw/llm)**: [0.23](https://github.com/simonw/llm/releases/tag/0.23) - ([43 releases total](https://github.com/simonw/llm/releases)) - 2025-02-28
 <br />Access large language models from the command-line
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
 <br />A command-line utility for taking automated screenshots of websites
