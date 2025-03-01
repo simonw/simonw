@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1776<!-- releases_count ends --> releases across <!-- project_count starts -->311<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1777<!-- releases_count ends --> releases across <!-- project_count starts -->311<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.24a0](https://github.com/simonw/llm/releases/tag/0.24a0) - ([44 releases total](https://github.com/simonw/llm/releases)) - 2025-03-01
+<br />Access large language models from the command-line
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
 <br />Research prototype for new register_template_loaders LLM plugin hook
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1776<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-28
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm](https://github.com/simonw/llm)**: [0.23](https://github.com/simonw/llm/releases/tag/0.23) - ([43 releases total](https://github.com/simonw/llm/releases)) - 2025-02-28
-<br />Access large language models from the command-line
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
 <br />A command-line utility for taking automated screenshots of websites
 * **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
