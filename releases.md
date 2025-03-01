@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1774<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1775<!-- releases_count ends --> releases across <!-- project_count starts -->310<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
+<br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-28
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15](https://github.com/simonw/llm-anthropic/releases/tag/0.15) - ([7 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-02-28
-<br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.23](https://github.com/simonw/llm/releases/tag/0.23) - ([43 releases total](https://github.com/simonw/llm/releases)) - 2025-02-28
 <br />Access large language models from the command-line
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
