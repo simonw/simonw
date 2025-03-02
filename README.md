@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/) - 2025-03-02
+
 [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/) - 2025-02-28
 
 [Initial impressions of GPT-4.5](https://simonwillison.net/2025/Feb/27/introducing-gpt-45/) - 2025-02-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [LLM 0.22, the annotated release notes](https://simonwillison.net/2025/Feb/17/llm/) - 2025-02-17
 
 [Run LLMs on macOS using llm-mlx and Apple's MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/) - 2025-02-15
-
-[URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) - 2025-02-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
