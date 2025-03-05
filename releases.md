@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1778<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1781<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13.1](https://github.com/simonw/llm-gemini/releases/tag/0.13.1) - ([24 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-04
+<br />LLM plugin to access Google's Gemini family of models
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
 <br />Load LLM templates from Fabric
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
@@ -13,8 +17,6 @@ Listing <!-- releases_count starts -->1778<!-- releases_count ends --> releases 
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - ([23 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-02-28
-<br />LLM plugin to access Google's Gemini family of models
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
 <br />A command-line utility for taking automated screenshots of websites
 * **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1778<!-- releases_count ends --> releases 
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a17](https://github.com/simonw/datasette/releases/tag/1.0a17) - ([148 releases total](https://github.com/simonw/datasette/releases)) - 2025-02-06
 <br />An open source multi-tool for exploring and publishing data
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.10](https://github.com/simonw/llm-mistral/releases/tag/0.10) - ([12 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-01-30
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
 <br />An enrichment on a slow loop to help debug progress bars
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - ([19 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-15

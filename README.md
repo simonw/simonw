@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.13.1](https://github.com/simonw/llm-gemini/releases/tag/0.13.1) - 2025-03-04
+
+[llm-mistral 0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - 2025-03-04
+
 [llm-templates-fabric 0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
 
 [llm-templates-github 0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
@@ -14,17 +18,15 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 [strip-tags 0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - 2025-02-28
 
-[llm-gemini 0.13](https://github.com/simonw/llm-gemini/releases/tag/0.13) - 2025-02-28
-
 [shot-scraper 1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - 2025-02-20
-
-[symbex 1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - 2025-02-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[I built an automaton called Squadron](https://simonwillison.net/2025/Mar/4/squadron/) - 2025-03-04
+
 [Notes from my Accessibility and Gen AI podcast appearence](https://simonwillison.net/2025/Mar/2/accessibility-and-gen-ai/) - 2025-03-02
 
 [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/) - 2025-03-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Initial impressions of GPT-4.5](https://simonwillison.net/2025/Feb/27/introducing-gpt-45/) - 2025-02-27
 
 [Claude 3.7 Sonnet, extended thinking and long output, llm-anthropic 0.14](https://simonwillison.net/2025/Feb/25/llm-anthropic-014/) - 2025-02-25
-
-[LLM 0.22, the annotated release notes](https://simonwillison.net/2025/Feb/17/llm/) - 2025-02-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
