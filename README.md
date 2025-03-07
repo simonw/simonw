@@ -4,7 +4,21 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.13.1](https://github.com/simonw/llm-gemini/releases/tag/0.13.1) - 2025-03-04
 
+[llm-mistral 0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - 2025-03-04
+
+[llm-templates-fabric 0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
+
+[llm-templates-github 0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
+
+[llm 0.24a0](https://github.com/simonw/llm/releases/tag/0.24a0) - 2025-03-01
+
+[llm-anthropic 0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - 2025-03-01
+
+[strip-tags 0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - 2025-02-28
+
+[shot-scraper 1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - 2025-02-20
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
