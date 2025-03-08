@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[What's new in the world of LLMs, for NICAR 2025](https://simonwillison.net/2025/Mar/8/nicar-llms/) - 2025-03-08
+
 [I built an automaton called Squadron](https://simonwillison.net/2025/Mar/4/squadron/) - 2025-03-04
 
 [Notes from my Accessibility and Gen AI podcast appearance](https://simonwillison.net/2025/Mar/2/accessibility-and-gen-ai/) - 2025-03-02
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/) - 2025-02-28
 
 [Initial impressions of GPT-4.5](https://simonwillison.net/2025/Feb/27/introducing-gpt-45/) - 2025-02-27
-
-[Claude 3.7 Sonnet, extended thinking and long output, llm-anthropic 0.14](https://simonwillison.net/2025/Feb/25/llm-anthropic-014/) - 2025-02-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
