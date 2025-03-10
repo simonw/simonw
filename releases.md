@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1783<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1784<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-03-10
+<br />LLM plugin for models hosted by OpenRouter
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.14.1](https://github.com/simonw/llm-gemini/releases/tag/0.14.1) - ([26 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-08
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->1783<!-- releases_count ends --> releases 
 <br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 <br />Terminal UI for sqlite-utils
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2024-12-08
-<br />LLM plugin for models hosted by OpenRouter
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08
 <br />async alternatives to browser alert() and prompt() and confirm()
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
