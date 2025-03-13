@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-command-r 0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - 2025-03-13
+
 [llm-gemini 0.15](https://github.com/simonw/llm-gemini/releases/tag/0.15) - 2025-03-12
 
 [llm-openrouter 0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - 2025-03-10
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm 0.24a0](https://github.com/simonw/llm/releases/tag/0.24a0) - 2025-03-01
 
 [llm-anthropic 0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - 2025-03-01
-
-[strip-tags 0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - 2025-02-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
