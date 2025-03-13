@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1785<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1783<!-- releases_count ends --> releases across <!-- project_count starts -->311<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.15](https://github.com/simonw/llm-gemini/releases/tag/0.15) - ([27 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-12
@@ -187,8 +187,6 @@ Listing <!-- releases_count starts -->1785<!-- releases_count ends --> releases 
 <br />Enrich data with a custom JavaScript function
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - ([18 releases total](https://github.com/simonw/s3-credentials/releases)) - 2024-04-05
 <br />A tool for creating credentials for accessing S3 buckets
-* **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.2](https://github.com/simonw/llm-command-r/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-command-r/releases)) - 2024-04-04
-<br />Access the Cohere Command R family of models
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
