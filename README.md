@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) - 2025-03-14
+
 [Running jupyterlab via uv tool install](https://til.simonwillison.net/jupyter/jupyterlab-uv-tool-install) - 2025-03-08
 
 [Using a Tailscale exit node with GitHub Actions](https://til.simonwillison.net/tailscale/tailscale-github-actions) - 2025-02-23
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Trying out Python packages with ipython and uvx](https://til.simonwillison.net/python/itry) - 2025-02-14
 
 [Running pytest against a specific Python version with uv run](https://til.simonwillison.net/pytest/pytest-uv) - 2025-02-04
-
-[Geocoding from Python on macOS using pyobjc-framework-CoreLocation](https://til.simonwillison.net/python/pyobjc-framework-corelocation) - 2025-01-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
