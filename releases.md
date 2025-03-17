@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1786<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1787<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
+<br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-13
 <br />Access the Cohere Command R family of models
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.15](https://github.com/simonw/llm-gemini/releases/tag/0.15) - ([27 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-12
@@ -73,8 +75,6 @@ Listing <!-- releases_count starts -->1786<!-- releases_count ends --> releases 
 <br />ASGI middleware for protecting against CSRF attacks
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
-* **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.1a0](https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0) - 2024-11-04
-<br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
 <br />Transcribe audio using the Groq.com Whisper API
 * **[llm-whisper-api](https://github.com/simonw/llm-whisper-api)**: [0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-whisper-api/releases)) - 2024-10-27
