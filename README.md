@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) - 2025-03-18
+
 [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) - 2025-03-14
 
 [Running jupyterlab via uv tool install](https://til.simonwillison.net/jupyter/jupyterlab-uv-tool-install) - 2025-03-08
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using S3 triggers to maintain a list of files in DynamoDB](https://til.simonwillison.net/aws/s3-triggers-dynamodb) - 2025-02-19
 
 [Trying out Python packages with ipython and uvx](https://til.simonwillison.net/python/itry) - 2025-02-14
-
-[Running pytest against a specific Python version with uv run](https://til.simonwillison.net/pytest/pytest-uv) - 2025-02-04
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
