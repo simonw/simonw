@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/) - 2025-03-19
+
 [Adding AI-generated descriptions to my tools collection](https://simonwillison.net/2025/Mar/13/tools-colophon/) - 2025-03-13
 
 [Notes on Google's Gemma 3](https://simonwillison.net/2025/Mar/12/gemma-3/) - 2025-03-12
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [What's new in the world of LLMs, for NICAR 2025](https://simonwillison.net/2025/Mar/8/nicar-llms/) - 2025-03-08
 
 [I built an automaton called Squadron](https://simonwillison.net/2025/Mar/4/squadron/) - 2025-03-04
-
-[Notes from my Accessibility and Gen AI podcast appearance](https://simonwillison.net/2025/Mar/2/accessibility-and-gen-ai/) - 2025-03-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
