@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - 2025-03-20
+
 [llm-lambda-labs 0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - 2025-03-17
 
 [llm-command-r 0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - 2025-03-13
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-templates-fabric 0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
 
 [llm-templates-github 0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
-
-[llm 0.24a0](https://github.com/simonw/llm/releases/tag/0.24a0) - 2025-03-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

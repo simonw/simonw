@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1787<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1788<!-- releases_count ends --> releases across <!-- project_count starts -->312<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - ([8 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-03-20
+<br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-13
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1787<!-- releases_count ends --> releases 
 <br />Python function for condensing JSON using replacement strings
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a1](https://github.com/datasette/datasette-public/releases/tag/0.3a1) - ([7 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-02-14
-<br />Make selected Datasette databases and tables visible to the public
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-02-12
 <br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
