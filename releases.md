@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1789<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1790<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1a0](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1a0) - 2025-03-21
+* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-03-21
 <br />OpenAI plugin for LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - ([8 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-03-20
 <br />Make selected Datasette databases and tables visible to the public
