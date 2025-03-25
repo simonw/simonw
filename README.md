@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - 2025-03-25
+
 [llm-openai-plugin 0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - 2025-03-21
 
 [datasette-public 0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - 2025-03-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-openrouter 0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - 2025-03-10
 
 [llm-mistral 0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - 2025-03-04
-
-[llm-templates-fabric 0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

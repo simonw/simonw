@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1790<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1791<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
+<br />A command-line utility for taking automated screenshots of websites
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-03-21
 <br />OpenAI plugin for LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - ([8 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-03-20
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1790<!-- releases_count ends --> releases 
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.7](https://github.com/simonw/shot-scraper/releases/tag/1.7) - ([32 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-02-20
-<br />A command-line utility for taking automated screenshots of websites
 * **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
 <br />Find the Python code for specified symbols
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
