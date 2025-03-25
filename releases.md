@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1791<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1792<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.16](https://github.com/simonw/llm-gemini/releases/tag/0.16) - ([28 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-25
+<br />LLM plugin to access Google's Gemini family of models
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-03-21
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1791<!-- releases_count ends --> releases 
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-13
 <br />Access the Cohere Command R family of models
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.15](https://github.com/simonw/llm-gemini/releases/tag/0.15) - ([27 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-12
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-03-10
 <br />LLM plugin for models hosted by OpenRouter
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
