@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1792<!-- releases_count ends --> releases across <!-- project_count starts -->313<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1793<!-- releases_count ends --> releases across <!-- project_count starts -->314<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a0](https://github.com/datasette/datasette-profiles/releases/tag/0.1a0) - 2025-03-26
+<br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.16](https://github.com/simonw/llm-gemini/releases/tag/0.16) - ([28 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-25
 <br />LLM plugin to access Google's Gemini family of models
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
