@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1797<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1798<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a3](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-27
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
 <br />Use datasette-profiles to return actors_from_ids
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27
@@ -289,8 +291,6 @@ Listing <!-- releases_count starts -->1797<!-- releases_count ends --> releases 
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a2](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2023-09-28
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
 <br />Datasette plugin that masks specified database columns
 * **[datasette-export-notebook](https://github.com/simonw/datasette-export-notebook)**: [1.0.1](https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1) - ([6 releases total](https://github.com/simonw/datasette-export-notebook/releases)) - 2023-09-15
