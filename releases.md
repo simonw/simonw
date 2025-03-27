@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1798<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1799<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-03-27
+<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a3](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-27
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->1798<!-- releases_count ends --> releases 
 <br />Python function for condensing JSON using replacement strings
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
-* **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-02-12
-<br />LLM plugin for embeddings using sentence-transformers
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
 <br />Remove a database from Datasette
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-02-11
