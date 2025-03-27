@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1796<!-- releases_count ends --> releases across <!-- project_count starts -->314<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1797<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
+<br />Use datasette-profiles to return actors_from_ids
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27
 <br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.16](https://github.com/simonw/llm-gemini/releases/tag/0.16) - ([28 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-25
