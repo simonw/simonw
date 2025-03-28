@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1800<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1801<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
+<br />Access the Cohere Command R family of models
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - ([13 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2025-03-28
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-03-27
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1800<!-- releases_count ends --> releases 
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
-* **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3](https://github.com/simonw/llm-command-r/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-13
-<br />Access the Cohere Command R family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-03-10
 <br />LLM plugin for models hosted by OpenRouter
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
