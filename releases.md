@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1802<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1803<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
+<br />Python function for condensing JSON using replacement strings
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-28
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->1802<!-- releases_count ends --> releases 
 <br />Find the Python code for specified symbols
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.1](https://github.com/simonw/condense-json/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/condense-json/releases)) - 2025-02-18
-<br />Python function for condensing JSON using replacement strings
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
 <br />Support for MLX models in LLM
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
