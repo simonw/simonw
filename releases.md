@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1801<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1802<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-28
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
 <br />Access the Cohere Command R family of models
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - ([13 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2025-03-28
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-03-27
 <br />LLM plugin for embeddings using sentence-transformers
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a3](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-27
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
 <br />Use datasette-profiles to return actors_from_ids
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27

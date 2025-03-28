@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-remote-actors 0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - 2025-03-28
+
 [llm-command-r 0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - 2025-03-28
 
 [datasette-auth-existing-cookies 1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - 2025-03-28
 
 [llm-sentence-transformers 0.3.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1) - 2025-03-27
-
-[datasette-remote-actors 0.1a3](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a3) - 2025-03-27
 
 [datasette-profiles-actors-from-ids 0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
 
