@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1803<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1804<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.17](https://github.com/simonw/llm-gemini/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-04
+<br />LLM plugin to access Google's Gemini family of models
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
 <br />Python function for condensing JSON using replacement strings
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-28
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1803<!-- releases_count ends --> releases 
 <br />Use datasette-profiles to return actors_from_ids
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27
 <br />None
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.16](https://github.com/simonw/llm-gemini/releases/tag/0.16) - ([28 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-03-25
-<br />LLM plugin to access Google's Gemini family of models
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-03-21
