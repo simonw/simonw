@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Initial impressions of Llama 4](https://simonwillison.net/2025/Apr/5/llama-4-notes/) - 2025-04-05
+
 [Putting Gemini 2.5 Pro through its paces](https://simonwillison.net/2025/Mar/25/gemini/) - 2025-03-25
 
 [New audio models from OpenAI, but how much can we rely on them?](https://simonwillison.net/2025/Mar/20/new-openai-audio-models/) - 2025-03-20
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/) - 2025-03-19
 
 [Adding AI-generated descriptions to my tools collection](https://simonwillison.net/2025/Mar/13/tools-colophon/) - 2025-03-13
-
-[Notes on Google's Gemma 3](https://simonwillison.net/2025/Mar/12/gemma-3/) - 2025-03-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
