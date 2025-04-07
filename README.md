@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-templates-fabric 0.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1) - 2025-04-07
+
 [llm-templates-github 0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - 2025-04-07
 
 [llm-docs 0.1](https://github.com/simonw/llm-docs/releases/tag/0.1) - 2025-04-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-remote-actors 0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - 2025-03-28
 
 [llm-command-r 0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - 2025-03-28
-
-[datasette-auth-existing-cookies 1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - 2025-03-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
