@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1806<!-- releases_count ends --> releases across <!-- project_count starts -->316<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1808<!-- releases_count ends --> releases across <!-- project_count starts -->316<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.1a0](https://github.com/simonw/llm-docs/releases/tag/0.1a0) - 2025-04-07
+* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.1](https://github.com/simonw/llm-docs/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-07
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
-* **[llm](https://github.com/simonw/llm)**: [0.24a1](https://github.com/simonw/llm/releases/tag/0.24a1) - ([45 releases total](https://github.com/simonw/llm/releases)) - 2025-04-07
+* **[llm](https://github.com/simonw/llm)**: [0.24](https://github.com/simonw/llm/releases/tag/0.24) - ([46 releases total](https://github.com/simonw/llm/releases)) - 2025-04-07
 <br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.17](https://github.com/simonw/llm-gemini/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-04
 <br />LLM plugin to access Google's Gemini family of models
