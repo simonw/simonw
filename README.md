@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) - 2025-04-07
+
 [Initial impressions of Llama 4](https://simonwillison.net/2025/Apr/5/llama-4-notes/) - 2025-04-05
 
 [Putting Gemini 2.5 Pro through its paces](https://simonwillison.net/2025/Mar/25/gemini/) - 2025-03-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Calling a wrap on my weeknotes](https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/) - 2025-03-20
 
 [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/) - 2025-03-19
-
-[Adding AI-generated descriptions to my tools collection](https://simonwillison.net/2025/Mar/13/tools-colophon/) - 2025-03-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
