@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1808<!-- releases_count ends --> releases across <!-- project_count starts -->316<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1809<!-- releases_count ends --> releases across <!-- project_count starts -->316<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
+<br />Research prototype for new register_template_loaders LLM plugin hook
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.1](https://github.com/simonw/llm-docs/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-07
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[llm](https://github.com/simonw/llm)**: [0.24](https://github.com/simonw/llm/releases/tag/0.24) - ([46 releases total](https://github.com/simonw/llm/releases)) - 2025-04-07
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1808<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.1a0](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1a0) - 2025-03-01
 <br />Load LLM templates from Fabric
-* **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
-<br />Research prototype for new register_template_loaders LLM plugin hook
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
