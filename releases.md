@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1804<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1805<!-- releases_count ends --> releases across <!-- project_count starts -->315<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.24a1](https://github.com/simonw/llm/releases/tag/0.24a1) - ([45 releases total](https://github.com/simonw/llm/releases)) - 2025-04-07
+<br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.17](https://github.com/simonw/llm-gemini/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-04
 <br />LLM plugin to access Google's Gemini family of models
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1804<!-- releases_count ends --> releases 
 <br />Load LLM templates from Fabric
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1a0](https://github.com/simonw/llm-templates-github/releases/tag/0.1a0) - 2025-03-01
 <br />Research prototype for new register_template_loaders LLM plugin hook
-* **[llm](https://github.com/simonw/llm)**: [0.24a0](https://github.com/simonw/llm/releases/tag/0.24a0) - ([44 releases total](https://github.com/simonw/llm/releases)) - 2025-03-01
-<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28

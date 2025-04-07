@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.24a1](https://github.com/simonw/llm/releases/tag/0.24a1) - 2025-04-07
+
 [llm-gemini 0.17](https://github.com/simonw/llm-gemini/releases/tag/0.17) - 2025-04-04
 
 [condense-json 0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - 2025-03-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-sentence-transformers 0.3.1](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1) - 2025-03-27
 
 [datasette-profiles-actors-from-ids 0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
-
-[datasette-profiles 0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - 2025-03-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
