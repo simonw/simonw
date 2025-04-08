@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1811<!-- releases_count ends --> releases across <!-- project_count starts -->317<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1812<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
+<br />LLM plugin for pulling content from Hacker News
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.1) - 2025-04-07
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-07
