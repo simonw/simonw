@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-templates-fabric 0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - 2025-04-08
+
 [llm-hacker-news 0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
 
 [llm-fragments-github 0.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.1) - 2025-04-07
-
-[llm-templates-fabric 0.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.1) - 2025-04-07
 
 [llm-templates-github 0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - 2025-04-07
 
