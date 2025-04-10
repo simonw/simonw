@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1815<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1816<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
+<br />Convert CSV files into a SQLite database
 * **[llm](https://github.com/simonw/llm)**: [0.24.2](https://github.com/simonw/llm/releases/tag/0.24.2) - ([48 releases total](https://github.com/simonw/llm/releases)) - 2025-04-09
 <br />Access large language models from the command-line
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
@@ -499,8 +501,6 @@ Listing <!-- releases_count starts -->1815<!-- releases_count ends --> releases 
 <br />Add preview hovercards to links in Datasette
 * **[datasette-table](https://github.com/simonw/datasette-table)**: [0.1.0](https://github.com/simonw/datasette-table/releases/tag/0.1.0) - 2021-11-28
 <br />A Web Component for embedding a Datasette table on a page
-* **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3) - ([13 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2021-11-18
-<br />Convert CSV files into a SQLite database
 * **[datasette-hello-world](https://github.com/simonw/datasette-hello-world)**: [0.1.1](https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-hello-world/releases)) - 2021-11-14
 <br />The hello world of Datasette plugins
 * **[datasette-jupyterlite](https://github.com/simonw/datasette-jupyterlite)**: [0.1a1](https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-jupyterlite/releases)) - 2021-11-05
