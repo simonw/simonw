@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) - 2025-04-11
+
 [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/) - 2025-04-09
 
 [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) - 2025-04-07
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Putting Gemini 2.5 Pro through its paces](https://simonwillison.net/2025/Mar/25/gemini/) - 2025-03-25
 
 [New audio models from OpenAI, but how much can we rely on them?](https://simonwillison.net/2025/Mar/20/new-openai-audio-models/) - 2025-03-20
-
-[Calling a wrap on my weeknotes](https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/) - 2025-03-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
