@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[csvs-to-sqlite 1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - 2025-04-10
+[llm 0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - 2025-04-11
 
-[llm 0.24.2](https://github.com/simonw/llm/releases/tag/0.24.2) - 2025-04-09
+[csvs-to-sqlite 1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - 2025-04-10
 
 [llm-templates-fabric 0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - 2025-04-08
 

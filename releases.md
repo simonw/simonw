@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1816<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1817<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - ([49 releases total](https://github.com/simonw/llm/releases)) - 2025-04-11
+<br />Access large language models from the command-line
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
-* **[llm](https://github.com/simonw/llm)**: [0.24.2](https://github.com/simonw/llm/releases/tag/0.24.2) - ([48 releases total](https://github.com/simonw/llm/releases)) - 2025-04-09
-<br />Access large language models from the command-line
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
 <br />Load LLM templates from Fabric
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
