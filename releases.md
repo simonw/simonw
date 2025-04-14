@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1817<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1818<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
+<br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[llm](https://github.com/simonw/llm)**: [0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - ([49 releases total](https://github.com/simonw/llm/releases)) - 2025-04-11
 <br />Access large language models from the command-line
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1817<!-- releases_count ends --> releases 
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
 <br />Research prototype for new register_template_loaders LLM plugin hook
-* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.1](https://github.com/simonw/llm-docs/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-07
-<br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.17](https://github.com/simonw/llm-gemini/releases/tag/0.17) - ([29 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-04
 <br />LLM plugin to access Google's Gemini family of models
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
