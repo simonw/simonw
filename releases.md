@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1818<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1819<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.2](https://github.com/simonw/llm-openai-plugin/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-14
+<br />OpenAI plugin for LLM
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[llm](https://github.com/simonw/llm)**: [0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - ([49 releases total](https://github.com/simonw/llm/releases)) - 2025-04-11
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->1818<!-- releases_count ends --> releases 
 <br />None
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
 <br />A command-line utility for taking automated screenshots of websites
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-03-21
-<br />OpenAI plugin for LLM
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - ([8 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-03-20
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
