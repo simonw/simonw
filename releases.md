@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1819<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1820<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.2](https://github.com/simonw/llm-openai-plugin/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-14
+* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.2.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-14
 <br />OpenAI plugin for LLM
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
