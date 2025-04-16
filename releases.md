@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1820<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1821<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a9](https://github.com/datasette/datasette-extract/releases/tag/0.1a9) - ([10 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-16
+<br />Import unstructured data (text and images) into structured tables
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.2.1](https://github.com/simonw/llm-openai-plugin/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-14
 <br />OpenAI plugin for LLM
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->1820<!-- releases_count ends --> releases 
 <br />Periodically refresh Datasette metadata from a remote URL
 * **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/fetch-github-issues/releases)) - 2024-07-29
 <br />Fetch all GitHub issues for a repository
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a8](https://github.com/datasette/datasette-extract/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-extract/releases)) - 2024-07-26
-<br />Import unstructured data (text and images) into structured tables
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
