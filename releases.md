@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1823<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1824<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
+<br />Import unstructured data (text and images) into structured tables
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a18](https://github.com/simonw/datasette/releases/tag/1.0a18) - ([149 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-17
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-16
 <br />OpenAI plugin for LLM
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a9](https://github.com/datasette/datasette-extract/releases/tag/0.1a9) - ([10 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-16
-<br />Import unstructured data (text and images) into structured tables
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[llm](https://github.com/simonw/llm)**: [0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - ([49 releases total](https://github.com/simonw/llm/releases)) - 2025-04-11

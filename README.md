@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-extract 0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - 2025-04-17
+
 [datasette 1.0a18](https://github.com/simonw/datasette/releases/tag/1.0a18) - 2025-04-17
 
 [llm-openai-plugin 0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - 2025-04-16
-
-[datasette-extract 0.1a9](https://github.com/datasette/datasette-extract/releases/tag/0.1a9) - 2025-04-16
 
 [llm-docs 0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - 2025-04-14
 
