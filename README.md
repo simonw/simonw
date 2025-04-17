@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.18](https://github.com/simonw/llm-gemini/releases/tag/0.18) - 2025-04-17
+
 [datasette-extract 0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - 2025-04-17
 
 [datasette 1.0a18](https://github.com/simonw/datasette/releases/tag/1.0a18) - 2025-04-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [csvs-to-sqlite 1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - 2025-04-10
 
 [llm-templates-fabric 0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - 2025-04-08
-
-[llm-hacker-news 0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
