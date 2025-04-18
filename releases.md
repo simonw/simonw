@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1825<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1826<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18](https://github.com/simonw/llm-gemini/releases/tag/0.18) - ([30 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-17
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - ([31 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
 <br />Import unstructured data (text and images) into structured tables
