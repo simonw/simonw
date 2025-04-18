@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) - 2025-04-18
+
 [GPT-4.1: Three new million token input models from OpenAI, including their cheapest model yet](https://simonwillison.net/2025/Apr/14/gpt-4-1/) - 2025-04-14
 
 [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) - 2025-04-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/) - 2025-04-07
 
 [Initial impressions of Llama 4](https://simonwillison.net/2025/Apr/5/llama-4-notes/) - 2025-04-05
-
-[Putting Gemini 2.5 Pro through its paces](https://simonwillison.net/2025/Mar/25/gemini/) - 2025-03-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
