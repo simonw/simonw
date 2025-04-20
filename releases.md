@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1828<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1829<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2](https://github.com/simonw/llm-fragments-github/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
+* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
 <br />Debug plugin for LLM providing an echo model

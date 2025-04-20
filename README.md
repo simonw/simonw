@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-fragments-github 0.2](https://github.com/simonw/llm-fragments-github/releases/tag/0.2) - 2025-04-20
+[llm-fragments-github 0.2.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1) - 2025-04-20
 
 [llm-echo 0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
 
