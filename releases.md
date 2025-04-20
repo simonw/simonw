@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1827<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1828<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2](https://github.com/simonw/llm-fragments-github/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
+<br />Load GitHub repository contents as LLM fragments
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
 <br />Debug plugin for LLM providing an echo model
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - ([31 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-18
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1827<!-- releases_count ends --> releases 
 <br />Load LLM templates from Fabric
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
 <br />LLM plugin for pulling content from Hacker News
-* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.1) - 2025-04-07
-<br />Load GitHub repository contents as LLM fragments
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
 <br />Research prototype for new register_template_loaders LLM plugin hook
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
