@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1826<!-- releases_count ends --> releases across <!-- project_count starts -->318<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1827<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
+<br />Debug plugin for LLM providing an echo model
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - ([31 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
