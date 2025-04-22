@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1829<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1830<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1829<!-- releases_count ends --> releases 
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
 <br />Import unstructured data (text and images) into structured tables
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a18](https://github.com/simonw/datasette/releases/tag/1.0a18) - ([149 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-17
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-16
 <br />OpenAI plugin for LLM
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
