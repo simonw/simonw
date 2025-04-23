@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1834<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1835<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
+<br />Support for MLX models in LLM
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-04-23
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-fragments-symbex](https://github.com/simonw/llm-fragments-symbex)**: [0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1834<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
-<br />Support for MLX models in LLM
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
 <br />Remove a database from Datasette
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-02-11
