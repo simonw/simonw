@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1832<!-- releases_count ends --> releases across <!-- project_count starts -->320<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1833<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fragments-symbex](https://github.com/simonw/llm-fragments-symbex)**: [0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
+<br />LLM fragment loader for Python symbols
 * **[symbex](https://github.com/simonw/symbex)**: [2.0](https://github.com/simonw/symbex/releases/tag/2.0) - ([20 releases total](https://github.com/simonw/symbex/releases)) - 2025-04-23
 <br />Find the Python code for specified symbols
 * **[llm-logging-debug](https://github.com/simonw/llm-logging-debug)**: [0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
