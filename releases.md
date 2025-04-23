@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1830<!-- releases_count ends --> releases across <!-- project_count starts -->319<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1831<!-- releases_count ends --> releases across <!-- project_count starts -->320<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-logging-debug](https://github.com/simonw/llm-logging-debug)**: [0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
+<br />Set logging.DEBUG while running LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
