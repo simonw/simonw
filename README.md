@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-sentence-transformers 0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - 2025-04-23
+
 [llm-fragments-symbex 0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
 
 [symbex 2.0](https://github.com/simonw/symbex/releases/tag/2.0) - 2025-04-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-echo 0.1](https://github.com/simonw/llm-echo/releases/tag/0.1) - 2025-04-20
 
 [llm-gemini 0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - 2025-04-18
-
-[datasette-extract 0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - 2025-04-17
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
