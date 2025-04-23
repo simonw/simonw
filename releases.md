@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1831<!-- releases_count ends --> releases across <!-- project_count starts -->320<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1832<!-- releases_count ends --> releases across <!-- project_count starts -->320<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[symbex](https://github.com/simonw/symbex)**: [2.0](https://github.com/simonw/symbex/releases/tag/2.0) - ([20 releases total](https://github.com/simonw/symbex/releases)) - 2025-04-23
+<br />Find the Python code for specified symbols
 * **[llm-logging-debug](https://github.com/simonw/llm-logging-debug)**: [0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
 <br />Set logging.DEBUG while running LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->1831<!-- releases_count ends --> releases 
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
-* **[symbex](https://github.com/simonw/symbex)**: [1.4.1](https://github.com/simonw/symbex/releases/tag/1.4.1) - ([19 releases total](https://github.com/simonw/symbex/releases)) - 2025-02-19
-<br />Find the Python code for specified symbols
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.3](https://github.com/simonw/llm-mlx/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-02-17
