@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1835<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1836<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
+<br />LLM plugin for models hosted by OpenRouter
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
 <br />Support for MLX models in LLM
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-04-23
@@ -55,8 +57,6 @@ Listing <!-- releases_count starts -->1835<!-- releases_count ends --> releases 
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4](https://github.com/simonw/llm-openrouter/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-03-10
-<br />LLM plugin for models hosted by OpenRouter
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
