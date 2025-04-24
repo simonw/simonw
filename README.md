@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Exploring Promptfoo via Dave Guarino's SNAP evals](https://simonwillison.net/2025/Apr/24/exploring-promptfoo/) - 2025-04-24
+
 [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) - 2025-04-21
 
 [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/) - 2025-04-19
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [GPT-4.1: Three new million token input models from OpenAI, including their cheapest model yet](https://simonwillison.net/2025/Apr/14/gpt-4-1/) - 2025-04-14
 
 [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) - 2025-04-11
-
-[Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/) - 2025-04-09
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
