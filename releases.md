@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1836<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1837<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-04-25
+<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
 <br />LLM plugin for models hosted by OpenRouter
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
@@ -41,8 +43,6 @@ Listing <!-- releases_count starts -->1836<!-- releases_count ends --> releases 
 <br />Research prototype for new register_template_loaders LLM plugin hook
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
 <br />Python function for condensing JSON using replacement strings
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a4](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-03-28
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
 <br />Access the Cohere Command R family of models
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - ([13 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2025-03-28
