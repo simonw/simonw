@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Qwen 3 offers a case study in how to effectively release a model](https://simonwillison.net/2025/Apr/29/qwen-3/) - 2025-04-29
+
 [Watching o3 guess a photo's location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) - 2025-04-26
 
 [Exploring Promptfoo via Dave Guarino's SNAP evals](https://simonwillison.net/2025/Apr/24/exploring-promptfoo/) - 2025-04-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/) - 2025-04-19
 
 [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) - 2025-04-18
-
-[GPT-4.1: Three new million token input models from OpenAI, including their cheapest model yet](https://simonwillison.net/2025/Apr/14/gpt-4-1/) - 2025-04-14
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
