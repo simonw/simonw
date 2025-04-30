@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/) - 2025-04-30
+
 [Qwen 3 offers a case study in how to effectively release a model](https://simonwillison.net/2025/Apr/29/qwen-3/) - 2025-04-29
 
 [Watching o3 guess a photo's location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) - 2025-04-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) - 2025-04-21
 
 [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/) - 2025-04-19
-
-[Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) - 2025-04-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
