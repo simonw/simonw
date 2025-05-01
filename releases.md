@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1838<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1839<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-05-01
+<br />Query databases and tables with AI assistance
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-05-01
 <br />Save SQL queries in Datasette
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-04-25
@@ -199,8 +201,6 @@ Listing <!-- releases_count starts -->1838<!-- releases_count ends --> releases 
 <br />Access Reka models via the Reka API
 * **[openai-to-sqlite](https://github.com/simonw/openai-to-sqlite)**: [0.4.2](https://github.com/simonw/openai-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/openai-to-sqlite/releases)) - 2024-04-17
 <br />Save OpenAI API results to a SQLite database
-* **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a2](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2024-04-16
-<br />Query databases and tables with AI assistance
 * **[datasette-cors](https://github.com/simonw/datasette-cors)**: [1.0.1](https://github.com/simonw/datasette-cors/releases/tag/1.0.1) - ([3 releases total](https://github.com/simonw/datasette-cors/releases)) - 2024-04-12
 <br />Datasette plugin for configuring CORS headers
 * **[asgi-cors](https://github.com/simonw/asgi-cors)**: [1.0.1](https://github.com/simonw/asgi-cors/releases/tag/1.0.1) - ([4 releases total](https://github.com/simonw/asgi-cors/releases)) - 2024-04-12
