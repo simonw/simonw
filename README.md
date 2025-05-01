@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-queries 0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - 2025-05-01
+
 [datasette-remote-actors 0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - 2025-04-25
 
 [llm-openrouter 0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - 2025-04-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [symbex 2.0](https://github.com/simonw/symbex/releases/tag/2.0) - 2025-04-23
 
 [llm-logging-debug 0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
-
-[datasette 1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - 2025-04-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

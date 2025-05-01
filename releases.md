@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1837<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1838<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-05-01
+<br />Save SQL queries in Datasette
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-04-25
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
@@ -83,8 +85,6 @@ Listing <!-- releases_count starts -->1837<!-- releases_count ends --> releases 
 <br />Enrich data by prompting LLMs
 * **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
 <br />Run prompts against models hosted on AWS Bedrock
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a0](https://github.com/datasette/datasette-queries/releases/tag/0.1a0) - 2024-12-03
-<br />Save SQL queries in Datasette
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0) - 2024-12-02
 <br />Track usage of LLM tokens in a SQLite table
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
