@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Feed a video to a vision LLM as a sequence of JPEG frames on the CLI (also LLM 0.25)](https://simonwillison.net/2025/May/5/llm-video-frames/) - 2025-05-05
+
 [Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/) - 2025-05-01
 
 [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/) - 2025-04-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Watching o3 guess a photo's location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/) - 2025-04-26
 
 [Exploring Promptfoo via Dave Guarino's SNAP evals](https://simonwillison.net/2025/Apr/24/exploring-promptfoo/) - 2025-04-24
-
-[AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) - 2025-04-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
