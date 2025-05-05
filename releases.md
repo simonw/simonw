@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1845<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1847<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
+<br />LLM plugin for pulling content from Hacker News
+* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2.1](https://github.com/simonw/llm-docs/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-05-05
+<br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5.1) - ([20 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-05-05
 <br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2025-05-05
@@ -41,14 +45,10 @@ Listing <!-- releases_count starts -->1845<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-16
 <br />OpenAI plugin for LLM
-* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
-<br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
 <br />Load LLM templates from Fabric
-* **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1) - 2025-04-07
-<br />LLM plugin for pulling content from Hacker News
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
 <br />Research prototype for new register_template_loaders LLM plugin hook
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
