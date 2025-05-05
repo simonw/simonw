@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1842<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1843<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.3](https://github.com/simonw/llm-fragments-github/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-05
+<br />Load GitHub repository contents as LLM fragments
 * **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
 <br />LLM fragment plugin to turn a video into images of different frames
 * **[llm](https://github.com/simonw/llm)**: [0.25](https://github.com/simonw/llm/releases/tag/0.25) - ([50 releases total](https://github.com/simonw/llm/releases)) - 2025-05-05
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->1842<!-- releases_count ends --> releases 
 <br />Set logging.DEBUG while running LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
 <br />An open source multi-tool for exploring and publishing data
-* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.2.1](https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-04-20
-<br />Load GitHub repository contents as LLM fragments
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - ([31 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
