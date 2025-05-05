@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1844<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1845<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5.1) - ([20 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-05-05
+<br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2025-05-05
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.3](https://github.com/simonw/llm-fragments-github/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-05
@@ -81,8 +83,6 @@ Listing <!-- releases_count starts -->1844<!-- releases_count ends --> releases 
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
 <br />An enrichment on a slow loop to help debug progress bars
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5](https://github.com/datasette/datasette-enrichments/releases/tag/0.5) - ([19 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-01-15
-<br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
 <br />Terminal UI for sqlite-utils
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08

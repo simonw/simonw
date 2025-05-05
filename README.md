@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-enrichments 0.5.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5.1) - 2025-05-05
+
 [sqlite-diffable 0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - 2025-05-05
 
 [llm-fragments-github 0.3](https://github.com/simonw/llm-fragments-github/releases/tag/0.3) - 2025-05-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [datasette-query-assistant 0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - 2025-05-01
 
 [datasette-queries 0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - 2025-05-01
-
-[datasette-remote-actors 0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - 2025-04-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
