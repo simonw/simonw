@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1840<!-- releases_count ends --> releases across <!-- project_count starts -->321<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1842<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
+<br />LLM fragment plugin to turn a video into images of different frames
+* **[llm](https://github.com/simonw/llm)**: [0.25](https://github.com/simonw/llm/releases/tag/0.25) - ([50 releases total](https://github.com/simonw/llm/releases)) - 2025-05-05
+<br />Access large language models from the command-line
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.2](https://github.com/simonw/llm-echo/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-04
 <br />Debug plugin for LLM providing an echo model
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-05-01
@@ -35,8 +39,6 @@ Listing <!-- releases_count starts -->1840<!-- releases_count ends --> releases 
 <br />OpenAI plugin for LLM
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2](https://github.com/simonw/llm-docs/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-04-14
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
-* **[llm](https://github.com/simonw/llm)**: [0.25a0](https://github.com/simonw/llm/releases/tag/0.25a0) - ([49 releases total](https://github.com/simonw/llm/releases)) - 2025-04-11
-<br />Access large language models from the command-line
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08

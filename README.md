@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-video-frames 0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
+
+[llm 0.25](https://github.com/simonw/llm/releases/tag/0.25) - 2025-05-05
+
 [llm-echo 0.2](https://github.com/simonw/llm-echo/releases/tag/0.2) - 2025-05-04
 
 [datasette-query-assistant 0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - 2025-05-01
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-openrouter 0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - 2025-04-23
 
 [llm-mlx 0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - 2025-04-23
-
-[llm-sentence-transformers 0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - 2025-04-23
-
-[llm-fragments-symbex 0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
