@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1847<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1848<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19](https://github.com/simonw/llm-gemini/releases/tag/0.19) - ([32 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-06
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
 <br />LLM plugin for pulling content from Hacker News
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2.1](https://github.com/simonw/llm-docs/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-05-05
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->1847<!-- releases_count ends --> releases 
 <br />Set logging.DEBUG while running LLM
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
 <br />An open source multi-tool for exploring and publishing data
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.18.1](https://github.com/simonw/llm-gemini/releases/tag/0.18.1) - ([31 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-04-18
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-16
