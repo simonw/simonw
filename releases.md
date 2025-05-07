@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1848<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1849<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - ([15 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-07
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19](https://github.com/simonw/llm-gemini/releases/tag/0.19) - ([32 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-06
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1848<!-- releases_count ends --> releases 
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.11.1](https://github.com/simonw/llm-mistral/releases/tag/0.11.1) - ([14 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-03-04
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
 <br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
