@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-mistral 0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - 2025-05-07
+[llm-gemini 0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - 2025-05-08
 
-[llm-gemini 0.19](https://github.com/simonw/llm-gemini/releases/tag/0.19) - 2025-05-06
+[llm-mistral 0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - 2025-05-07
 
 [llm-hacker-news 0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - 2025-05-05
 

@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1849<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1850<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - ([33 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-08
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - ([15 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-07
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19](https://github.com/simonw/llm-gemini/releases/tag/0.19) - ([32 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-06
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
 <br />LLM plugin for pulling content from Hacker News
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2.1](https://github.com/simonw/llm-docs/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-05-05
