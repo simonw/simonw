@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-fragments-reader 0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
+
 [llm-gemini 0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - 2025-05-08
 
 [llm-mistral 0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - 2025-05-07
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [sqlite-diffable 0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - 2025-05-05
 
 [llm-fragments-github 0.3](https://github.com/simonw/llm-fragments-github/releases/tag/0.3) - 2025-05-05
-
-[llm-video-frames 0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

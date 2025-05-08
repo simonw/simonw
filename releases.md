@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1850<!-- releases_count ends --> releases across <!-- project_count starts -->322<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1851<!-- releases_count ends --> releases across <!-- project_count starts -->323<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
+<br />Run URLs through the Jina Reader API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - ([33 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-08
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - ([15 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-07
