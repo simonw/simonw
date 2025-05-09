@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1851<!-- releases_count ends --> releases across <!-- project_count starts -->323<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1852<!-- releases_count ends --> releases across <!-- project_count starts -->323<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a0](https://github.com/simonw/sqlite-utils/releases/tag/4.0a0) - ([117 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-05-09
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
 <br />Run URLs through the Jina Reader API
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - ([33 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-08
@@ -99,8 +101,6 @@ Listing <!-- releases_count starts -->1851<!-- releases_count ends --> releases 
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
 <br />Ask questions of your data with LLM assistance
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.38](https://github.com/simonw/sqlite-utils/releases/tag/3.38) - ([116 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2024-11-23
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
 <br />Create embeddings for LLM using the Nomic API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-gguf/releases)) - 2024-11-21
