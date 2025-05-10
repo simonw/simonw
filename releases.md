@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1853<!-- releases_count ends --> releases across <!-- project_count starts -->323<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1854<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.1](https://github.com/simonw/llm-llama-server/releases/tag/0.1) - 2025-05-10
+<br />LLM plugin for interacting with llama-server models
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.3](https://github.com/simonw/sqlite-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-09
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a0](https://github.com/simonw/sqlite-utils/releases/tag/4.0a0) - ([117 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-05-09
