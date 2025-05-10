@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
+
 [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) - 2025-03-18
 
 [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) - 2025-03-14
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Using a Tailscale exit node with GitHub Actions](https://til.simonwillison.net/tailscale/tailscale-github-actions) - 2025-02-23
 
 [Using S3 triggers to maintain a list of files in DynamoDB](https://til.simonwillison.net/aws/s3-triggers-dynamodb) - 2025-02-19
-
-[Trying out Python packages with ipython and uvx](https://til.simonwillison.net/python/itry) - 2025-02-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
