@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1854<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1855<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
+<br />Load GitHub repository contents as LLM fragments
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.1](https://github.com/simonw/llm-llama-server/releases/tag/0.1) - 2025-05-10
 <br />LLM plugin for interacting with llama-server models
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.3](https://github.com/simonw/sqlite-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-09
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1854<!-- releases_count ends --> releases 
 <br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2025-05-05
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
-* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.3](https://github.com/simonw/llm-fragments-github/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-05
-<br />Load GitHub repository contents as LLM fragments
 * **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
 <br />LLM fragment plugin to turn a video into images of different frames
 * **[llm](https://github.com/simonw/llm)**: [0.25](https://github.com/simonw/llm/releases/tag/0.25) - ([50 releases total](https://github.com/simonw/llm/releases)) - 2025-05-05
