@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1857<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1858<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
+<br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.4](https://github.com/simonw/sqlite-chronicle/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-13
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
@@ -293,8 +295,6 @@ Listing <!-- releases_count starts -->1857<!-- releases_count ends --> releases 
 <br />Save data from GitHub to a SQLite database
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
 <br />LLM plugin for running models using llama.cpp
-* **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.2.1](https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1) - ([3 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2023-12-08
-<br />Enable sqlite-chronicle against tables in Datasette
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
 <br />Datasette enrichment for evaluating templates in a Jinja sandbox
 * **[datasette-statistics](https://github.com/simonw/datasette-statistics)**: [0.2.1](https://github.com/simonw/datasette-statistics/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-statistics/releases)) - 2023-11-30
