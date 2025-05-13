@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1855<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1856<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
+<br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.1](https://github.com/simonw/llm-llama-server/releases/tag/0.1) - 2025-05-10
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->1855<!-- releases_count ends --> releases 
 <br />Load LLM templates from Fabric
 * **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
 <br />Research prototype for new register_template_loaders LLM plugin hook
-* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.2](https://github.com/simonw/condense-json/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/condense-json/releases)) - 2025-03-28
-<br />Python function for condensing JSON using replacement strings
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
 <br />Access the Cohere Command R family of models
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - ([13 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2025-03-28
