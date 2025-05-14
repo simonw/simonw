@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1858<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1860<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a0](https://github.com/simonw/llm-anthropic/releases/tag/0.16a0) - ([9 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-14
+<br />LLM access to models by Anthropic, including the Claude series
+* **[llm](https://github.com/simonw/llm)**: [0.26a0](https://github.com/simonw/llm/releases/tag/0.26a0) - ([51 releases total](https://github.com/simonw/llm/releases)) - 2025-05-14
+<br />Access large language models from the command-line
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
 <br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.4](https://github.com/simonw/sqlite-chronicle/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-13
@@ -31,8 +35,6 @@ Listing <!-- releases_count starts -->1858<!-- releases_count ends --> releases 
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
 <br />LLM fragment plugin to turn a video into images of different frames
-* **[llm](https://github.com/simonw/llm)**: [0.25](https://github.com/simonw/llm/releases/tag/0.25) - ([50 releases total](https://github.com/simonw/llm/releases)) - 2025-05-05
-<br />Access large language models from the command-line
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.2](https://github.com/simonw/llm-echo/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-04
 <br />Debug plugin for LLM providing an echo model
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-05-01
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->1858<!-- releases_count ends --> releases 
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.15.1](https://github.com/simonw/llm-anthropic/releases/tag/0.15.1) - ([8 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-03-01
-<br />LLM access to models by Anthropic, including the Claude series
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
