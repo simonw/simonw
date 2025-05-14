@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1860<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1861<!-- releases_count ends --> releases across <!-- project_count starts -->324<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a0](https://github.com/simonw/llm-gemini/releases/tag/0.20a0) - ([34 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-14
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a0](https://github.com/simonw/llm-anthropic/releases/tag/0.16a0) - ([9 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-14
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.26a0](https://github.com/simonw/llm/releases/tag/0.26a0) - ([51 releases total](https://github.com/simonw/llm/releases)) - 2025-05-14
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->1860<!-- releases_count ends --> releases 
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
 <br />Run URLs through the Jina Reader API
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.19.1](https://github.com/simonw/llm-gemini/releases/tag/0.19.1) - ([33 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-08
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.12](https://github.com/simonw/llm-mistral/releases/tag/0.12) - ([15 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-07
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
