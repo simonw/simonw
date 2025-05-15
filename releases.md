@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1862<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1863<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1) - 2025-05-14
+* **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
 <br />Make simple_eval available as an LLM tool
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a0](https://github.com/simonw/llm-gemini/releases/tag/0.20a0) - ([34 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-14
 <br />LLM plugin to access Google's Gemini family of models

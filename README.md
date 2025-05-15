@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-tools-simpleeval 0.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1) - 2025-05-14
+[llm-tools-simpleeval 0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - 2025-05-15
 
 [llm-gemini 0.20a0](https://github.com/simonw/llm-gemini/releases/tag/0.20a0) - 2025-05-14
 
