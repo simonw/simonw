@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) - 2025-05-15
+
 [Trying out llama.cpp's new vision support](https://simonwillison.net/2025/May/10/llama-cpp-vision/) - 2025-05-10
 
 [Saying "hi" to Microsoft's Phi-4-reasoning](https://simonwillison.net/2025/May/6/phi-4-reasoning/) - 2025-05-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/) - 2025-05-01
 
 [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/) - 2025-04-30
-
-[Qwen 3 offers a case study in how to effectively release a model](https://simonwillison.net/2025/Apr/29/qwen-3/) - 2025-04-29
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
