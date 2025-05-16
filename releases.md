@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1863<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1865<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a0](https://github.com/simonw/llm-echo/releases/tag/0.3a0) - ([3 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
+<br />Debug plugin for LLM providing an echo model
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a1](https://github.com/simonw/llm-gemini/releases/tag/0.20a1) - ([35 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-16
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
 <br />Make simple_eval available as an LLM tool
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a0](https://github.com/simonw/llm-gemini/releases/tag/0.20a0) - ([34 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-14
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a0](https://github.com/simonw/llm-anthropic/releases/tag/0.16a0) - ([9 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-14
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.26a0](https://github.com/simonw/llm/releases/tag/0.26a0) - ([51 releases total](https://github.com/simonw/llm/releases)) - 2025-05-14
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->1863<!-- releases_count ends --> releases 
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
 <br />LLM fragment plugin to turn a video into images of different frames
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.2](https://github.com/simonw/llm-echo/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-04
-<br />Debug plugin for LLM providing an echo model
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-05-01
 <br />Query databases and tables with AI assistance
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-05-01
