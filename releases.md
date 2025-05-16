@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1865<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1866<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a0](https://github.com/simonw/llm-echo/releases/tag/0.3a0) - ([3 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a1](https://github.com/simonw/llm-echo/releases/tag/0.3a1) - ([4 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
 <br />Debug plugin for LLM providing an echo model
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a1](https://github.com/simonw/llm-gemini/releases/tag/0.20a1) - ([35 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-16
 <br />LLM plugin to access Google's Gemini family of models
