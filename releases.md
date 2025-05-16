@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1866<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1867<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-05-16
+<br />OpenAI plugin for LLM
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a1](https://github.com/simonw/llm-echo/releases/tag/0.3a1) - ([4 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
 <br />Debug plugin for LLM providing an echo model
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a1](https://github.com/simonw/llm-gemini/releases/tag/0.20a1) - ([35 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-16
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->1866<!-- releases_count ends --> releases 
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a10](https://github.com/datasette/datasette-extract/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-04-17
 <br />Import unstructured data (text and images) into structured tables
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.3](https://github.com/simonw/llm-openai-plugin/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-04-16
-<br />OpenAI plugin for LLM
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
