@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1867<!-- releases_count ends --> releases across <!-- project_count starts -->325<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1868<!-- releases_count ends --> releases across <!-- project_count starts -->326<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1a0](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a0) - 2025-05-17
+<br />JavaScript execution as a tool for LLM
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-05-16
 <br />OpenAI plugin for LLM
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a1](https://github.com/simonw/llm-echo/releases/tag/0.3a1) - ([4 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
