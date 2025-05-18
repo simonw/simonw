@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1869<!-- releases_count ends --> releases across <!-- project_count starts -->327<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1870<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
+<br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1a0](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a0) - 2025-05-18
 <br />LLM tools for running queries against SQLite
 * **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1a0](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a0) - 2025-05-17
