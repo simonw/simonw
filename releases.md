@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1870<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1872<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a2](https://github.com/simonw/llm-gemini/releases/tag/0.20a2) - ([37 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-20
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1a0](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a0) - 2025-05-18
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1870<!-- releases_count ends --> releases 
 <br />OpenAI plugin for LLM
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a1](https://github.com/simonw/llm-echo/releases/tag/0.3a1) - ([4 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-16
 <br />Debug plugin for LLM providing an echo model
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a1](https://github.com/simonw/llm-gemini/releases/tag/0.20a1) - ([35 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-16
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
 <br />Make simple_eval available as an LLM tool
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a0](https://github.com/simonw/llm-anthropic/releases/tag/0.16a0) - ([9 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-14
