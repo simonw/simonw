@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I really don't like ChatGPT's new memory dossier](https://simonwillison.net/2025/May/21/chatgpt-new-memory/) - 2025-05-21
+
 [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) - 2025-05-15
 
 [Trying out llama.cpp's new vision support](https://simonwillison.net/2025/May/10/llama-cpp-vision/) - 2025-05-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Feed a video to a vision LLM as a sequence of JPEG frames on the CLI (also LLM 0.25)](https://simonwillison.net/2025/May/5/llm-video-frames/) - 2025-05-05
 
 [Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/) - 2025-05-01
-
-[Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/) - 2025-04-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
