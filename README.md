@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Live blog: Claude 4 launch at Code with Claude](https://simonwillison.net/2025/May/22/code-with-claude-live-blog/) - 2025-05-22
+
 [I really don't like ChatGPT's new memory dossier](https://simonwillison.net/2025/May/21/chatgpt-new-memory/) - 2025-05-21
 
 [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) - 2025-05-15
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Saying "hi" to Microsoft's Phi-4-reasoning](https://simonwillison.net/2025/May/6/phi-4-reasoning/) - 2025-05-06
 
 [Feed a video to a vision LLM as a sequence of JPEG frames on the CLI (also LLM 0.25)](https://simonwillison.net/2025/May/5/llm-video-frames/) - 2025-05-05
-
-[Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/) - 2025-05-01
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
