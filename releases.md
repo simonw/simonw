@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1876<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1877<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16](https://github.com/simonw/llm-anthropic/releases/tag/0.16) - ([10 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-22
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a1](https://github.com/simonw/llm-anthropic/releases/tag/0.16a1) - ([11 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-22
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - ([16 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-21
 <br />LLM plugin providing access to Mistral models using the Mistral API
