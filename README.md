@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.16](https://github.com/simonw/llm-anthropic/releases/tag/0.16) - 2025-05-22
+
 [llm-mistral 0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - 2025-05-21
 
 [llm-echo 0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - 2025-05-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-tools-quickjs 0.1a0](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a0) - 2025-05-17
 
 [llm-openai-plugin 0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - 2025-05-16
-
-[llm-tools-simpleeval 0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - 2025-05-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
