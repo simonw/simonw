@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-anthropic 0.16a1](https://github.com/simonw/llm-anthropic/releases/tag/0.16a1) - 2025-05-22
+[llm-anthropic 0.16a2](https://github.com/simonw/llm-anthropic/releases/tag/0.16a2) - 2025-05-24
 
 [llm-mistral 0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - 2025-05-21
 
