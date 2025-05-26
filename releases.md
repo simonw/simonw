@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1879<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1880<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1a0](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a0) - 2025-05-26
+<br />Expose Datasette instances to LLM as a tool
 * **[llm](https://github.com/simonw/llm)**: [0.26a1](https://github.com/simonw/llm/releases/tag/0.26a1) - ([52 releases total](https://github.com/simonw/llm/releases)) - 2025-05-26
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a2](https://github.com/simonw/llm-anthropic/releases/tag/0.16a2) - ([12 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-24
