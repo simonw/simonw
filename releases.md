@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1878<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1879<!-- releases_count ends --> releases across <!-- project_count starts -->328<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.26a1](https://github.com/simonw/llm/releases/tag/0.26a1) - ([52 releases total](https://github.com/simonw/llm/releases)) - 2025-05-26
+<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a2](https://github.com/simonw/llm-anthropic/releases/tag/0.16a2) - ([12 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-24
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - ([16 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-21
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->1878<!-- releases_count ends --> releases 
 <br />OpenAI plugin for LLM
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
 <br />Make simple_eval available as an LLM tool
-* **[llm](https://github.com/simonw/llm)**: [0.26a0](https://github.com/simonw/llm/releases/tag/0.26a0) - ([51 releases total](https://github.com/simonw/llm/releases)) - 2025-05-14
-<br />Access large language models from the command-line
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
 <br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.4](https://github.com/simonw/sqlite-chronicle/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-13
