@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1880<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1881<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1a1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
+<br />JavaScript execution as a tool for LLM
 * **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1a0](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a0) - 2025-05-26
 <br />Expose Datasette instances to LLM as a tool
 * **[llm](https://github.com/simonw/llm)**: [0.26a1](https://github.com/simonw/llm/releases/tag/0.26a1) - ([52 releases total](https://github.com/simonw/llm/releases)) - 2025-05-26
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1880<!-- releases_count ends --> releases 
 <br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1a0](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a0) - 2025-05-18
 <br />LLM tools for running queries against SQLite
-* **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1a0](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a0) - 2025-05-17
-<br />JavaScript execution as a tool for LLM
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-05-16
 <br />OpenAI plugin for LLM
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
