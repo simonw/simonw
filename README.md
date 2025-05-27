@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-tools-sqlite 0.1a1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a1) - 2025-05-27
+[llm-tools-quickjs 0.1a2](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a2) - 2025-05-27
 
-[llm-tools-quickjs 0.1a1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a1) - 2025-05-27
+[llm-tools-sqlite 0.1a1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a1) - 2025-05-27
 
 [llm-tools-datasette 0.1a0](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a0) - 2025-05-26
 
