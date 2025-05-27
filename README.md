@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-tools-sqlite 0.1a1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a1) - 2025-05-27
+
 [llm-tools-quickjs 0.1a1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a1) - 2025-05-27
 
 [llm-tools-datasette 0.1a0](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a0) - 2025-05-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 [llm-echo 0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - 2025-05-21
 
 [llm-gemini 0.20a2](https://github.com/simonw/llm-gemini/releases/tag/0.20a2) - 2025-05-20
-
-[llm-pdf-to-images 0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
