@@ -1,24 +1,24 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1884<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1890<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1a1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2025-05-27
-<br />Expose Datasette instances to LLM as a tool
-* **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1a2](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
-<br />JavaScript execution as a tool for LLM
-* **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1a1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/llm-tools-sqlite/releases)) - 2025-05-27
-<br />LLM tools for running queries against SQLite
-* **[llm](https://github.com/simonw/llm)**: [0.26a1](https://github.com/simonw/llm/releases/tag/0.26a1) - ([52 releases total](https://github.com/simonw/llm/releases)) - 2025-05-26
-<br />Access large language models from the command-line
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.16a2](https://github.com/simonw/llm-anthropic/releases/tag/0.16a2) - ([12 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-24
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.21](https://github.com/simonw/llm-gemini/releases/tag/0.21) - ([38 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-27
+<br />LLM plugin to access Google's Gemini family of models
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - ([13 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-27
 <br />LLM access to models by Anthropic, including the Claude series
+* **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2025-05-27
+<br />Expose Datasette instances to LLM as a tool
+* **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-sqlite/releases)) - 2025-05-27
+<br />LLM tools for running queries against SQLite
+* **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1) - ([4 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
+<br />JavaScript execution as a tool for LLM
+* **[llm](https://github.com/simonw/llm)**: [0.26](https://github.com/simonw/llm/releases/tag/0.26) - ([53 releases total](https://github.com/simonw/llm/releases)) - 2025-05-27
+<br />Access large language models from the command-line
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - ([16 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-21
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - ([6 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-21
 <br />Debug plugin for LLM providing an echo model
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.20a2](https://github.com/simonw/llm-gemini/releases/tag/0.20a2) - ([37 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-20
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-05-16
