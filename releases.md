@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1891<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1892<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.14](https://github.com/simonw/llm-mistral/releases/tag/0.14) - ([17 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-28
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
 <br />LLM plugin for interacting with llama-server models
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.21](https://github.com/simonw/llm-gemini/releases/tag/0.21) - ([38 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-27
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->1891<!-- releases_count ends --> releases 
 <br />JavaScript execution as a tool for LLM
 * **[llm](https://github.com/simonw/llm)**: [0.26](https://github.com/simonw/llm/releases/tag/0.26) - ([53 releases total](https://github.com/simonw/llm/releases)) - 2025-05-27
 <br />Access large language models from the command-line
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - ([16 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-21
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - ([6 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-21
 <br />Debug plugin for LLM providing an echo model
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
