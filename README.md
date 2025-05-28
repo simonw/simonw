@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[A tip for debugging pytest-httpx](https://til.simonwillison.net/pytest/pytest-httpx-debug) - 2025-05-28
+
 [SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
 
 [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) - 2025-03-18
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running jupyterlab via uv tool install](https://til.simonwillison.net/jupyter/jupyterlab-uv-tool-install) - 2025-03-08
 
 [Using a Tailscale exit node with GitHub Actions](https://til.simonwillison.net/tailscale/tailscale-github-actions) - 2025-02-23
-
-[Using S3 triggers to maintain a list of files in DynamoDB](https://til.simonwillison.net/aws/s3-triggers-dynamodb) - 2025-02-19
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
