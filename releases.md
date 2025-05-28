@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1890<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1891<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
+<br />LLM plugin for interacting with llama-server models
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.21](https://github.com/simonw/llm-gemini/releases/tag/0.21) - ([38 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-05-27
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - ([13 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-27
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->1890<!-- releases_count ends --> releases 
 <br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
 <br />Load GitHub repository contents as LLM fragments
-* **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.1](https://github.com/simonw/llm-llama-server/releases/tag/0.1) - 2025-05-10
-<br />LLM plugin for interacting with llama-server models
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a0](https://github.com/simonw/sqlite-utils/releases/tag/4.0a0) - ([117 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-05-09
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08

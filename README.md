@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-llama-server 0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - 2025-05-28
+
 [llm-gemini 0.21](https://github.com/simonw/llm-gemini/releases/tag/0.21) - 2025-05-27
 
 [llm-anthropic 0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - 2025-05-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm 0.26](https://github.com/simonw/llm/releases/tag/0.26) - 2025-05-27
 
 [llm-mistral 0.13](https://github.com/simonw/llm-mistral/releases/tag/0.13) - 2025-05-21
-
-[llm-echo 0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - 2025-05-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
