@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Redirecting a domain using Cloudflare Pages](https://til.simonwillison.net/cloudflare/domain-redirect-with-pages) - 2025-05-29
+
 [A tip for debugging pytest-httpx](https://til.simonwillison.net/pytest/pytest-httpx-debug) - 2025-05-28
 
 [SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) - 2025-03-14
 
 [Running jupyterlab via uv tool install](https://til.simonwillison.net/jupyter/jupyterlab-uv-tool-install) - 2025-03-08
-
-[Using a Tailscale exit node with GitHub Actions](https://til.simonwillison.net/tailscale/tailscale-github-actions) - 2025-02-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
