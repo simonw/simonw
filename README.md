@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[How often do LLMs snitch? Recreating Theo's SnitchBench with LLM](https://simonwillison.net/2025/May/31/snitchbench-with-llm/) - 2025-05-31
+
 [Talking AI and jobs with Natasha Zouves for News Nation](https://simonwillison.net/2025/May/30/ai-and-jobs-with-natasha-zouves/) - 2025-05-30
 
 [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/) - 2025-05-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Live blog: Claude 4 launch at Code with Claude](https://simonwillison.net/2025/May/22/code-with-claude-live-blog/) - 2025-05-22
 
 [I really don't like ChatGPT's new memory dossier](https://simonwillison.net/2025/May/21/chatgpt-new-memory/) - 2025-05-21
-
-[Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/) - 2025-05-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
