@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1892<!-- releases_count ends --> releases across <!-- project_count starts -->329<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1893<!-- releases_count ends --> releases across <!-- project_count starts -->330<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
+<br />Trigger an LLM tools error, useful for testing
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.14](https://github.com/simonw/llm-mistral/releases/tag/0.14) - ([17 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-28
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
