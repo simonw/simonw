@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1893<!-- releases_count ends --> releases across <!-- project_count starts -->330<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1894<!-- releases_count ends --> releases across <!-- project_count starts -->331<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
+<br />None
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
 <br />Trigger an LLM tools error, useful for testing
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.14](https://github.com/simonw/llm-mistral/releases/tag/0.14) - ([17 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-28
