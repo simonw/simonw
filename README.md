@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Tips on prompting ChatGPT for UK technology secretary Peter Kyle](https://simonwillison.net/2025/Jun/3/tips-for-peter-kyle/) - 2025-06-03
+
 [How often do LLMs snitch? Recreating Theo's SnitchBench with LLM](https://simonwillison.net/2025/May/31/snitchbench-with-llm/) - 2025-05-31
 
 [Talking AI and jobs with Natasha Zouves for News Nation](https://simonwillison.net/2025/May/30/ai-and-jobs-with-natasha-zouves/) - 2025-05-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) - 2025-05-25
 
 [Live blog: Claude 4 launch at Code with Claude](https://simonwillison.net/2025/May/22/code-with-claude-live-blog/) - 2025-05-22
-
-[I really don't like ChatGPT's new memory dossier](https://simonwillison.net/2025/May/21/chatgpt-new-memory/) - 2025-05-21
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
