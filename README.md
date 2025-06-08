@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Comma v0.1 1T and 2T - 7B LLMs trained on openly licensed text](https://simonwillison.net/2025/Jun/7/comma/) - 2025-06-07
+
 [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/) - 2025-06-06
 
 [Tips on prompting ChatGPT for UK technology secretary Peter Kyle](https://simonwillison.net/2025/Jun/3/tips-for-peter-kyle/) - 2025-06-03
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Talking AI and jobs with Natasha Zouves for News Nation](https://simonwillison.net/2025/May/30/ai-and-jobs-with-natasha-zouves/) - 2025-05-30
 
 [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/) - 2025-05-27
-
-[Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) - 2025-05-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
