@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1895<!-- releases_count ends --> releases across <!-- project_count starts -->331<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1896<!-- releases_count ends --> releases across <!-- project_count starts -->331<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
+<br />OpenAI plugin for LLM
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.22](https://github.com/simonw/llm-gemini/releases/tag/0.22) - ([39 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-05
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->1895<!-- releases_count ends --> releases 
 <br />Debug plugin for LLM providing an echo model
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <br />LLM fragments plugin to load a PDF as a sequence of images
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.4](https://github.com/simonw/llm-openai-plugin/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-05-16
-<br />OpenAI plugin for LLM
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
 <br />Make simple_eval available as an LLM tool
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
