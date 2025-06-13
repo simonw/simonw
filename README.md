@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) - 2025-06-13
+
 [Comma v0.1 1T and 2T - 7B LLMs trained on openly licensed text](https://simonwillison.net/2025/Jun/7/comma/) - 2025-06-07
 
 [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/) - 2025-06-06
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [How often do LLMs snitch? Recreating Theo's SnitchBench with LLM](https://simonwillison.net/2025/May/31/snitchbench-with-llm/) - 2025-05-31
 
 [Talking AI and jobs with Natasha Zouves for News Nation](https://simonwillison.net/2025/May/30/ai-and-jobs-with-natasha-zouves/) - 2025-05-30
-
-[Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/) - 2025-05-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
