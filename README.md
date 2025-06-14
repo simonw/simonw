@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-tools-docker 0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
+
 [llm-openai-plugin 0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - 2025-06-10
 
 [llm-gemini 0.22](https://github.com/simonw/llm-gemini/releases/tag/0.22) - 2025-06-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-llama-server 0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - 2025-05-28
 
 [llm-anthropic 0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - 2025-05-27
-
-[llm-tools-datasette 0.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1) - 2025-05-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
