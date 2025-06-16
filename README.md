@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - 2025-06-16
+
 [An Introduction to Google’s Approach to AI Agent Security](https://simonwillison.net/2025/Jun/15/ai-agent-security/) - 2025-06-15
 
 [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) - 2025-06-13
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/) - 2025-06-06
 
 [Tips on prompting ChatGPT for UK technology secretary Peter Kyle](https://simonwillison.net/2025/Jun/3/tips-for-peter-kyle/) - 2025-06-03
-
-[How often do LLMs snitch? Recreating Theo's SnitchBench with LLM](https://simonwillison.net/2025/May/31/snitchbench-with-llm/) - 2025-05-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
