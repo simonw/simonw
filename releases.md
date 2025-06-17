@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1897<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1898<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - ([40 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-17
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 <br />Grant LLM access to a Docker container for running commands
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
 <br />OpenAI plugin for LLM
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.22](https://github.com/simonw/llm-gemini/releases/tag/0.22) - ([39 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-05
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
 <br />None
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01

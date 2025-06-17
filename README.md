@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - 2025-06-17
+
 [llm-tools-docker 0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 
 [llm-openai-plugin 0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - 2025-06-10
-
-[llm-gemini 0.22](https://github.com/simonw/llm-gemini/releases/tag/0.22) - 2025-06-05
 
 [datasette-alerts 0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
 
