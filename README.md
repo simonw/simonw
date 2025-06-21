@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-lm-studio 0.1](https://github.com/simonw/llm-lm-studio/releases/tag/0.1) - 2025-06-21
+
 [llm-gemini 0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - 2025-06-17
 
 [llm-tools-docker 0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
@@ -17,15 +19,23 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-mistral 0.14](https://github.com/simonw/llm-mistral/releases/tag/0.14) - 2025-05-28
 
 [llm-llama-server 0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - 2025-05-28
-
-[llm-anthropic 0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - 2025-05-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Trying out the new Gemini 2.5 model family](https://simonwillison.net/2025/Jun/17/gemini-2-5/) - 2025-06-17
 
+[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - 2025-06-16
+
+[An Introduction to Google’s Approach to AI Agent Security](https://simonwillison.net/2025/Jun/15/ai-agent-security/) - 2025-06-15
+
+[Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) - 2025-06-13
+
+[Comma v0.1 1T and 2T - 7B LLMs trained on openly licensed text](https://simonwillison.net/2025/Jun/7/comma/) - 2025-06-07
+
+[The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/) - 2025-06-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

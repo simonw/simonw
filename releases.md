@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1898<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1899<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-lm-studio](https://github.com/simonw/llm-lm-studio)**: [0.1](https://github.com/simonw/llm-lm-studio/releases/tag/0.1) - 2025-06-21
+<br />LLM plugin for local models via LM Studio
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - ([40 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-17
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
