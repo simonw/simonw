@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Converting ORF raw files to JPEG on macOS](https://til.simonwillison.net/macos/orf-to-jpeg) - 2025-06-26
+
 [Publishing a Docker container for Microsoft Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry) - 2025-06-21
 
 [Redirecting a domain using Cloudflare Pages](https://til.simonwillison.net/cloudflare/domain-redirect-with-pages) - 2025-05-29
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
 
 [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) - 2025-03-18
-
-[Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) - 2025-03-14
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
