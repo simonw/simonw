@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) - 2025-07-01
+
 [Converting ORF raw files to JPEG on macOS](https://til.simonwillison.net/macos/orf-to-jpeg) - 2025-06-26
 
 [Publishing a Docker container for Microsoft Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry) - 2025-06-21
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [A tip for debugging pytest-httpx](https://til.simonwillison.net/pytest/pytest-httpx-debug) - 2025-05-28
 
 [SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
-
-[Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) - 2025-03-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
