@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Rate limiting by IP using Cloudflare's rate limiting rules](https://til.simonwillison.net/cloudflare/rate-limiting) - 2025-07-03
+
 [Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) - 2025-07-01
 
 [Converting ORF raw files to JPEG on macOS](https://til.simonwillison.net/macos/orf-to-jpeg) - 2025-06-26
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Redirecting a domain using Cloudflare Pages](https://til.simonwillison.net/cloudflare/domain-redirect-with-pages) - 2025-05-29
 
 [A tip for debugging pytest-httpx](https://til.simonwillison.net/pytest/pytest-httpx-debug) - 2025-05-28
-
-[SQLite triggers](https://til.simonwillison.net/sqlite/sqlite-triggers) - 2025-05-10
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
