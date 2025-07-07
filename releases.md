@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1898<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1899<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
+<br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - ([40 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-17
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
@@ -103,8 +105,6 @@ Listing <!-- releases_count starts -->1898<!-- releases_count ends --> releases 
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
 <br />Remove a database from Datasette
-* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a2](https://github.com/datasette/datasette-load/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-02-11
-<br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-smollm2](https://github.com/simonw/llm-smollm2)**: [0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-smollm2/releases)) - 2025-02-07
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
