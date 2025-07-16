@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1899<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1900<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
 <br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - ([40 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-17
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1899<!-- releases_count ends --> releases 
 <br />None
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
 <br />Trigger an LLM tools error, useful for testing
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.14](https://github.com/simonw/llm-mistral/releases/tag/0.14) - ([17 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-05-28
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
 <br />LLM plugin for interacting with llama-server models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - ([13 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-27
