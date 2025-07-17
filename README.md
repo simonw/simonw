@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) - 2025-07-17
+
 [Happy 20th birthday Django! Here's my talk on Django Origins from Django's 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) - 2025-07-13
 
 [Grok: searching X for "from:elonmusk (Israel OR Palestine OR Hamas OR Gaza)"](https://simonwillison.net/2025/Jul/11/grok-musk/) - 2025-07-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Trying out the new Gemini 2.5 model family](https://simonwillison.net/2025/Jun/17/gemini-2-5/) - 2025-06-17
 
 [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - 2025-06-16
-
-[An Introduction to Google’s Approach to AI Agent Security](https://simonwillison.net/2025/Jun/15/ai-agent-security/) - 2025-06-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
