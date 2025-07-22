@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - 2025-07-22
+
 [datasette-queries 0.1](https://github.com/datasette/datasette-queries/releases/tag/0.1) - 2025-07-22
 
 [llm-mistral 0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - 2025-07-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-openai-plugin 0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - 2025-06-10
 
 [datasette-alerts 0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
-
-[llm-tools-trigger-error 0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

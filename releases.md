@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1901<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1902<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
+<br />Make selected Datasette databases and tables visible to the public
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1](https://github.com/datasette/datasette-queries/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
 <br />Save SQL queries in Datasette
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
@@ -95,8 +97,6 @@ Listing <!-- releases_count starts -->1901<!-- releases_count ends --> releases 
 <br />None
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
 <br />A command-line utility for taking automated screenshots of websites
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a2](https://github.com/datasette/datasette-public/releases/tag/0.3a2) - ([8 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-03-20
-<br />Make selected Datasette databases and tables visible to the public
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
