@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1903<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1904<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.1](https://github.com/datasette/datasette-queries/releases/tag/0.1.1) - ([4 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - ([5 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
 <br />Save SQL queries in Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
 <br />Make selected Datasette databases and tables visible to the public
