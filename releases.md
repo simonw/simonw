@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1902<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1903<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.1](https://github.com/datasette/datasette-queries/releases/tag/0.1.1) - ([4 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
+<br />Save SQL queries in Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1](https://github.com/datasette/datasette-queries/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
-<br />Save SQL queries in Datasette
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
