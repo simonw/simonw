@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1904<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1905<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.24](https://github.com/simonw/llm-gemini/releases/tag/0.24) - ([41 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-07-22
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - ([5 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
 <br />Save SQL queries in Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->1904<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
 <br />API and UI for bulk loading data into Datasette from a URL
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.23](https://github.com/simonw/llm-gemini/releases/tag/0.23) - ([40 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-06-17
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 <br />Grant LLM access to a Docker container for running commands
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
