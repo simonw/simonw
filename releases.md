@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1900<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1901<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1](https://github.com/datasette/datasette-queries/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
+<br />Save SQL queries in Datasette
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1900<!-- releases_count ends --> releases 
 <br />LLM fragment plugin to turn a video into images of different frames
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a3](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-05-01
 <br />Query databases and tables with AI assistance
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1a1](https://github.com/datasette/datasette-queries/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-05-01
-<br />Save SQL queries in Datasette
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-04-25
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
