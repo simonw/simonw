@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) - 2025-07-24
+
 [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) - 2025-07-17
 
 [Happy 20th birthday Django! Here's my talk on Django Origins from Django's 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) - 2025-07-13
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Phoenix.new is Fly's entry into the prompt-driven app development space](https://simonwillison.net/2025/Jun/23/phoenix-new/) - 2025-06-23
 
 [Trying out the new Gemini 2.5 model family](https://simonwillison.net/2025/Jun/17/gemini-2-5/) - 2025-06-17
-
-[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - 2025-06-16
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
