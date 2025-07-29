@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[My 2.5 year old laptop can write Space Invaders in JavaScript now](https://simonwillison.net/2025/Jul/29/space-invaders/) - 2025-07-29
+
 [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) - 2025-07-24
 
 [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) - 2025-07-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Grok: searching X for "from:elonmusk (Israel OR Palestine OR Hamas OR Gaza)"](https://simonwillison.net/2025/Jul/11/grok-musk/) - 2025-07-11
 
 [Phoenix.new is Fly's entry into the prompt-driven app development space](https://simonwillison.net/2025/Jun/23/phoenix-new/) - 2025-06-23
-
-[Trying out the new Gemini 2.5 model family](https://simonwillison.net/2025/Jun/17/gemini-2-5/) - 2025-06-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
