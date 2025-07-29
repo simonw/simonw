@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[My 2.5 year old laptop can write Space Invaders in JavaScript now](https://simonwillison.net/2025/Jul/29/space-invaders/) - 2025-07-29
+[My 2.5 year old laptop can write Space Invaders in JavaScript now, using GLM-4.5 Air and MLX](https://simonwillison.net/2025/Jul/29/space-invaders/) - 2025-07-29
 
 [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) - 2025-07-24
 
