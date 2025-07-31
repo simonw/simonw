@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Trying out Qwen3 Coder Flash using LM Studio and Open WebUI and LLM](https://simonwillison.net/2025/Jul/31/qwen3-coder-flash/) - 2025-07-31
+
 [My 2.5 year old laptop can write Space Invaders in JavaScript now, using GLM-4.5 Air and MLX](https://simonwillison.net/2025/Jul/29/space-invaders/) - 2025-07-29
 
 [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) - 2025-07-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Happy 20th birthday Django! Here's my talk on Django Origins from Django's 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) - 2025-07-13
 
 [Grok: searching X for "from:elonmusk (Israel OR Palestine OR Hamas OR Gaza)"](https://simonwillison.net/2025/Jul/11/grok-musk/) - 2025-07-11
-
-[Phoenix.new is Fly's entry into the prompt-driven app development space](https://simonwillison.net/2025/Jun/23/phoenix-new/) - 2025-06-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
