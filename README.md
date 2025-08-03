@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[The ChatGPT sharing dialog demonstrates how difficult it is to design privacy preferences](https://simonwillison.net/2025/Aug/3/privacy-design/) - 2025-08-03
+
 [Reverse engineering some updates to Claude](https://simonwillison.net/2025/Jul/31/updates-to-claude/) - 2025-07-31
 
 [Trying out Qwen3 Coder Flash using LM Studio and Open WebUI and LLM](https://simonwillison.net/2025/Jul/31/qwen3-coder-flash/) - 2025-07-31
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) - 2025-07-24
 
 [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) - 2025-07-17
-
-[Happy 20th birthday Django! Here's my talk on Django Origins from Django's 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) - 2025-07-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
