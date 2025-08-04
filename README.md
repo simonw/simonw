@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[ChatGPT agent triggers crawls from Bingbot and Yandex](https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/) - 2025-08-04
+[ChatGPT agent's user-agent](https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/) - 2025-08-04
 
 [The ChatGPT sharing dialog demonstrates how difficult it is to design privacy preferences](https://simonwillison.net/2025/Aug/3/privacy-design/) - 2025-08-03
 
