@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1905<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1906<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - ([14 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-08-05
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.24](https://github.com/simonw/llm-gemini/releases/tag/0.24) - ([41 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-07-22
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - ([5 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->1905<!-- releases_count ends --> releases 
 <br />Trigger an LLM tools error, useful for testing
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
 <br />LLM plugin for interacting with llama-server models
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.17](https://github.com/simonw/llm-anthropic/releases/tag/0.17) - ([13 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-05-27
-<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2025-05-27
 <br />Expose Datasette instances to LLM as a tool
 * **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-sqlite/releases)) - 2025-05-27
