@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[My Lethal Trifecta talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/) - 2025-08-09
+
 [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/) - 2025-08-08
 
 [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/) - 2025-08-07
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [ChatGPT agent's user-agent](https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/) - 2025-08-04
 
 [The ChatGPT sharing dialog demonstrates how difficult it is to design privacy preferences](https://simonwillison.net/2025/Aug/3/privacy-design/) - 2025-08-03
-
-[Reverse engineering some updates to Claude](https://simonwillison.net/2025/Jul/31/updates-to-claude/) - 2025-07-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
