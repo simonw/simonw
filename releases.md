@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1906<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1907<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.27](https://github.com/simonw/llm/releases/tag/0.27) - ([54 releases total](https://github.com/simonw/llm/releases)) - 2025-08-11
+<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - ([14 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-08-05
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.24](https://github.com/simonw/llm-gemini/releases/tag/0.24) - ([41 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-07-22
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1906<!-- releases_count ends --> releases 
 <br />LLM tools for running queries against SQLite
 * **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1) - ([4 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
 <br />JavaScript execution as a tool for LLM
-* **[llm](https://github.com/simonw/llm)**: [0.26](https://github.com/simonw/llm/releases/tag/0.26) - ([53 releases total](https://github.com/simonw/llm/releases)) - 2025-05-27
-<br />Access large language models from the command-line
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - ([6 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-21
 <br />Debug plugin for LLM providing an echo model
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
