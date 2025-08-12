@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1907<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1908<!-- releases_count ends --> releases across <!-- project_count starts -->332<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.27](https://github.com/simonw/llm/releases/tag/0.27) - ([54 releases total](https://github.com/simonw/llm/releases)) - 2025-08-11
+* **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - ([14 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-08-05
 <br />LLM access to models by Anthropic, including the Claude series

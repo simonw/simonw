@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.27](https://github.com/simonw/llm/releases/tag/0.27) - 2025-08-11
+[llm 0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - 2025-08-12
 
 [llm-anthropic 0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - 2025-08-05
 
