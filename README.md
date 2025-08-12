@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[LLM 0.27, the annotated release notes: GPT-5 and improved tool calling](https://simonwillison.net/2025/Aug/11/llm-027/) - 2025-08-11
+
 [Qwen3-4B-Thinking: "This is art - pelicans don't ride bikes!"](https://simonwillison.net/2025/Aug/10/qwen3-4b/) - 2025-08-10
 
 [My Lethal Trifecta talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/) - 2025-08-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/) - 2025-08-07
 
 [OpenAI's new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/) - 2025-08-05
-
-[ChatGPT agent's user-agent](https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/) - 2025-08-04
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
