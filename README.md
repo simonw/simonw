@@ -4,7 +4,21 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - 2025-08-12
 
+[llm-anthropic 0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - 2025-08-05
+
+[llm-gemini 0.24](https://github.com/simonw/llm-gemini/releases/tag/0.24) - 2025-07-22
+
+[datasette-queries 0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - 2025-07-22
+
+[datasette-public 0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - 2025-07-22
+
+[llm-mistral 0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - 2025-07-16
+
+[datasette-load 0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - 2025-07-07
+
+[llm-tools-docker 0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
