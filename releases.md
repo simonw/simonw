@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1911<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1914<!-- releases_count ends --> releases across <!-- project_count starts -->334<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
+<br />Send alerts from datasette-alerts to Discord
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
+<br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.25](https://github.com/simonw/llm-gemini/releases/tag/0.25) - ([42 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-08-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
@@ -23,8 +27,6 @@ Listing <!-- releases_count starts -->1911<!-- releases_count ends --> releases 
 <br />Grant LLM access to a Docker container for running commands
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
 <br />OpenAI plugin for LLM
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a1](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1) - 2025-06-02
-<br />None
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
 <br />Trigger an LLM tools error, useful for testing
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
