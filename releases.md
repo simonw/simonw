@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1876<!-- releases_count ends --> releases across <!-- project_count starts -->326<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
@@ -175,8 +175,6 @@ Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases 
 <br />Datasette plugin for authentication using passwords
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
 <br />Datasette plugin for enabling full-text search against selected table columns
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3) - ([22 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2024-09-03
 <br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
@@ -253,8 +251,6 @@ Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases 
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
-* **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
-<br />Datasette plugin that lets users save and execute queries
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1](https://github.com/datasette/datasette-create-view/releases/tag/0.1) - 2024-03-07
 <br />Create a SQL view from a query
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.3](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.3) - ([4 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2024-03-06
@@ -431,8 +427,6 @@ Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases 
 <br />Load shapefiles into a SQLite (optionally SpatiaLite) database
 * **[datasette-gunicorn](https://github.com/simonw/datasette-gunicorn)**: [0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-gunicorn/releases)) - 2022-12-18
 <br />Plugin for running Datasette using Gunicorn
-* **[datasette-media](https://github.com/simonw/datasette-media)**: [0.5.1](https://github.com/simonw/datasette-media/releases/tag/0.5.1) - ([7 releases total](https://github.com/simonw/datasette-media/releases)) - 2022-12-13
-<br />Datasette plugin for serving media based on a SQL query
 * **[datasette-secret-santa](https://github.com/simonw/datasette-secret-santa)**: [0.1](https://github.com/simonw/datasette-secret-santa/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-secret-santa/releases)) - 2022-12-11
 <br />Run secret santa gift circles using Datasette
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
@@ -641,14 +635,6 @@ Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases 
 <br />Tool for generating demo SQLite databases
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
 <br />Demo for https://github.com/simonw/click-app
-* **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
-<br />Demonstrating https://github.com/simonw/datasette-plugin
-* **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
-<br />Datasette plugin adding a /-/psutil debugging endpoint
-* **[datasette-permissions-sql](https://github.com/simonw/datasette-permissions-sql)**: [0.3a](https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a) - ([4 releases total](https://github.com/simonw/datasette-permissions-sql/releases)) - 2020-06-12
-<br />Datasette plugin for configuring permission checks using SQL queries
-* **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
-<br />ASGI middleware that authenticates users against GitHub
 * **[dogsheep-photos](https://github.com/dogsheep/dogsheep-photos)**: [0.4.1](https://github.com/dogsheep/dogsheep-photos/releases/tag/0.4.1) - ([5 releases total](https://github.com/dogsheep/dogsheep-photos/releases)) - 2020-05-25
 <br />Upload your photos to S3 and import metadata about them into a SQLite database
 * **[datasette-jq](https://github.com/simonw/datasette-jq)**: [0.2.1](https://github.com/simonw/datasette-jq/releases/tag/0.2.1) - 2020-04-09
