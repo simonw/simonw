@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1672<!-- releases_count ends --> releases across <!-- project_count starts -->285<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases across <!-- project_count starts -->273<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
@@ -117,8 +117,6 @@ Listing <!-- releases_count starts -->1672<!-- releases_count ends --> releases 
 <br />Track usage of LLM tokens in a SQLite table
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
 <br />LLM plugin for interacting with the Claude 3 family of models
-* **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
-<br />Ask questions of your data with LLM assistance
 * **[llm-nomic-api-embed](https://github.com/simonw/llm-nomic-api-embed)**: [0.3](https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/llm-nomic-api-embed/releases)) - 2024-11-21
 <br />Create embeddings for LLM using the Nomic API
 * **[llm-gguf](https://github.com/simonw/llm-gguf)**: [0.2](https://github.com/simonw/llm-gguf/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-gguf/releases)) - 2024-11-21
@@ -127,30 +125,12 @@ Listing <!-- releases_count starts -->1672<!-- releases_count ends --> releases 
 <br />ASGI middleware for protecting against CSRF attacks
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
-* **[llm-groq-whisper](https://github.com/simonw/llm-groq-whisper)**: [0.1a0](https://github.com/simonw/llm-groq-whisper/releases/tag/0.1a0) - 2024-11-01
-<br />Transcribe audio using the Groq.com Whisper API
 * **[llm-whisper-api](https://github.com/simonw/llm-whisper-api)**: [0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-whisper-api/releases)) - 2024-10-27
 <br />Run transcriptions using the OpenAI Whisper API
 * **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
 <br />Write and execute jq programs with the help of LLM
 * **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
 <br />Convert a Claude.ai export to SQLite
-* **[datasette-examples](https://github.com/datasette/datasette-examples)**: [0.1a0](https://github.com/datasette/datasette-examples/releases/tag/0.1a0) - 2024-10-08
-<br />Load example SQL scripts into Datasette on startup
-* **[django-plugin-datasette](https://github.com/simonw/django-plugin-datasette)**: [0.2](https://github.com/simonw/django-plugin-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-plugin-datasette/releases)) - 2024-09-26
-<br />Django plugin to run Datasette inside of Django
-* **[djp](https://github.com/simonw/djp)**: [0.3.1](https://github.com/simonw/djp/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/djp/releases)) - 2024-09-26
-<br />A plugin system for Django
-* **[django-plugin-blog](https://github.com/simonw/django-plugin-blog)**: [0.1.1](https://github.com/simonw/django-plugin-blog/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/django-plugin-blog/releases)) - 2024-09-24
-<br />A blog for Django as a DJP plugin.
-* **[django-plugin-database-url](https://github.com/simonw/django-plugin-database-url)**: [0.1](https://github.com/simonw/django-plugin-database-url/releases/tag/0.1) - 2024-09-24
-<br />Django plugin for reading the DATABASE_URL environment variable
-* **[django-plugin-django-header](https://github.com/simonw/django-plugin-django-header)**: [0.1.1](https://github.com/simonw/django-plugin-django-header/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/django-plugin-django-header/releases)) - 2024-09-23
-<br />Add a Django-Compositions HTTP header to a Django app
-* **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
-<br />Access Jina AI embeddings via their API
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - ([8 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
-<br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
 <br />Use LLM to generate and execute commands in your shell
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
@@ -163,8 +143,6 @@ Listing <!-- releases_count starts -->1672<!-- releases_count ends --> releases 
 <br />Tools for importing data into Datasette
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
 <br />Datasette plugin providing a UI for executing SQL writes against the database
-* **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
-<br />Print Datasette events to standard error
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
@@ -173,8 +151,6 @@ Listing <!-- releases_count starts -->1672<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a4](https://github.com/datasette/datasette-pins/releases/tag/0.1a4) - ([4 releases total](https://github.com/datasette/datasette-pins/releases)) - 2024-09-01
 <br />Pin databases, tables, and other items to the Datasette homepage
-* **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a2](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2024-08-16
-<br />Add interactive checkboxes to columns in Datasette
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/fetch-github-issues/releases)) - 2024-07-29
