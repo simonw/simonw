@@ -1,14 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases across <!-- project_count starts -->273<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1599<!-- releases_count ends --> releases across <!-- project_count starts -->259<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
 <br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.25](https://github.com/simonw/llm-gemini/releases/tag/0.25) - ([42 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-08-18
 <br />LLM plugin to access Google's Gemini family of models
-* **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
-<br />Load demo DBs when Datasette starts
 * **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - ([14 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-08-05
@@ -19,10 +17,6 @@ Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases 
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
-<br />API and UI for bulk loading data into Datasette from a URL
-* **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
-<br />OpenAI plugin for LLM
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
 <br />Trigger an LLM tools error, useful for testing
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
@@ -43,8 +37,6 @@ Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases 
 <br />Enable sqlite-chronicle against tables in Datasette
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.4](https://github.com/simonw/sqlite-chronicle/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-13
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
-* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
-<br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
 <br />Load GitHub repository contents as LLM fragments
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a0](https://github.com/simonw/sqlite-utils/releases/tag/4.0a0) - ([117 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-05-09
@@ -65,8 +57,6 @@ Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases 
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
 <br />LLM plugin for models hosted by OpenRouter
-* **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
-<br />Support for MLX models in LLM
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-04-23
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-fragments-symbex](https://github.com/simonw/llm-fragments-symbex)**: [0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
@@ -81,28 +71,16 @@ Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases 
 <br />Import unstructured data (text and images) into structured tables
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
-* **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
-<br />Load LLM templates from Fabric
-* **[llm-templates-github](https://github.com/simonw/llm-templates-github)**: [0.1](https://github.com/simonw/llm-templates-github/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/llm-templates-github/releases)) - 2025-04-07
-<br />Research prototype for new register_template_loaders LLM plugin hook
 * **[llm-command-r](https://github.com/simonw/llm-command-r)**: [0.3.1](https://github.com/simonw/llm-command-r/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/llm-command-r/releases)) - 2025-03-28
 <br />Access the Cohere Command R family of models
 * **[datasette-auth-existing-cookies](https://github.com/simonw/datasette-auth-existing-cookies)**: [1.0a2](https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2) - ([13 releases total](https://github.com/simonw/datasette-auth-existing-cookies/releases)) - 2025-03-28
 <br />Datasette plugin that authenticates users based on existing domain cookies
-* **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
-<br />Use datasette-profiles to return actors_from_ids
-* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27
-<br />None
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28
 <br />CLI tool for stripping tags from HTML
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
-<br />Remove a database from Datasette
-* **[llm-smollm2](https://github.com/simonw/llm-smollm2)**: [0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-smollm2/releases)) - 2025-02-07
-<br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
 <br />An enrichment on a slow loop to help debug progress bars
 * **[sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui)**: [0.1](https://github.com/simonw/sqlite-utils-tui/releases/tag/0.1) - 2025-01-11
@@ -125,12 +103,6 @@ Listing <!-- releases_count starts -->1642<!-- releases_count ends --> releases 
 <br />ASGI middleware for protecting against CSRF attacks
 * **[asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib)**: [0.2a0](https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/asgi-proxy-lib/releases)) - 2024-11-06
 <br />An ASGI function for proxying to a backend over HTTP
-* **[llm-whisper-api](https://github.com/simonw/llm-whisper-api)**: [0.1.1](https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-whisper-api/releases)) - 2024-10-27
-<br />Run transcriptions using the OpenAI Whisper API
-* **[llm-jq](https://github.com/simonw/llm-jq)**: [0.1.1](https://github.com/simonw/llm-jq/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/llm-jq/releases)) - 2024-10-27
-<br />Write and execute jq programs with the help of LLM
-* **[claude-to-sqlite](https://github.com/simonw/claude-to-sqlite)**: [0.2](https://github.com/simonw/claude-to-sqlite/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-to-sqlite/releases)) - 2024-10-21
-<br />Convert a Claude.ai export to SQLite
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
 <br />Use LLM to generate and execute commands in your shell
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
