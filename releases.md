@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1914<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
+<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
 <br />Send alerts from datasette-alerts to Discord
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1913<!-- releases_count ends --> releases 
 <br />Query databases and tables with AI assistance
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a5](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-04-25
 <br />Datasette plugin for fetching details of actors from a remote endpoint
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.4.1](https://github.com/simonw/llm-openrouter/releases/tag/0.4.1) - ([5 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-04-23
-<br />LLM plugin for models hosted by OpenRouter
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
 <br />Support for MLX models in LLM
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-04-23
