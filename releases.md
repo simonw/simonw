@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1914<!-- releases_count ends --> releases across <!-- project_count starts -->333<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1915<!-- releases_count ends --> releases across <!-- project_count starts -->334<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
@@ -25,6 +25,8 @@ Listing <!-- releases_count starts -->1914<!-- releases_count ends --> releases 
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
 <br />API and UI for bulk loading data into Datasette from a URL
+* **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
+<br />Grant LLM access to a Docker container for running commands
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.5](https://github.com/simonw/llm-openai-plugin/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-06-10
 <br />OpenAI plugin for LLM
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
