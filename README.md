@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-jsonschema-forms 0.0.2](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2) - 2025-09-24
+
 [llm-openai-plugin 0.6](https://github.com/simonw/llm-openai-plugin/releases/tag/0.6) - 2025-09-24
 
 [llm-openrouter 0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - 2025-09-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-demo-dbs 0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - 2025-08-14
 
 [llm 0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - 2025-08-12
-
-[llm-anthropic 0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - 2025-08-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

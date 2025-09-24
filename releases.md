@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1916<!-- releases_count ends --> releases across <!-- project_count starts -->334<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1917<!-- releases_count ends --> releases across <!-- project_count starts -->335<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.2](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2) - 2025-09-24
+<br />None
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.6](https://github.com/simonw/llm-openai-plugin/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-09-24
 <br />OpenAI plugin for LLM
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
