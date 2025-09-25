@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1917<!-- releases_count ends --> releases across <!-- project_count starts -->335<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1918<!-- releases_count ends --> releases across <!-- project_count starts -->335<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) - ([43 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-09-25
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.2](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2) - 2025-09-24
 <br />None
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.6](https://github.com/simonw/llm-openai-plugin/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-09-24
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->1917<!-- releases_count ends --> releases 
 <br />Send alerts from datasette-alerts to Discord
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
 <br />None
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.25](https://github.com/simonw/llm-gemini/releases/tag/0.25) - ([42 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-08-18
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
 * **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12

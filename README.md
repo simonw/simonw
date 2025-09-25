@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) - 2025-09-25
+
 [datasette-jsonschema-forms 0.0.2](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2) - 2025-09-24
 
 [llm-openai-plugin 0.6](https://github.com/simonw/llm-openai-plugin/releases/tag/0.6) - 2025-09-24
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-alerts-discord 0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
 
 [datasette-alerts 0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - 2025-08-19
-
-[llm-gemini 0.25](https://github.com/simonw/llm-gemini/releases/tag/0.25) - 2025-08-18
 
 [datasette-demo-dbs 0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - 2025-08-14
 
