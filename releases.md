@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1918<!-- releases_count ends --> releases across <!-- project_count starts -->335<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1919<!-- releases_count ends --> releases across <!-- project_count starts -->335<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.19](https://github.com/simonw/llm-anthropic/releases/tag/0.19) - ([15 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-09-29
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) - ([43 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-09-25
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.2](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2) - 2025-09-24
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->1918<!-- releases_count ends --> releases 
 <br />Load demo DBs when Datasette starts
 * **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12
 <br />Access large language models from the command-line
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.18](https://github.com/simonw/llm-anthropic/releases/tag/0.18) - ([14 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-08-05
-<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - ([5 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
 <br />Save SQL queries in Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
