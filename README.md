@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) - 2025-09-30
+
 [Claude Sonnet 4.5 is probably the "best coding model in the world" (at least for now)](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/) - 2025-09-29
 
 [I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/) - 2025-09-18
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/) - 2025-09-09
 
 [GPT-5 Thinking in ChatGPT (aka Research Goblin) is shockingly good at search](https://simonwillison.net/2025/Sep/6/research-goblin/) - 2025-09-06
-
-[V&A East Storehouse and Operation Mincemeat in London](https://simonwillison.net/2025/Aug/27/london-culture/) - 2025-08-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
