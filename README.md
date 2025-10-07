@@ -25,8 +25,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[Gemini 2.5 Computer Use can solve Google's own CAPTCHAs](https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/) - 2025-10-07
-
 [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/) - 2025-10-07
 
 [OpenAI DevDay 2025 live blog](https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/) - 2025-10-06
@@ -36,6 +34,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) - 2025-09-30
 
 [Claude Sonnet 4.5 is probably the "best coding model in the world" (at least for now)](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/) - 2025-09-29
+
+[I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/) - 2025-09-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
