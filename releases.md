@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1922<!-- releases_count ends --> releases across <!-- project_count starts -->336<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1923<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-os-info](https://github.com/datasette/datasette-os-info)**: [0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
+<br />Provide information about the current OS at /-/os
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-10-06
 <br />OpenAI plugin for LLM
 * **[datasette-preact](https://github.com/datasette/datasette-preact)**: [0.0.1](https://github.com/datasette/datasette-preact/releases/tag/0.0.1) - 2025-09-30
