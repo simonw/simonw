@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running tests against different Python versions with uv](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
+
 [Error 153 Video player configuration error on YouTube embeds](https://til.simonwillison.net/youtube/fixing-153-embed) - 2025-09-30
 
 [Running a gpt-oss eval suite against LM Studio on a Mac](https://til.simonwillison.net/llms/gpt-oss-evals) - 2025-08-17
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Rate limiting by IP using Cloudflare's rate limiting rules](https://til.simonwillison.net/cloudflare/rate-limiting) - 2025-07-03
 
 [Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) - 2025-07-01
-
-[Converting ORF raw files to JPEG on macOS](https://til.simonwillison.net/macos/orf-to-jpeg) - 2025-06-26
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
