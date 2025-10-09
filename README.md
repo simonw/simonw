@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[asyncinject 0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - 2025-10-09
+
 [datasette-os-info 0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
 
 [llm-openai-plugin 0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - 2025-10-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-gemini 0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) - 2025-09-25
 
 [llm-openrouter 0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - 2025-09-20
-
-[datasette-alerts-discord 0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

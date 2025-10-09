@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1923<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1924<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-os-info](https://github.com/datasette/datasette-os-info)**: [0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
 <br />Provide information about the current OS at /-/os
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-10-06
@@ -399,8 +401,6 @@ Listing <!-- releases_count starts -->1923<!-- releases_count ends --> releases 
 <br />A pure Python alternative to sqlite-url ready to be used in Datasette Lite
 * **[download-esm](https://github.com/simonw/download-esm)**: [0.1a0](https://github.com/simonw/download-esm/releases/tag/0.1a0) - 2023-05-02
 <br />Download ESM modules from npm and jsdelivr
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6](https://github.com/simonw/asyncinject/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/asyncinject/releases)) - 2023-04-14
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)**: [0.3.4](https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4) - ([7 releases total](https://github.com/dogsheep/swarm-to-sqlite/releases)) - 2023-04-11
 <br />Create a SQLite database containing your checkin history from Foursquare Swarm
 * **[sqlite-history](https://github.com/simonw/sqlite-history)**: [0.1](https://github.com/simonw/sqlite-history/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/sqlite-history/releases)) - 2023-04-09
