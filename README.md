@@ -42,7 +42,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
-[Running tests against different Python versions with uv](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
+[Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
 
 [Error 153 Video player configuration error on YouTube embeds](https://til.simonwillison.net/youtube/fixing-153-embed) - 2025-09-30
 
