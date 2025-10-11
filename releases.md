@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1924<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1925<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
+<br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-os-info](https://github.com/datasette/datasette-os-info)**: [0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->1924<!-- releases_count ends --> releases 
 <br />None
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.19](https://github.com/simonw/llm-anthropic/releases/tag/0.19) - ([15 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-09-29
 <br />LLM access to models by Anthropic, including the Claude series
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) - ([43 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-09-25
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
