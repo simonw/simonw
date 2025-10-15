@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.20](https://github.com/simonw/llm-anthropic/releases/tag/0.20) - 2025-10-15
+
 [llm-gemini 0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - 2025-10-11
 
 [asyncinject 0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - 2025-10-09
@@ -15,8 +17,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-preact 0.0.1](https://github.com/datasette/datasette-preact/releases/tag/0.0.1) - 2025-09-30
 
 [datasette-jsonschema-forms 0.0.3](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3) - 2025-09-30
-
-[llm-anthropic 0.19](https://github.com/simonw/llm-anthropic/releases/tag/0.19) - 2025-09-29
 
 [llm-openrouter 0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - 2025-09-20
 <!-- recent_releases ends -->
