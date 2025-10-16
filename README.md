@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) - 2025-10-16
+
 [NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/) - 2025-10-14
 
 [Claude can write complete Datasette plugins now](https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/) - 2025-10-08
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [OpenAI DevDay 2025 live blog](https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/) - 2025-10-06
 
 [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/) - 2025-10-05
-
-[Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) - 2025-09-30
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
