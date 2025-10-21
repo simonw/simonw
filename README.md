@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[pytest-unused-port 0.1](https://github.com/simonw/pytest-unused-port/releases/tag/0.1) - 2025-10-21
+[datasette-import 0.1a6](https://github.com/datasette/datasette-import/releases/tag/0.1a6) - 2025-10-21
 
-[datasette-tail 0.1a1](https://github.com/datasette/datasette-tail/releases/tag/0.1a1) - 2025-10-21
+[datasette-public 0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - 2025-10-21
 
-[datasette-remove-database 0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - 2025-10-21
+[datasette-events-db 0.1a1](https://github.com/datasette/datasette-events-db/releases/tag/0.1a1) - 2025-10-21
 
-[datasette-queries 0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - 2025-10-21
+[datasette-edit-schema 0.8a4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a4) - 2025-10-21
 
-[datasette-profiles 0.1a4](https://github.com/datasette/datasette-profiles/releases/tag/0.1a4) - 2025-10-21
+[datasette-query-assistant 0.1a4](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a4) - 2025-10-21
 
-[datasette-llm-usage 0.1a1](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1) - 2025-10-21
+[datasette-visible-internal-db 0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - 2025-10-21
 
-[datasette-enrichments-llm 0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - 2025-10-21
+[datasette-remote-actors 0.1a6](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a6) - 2025-10-21
 
-[datasette-debug-events 0.1a1](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a1) - 2025-10-21
+[datasette-extract 0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - 2025-10-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
