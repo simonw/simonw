@@ -3,6 +3,10 @@
 Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2025-10-21
+<br />Datasette plugin for trying out the actors_from_ids hook
+* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-10-21
+<br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
 <br />Datasette plugin for making the internal database visible for debugging
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-10-21
@@ -27,12 +31,8 @@ Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases 
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
 <br />Import unstructured data (text and images) into structured tables
-* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2025-10-21
-<br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
 <br />Pin databases, tables, and other items to the Datasette homepage
-* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-10-21
-<br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a3](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2025-10-21
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
