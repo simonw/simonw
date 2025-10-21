@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1935<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1936<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.1](https://github.com/simonw/pytest-unused-port/releases/tag/0.1) - 2025-10-21
+<br />pytest fixture finding an unused local port
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a1](https://github.com/datasette/datasette-tail/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-10-21
 <br />Tools for tailing your database
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remove-database/releases)) - 2025-10-21
