@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1950<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - ([3 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-10-21
+<br />None
+* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-studio/releases)) - 2025-10-21
+<br />Datasette pre-configured with useful plugins. Experimental alpha.
+* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a4](https://github.com/datasette/datasette-load/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-10-21
+<br />API and UI for bulk loading data into Datasette from a URL
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a6](https://github.com/datasette/datasette-import/releases/tag/0.1a6) - ([3 releases total](https://github.com/datasette/datasette-import/releases)) - 2025-10-21
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
@@ -63,8 +69,6 @@ Listing <!-- releases_count starts -->1950<!-- releases_count ends --> releases 
 <br />OpenAI plugin for LLM
 * **[datasette-preact](https://github.com/datasette/datasette-preact)**: [0.0.1](https://github.com/datasette/datasette-preact/releases/tag/0.0.1) - 2025-09-30
 <br />None
-* **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3) - ([2 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-09-30
-<br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
@@ -75,8 +79,6 @@ Listing <!-- releases_count starts -->1950<!-- releases_count ends --> releases 
 <br />Access large language models from the command-line
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
-* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a3](https://github.com/datasette/datasette-load/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-07-07
-<br />API and UI for bulk loading data into Datasette from a URL
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 <br />Grant LLM access to a Docker container for running commands
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01
@@ -223,8 +225,6 @@ Listing <!-- releases_count starts -->1950<!-- releases_count ends --> releases 
 <br />Maintain a FAISS index for specified Datasette tables
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - ([24 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-06-13
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
-* **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a4](https://github.com/datasette/datasette-studio/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-studio/releases)) - 2024-06-05
-<br />Datasette pre-configured with useful plugins. Experimental alpha.
 * **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
