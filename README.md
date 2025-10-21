@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-anthropic 0.20](https://github.com/simonw/llm-anthropic/releases/tag/0.20) - 2025-10-15
+[datasette-remove-database 0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - 2025-10-21
 
-[llm-gemini 0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - 2025-10-11
+[datasette-queries 0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - 2025-10-21
 
-[asyncinject 0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - 2025-10-09
+[datasette-profiles 0.1a4](https://github.com/datasette/datasette-profiles/releases/tag/0.1a4) - 2025-10-21
 
-[datasette-os-info 0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
+[datasette-llm-usage 0.1a1](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1) - 2025-10-21
 
-[llm-openai-plugin 0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - 2025-10-06
+[datasette-enrichments-llm 0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - 2025-10-21
 
-[datasette-preact 0.0.1](https://github.com/datasette/datasette-preact/releases/tag/0.0.1) - 2025-09-30
+[datasette-debug-events 0.1a1](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a1) - 2025-10-21
 
-[datasette-jsonschema-forms 0.0.3](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3) - 2025-09-30
+[datasette-alerts 0.0.1a5](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5) - 2025-10-21
 
-[llm-openrouter 0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - 2025-09-20
+[datasette-acl 0.4a5](https://github.com/datasette/datasette-acl/releases/tag/0.4a5) - 2025-10-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

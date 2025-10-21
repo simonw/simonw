@@ -1,8 +1,24 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1934<!-- releases_count ends --> releases across <!-- project_count starts -->337<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remove-database/releases)) - 2025-10-21
+<br />Remove a database from Datasette
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
+<br />Save SQL queries in Datasette
+* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a4](https://github.com/datasette/datasette-profiles/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-10-21
+<br />None
+* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a1](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-10-21
+<br />Track usage of LLM tokens in a SQLite table
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-10-21
+<br />Enrich data by prompting LLMs
+* **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a1](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-events/releases)) - 2025-10-21
+<br />Print Datasette events to standard error
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a5](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5) - ([4 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-10-21
+<br />None
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a5](https://github.com/datasette/datasette-acl/releases/tag/0.4a5) - ([9 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-10-21
+<br />Advanced permission management for Datasette
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.20](https://github.com/simonw/llm-anthropic/releases/tag/0.20) - ([16 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-15
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
@@ -21,14 +37,10 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
 <br />Send alerts from datasette-alerts to Discord
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a3](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3) - ([3 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-08-19
-<br />None
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
 * **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12
 <br />Access large language models from the command-line
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2](https://github.com/datasette/datasette-queries/releases/tag/0.1.2) - ([5 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-07-22
-<br />Save SQL queries in Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a3](https://github.com/datasette/datasette-public/releases/tag/0.3a3) - ([9 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-07-22
 <br />Make selected Datasette databases and tables visible to the public
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
@@ -105,8 +117,6 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
 <br />Use datasette-profiles to return actors_from_ids
-* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a3](https://github.com/datasette/datasette-profiles/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-03-27
-<br />None
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
 <br />A command-line utility for taking automated screenshots of websites
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
@@ -115,8 +125,6 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />CLI tool for stripping tags from HTML
 * **[files-to-prompt](https://github.com/simonw/files-to-prompt)**: [0.6](https://github.com/simonw/files-to-prompt/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/files-to-prompt/releases)) - 2025-02-19
 <br />Concatenate a directory full of files into a single prompt for use with LLMs
-* **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a0](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0) - 2025-02-12
-<br />Remove a database from Datasette
 * **[llm-smollm2](https://github.com/simonw/llm-smollm2)**: [0.1.2](https://github.com/simonw/llm-smollm2/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-smollm2/releases)) - 2025-02-07
 <br />SmolLM2-135M-Instruct.Q4_1 for LLM
 * **[datasette-enrichments-slow](https://github.com/datasette/datasette-enrichments-slow)**: [0.3](https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-slow/releases)) - 2025-01-15
@@ -125,12 +133,8 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />Terminal UI for sqlite-utils
 * **[prompts-js](https://github.com/simonw/prompts-js)**: [0.0.4](https://github.com/simonw/prompts-js/releases/tag/0.0.4) - ([4 releases total](https://github.com/simonw/prompts-js/releases)) - 2024-12-08
 <br />async alternatives to browser alert() and prompt() and confirm()
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0) - 2024-12-05
-<br />Enrich data by prompting LLMs
 * **[llm-bedrock](https://github.com/simonw/llm-bedrock)**: [0.4](https://github.com/simonw/llm-bedrock/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/llm-bedrock/releases)) - 2024-12-04
 <br />Run prompts against models hosted on AWS Bedrock
-* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0) - 2024-12-02
-<br />Track usage of LLM tokens in a SQLite table
 * **[llm-claude-3](https://github.com/simonw/llm-claude-3)**: [0.10](https://github.com/simonw/llm-claude-3/releases/tag/0.10) - ([14 releases total](https://github.com/simonw/llm-claude-3/releases)) - 2024-12-02
 <br />LLM plugin for interacting with the Claude 3 family of models
 * **[sqlite-utils-ask](https://github.com/simonw/sqlite-utils-ask)**: [0.2](https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/sqlite-utils-ask/releases)) - 2024-11-24
@@ -165,8 +169,6 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />Add a Django-Compositions HTTP header to a Django app
 * **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
 <br />Access Jina AI embeddings via their API
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a4](https://github.com/datasette/datasette-acl/releases/tag/0.4a4) - ([8 releases total](https://github.com/datasette/datasette-acl/releases)) - 2024-09-10
-<br />Advanced permission management for Datasette
 * **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
 <br />Use LLM to generate and execute commands in your shell
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
@@ -179,8 +181,6 @@ Listing <!-- releases_count starts -->1926<!-- releases_count ends --> releases 
 <br />Tools for importing data into Datasette
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
 <br />Datasette plugin providing a UI for executing SQL writes against the database
-* **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a0](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0) - 2024-09-03
-<br />Print Datasette events to standard error
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
