@@ -3,6 +3,10 @@
 Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
+<br />Datasette plugin for making the internal database visible for debugging
+* **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-10-21
+<br />Create a SQL view from a query
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - ([3 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-10-21
 <br />None
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-studio/releases)) - 2025-10-21
@@ -19,8 +23,6 @@ Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases 
 <br />Datasette plugin for modifying table schemas
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a4](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-10-21
 <br />Query databases and tables with AI assistance
-* **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
-<br />Datasette plugin for making the internal database visible for debugging
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a6](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-10-21
 <br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->1953<!-- releases_count ends --> releases 
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-10-21
 <br />Forward Datasette analytical events on to another Datasette instance
-* **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-10-21
-<br />Create a SQL view from a query
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a3](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2025-10-21
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
