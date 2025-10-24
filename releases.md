@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1954<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1955<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
+<br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-10-21
@@ -211,8 +213,6 @@ Listing <!-- releases_count starts -->1954<!-- releases_count ends --> releases 
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.5](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5) - ([7 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2024-08-21
-<br />Prettier formatting for ?_trace=1 traces
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
