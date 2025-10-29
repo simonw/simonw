@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1955<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1957<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.21.1](https://github.com/simonw/llm-anthropic/releases/tag/0.21.1) - ([18 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-29
+<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
 <br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->1955<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a5](https://github.com/datasette/datasette-acl/releases/tag/0.4a5) - ([9 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-10-21
 <br />Advanced permission management for Datasette
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.20](https://github.com/simonw/llm-anthropic/releases/tag/0.20) - ([16 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-15
-<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
 <br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
