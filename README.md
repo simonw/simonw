@@ -4,21 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-pretty-traces 0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - 2025-10-24
 
-[pytest-unused-port 0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - 2025-10-22
-
-[datasette-events-forward 0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - 2025-10-21
-
-[datasette-debug-actors-from-ids 0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - 2025-10-21
-
-[datasette-visible-internal-db 0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - 2025-10-21
-
-[datasette-create-view 0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - 2025-10-21
-
-[datasette-jsonschema-forms 0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - 2025-10-21
-
-[datasette-studio 0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - 2025-10-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
