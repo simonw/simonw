@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1957<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1958<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
+<br />LLM plugin for accessing MiniMax models via their API
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.21.1](https://github.com/simonw/llm-anthropic/releases/tag/0.21.1) - ([18 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-29
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
