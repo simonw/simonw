@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1958<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1959<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a20](https://github.com/simonw/datasette/releases/tag/1.0a20) - ([151 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-03
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
 <br />LLM plugin for accessing MiniMax models via their API
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.21.1](https://github.com/simonw/llm-anthropic/releases/tag/0.21.1) - ([18 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-29
@@ -133,8 +135,6 @@ Listing <!-- releases_count starts -->1958<!-- releases_count ends --> releases 
 <br />Find the Python code for specified symbols
 * **[llm-logging-debug](https://github.com/simonw/llm-logging-debug)**: [0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
 <br />Set logging.DEBUG while running LLM
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a19](https://github.com/simonw/datasette/releases/tag/1.0a19) - ([150 releases total](https://github.com/simonw/datasette/releases)) - 2025-04-22
-<br />An open source multi-tool for exploring and publishing data
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
 <br />Convert CSV files into a SQLite database
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-04-08
