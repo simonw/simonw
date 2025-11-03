@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1959<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1960<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03
+<br />Datasette plugin for searching all searchable tables at once
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a20](https://github.com/simonw/datasette/releases/tag/1.0a20) - ([151 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-03
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
@@ -205,8 +207,6 @@ Listing <!-- releases_count starts -->1959<!-- releases_count ends --> releases 
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
 <br />Python CLI tool and library for diffing CSV and JSON files
-* **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.4](https://github.com/simonw/datasette-search-all/releases/tag/1.1.4) - ([12 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2024-09-06
-<br />Datasette plugin for searching all searchable tables at once
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
