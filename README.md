@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-events-forward 0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - 2025-11-04
+
+[datasette-tail 0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - 2025-11-04
+
 [datasette-search-all 1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - 2025-11-03
 
 [datasette 1.0a20](https://github.com/simonw/datasette/releases/tag/1.0a20) - 2025-11-03
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-pretty-traces 0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - 2025-10-24
 
 [pytest-unused-port 0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - 2025-10-22
-
-[datasette-events-forward 0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - 2025-10-21
-
-[datasette-debug-actors-from-ids 0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - 2025-10-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1960<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1962<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-04
+<br />Forward Datasette analytical events on to another Datasette instance
+* **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04
+<br />Tools for tailing your database
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03
 <br />Datasette plugin for searching all searchable tables at once
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a20](https://github.com/simonw/datasette/releases/tag/1.0a20) - ([151 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-03
@@ -15,8 +19,6 @@ Listing <!-- releases_count starts -->1960<!-- releases_count ends --> releases 
 <br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
-* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a2](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-10-21
-<br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2025-10-21
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
@@ -49,8 +51,6 @@ Listing <!-- releases_count starts -->1960<!-- releases_count ends --> releases 
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
-* **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a1](https://github.com/datasette/datasette-tail/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-10-21
-<br />Tools for tailing your database
 * **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remove-database/releases)) - 2025-10-21
 <br />Remove a database from Datasette
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
