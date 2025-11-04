@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1963<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1964<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.5a0](https://github.com/datasette/datasette-acl/releases/tag/0.5a0) - ([10 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-11-04
+<br />Advanced permission management for Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-04
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1963<!-- releases_count ends --> releases 
 <br />Print Datasette events to standard error
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a5](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5) - ([4 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-10-21
 <br />None
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.4a5](https://github.com/datasette/datasette-acl/releases/tag/0.4a5) - ([9 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-10-21
-<br />Advanced permission management for Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
 <br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
