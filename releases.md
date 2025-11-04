@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1961<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1963<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
+<br />Always allow access to /-/permissions, for debugging
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-04
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04
