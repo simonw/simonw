@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1962<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1961<!-- releases_count ends --> releases across <!-- project_count starts -->338<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-04
@@ -647,8 +647,6 @@ Listing <!-- releases_count starts -->1962<!-- releases_count ends --> releases 
 <br />Utilities to help run Datasette on Glitch
 * **[datasette-init](https://github.com/simonw/datasette-init)**: [0.2](https://github.com/simonw/datasette-init/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-init/releases)) - 2020-07-01
 <br />Ensure specific tables and views exist on startup
-* **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1) - 2020-06-30
-<br />Always allow access to /-/permissions, for debugging
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br />Tool for generating demo SQLite databases
 * **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
