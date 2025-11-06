@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Video + notes on upgrading a Datasette plugin for the latest 1.0 alpha, with help from uv and OpenAI Codex CLI](https://simonwillison.net/2025/Nov/6/upgrading-datasette-plugins/) - 2025-11-06
+
 [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/) - 2025-11-06
 
 [A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/) - 2025-11-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Hacking the WiFi-enabled color screen GitHub Universe conference badge](https://simonwillison.net/2025/Oct/28/github-universe-badge/) - 2025-10-28
 
 [Video: Building a tool to copy-paste share terminal sessions using Claude Code for web](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/) - 2025-10-23
-
-[Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/) - 2025-10-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
