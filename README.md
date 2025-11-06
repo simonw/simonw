@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-checkbox 0.1a4](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a4) - 2025-11-06
+
 [datasette-enrichments 0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - 2025-11-06
 
 [datasette 1.0a21](https://github.com/simonw/datasette/releases/tag/1.0a21) - 2025-11-05
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-tail 0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - 2025-11-04
 
 [datasette-search-all 1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - 2025-11-03
-
-[llm-minimax 0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
