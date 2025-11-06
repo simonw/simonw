@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1966<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1967<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
+<br />Tools for running enrichments against data stored in Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a21](https://github.com/simonw/datasette/releases/tag/1.0a21) - ([153 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-05
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.5a0](https://github.com/datasette/datasette-acl/releases/tag/0.5a0) - ([10 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-11-04
@@ -123,8 +125,6 @@ Listing <!-- releases_count starts -->1966<!-- releases_count ends --> releases 
 <br />LLM plugin for pulling content from Hacker News
 * **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2.1](https://github.com/simonw/llm-docs/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-05-05
 <br />LLM plugin for asking questions of LLM's own documentation, and related packages
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.5.1](https://github.com/datasette/datasette-enrichments/releases/tag/0.5.1) - ([20 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-05-05
-<br />Tools for running enrichments against data stored in Datasette
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2025-05-05
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
 * **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
