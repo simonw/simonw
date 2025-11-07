@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
+
 [Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research) - 2025-10-18
 
 [Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running a gpt-oss eval suite against LM Studio on a Mac](https://til.simonwillison.net/llms/gpt-oss-evals) - 2025-08-17
 
 [Configuring GitHub Codespaces using devcontainers](https://til.simonwillison.net/github/codespaces-devcontainers) - 2025-08-13
-
-[Rate limiting by IP using Cloudflare's rate limiting rules](https://til.simonwillison.net/cloudflare/rate-limiting) - 2025-07-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
