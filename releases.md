@@ -1,8 +1,18 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1974<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1979<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a2](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-11-08
+<br />Track usage of LLM tokens in a SQLite table
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a2](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-08
+<br />Enrich data by prompting LLMs
+* **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a5](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-11-08
+<br />Query databases and tables with AI assistance
+* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
+<br />API and UI for bulk loading data into Datasette from a URL
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - ([5 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-11-08
+<br />None
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-11-08
 <br />None
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-11-08
@@ -47,16 +57,12 @@ Listing <!-- releases_count starts -->1974<!-- releases_count ends --> releases 
 <br />None
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-studio/releases)) - 2025-10-21
 <br />Datasette pre-configured with useful plugins. Experimental alpha.
-* **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a4](https://github.com/datasette/datasette-load/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-10-21
-<br />API and UI for bulk loading data into Datasette from a URL
 * **[datasette-import](https://github.com/datasette/datasette-import)**: [0.1a6](https://github.com/datasette/datasette-import/releases/tag/0.1a6) - ([3 releases total](https://github.com/datasette/datasette-import/releases)) - 2025-10-21
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a4) - ([23 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-10-21
 <br />Datasette plugin for modifying table schemas
-* **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a4](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-10-21
-<br />Query databases and tables with AI assistance
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
@@ -65,12 +71,6 @@ Listing <!-- releases_count starts -->1974<!-- releases_count ends --> releases 
 <br />Sum the values in numeric Datasette columns
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
 <br />Save SQL queries in Datasette
-* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a1](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-10-21
-<br />Track usage of LLM tokens in a SQLite table
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-10-21
-<br />Enrich data by prompting LLMs
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a5](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5) - ([4 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-10-21
-<br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
 <br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
