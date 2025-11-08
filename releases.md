@@ -1,8 +1,18 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1968<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1973<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-11-08
+<br />Log Datasette events to a database table
+* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a7](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-11-08
+<br />Datasette plugin for fetching details of actors from a remote endpoint
+* **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a2](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-remove-database/releases)) - 2025-11-08
+<br />Remove a database from Datasette
+* **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a2](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-debug-events/releases)) - 2025-11-08
+<br />Print Datasette events to standard error
+* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a3](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2025-11-07
+<br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a4](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2025-11-06
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
@@ -27,8 +37,6 @@ Listing <!-- releases_count starts -->1968<!-- releases_count ends --> releases 
 <br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
-* **[datasette-debug-actors-from-ids](https://github.com/datasette/datasette-debug-actors-from-ids)**: [0.1a2](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-debug-actors-from-ids/releases)) - 2025-10-21
-<br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
 <br />Datasette plugin for making the internal database visible for debugging
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-10-21
@@ -43,22 +51,16 @@ Listing <!-- releases_count starts -->1968<!-- releases_count ends --> releases 
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a1](https://github.com/datasette/datasette-events-db/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-10-21
-<br />Log Datasette events to a database table
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a4) - ([23 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-10-21
 <br />Datasette plugin for modifying table schemas
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a4](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-10-21
 <br />Query databases and tables with AI assistance
-* **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a6](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-10-21
-<br />Datasette plugin for fetching details of actors from a remote endpoint
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
-* **[datasette-remove-database](https://github.com/datasette/datasette-remove-database)**: [0.1a1](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-remove-database/releases)) - 2025-10-21
-<br />Remove a database from Datasette
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
 <br />Save SQL queries in Datasette
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a4](https://github.com/datasette/datasette-profiles/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-10-21
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->1968<!-- releases_count ends --> releases 
 <br />Track usage of LLM tokens in a SQLite table
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-10-21
 <br />Enrich data by prompting LLMs
-* **[datasette-debug-events](https://github.com/datasette/datasette-debug-events)**: [0.1a1](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-debug-events/releases)) - 2025-10-21
-<br />Print Datasette events to standard error
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a5](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5) - ([4 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-10-21
 <br />None
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11

@@ -4,21 +4,21 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-events-db 0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - 2025-11-08
+
+[datasette-remote-actors 0.1a7](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a7) - 2025-11-08
+
+[datasette-remove-database 0.1a2](https://github.com/datasette/datasette-remove-database/releases/tag/0.1a2) - 2025-11-08
+
+[datasette-debug-events 0.1a2](https://github.com/datasette/datasette-debug-events/releases/tag/0.1a2) - 2025-11-08
+
+[datasette-debug-actors-from-ids 0.1a3](https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a3) - 2025-11-07
+
 [datasette-checkbox 0.1a4](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a4) - 2025-11-06
 
 [datasette-enrichments 0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - 2025-11-06
 
 [datasette 1.0a21](https://github.com/simonw/datasette/releases/tag/1.0a21) - 2025-11-05
-
-[datasette-acl 0.5a0](https://github.com/datasette/datasette-acl/releases/tag/0.5a0) - 2025-11-04
-
-[datasette-allow-permissions-debug 0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - 2025-11-04
-
-[datasette-events-forward 0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - 2025-11-04
-
-[datasette-tail 0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - 2025-11-04
-
-[datasette-search-all 1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - 2025-11-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
