@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1973<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1974<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-11-08
+<br />None
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-11-08
 <br />Log Datasette events to a database table
 * **[datasette-remote-actors](https://github.com/datasette/datasette-remote-actors)**: [0.1a7](https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-remote-actors/releases)) - 2025-11-08
@@ -63,8 +65,6 @@ Listing <!-- releases_count starts -->1973<!-- releases_count ends --> releases 
 <br />Sum the values in numeric Datasette columns
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
 <br />Save SQL queries in Datasette
-* **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a4](https://github.com/datasette/datasette-profiles/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-10-21
-<br />None
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a1](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-10-21
 <br />Track usage of LLM tokens in a SQLite table
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-10-21
