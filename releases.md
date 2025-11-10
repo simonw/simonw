@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,983<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,984<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.4a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2025-11-10
+<br />Upload SQLite database files to Datasette
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.2a0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.2a0) - ([15 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2025-11-10
 <br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.5a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2025-11-10
@@ -239,8 +241,6 @@ Listing <!-- releases_count starts -->1,983<!-- releases_count ends --> releases
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.3.2](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2024-05-03
-<br />Upload SQLite database files to Datasette
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
 <br />Count and truncate text based on tokens
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - ([6 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-26
