@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1979<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1980<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.3](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2025-11-09
+<br />Provide tables that expire after a time limit
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a2](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-11-08
 <br />Track usage of LLM tokens in a SQLite table
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a2](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-08
@@ -451,8 +453,6 @@ Listing <!-- releases_count starts -->1979<!-- releases_count ends --> releases 
 <br />Run secret santa gift circles using Datasette
 * **[datasette-render-binary](https://github.com/simonw/datasette-render-binary)**: [0.3.1](https://github.com/simonw/datasette-render-binary/releases/tag/0.3.1) - ([4 releases total](https://github.com/simonw/datasette-render-binary/releases)) - 2022-12-10
 <br />Datasette plugin for rendering binary data
-* **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.2](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2022-12-02
-<br />Provide tables that expire after a time limit
 * **[datasette-export](https://github.com/simonw/datasette-export)**: [0.1a0](https://github.com/simonw/datasette-export/releases/tag/0.1a0) - 2022-11-27
 <br />Export pages from Datasette to files on disk
 * **[datasette-indieauth](https://github.com/simonw/datasette-indieauth)**: [1.2.2](https://github.com/simonw/datasette-indieauth/releases/tag/1.2.2) - ([11 releases total](https://github.com/simonw/datasette-indieauth/releases)) - 2022-11-18
