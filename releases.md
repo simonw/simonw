@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,985<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,986<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5) - ([24 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-11-10
+<br />Datasette plugin for modifying table schemas
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a11](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a11) - ([19 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2025-11-10
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.4a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2025-11-10
@@ -73,8 +75,6 @@ Listing <!-- releases_count starts -->1,985<!-- releases_count ends --> releases
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a4](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a4) - ([23 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-10-21
-<br />Datasette plugin for modifying table schemas
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
 <br />Import unstructured data (text and images) into structured tables
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
