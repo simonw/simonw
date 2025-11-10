@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,986<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,987<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a4](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-10
+<br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5) - ([24 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-11-10
 <br />Datasette plugin for modifying table schemas
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a11](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a11) - ([19 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2025-11-10
@@ -49,8 +51,6 @@ Listing <!-- releases_count starts -->1,986<!-- releases_count ends --> releases
 <br />Advanced permission management for Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
 <br />Always allow access to /-/permissions, for debugging
-* **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a3](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-04
-<br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04
 <br />Tools for tailing your database
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03
