@@ -180,7 +180,7 @@ if __name__ == "__main__":
     project_releases_content = replace_chunk(
         project_releases_content,
         "releases_count",
-        f"(sum(r["total_releases"] for r in releases)):,}",
+        f"{sum(r['total_releases'] for r in releases):,}"
         inline=True,
     )
     project_releases.open("w").write(project_releases_content)
