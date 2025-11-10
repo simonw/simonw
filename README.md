@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-configure-fts 1.2a0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.2a0) - 2025-11-10
+
+[datasette-edit-templates 0.5a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.5a0) - 2025-11-10
+
 [datasette-upload-csvs 0.10a0](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.10a0) - 2025-11-10
 
 [datasette-ephemeral-tables 0.2.3](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.3) - 2025-11-09
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-query-assistant 0.1a5](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a5) - 2025-11-08
 
 [datasette-load 0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - 2025-11-08
-
-[datasette-alerts 0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - 2025-11-08
-
-[datasette-profiles 0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - 2025-11-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

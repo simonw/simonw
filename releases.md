@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1981<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,983<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.2a0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.2a0) - ([15 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2025-11-10
+<br />Datasette plugin for enabling full-text search against selected table columns
+* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.5a0](https://github.com/simonw/datasette-edit-templates/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2025-11-10
+<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs)**: [0.10a0](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.10a0) - ([17 releases total](https://github.com/simonw/datasette-upload-csvs/releases)) - 2025-11-10
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.3](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2025-11-09
@@ -217,8 +221,6 @@ Listing <!-- releases_count starts -->1981<!-- releases_count ends --> releases 
 <br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
-* **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.1.4](https://github.com/simonw/datasette-configure-fts/releases/tag/1.1.4) - ([14 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2024-09-03
-<br />Datasette plugin for enabling full-text search against selected table columns
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a10](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10) - ([18 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2024-09-03
 <br />Datasette plugin for authenticating access using API tokens
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
@@ -317,8 +319,6 @@ Listing <!-- releases_count starts -->1981<!-- releases_count ends --> releases 
 <br />Run Datasette using the Granian HTTP server
 * **[datasette-proxy-url](https://github.com/datasette/datasette-proxy-url)**: [0.1.1](https://github.com/datasette/datasette-proxy-url/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-proxy-url/releases)) - 2024-01-23
 <br />Proxy a URL through a Datasette instance
-* **[datasette-edit-templates](https://github.com/simonw/datasette-edit-templates)**: [0.4.3](https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3) - ([8 releases total](https://github.com/simonw/datasette-edit-templates/releases)) - 2024-01-17
-<br />Plugin allowing Datasette templates to be edited within Datasette
 * **[datasette-build](https://github.com/datasette/datasette-build)**: [0.1a0](https://github.com/datasette/datasette-build/releases/tag/0.1a0) - 2024-01-15
 <br />Build a directory full of files into a SQLite database
 * **[datasette-upgrade](https://github.com/datasette/datasette-upgrade)**: [0.1a0](https://github.com/datasette/datasette-upgrade/releases/tag/0.1a0) - 2024-01-06
