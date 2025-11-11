@@ -1,8 +1,18 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,993<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
+<br />Save SQL queries in Datasette
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a12](https://github.com/datasette/datasette-extract/releases/tag/0.1a12) - ([13 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-11
+<br />Import unstructured data (text and images) into structured tables
+* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.3a0](https://github.com/datasette/datasette-secrets/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2025-11-11
+<br />Manage secrets such as API keys for use with other Datasette plugins
+* **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.2a0](https://github.com/datasette/datasette-create-view/releases/tag/0.2a0) - ([3 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-11-11
+<br />Create a SQL view from a query
+* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.5a0](https://github.com/simonw/datasette-write/releases/tag/0.5a0) - ([8 releases total](https://github.com/simonw/datasette-write/releases)) - 2025-11-11
+<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a0](https://github.com/datasette/datasette-export-database/releases/tag/0.3a0) - ([5 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2025-11-11
 <br />Export a copy of a mutable SQLite database on demand
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a4](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-10
@@ -67,8 +77,6 @@ Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases
 <br />pytest fixture finding an unused local port
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
 <br />Datasette plugin for making the internal database visible for debugging
-* **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.1a1](https://github.com/datasette/datasette-create-view/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-10-21
-<br />Create a SQL view from a query
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - ([3 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-10-21
 <br />None
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-studio/releases)) - 2025-10-21
@@ -77,14 +85,10 @@ Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a11](https://github.com/datasette/datasette-extract/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-10-21
-<br />Import unstructured data (text and images) into structured tables
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
-* **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.2a1](https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1) - ([6 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-10-21
-<br />Save SQL queries in Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
 <br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
@@ -223,8 +227,6 @@ Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
 <br />Python CLI tool and library for diffing CSV and JSON files
-* **[datasette-write](https://github.com/simonw/datasette-write)**: [0.4](https://github.com/simonw/datasette-write/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-write/releases)) - 2024-09-04
-<br />Datasette plugin providing a UI for executing SQL writes against the database
 * **[datasette-auth-passwords](https://github.com/simonw/datasette-auth-passwords)**: [1.1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1) - ([13 releases total](https://github.com/simonw/datasette-auth-passwords/releases)) - 2024-09-03
 <br />Datasette plugin for authentication using passwords
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
@@ -245,8 +247,6 @@ Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
 * **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
 <br />Count and truncate text based on tokens
-* **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.2](https://github.com/datasette/datasette-secrets/releases/tag/0.2) - ([6 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2024-04-26
-<br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3.2](https://github.com/datasette/datasette-test/releases/tag/0.3.2) - ([6 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-test-plugin](https://github.com/datasette/datasette-test-plugin)**: [0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
