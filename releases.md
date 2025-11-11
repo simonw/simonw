@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,993<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,994<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - ([16 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2025-11-11
+<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
 <br />Save SQL queries in Datasette
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a12](https://github.com/datasette/datasette-extract/releases/tag/0.1a12) - ([13 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-11
@@ -351,8 +353,6 @@ Listing <!-- releases_count starts -->1,993<!-- releases_count ends --> releases
 <br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26
 <br />Embedding models from Jina AI
-* **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.8.2](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2) - ([15 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2023-10-25
-<br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-llm-embed](https://github.com/simonw/datasette-llm-embed)**: [0.2](https://github.com/simonw/datasette-llm-embed/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-llm-embed/releases)) - 2023-10-08
 <br />Datasette plugin adding a llm_embed(model_id, text) SQL function
 * **[datasette-mask-columns](https://github.com/simonw/datasette-mask-columns)**: [0.2.2](https://github.com/simonw/datasette-mask-columns/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-mask-columns/releases)) - 2023-09-20
