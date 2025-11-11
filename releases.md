@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,994<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,995<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a6](https://github.com/datasette/datasette-pins/releases/tag/0.1a6) - ([6 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-11-11
+<br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - ([16 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2025-11-11
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->1,994<!-- releases_count ends --> releases
 <br />Tools for importing data into Datasette
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a4](https://github.com/datasette/datasette-public/releases/tag/0.3a4) - ([10 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-10-21
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a5](https://github.com/datasette/datasette-pins/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-10-21
-<br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
