@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,987<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,988<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a0](https://github.com/datasette/datasette-export-database/releases/tag/0.3a0) - ([5 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2025-11-11
+<br />Export a copy of a mutable SQLite database on demand
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a4](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-10
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5) - ([24 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-11-10
@@ -283,8 +285,6 @@ Listing <!-- releases_count starts -->1,987<!-- releases_count ends --> releases
 <br />CLI for running files through AWS Textract
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
 <br />Show a list of currently installed Python packages
-* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.2.1](https://github.com/datasette/datasette-export-database/releases/tag/0.2.1) - ([4 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2024-03-16
-<br />Export a copy of a mutable SQLite database on demand
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
