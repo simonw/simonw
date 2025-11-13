@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,998<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->1,999<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - ([154 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-13
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12
@@ -65,8 +67,6 @@ Listing <!-- releases_count starts -->1,998<!-- releases_count ends --> releases
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a21](https://github.com/simonw/datasette/releases/tag/1.0a21) - ([153 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-05
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.5a0](https://github.com/datasette/datasette-acl/releases/tag/0.5a0) - ([10 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-11-04
 <br />Advanced permission management for Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
