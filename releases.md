@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,999<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,000<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - ([19 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-15
+<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - ([154 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-13
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12
@@ -77,8 +79,6 @@ Listing <!-- releases_count starts -->1,999<!-- releases_count ends --> releases
 <br />Datasette plugin for searching all searchable tables at once
 * **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
 <br />LLM plugin for accessing MiniMax models via their API
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.21.1](https://github.com/simonw/llm-anthropic/releases/tag/0.21.1) - ([18 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-10-29
-<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
 <br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
