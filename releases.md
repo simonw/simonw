@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,000<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,001<!-- releases_count ends --> releases across <!-- project_count starts -->339<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
+<br />Datasette plugin that authenticates users against GitHub
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - ([19 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-15
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - ([154 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-13
@@ -601,8 +603,6 @@ Listing <!-- releases_count starts -->2,000<!-- releases_count ends --> releases
 <br />Create a SQLite database containing data pulled from Hacker News
 * **[flatten-single-item-arrays](https://github.com/simonw/flatten-single-item-arrays)**: [0.1](https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1) - 2021-02-25
 <br />Given a JSON list of objects, flatten any keys which always contain single item arrays to just a single value
-* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.13.1](https://github.com/simonw/datasette-auth-github/releases/tag/0.13.1) - ([25 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2021-02-25
-<br />Datasette plugin that authenticates users against GitHub
 * **[datasette-block](https://github.com/simonw/datasette-block)**: [0.1.1](https://github.com/simonw/datasette-block/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-block/releases)) - 2021-02-25
 <br />Block all access to specific path prefixes
 * **[github-contents](https://github.com/simonw/github-contents)**: [0.2](https://github.com/simonw/github-contents/releases/tag/0.2) - 2021-02-24
