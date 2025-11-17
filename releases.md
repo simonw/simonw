@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,002<!-- releases_count ends --> releases across <!-- project_count starts -->340<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,003<!-- releases_count ends --> releases across <!-- project_count starts -->340<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[update-workflows](https://github.com/simonw/update-workflows)**: [0.1](https://github.com/simonw/update-workflows/releases/tag/0.1) - 2025-11-17
+* **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
 <br />Datasette plugin that authenticates users against GitHub

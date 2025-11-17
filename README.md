@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[update-workflows 0.1](https://github.com/simonw/update-workflows/releases/tag/0.1) - 2025-11-17
+[update-workflows 0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - 2025-11-17
 
 [datasette-auth-github 0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - 2025-11-16
 
