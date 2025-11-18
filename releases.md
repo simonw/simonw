@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,005<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,006<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - ([45 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-11-18
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - 2025-11-18
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->2,005<!-- releases_count ends --> releases
 <br />Tools for importing data into Datasette
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.26.1](https://github.com/simonw/llm-gemini/releases/tag/0.26.1) - ([44 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-10-11
-<br />LLM plugin to access Google's Gemini family of models
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-os-info](https://github.com/datasette/datasette-os-info)**: [0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
