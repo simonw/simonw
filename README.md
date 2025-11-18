@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-demo-for-llm-accountant 0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
+
+[datasette-llm-accountant 0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - 2025-11-18
+
 [update-workflows 0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - 2025-11-17
 
 [datasette-auth-github 0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - 2025-11-16
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-public 0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - 2025-11-12
 
 [datasette-enrichments-opencage 0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - 2025-11-12
-
-[datasette-pins 0.1a6](https://github.com/datasette/datasette-pins/releases/tag/0.1a6) - 2025-11-11
-
-[datasette-ripgrep 0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - 2025-11-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
