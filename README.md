@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/) - 2025-11-18
+
 [What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/) - 2025-11-13
 
 [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/) - 2025-11-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/) - 2025-11-06
 
 [A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/) - 2025-11-04
-
-[New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) - 2025-11-02
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
