@@ -3,6 +3,8 @@
 Listing <!-- releases_count starts -->2,006<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - ([19 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-19
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - ([45 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-11-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,006<!-- releases_count ends --> releases
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
 <br />Datasette plugin that authenticates users against GitHub
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - ([19 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-15
-<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - ([154 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-13
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12

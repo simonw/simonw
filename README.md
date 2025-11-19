@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - 2025-11-19
+
 [llm-gemini 0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - 2025-11-18
 
 [datasette-demo-for-llm-accountant 0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [update-workflows 0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - 2025-11-17
 
 [datasette-auth-github 0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - 2025-11-16
-
-[llm-anthropic 0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - 2025-11-15
 
 [datasette 1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - 2025-11-13
 
