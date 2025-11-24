@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/) - 2025-11-24
+
 [sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/) - 2025-11-24
 
 [Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/) - 2025-11-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/) - 2025-11-19
 
 [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/) - 2025-11-18
-
-[What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/) - 2025-11-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
