@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,006<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,007<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a1](https://github.com/simonw/sqlite-utils/releases/tag/4.0a1) - ([118 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - ([19 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-19
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - ([45 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-11-18
@@ -147,8 +149,6 @@ Listing <!-- releases_count starts -->2,006<!-- releases_count ends --> releases
 <br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
 <br />Load GitHub repository contents as LLM fragments
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0a0](https://github.com/simonw/sqlite-utils/releases/tag/4.0a0) - ([117 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-05-09
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
 <br />Run URLs through the Jina Reader API
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
