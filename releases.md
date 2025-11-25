@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,009<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,011<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
+<br />Enrich data by prompting LLMs
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
+<br />LLM accounting for Datasette
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.23](https://github.com/simonw/llm-anthropic/releases/tag/0.23) - ([20 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-25
 <br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
@@ -11,8 +15,6 @@ Listing <!-- releases_count starts -->2,009<!-- releases_count ends --> releases
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - 2025-11-18
-<br />LLM accounting for Datasette
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
@@ -57,8 +59,6 @@ Listing <!-- releases_count starts -->2,009<!-- releases_count ends --> releases
 <br />Provide tables that expire after a time limit
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a2](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-11-08
 <br />Track usage of LLM tokens in a SQLite table
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a2](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-08
-<br />Enrich data by prompting LLMs
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a5](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-11-08
 <br />Query databases and tables with AI assistance
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
