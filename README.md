@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - 2025-11-24
+[llm-anthropic 0.23](https://github.com/simonw/llm-anthropic/releases/tag/0.23) - 2025-11-25
 
-[llm-anthropic 0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22) - 2025-11-19
+[sqlite-utils 3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - 2025-11-24
 
 [llm-gemini 0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - 2025-11-18
 
