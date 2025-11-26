@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,012<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,013<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a0](https://github.com/datasette/datasette-extract/releases/tag/0.2a0) - ([14 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-26
+<br />Import unstructured data (text and images) into structured tables
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->2,012<!-- releases_count ends --> releases
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
 <br />Save SQL queries in Datasette
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.1a12](https://github.com/datasette/datasette-extract/releases/tag/0.1a12) - ([13 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-11
-<br />Import unstructured data (text and images) into structured tables
 * **[datasette-secrets](https://github.com/datasette/datasette-secrets)**: [0.3a0](https://github.com/datasette/datasette-secrets/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-secrets/releases)) - 2025-11-11
 <br />Manage secrets such as API keys for use with other Datasette plugins
 * **[datasette-create-view](https://github.com/datasette/datasette-create-view)**: [0.2a0](https://github.com/datasette/datasette-create-view/releases/tag/0.2a0) - ([3 releases total](https://github.com/datasette/datasette-create-view/releases)) - 2025-11-11
