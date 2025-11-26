@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/) - 2025-11-26
+
 [Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/) - 2025-11-24
 
 [sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/) - 2025-11-24
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model](https://simonwillison.net/2025/Nov/20/nano-banana-pro/) - 2025-11-20
 
 [How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/) - 2025-11-19
-
-[Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/) - 2025-11-18
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
