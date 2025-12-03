@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,014<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,016<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-redirects](https://github.com/datasette/datasette-redirects)**: [0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
+<br />Configure redirects for a Datasette instance
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - ([15 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-12-03
+<br />Import unstructured data (text and images) into structured tables
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a23](https://github.com/simonw/datasette/releases/tag/1.0a23) - ([155 releases total](https://github.com/simonw/datasette/releases)) - 2025-12-03
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a0](https://github.com/datasette/datasette-extract/releases/tag/0.2a0) - ([14 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-26
-<br />Import unstructured data (text and images) into structured tables
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
