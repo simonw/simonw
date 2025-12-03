@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,013<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,014<!-- releases_count ends --> releases across <!-- project_count starts -->342<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a23](https://github.com/simonw/datasette/releases/tag/1.0a23) - ([155 releases total](https://github.com/simonw/datasette/releases)) - 2025-12-03
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a0](https://github.com/datasette/datasette-extract/releases/tag/0.2a0) - ([14 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-11-26
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->2,013<!-- releases_count ends --> releases
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
 <br />Datasette plugin that authenticates users against GitHub
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a22](https://github.com/simonw/datasette/releases/tag/1.0a22) - ([154 releases total](https://github.com/simonw/datasette/releases)) - 2025-11-13
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12

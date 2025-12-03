@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a23](https://github.com/simonw/datasette/releases/tag/1.0a23) - 2025-12-03
+
 [datasette-extract 0.2a0](https://github.com/datasette/datasette-extract/releases/tag/0.2a0) - 2025-11-26
 
 [llm-templates-fabric 0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - 2025-11-26
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [sqlite-utils 3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - 2025-11-24
 
 [llm-gemini 0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - 2025-11-18
-
-[datasette-demo-for-llm-accountant 0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
