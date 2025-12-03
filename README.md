@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
+
 [Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
 
 [Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research) - 2025-10-18
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Error 153 Video player configuration error on YouTube embeds](https://til.simonwillison.net/youtube/fixing-153-embed) - 2025-09-30
 
 [Running a gpt-oss eval suite against LM Studio on a Mac](https://til.simonwillison.net/llms/gpt-oss-evals) - 2025-08-17
-
-[Configuring GitHub Codespaces using devcontainers](https://til.simonwillison.net/github/codespaces-devcontainers) - 2025-08-13
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
