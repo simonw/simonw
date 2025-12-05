@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
+
 [Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
 
 [Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
 
 [Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/uv/uv-tests) - 2025-10-09
-
-[Error 153 Video player configuration error on YouTube embeds](https://til.simonwillison.net/youtube/fixing-153-embed) - 2025-09-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
