@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) - 2025-12-10
+
 [Under the hood of Canada Spends with Brendan Samek](https://simonwillison.net/2025/Dec/9/canada-spends/) - 2025-12-09
 
 [Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/) - 2025-11-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/) - 2025-11-24
 
 [Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/) - 2025-11-22
-
-[Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model](https://simonwillison.net/2025/Nov/20/nano-banana-pro/) - 2025-11-20
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
