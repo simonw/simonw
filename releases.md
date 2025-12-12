@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,016<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,017<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.28](https://github.com/simonw/llm/releases/tag/0.28) - ([56 releases total](https://github.com/simonw/llm/releases)) - 2025-12-12
+<br />Access large language models from the command-line
 * **[datasette-redirects](https://github.com/datasette/datasette-redirects)**: [0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
 <br />Configure redirects for a Datasette instance
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - ([15 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-12-03
@@ -123,8 +125,6 @@ Listing <!-- releases_count starts -->2,016<!-- releases_count ends --> releases
 <br />Send alerts from datasette-alerts to Discord
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
-* **[llm](https://github.com/simonw/llm)**: [0.27.1](https://github.com/simonw/llm/releases/tag/0.27.1) - ([55 releases total](https://github.com/simonw/llm/releases)) - 2025-08-12
-<br />Access large language models from the command-line
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
