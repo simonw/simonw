@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[GPT-5.2](https://simonwillison.net/2025/Dec/11/gpt-52/) - 2025-12-11
+
 [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) - 2025-12-10
 
 [Under the hood of Canada Spends with Brendan Samek](https://simonwillison.net/2025/Dec/9/canada-spends/) - 2025-12-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/) - 2025-11-24
 
 [sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/) - 2025-11-24
-
-[Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/) - 2025-11-22
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
