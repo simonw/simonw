@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) - 2025-12-12
+
 [GPT-5.2](https://simonwillison.net/2025/Dec/11/gpt-52/) - 2025-12-11
 
 [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) - 2025-12-10
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/) - 2025-11-26
 
 [Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/) - 2025-11-24
-
-[sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/) - 2025-11-24
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
