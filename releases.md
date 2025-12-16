@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,017<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,018<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - ([19 releases total](https://github.com/simonw/s3-credentials/releases)) - 2025-12-16
+<br />A tool for creating credentials for accessing S3 buckets
 * **[llm](https://github.com/simonw/llm)**: [0.28](https://github.com/simonw/llm/releases/tag/0.28) - ([56 releases total](https://github.com/simonw/llm/releases)) - 2025-12-12
 <br />Access large language models from the command-line
 * **[datasette-redirects](https://github.com/datasette/datasette-redirects)**: [0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
@@ -293,8 +295,6 @@ Listing <!-- releases_count starts -->2,017<!-- releases_count ends --> releases
 <br />Paste data to create tables in Datasette
 * **[datasette-enrichments-quickjs](https://github.com/datasette/datasette-enrichments-quickjs)**: [0.1a2](https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-enrichments-quickjs/releases)) - 2024-04-05
 <br />Enrich data with a custom JavaScript function
-* **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.16.1](https://github.com/simonw/s3-credentials/releases/tag/0.16.1) - ([18 releases total](https://github.com/simonw/s3-credentials/releases)) - 2024-04-05
-<br />A tool for creating credentials for accessing S3 buckets
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
