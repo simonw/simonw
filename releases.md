@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,018<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,019<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28](https://github.com/simonw/llm-gemini/releases/tag/0.28) - ([46 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-17
+<br />LLM plugin to access Google's Gemini family of models
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - ([19 releases total](https://github.com/simonw/s3-credentials/releases)) - 2025-12-16
 <br />A tool for creating credentials for accessing S3 buckets
 * **[llm](https://github.com/simonw/llm)**: [0.28](https://github.com/simonw/llm/releases/tag/0.28) - ([56 releases total](https://github.com/simonw/llm/releases)) - 2025-12-12
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->2,018<!-- releases_count ends --> releases
 <br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27) - ([45 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-11-18
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
