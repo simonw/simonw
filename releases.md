@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,019<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,020<!-- releases_count ends --> releases across <!-- project_count starts -->343<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28](https://github.com/simonw/llm-gemini/releases/tag/0.28) - ([46 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-17
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.1](https://github.com/simonw/llm-gemini/releases/tag/0.28.1) - ([47 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - ([19 releases total](https://github.com/simonw/s3-credentials/releases)) - 2025-12-16
 <br />A tool for creating credentials for accessing S3 buckets

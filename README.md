@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-gemini 0.28](https://github.com/simonw/llm-gemini/releases/tag/0.28) - 2025-12-17
+[llm-gemini 0.28.1](https://github.com/simonw/llm-gemini/releases/tag/0.28.1) - 2025-12-18
 
 [s3-credentials 0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - 2025-12-16
 
