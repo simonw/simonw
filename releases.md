@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,023<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,024<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[git-history](https://github.com/simonw/git-history)**: [0.7](https://github.com/simonw/git-history/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/git-history/releases)) - 2025-12-21
+<br />Tools for analyzing Git history using SQLite
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a1](https://github.com/simonw/preview-server/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-21
 <br />Proxy server for previewing web app changes via uv
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.1](https://github.com/simonw/llm-gemini/releases/tag/0.28.1) - ([47 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-18
@@ -451,8 +453,6 @@ Listing <!-- releases_count starts -->2,023<!-- releases_count ends --> releases
 <br />SQL functions for calling OpenAI APIs
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
 <br />UI for setting cookies to populate magic parameters
-* **[git-history](https://github.com/simonw/git-history)**: [0.7a0](https://github.com/simonw/git-history/releases/tag/0.7a0) - ([10 releases total](https://github.com/simonw/git-history/releases)) - 2023-01-11
-<br />Tools for analyzing Git history using SQLite
 * **[json-to-files](https://github.com/simonw/json-to-files)**: [0.1](https://github.com/simonw/json-to-files/releases/tag/0.1) - 2023-01-10
 <br />Create separate files on disk based on a JSON object
 * **[shapefile-to-sqlite](https://github.com/simonw/shapefile-to-sqlite)**: [0.4.2](https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2) - ([6 releases total](https://github.com/simonw/shapefile-to-sqlite/releases)) - 2023-01-08
