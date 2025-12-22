@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,024<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,025<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[preview-server](https://github.com/simonw/preview-server)**: [0.2a2](https://github.com/simonw/preview-server/releases/tag/0.2a2) - ([4 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
+<br />Proxy server for previewing web app changes via uv
 * **[git-history](https://github.com/simonw/git-history)**: [0.7](https://github.com/simonw/git-history/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/git-history/releases)) - 2025-12-21
 <br />Tools for analyzing Git history using SQLite
-* **[preview-server](https://github.com/simonw/preview-server)**: [0.2a1](https://github.com/simonw/preview-server/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-21
-<br />Proxy server for previewing web app changes via uv
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.1](https://github.com/simonw/llm-gemini/releases/tag/0.28.1) - ([47 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-18
 <br />LLM plugin to access Google's Gemini family of models
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - ([19 releases total](https://github.com/simonw/s3-credentials/releases)) - 2025-12-16
