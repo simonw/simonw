@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[preview-server 0.2a2](https://github.com/simonw/preview-server/releases/tag/0.2a2) - 2025-12-22
+[preview-server 0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - 2025-12-22
 
 [git-history 0.7](https://github.com/simonw/git-history/releases/tag/0.7) - 2025-12-21
 
