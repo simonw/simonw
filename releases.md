@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases across <!-- project_count starts -->331<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,026<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - ([5 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
@@ -23,10 +23,14 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Load LLM templates from Fabric
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
 <br />Enrich data by prompting LLMs
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
+<br />LLM accounting for Datasette
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.23](https://github.com/simonw/llm-anthropic/releases/tag/0.23) - ([20 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-25
 <br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
 <br />Python CLI utility and library for manipulating SQLite databases
+* **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
+<br />Demo app for datasette-llm-accountant
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
@@ -97,6 +101,10 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Tools for tailing your database
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03
 <br />Datasette plugin for searching all searchable tables at once
+* **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
+<br />LLM plugin for accessing MiniMax models via their API
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
+<br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
@@ -137,6 +145,8 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />LLM tools for running queries against SQLite
 * **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1) - ([4 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
 <br />JavaScript execution as a tool for LLM
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - ([6 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-21
+<br />Debug plugin for LLM providing an echo model
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
@@ -147,16 +157,26 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
 <br />Python function for condensing JSON using replacement strings
+* **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
+<br />Load GitHub repository contents as LLM fragments
+* **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08
+<br />Run URLs through the Jina Reader API
 * **[llm-hacker-news](https://github.com/simonw/llm-hacker-news)**: [0.1.1](https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-hacker-news/releases)) - 2025-05-05
 <br />LLM plugin for pulling content from Hacker News
+* **[llm-docs](https://github.com/simonw/llm-docs)**: [0.2.1](https://github.com/simonw/llm-docs/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-docs/releases)) - 2025-05-05
+<br />LLM plugin for asking questions of LLM's own documentation, and related packages
 * **[sqlite-diffable](https://github.com/simonw/sqlite-diffable)**: [0.6](https://github.com/simonw/sqlite-diffable/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/sqlite-diffable/releases)) - 2025-05-05
 <br />Tools for dumping/loading a SQLite database to diffable directory structure
+* **[llm-video-frames](https://github.com/simonw/llm-video-frames)**: [0.1](https://github.com/simonw/llm-video-frames/releases/tag/0.1) - 2025-05-05
+<br />LLM fragment plugin to turn a video into images of different frames
 * **[llm-mlx](https://github.com/simonw/llm-mlx)**: [0.4](https://github.com/simonw/llm-mlx/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-mlx/releases)) - 2025-04-23
 <br />Support for MLX models in LLM
 * **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)**: [0.3.2](https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/llm-sentence-transformers/releases)) - 2025-04-23
 <br />LLM plugin for embeddings using sentence-transformers
 * **[llm-fragments-symbex](https://github.com/simonw/llm-fragments-symbex)**: [0.1](https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1) - 2025-04-23
 <br />LLM fragment loader for Python symbols
+* **[symbex](https://github.com/simonw/symbex)**: [2.0](https://github.com/simonw/symbex/releases/tag/2.0) - ([20 releases total](https://github.com/simonw/symbex/releases)) - 2025-04-23
+<br />Find the Python code for specified symbols
 * **[llm-logging-debug](https://github.com/simonw/llm-logging-debug)**: [0.1](https://github.com/simonw/llm-logging-debug/releases/tag/0.1) - 2025-04-23
 <br />Set logging.DEBUG while running LLM
 * **[csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)**: [1.3.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.3.1) - ([14 releases total](https://github.com/simonw/csvs-to-sqlite/releases)) - 2025-04-10
@@ -221,6 +241,8 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Add a Django-Compositions HTTP header to a Django app
 * **[llm-jina-api](https://github.com/simonw/llm-jina-api)**: [0.1a0](https://github.com/simonw/llm-jina-api/releases/tag/0.1a0) - 2024-09-20
 <br />Access Jina AI embeddings via their API
+* **[llm-cmd](https://github.com/simonw/llm-cmd)**: [0.2a0](https://github.com/simonw/llm-cmd/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/llm-cmd/releases)) - 2024-09-09
+<br />Use LLM to generate and execute commands in your shell
 * **[json-flatten](https://github.com/simonw/json-flatten)**: [0.3.1](https://github.com/simonw/json-flatten/releases/tag/0.3.1) - ([3 releases total](https://github.com/simonw/json-flatten/releases)) - 2024-09-07
 <br />Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 * **[csv-diff](https://github.com/simonw/csv-diff)**: [1.2](https://github.com/simonw/csv-diff/releases/tag/1.2) - ([10 releases total](https://github.com/simonw/csv-diff/releases)) - 2024-09-06
@@ -615,6 +637,8 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Experimental plugin that adds a column inspector
 * **[datasette-seaborn](https://github.com/simonw/datasette-seaborn)**: [0.2a0](https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-seaborn/releases)) - 2020-12-07
 <br />Statistical visualizations for Datasette using Seaborn
+* **[datasette-yaml](https://github.com/simonw/datasette-yaml)**: [0.1.1](https://github.com/simonw/datasette-yaml/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-yaml/releases)) - 2020-12-03
+<br />Export Datasette records as YAML
 * **[sphinx-to-sqlite](https://github.com/simonw/sphinx-to-sqlite)**: [0.1a1](https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/sphinx-to-sqlite/releases)) - 2020-10-22
 <br />Create a SQLite database from Sphinx documentation
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)**: [0.2.1](https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1) - ([2 releases total](https://github.com/dogsheep/inaturalist-to-sqlite/releases)) - 2020-10-22
@@ -637,6 +661,8 @@ Listing <!-- releases_count starts -->1,971<!-- releases_count ends --> releases
 <br />Ensure specific tables and views exist on startup
 * **[sqlite-generate](https://github.com/simonw/sqlite-generate)**: [1.1.1](https://github.com/simonw/sqlite-generate/releases/tag/1.1.1) - ([9 releases total](https://github.com/simonw/sqlite-generate/releases)) - 2020-06-23
 <br />Tool for generating demo SQLite databases
+* **[click-app-template-demo](https://github.com/simonw/click-app-template-demo)**: [0.1](https://github.com/simonw/click-app-template-demo/releases/tag/0.1) - 2020-06-22
+<br />Demo for https://github.com/simonw/click-app
 * **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
 <br />Demonstrating https://github.com/simonw/datasette-plugin
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
