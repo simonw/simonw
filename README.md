@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/) - 2025-12-23
+
 [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) - 2025-12-18
 
 [Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/) - 2025-12-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/) - 2025-12-14
 
 [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) - 2025-12-12
-
-[GPT-5.2](https://simonwillison.net/2025/Dec/11/gpt-52/) - 2025-12-11
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
