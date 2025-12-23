@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,026<!-- releases_count ends --> releases across <!-- project_count starts -->344<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,027<!-- releases_count ends --> releases across <!-- project_count starts -->345<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
+<br />None
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - ([5 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
 <br />Proxy server for previewing web app changes via uv
 * **[git-history](https://github.com/simonw/git-history)**: [0.7](https://github.com/simonw/git-history/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/git-history/releases)) - 2025-12-21

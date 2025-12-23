@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-plugin-router 0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
+
 [preview-server 0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - 2025-12-22
 
 [git-history 0.7](https://github.com/simonw/git-history/releases/tag/0.7) - 2025-12-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-redirects 0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
 
 [datasette-extract 0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - 2025-12-03
-
-[datasette 1.0a23](https://github.com/simonw/datasette/releases/tag/1.0a23) - 2025-12-03
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
