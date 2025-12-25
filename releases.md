@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,033<!-- releases_count ends --> releases across <!-- project_count starts -->347<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,034<!-- releases_count ends --> releases across <!-- project_count starts -->347<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.3](https://github.com/simonw/claude-code-transcripts/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-25
+<br />Tools for publishing transcripts for Claude Code sessions
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a2](https://github.com/simonw/micro-javascript/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-25
 <br />Python port of MicroQuickJS
-* **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.2](https://github.com/simonw/claude-code-transcripts/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-25
-<br />Tools for publishing transcripts for Claude Code sessions
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - ([48 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-23
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
