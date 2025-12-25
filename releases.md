@@ -5,7 +5,7 @@ Listing <!-- releases_count starts -->2,033<!-- releases_count ends --> releases
 <!-- recent_releases starts -->
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a2](https://github.com/simonw/micro-javascript/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-25
 <br />Python port of MicroQuickJS
-* **[claude-code-publish](https://github.com/simonw/claude-code-publish)**: [0.2](https://github.com/simonw/claude-code-publish/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-code-publish/releases)) - 2025-12-25
+* **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.2](https://github.com/simonw/claude-code-transcripts/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-25
 <br />Tools for publishing transcripts for Claude Code sessions
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - ([48 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-23
 <br />LLM plugin to access Google's Gemini family of models

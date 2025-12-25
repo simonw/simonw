@@ -6,7 +6,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 <!-- recent_releases starts -->
 [micro-javascript 0.1a2](https://github.com/simonw/micro-javascript/releases/tag/0.1a2) - 2025-12-25
 
-[claude-code-publish 0.2](https://github.com/simonw/claude-code-publish/releases/tag/0.2) - 2025-12-25
+[claude-code-transcripts 0.2](https://github.com/simonw/claude-code-transcripts/releases/tag/0.2) - 2025-12-25
 
 [llm-gemini 0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - 2025-12-23
 
