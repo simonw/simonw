@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[claude-code-publish 0.1](https://github.com/simonw/claude-code-publish/releases/tag/0.1) - 2025-12-24
+[claude-code-publish 0.2](https://github.com/simonw/claude-code-publish/releases/tag/0.2) - 2025-12-25
 
 [llm-gemini 0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - 2025-12-23
 
