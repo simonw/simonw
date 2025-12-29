@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,036<!-- releases_count ends --> releases across <!-- project_count starts -->347<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,037<!-- releases_count ends --> releases across <!-- project_count starts -->347<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - ([34 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-12-29
+<br />A command-line utility for taking automated screenshots of websites
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-27
 <br />Python port of MicroQuickJS
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.4](https://github.com/simonw/claude-code-transcripts/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-27
@@ -195,8 +197,6 @@ Listing <!-- releases_count starts -->2,036<!-- releases_count ends --> releases
 <br />Datasette plugin that authenticates users based on existing domain cookies
 * **[datasette-profiles-actors-from-ids](https://github.com/datasette/datasette-profiles-actors-from-ids)**: [0.1a0](https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0) - 2025-03-27
 <br />Use datasette-profiles to return actors_from_ids
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.8](https://github.com/simonw/shot-scraper/releases/tag/1.8) - ([33 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-03-25
-<br />A command-line utility for taking automated screenshots of websites
 * **[llm-lambda-labs](https://github.com/simonw/llm-lambda-labs)**: [0.2](https://github.com/simonw/llm-lambda-labs/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-lambda-labs/releases)) - 2025-03-17
 <br />Run prompts against LLMs hosted by lambdalabs.com
 * **[strip-tags](https://github.com/simonw/strip-tags)**: [0.6](https://github.com/simonw/strip-tags/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/strip-tags/releases)) - 2025-02-28

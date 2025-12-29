@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - 2025-12-29
+
 [micro-javascript 0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - 2025-12-27
 
 [claude-code-transcripts 0.4](https://github.com/simonw/claude-code-transcripts/releases/tag/0.4) - 2025-12-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [git-history 0.7](https://github.com/simonw/git-history/releases/tag/0.7) - 2025-12-21
 
 [s3-credentials 0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - 2025-12-16
-
-[llm 0.28](https://github.com/simonw/llm/releases/tag/0.28) - 2025-12-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
