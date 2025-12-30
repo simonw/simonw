@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,037<!-- releases_count ends --> releases across <!-- project_count starts -->347<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,038<!-- releases_count ends --> releases across <!-- project_count starts -->348<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
+<br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - ([34 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-12-29
 <br />A command-line utility for taking automated screenshots of websites
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-27
