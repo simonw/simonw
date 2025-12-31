@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[claude-code-transcripts 0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - 2025-12-31
+
 [datasette-turnstile 0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
 
 [shot-scraper 1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - 2025-12-29
 
 [micro-javascript 0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - 2025-12-27
-
-[claude-code-transcripts 0.4](https://github.com/simonw/claude-code-transcripts/releases/tag/0.4) - 2025-12-27
 
 [llm-gemini 0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - 2025-12-23
 
