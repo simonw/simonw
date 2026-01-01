@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/) - 2026-01-01
+
 [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) - 2025-12-31
 
 [How Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) - 2025-12-26
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/) - 2025-12-23
 
 [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) - 2025-12-18
-
-[Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/) - 2025-12-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
