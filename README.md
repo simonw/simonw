@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) - 2025-12-31
+
 [How Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) - 2025-12-26
 
 [A new way to extract detailed transcripts from Claude Code](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/) - 2025-12-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) - 2025-12-18
 
 [Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/) - 2025-12-17
-
-[I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) - 2025-12-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
