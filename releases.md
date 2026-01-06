@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,039<!-- releases_count ends --> releases across <!-- project_count starts -->348<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,040<!-- releases_count ends --> releases across <!-- project_count starts -->348<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - ([12 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-01-06
+<br />Make selected Datasette databases and tables visible to the public
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-31
 <br />Tools for publishing transcripts for Claude Code sessions
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->2,039<!-- releases_count ends --> releases
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
 <br />Datasette plugin that authenticates users against GitHub
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.3a5](https://github.com/datasette/datasette-public/releases/tag/0.3a5) - ([11 releases total](https://github.com/datasette/datasette-public/releases)) - 2025-11-12
-<br />Make selected Datasette databases and tables visible to the public
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12
 <br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a6](https://github.com/datasette/datasette-pins/releases/tag/0.1a6) - ([6 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-11-11

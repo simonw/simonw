@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - 2026-01-06
+
 [claude-code-transcripts 0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - 2025-12-31
 
 [datasette-turnstile 0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-plugin-router 0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
 
 [preview-server 0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - 2025-12-22
-
-[git-history 0.7](https://github.com/simonw/git-history/releases/tag/0.7) - 2025-12-21
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
