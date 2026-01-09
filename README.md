@@ -4,21 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-public 0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - 2026-01-06
 
-[claude-code-transcripts 0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - 2025-12-31
-
-[datasette-turnstile 0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
-
-[shot-scraper 1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - 2025-12-29
-
-[micro-javascript 0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - 2025-12-27
-
-[llm-gemini 0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - 2025-12-23
-
-[datasette-plugin-router 0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
-
-[preview-server 0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - 2025-12-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
