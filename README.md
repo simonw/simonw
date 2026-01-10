@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](https://simonwillison.net/2026/Jan/9/sprites-dev/) - 2026-01-09
+
 [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) - 2026-01-08
 
 [Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/) - 2026-01-01
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [How Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) - 2025-12-26
 
 [A new way to extract detailed transcripts from Claude Code](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/) - 2025-12-25
-
-[Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/) - 2025-12-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
