@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,043<!-- releases_count ends --> releases across <!-- project_count starts -->350<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,044<!-- releases_count ends --> releases across <!-- project_count starts -->350<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[denobox](https://github.com/simonw/denobox)**: [0.1a1](https://github.com/simonw/denobox/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/denobox/releases)) - 2026-01-10
+* **[denobox](https://github.com/simonw/denobox)**: [0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/denobox/releases)) - 2026-01-10
 <br />Run JavaScript code and WASM in a Deno sandbox
 * **[datasette-transactions](https://github.com/datasette/datasette-transactions)**: [0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10
 <br />API for executing multiple queries within a transaction

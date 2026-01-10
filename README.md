@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[denobox 0.1a1](https://github.com/simonw/denobox/releases/tag/0.1a1) - 2026-01-10
+[denobox 0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - 2026-01-10
 
 [datasette-transactions 0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10
 
