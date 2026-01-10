@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,040<!-- releases_count ends --> releases across <!-- project_count starts -->348<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,041<!-- releases_count ends --> releases across <!-- project_count starts -->349<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-transactions](https://github.com/datasette/datasette-transactions)**: [0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10
+<br />API for executing multiple queries within a transaction
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - ([12 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-01-06
 <br />Make selected Datasette databases and tables visible to the public
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-31
