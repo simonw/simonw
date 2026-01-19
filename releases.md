@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,045<!-- releases_count ends --> releases across <!-- project_count starts -->351<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,046<!-- releases_count ends --> releases across <!-- project_count starts -->351<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2026-01-19
+<br />Quit Datasette if it has not received traffic for a specified time period
 * **[pwasm](https://github.com/simonw/pwasm)**: [0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
 <br />A WebAssembly engine in pure Python
 * **[denobox](https://github.com/simonw/denobox)**: [0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/denobox/releases)) - 2026-01-10
@@ -333,8 +335,6 @@ Listing <!-- releases_count starts -->2,045<!-- releases_count ends --> releases
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.3](https://github.com/simonw/datasette-schema-versions/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2024-03-01
 <br />Datasette plugin that shows the schema version of every attached database
-* **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.1](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.1) - ([6 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2024-02-29
-<br />Quit Datasette if it has not received traffic for a specified time period
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23

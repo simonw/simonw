@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-scale-to-zero 0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - 2026-01-19
+
 [pwasm 0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
 
 [denobox 0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - 2026-01-10
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-turnstile 0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
 
 [shot-scraper 1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - 2025-12-29
-
-[micro-javascript 0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - 2025-12-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
