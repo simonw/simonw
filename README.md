@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-llm 0.1a0](https://github.com/datasette/datasette-llm/releases/tag/0.1a0) - 2026-01-22
+
 [multipart-form-data-conformance 0.1a0](https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0) - 2026-01-22
 
 [datasette-scale-to-zero 0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - 2026-01-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-public 0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - 2026-01-06
 
 [claude-code-transcripts 0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - 2025-12-31
-
-[datasette-turnstile 0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
