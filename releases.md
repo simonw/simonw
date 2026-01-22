@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,046<!-- releases_count ends --> releases across <!-- project_count starts -->351<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,047<!-- releases_count ends --> releases across <!-- project_count starts -->352<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[multipart-form-data-conformance](https://github.com/simonw/multipart-form-data-conformance)**: [0.1a0](https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0) - 2026-01-22
+<br />A conformance suite for HTTP multipart form data
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2026-01-19
 <br />Quit Datasette if it has not received traffic for a specified time period
 * **[pwasm](https://github.com/simonw/pwasm)**: [0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
