@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
+
 [Taking Neon I at the Crucible](https://til.simonwillison.net/neon/neon-1) - 2026-01-11
 
 [Downloading archived Git repositories from archive.softwareheritage.org](https://til.simonwillison.net/github/software-archive-recovery) - 2025-12-30
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
 
 [Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
-
-[Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research) - 2025-10-18
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
