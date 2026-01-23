@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/) - 2026-01-23
+
 [First impressions of Claude Cowork, Anthropic's general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/) - 2026-01-12
 
 [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/) - 2026-01-11
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) - 2026-01-08
 
 [Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/) - 2026-01-01
-
-[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) - 2025-12-31
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
