@@ -36,7 +36,11 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 GRAPHQL_SEARCH_QUERY = """
 query {
-  search(first: 200, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated") {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
     nodes {
       __typename
       ... on Repository {
@@ -58,37 +62,48 @@ query {
 """
 
 
+def make_query(after_cursor=None):
+    return GRAPHQL_SEARCH_QUERY.replace(
+        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    )
+
+
 def fetch_releases(oauth_token):
     releases = []
     repo_names = set(SKIP_REPOS)
+    has_next_page = True
+    after_cursor = None
 
-    data = client.execute(
-        query=GRAPHQL_SEARCH_QUERY,
-        headers={"Authorization": "Bearer {}".format(oauth_token)},
-    )
-    print()
-    print(json.dumps(data, indent=4))
-    print()
-    repo_nodes = data["data"]["search"]["nodes"]
-    for repo in repo_nodes:
-        if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-            repo_names.add(repo["name"])
-            releases.append(
-                {
-                    "repo": repo["name"],
-                    "repo_url": repo["url"],
-                    "description": repo["description"],
-                    "release": repo["releases"]["nodes"][0]["name"]
-                    .replace(repo["name"], "")
-                    .strip(),
-                    "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                    "published_day": repo["releases"]["nodes"][0][
-                        "publishedAt"
-                    ].split("T")[0],
-                    "url": repo["releases"]["nodes"][0]["url"],
-                    "total_releases": repo["releases"]["totalCount"],
-                }
-            )
+    while has_next_page:
+        data = client.execute(
+            query=make_query(after_cursor),
+            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        )
+        print()
+        print(json.dumps(data, indent=4))
+        print()
+        repo_nodes = data["data"]["search"]["nodes"]
+        for repo in repo_nodes:
+            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+                repo_names.add(repo["name"])
+                releases.append(
+                    {
+                        "repo": repo["name"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"],
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
+                        .strip(),
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
+                        "published_day": repo["releases"]["nodes"][0][
+                            "publishedAt"
+                        ].split("T")[0],
+                        "url": repo["releases"]["nodes"][0]["url"],
+                        "total_releases": repo["releases"]["totalCount"],
+                    }
+                )
+        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
+        has_next_page = after_cursor
     return releases
 
 
