@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
+
 [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
 
 [Taking Neon I at the Crucible](https://til.simonwillison.net/neon/neon-1) - 2026-01-11
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
 
 [Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
-
-[Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
