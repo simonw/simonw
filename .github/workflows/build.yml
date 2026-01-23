@@ -3,6 +3,12 @@ name: Build README
 on:
   push:
   workflow_dispatch:
+    inputs:
+      seed:
+        description: 'Seed the releases cache with full data (run once)'
+        required: false
+        type: boolean
+        default: false
   schedule:
     - cron: '8 * * * *'  # Hourly
 
@@ -24,7 +30,11 @@ jobs:
       env:
         SIMONW_TOKEN: ${{ secrets.SIMONW_TOKEN }}
       run: |-
-        python build_readme.py
+        if [ "${{ inputs.seed }}" = "true" ]; then
+          python build_readme.py --seed
+        else
+          python build_readme.py
+        fi
         cat README.md
     - name: Commit and push if changed
       run: |-
