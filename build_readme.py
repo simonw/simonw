@@ -36,11 +36,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 GRAPHQL_SEARCH_QUERY = """
 query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
-    pageInfo {
-      hasNextPage
-      endCursor
-    }
+  search(first: 200, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated") {
     nodes {
       __typename
       ... on Repository {
@@ -62,54 +58,37 @@ query {
 """
 
 
-def make_query(after_cursor=None, include_organization=False):
-    return GRAPHQL_SEARCH_QUERY.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
-
-
 def fetch_releases(oauth_token):
-    repos = []
     releases = []
-    # Skip these repos:
     repo_names = set(SKIP_REPOS)
-    has_next_page = True
-    after_cursor = None
 
-    first = True
-
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor, include_organization=first),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
-        first = False
-        print()
-        print(json.dumps(data, indent=4))
-        print()
-        repo_nodes = data["data"]["search"]["nodes"]
-        for repo in repo_nodes:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                        "published_day": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                        "total_releases": repo["releases"]["totalCount"],
-                    }
-                )
-        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
-        has_next_page = after_cursor
+    data = client.execute(
+        query=GRAPHQL_SEARCH_QUERY,
+        headers={"Authorization": "Bearer {}".format(oauth_token)},
+    )
+    print()
+    print(json.dumps(data, indent=4))
+    print()
+    repo_nodes = data["data"]["search"]["nodes"]
+    for repo in repo_nodes:
+        if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+            repo_names.add(repo["name"])
+            releases.append(
+                {
+                    "repo": repo["name"],
+                    "repo_url": repo["url"],
+                    "description": repo["description"],
+                    "release": repo["releases"]["nodes"][0]["name"]
+                    .replace(repo["name"], "")
+                    .strip(),
+                    "published_at": repo["releases"]["nodes"][0]["publishedAt"],
+                    "published_day": repo["releases"]["nodes"][0][
+                        "publishedAt"
+                    ].split("T")[0],
+                    "url": repo["releases"]["nodes"][0]["url"],
+                    "total_releases": repo["releases"]["totalCount"],
+                }
+            )
     return releases
 
 
