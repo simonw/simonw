@@ -212,7 +212,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
 
-    if "--seed" in sys.argv:
+    if "--seed" in sys.argv or not RELEASES_CACHE_PATH.exists():
         print("Seeding releases cache with full pagination...")
         releases = seed_releases_cache(TOKEN)
     else:
