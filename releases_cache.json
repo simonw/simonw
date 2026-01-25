@@ -121,13 +121,13 @@
   },
   "claude-code-transcripts": {
     "description": "Tools for publishing transcripts for Claude Code sessions",
-    "published_at": "2025-12-31T07:29:23Z",
-    "published_day": "2025-12-31",
-    "release": "0.5",
+    "published_at": "2026-01-25T05:49:53Z",
+    "published_day": "2026-01-25",
+    "release": "0.6",
     "repo": "claude-code-transcripts",
     "repo_url": "https://github.com/simonw/claude-code-transcripts",
-    "total_releases": 5,
-    "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.5"
+    "total_releases": 6,
+    "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.6"
   },
   "claude-to-sqlite": {
     "description": "Convert a Claude.ai export to SQLite",

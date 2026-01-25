@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,048<!-- releases_count ends --> releases across <!-- project_count starts -->353<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,049<!-- releases_count ends --> releases across <!-- project_count starts -->353<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
+<br />Tools for publishing transcripts for Claude Code sessions
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a0](https://github.com/datasette/datasette-llm/releases/tag/0.1a0) - 2026-01-22
 <br />LLM integration plugin for other plugins to depend on
 * **[multipart-form-data-conformance](https://github.com/simonw/multipart-form-data-conformance)**: [0.1a0](https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0) - 2026-01-22
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,048<!-- releases_count ends --> releases
 <br />API for executing multiple queries within a transaction
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - ([12 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-01-06
 <br />Make selected Datasette databases and tables visible to the public
-* **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.5](https://github.com/simonw/claude-code-transcripts/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2025-12-31
-<br />Tools for publishing transcripts for Claude Code sessions
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - ([34 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-12-29
