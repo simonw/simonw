@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,049<!-- releases_count ends --> releases across <!-- project_count starts -->353<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,050<!-- releases_count ends --> releases across <!-- project_count starts -->353<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
+<br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
 <br />Tools for publishing transcripts for Claude Code sessions
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a0](https://github.com/datasette/datasette-llm/releases/tag/0.1a0) - 2026-01-22
@@ -129,8 +131,6 @@ Listing <!-- releases_count starts -->2,049<!-- releases_count ends --> releases
 <br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
-* **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a1](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1) - ([3 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2025-10-21
-<br />Datasette plugin for making the internal database visible for debugging
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - ([3 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-10-21
 <br />None
 * **[datasette-studio](https://github.com/datasette/datasette-studio)**: [0.1a5](https://github.com/datasette/datasette-studio/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-studio/releases)) - 2025-10-21

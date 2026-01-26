@@ -2031,13 +2031,13 @@
   },
   "datasette-visible-internal-db": {
     "description": "Datasette plugin for making the internal database visible for debugging",
-    "published_at": "2025-10-21T21:48:39Z",
-    "published_day": "2025-10-21",
-    "release": "0.1.1a1",
+    "published_at": "2026-01-26T03:39:42Z",
+    "published_day": "2026-01-26",
+    "release": "0.1.1a2",
     "repo": "datasette-visible-internal-db",
     "repo_url": "https://github.com/datasette/datasette-visible-internal-db",
-    "total_releases": 3,
-    "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1"
+    "total_releases": 4,
+    "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2"
   },
   "datasette-write": {
     "description": "Datasette plugin providing a UI for executing SQL writes against the database",
