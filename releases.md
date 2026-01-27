@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,052<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,053<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a2](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-01-27
 <br />None
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a1](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1) - 2026-01-27
+* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
 <br />None
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
 <br />Datasette plugin for making the internal database visible for debugging

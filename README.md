@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
+[datasette-libfec 0.0.1a2](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a2) - 2026-01-27
 
-[datasette-libfec 0.0.1a1](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1) - 2026-01-27
+[datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
 
 [datasette-visible-internal-db 0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - 2026-01-26
 
