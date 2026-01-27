@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
+
+[datasette-libfec 0.0.1a1](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1) - 2026-01-27
+
 [datasette-visible-internal-db 0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - 2026-01-26
 
 [claude-code-transcripts 0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - 2026-01-25
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-scale-to-zero 0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - 2026-01-19
 
 [pwasm 0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
-
-[denobox 0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - 2026-01-10
-
-[datasette-transactions 0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

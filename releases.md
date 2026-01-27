@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,050<!-- releases_count ends --> releases across <!-- project_count starts -->353<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,052<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
+<br />None
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a1](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1) - 2026-01-27
+<br />None
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
 <br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
@@ -29,8 +33,6 @@ Listing <!-- releases_count starts -->2,050<!-- releases_count ends --> releases
 <br />Python port of MicroQuickJS
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - ([48 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-23
 <br />LLM plugin to access Google's Gemini family of models
-* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
-<br />None
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - ([5 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
 <br />Proxy server for previewing web app changes via uv
 * **[git-history](https://github.com/simonw/git-history)**: [0.7](https://github.com/simonw/git-history/releases/tag/0.7) - ([11 releases total](https://github.com/simonw/git-history/releases)) - 2025-12-21

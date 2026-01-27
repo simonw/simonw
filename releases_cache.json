@@ -1089,6 +1089,16 @@
     "total_releases": 8,
     "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2"
   },
+  "datasette-libfec": {
+    "description": null,
+    "published_at": "2026-01-27T05:41:22Z",
+    "published_day": "2026-01-27",
+    "release": "0.0.1a1",
+    "repo": "datasette-libfec",
+    "repo_url": "https://github.com/datasette/datasette-libfec",
+    "total_releases": 1,
+    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1"
+  },
   "datasette-llm": {
     "description": "LLM integration plugin for other plugins to depend on",
     "published_at": "2026-01-22T17:10:06Z",
@@ -1301,13 +1311,13 @@
   },
   "datasette-plugin-router": {
     "description": null,
-    "published_at": "2025-12-23T04:29:05Z",
-    "published_day": "2025-12-23",
-    "release": "0.0.1a1",
+    "published_at": "2026-01-27T05:48:48Z",
+    "published_day": "2026-01-27",
+    "release": "0.0.1a2",
     "repo": "datasette-plugin-router",
     "repo_url": "https://github.com/datasette/datasette-plugin-router",
-    "total_releases": 1,
-    "url": "https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1"
+    "total_releases": 2,
+    "url": "https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2"
   },
   "datasette-plugin-template-demo": {
     "description": "Demonstrating https://github.com/simonw/datasette-plugin",
