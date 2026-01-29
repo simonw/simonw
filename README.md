@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - 2026-01-29
+
 [datasette-libfec 0.0.1a4](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a4) - 2026-01-27
 
 [datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [multipart-form-data-conformance 0.1a0](https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0) - 2026-01-22
 
 [datasette-scale-to-zero 0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - 2026-01-19
-
-[pwasm 0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

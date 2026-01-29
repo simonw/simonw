@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,055<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,056<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - ([156 releases total](https://github.com/simonw/datasette/releases)) - 2026-01-29
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a4](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-01-27
 <br />None
 * **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->2,055<!-- releases_count ends --> releases
 <br />Configure redirects for a Datasette instance
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - ([15 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-12-03
 <br />Import unstructured data (text and images) into structured tables
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a23](https://github.com/simonw/datasette/releases/tag/1.0a23) - ([155 releases total](https://github.com/simonw/datasette/releases)) - 2025-12-03
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
