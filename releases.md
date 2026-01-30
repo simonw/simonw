@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,056<!-- releases_count ends --> releases across <!-- project_count starts -->354<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,058<!-- releases_count ends --> releases across <!-- project_count starts -->356<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[tiny-haversine](https://github.com/simonw/tiny-haversine)**: [0.1.0](https://github.com/simonw/tiny-haversine/releases/tag/0.1.0) - 2026-01-30
+<br />A Python package with a C module for haversine() - as a WASM experiment
+* **[sqlite-ast-conformance](https://github.com/simonw/sqlite-ast-conformance)**: [0.1](https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1) - 2026-01-30
+<br />A language independent conformance suite for implementations of a SQLite SELECT query parser
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - ([156 releases total](https://github.com/simonw/datasette/releases)) - 2026-01-29
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a4](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a4) - ([4 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-01-27

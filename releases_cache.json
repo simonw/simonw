@@ -3199,6 +3199,16 @@
     "total_releases": 2,
     "url": "https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1"
   },
+  "sqlite-ast-conformance": {
+    "description": "A language independent conformance suite for implementations of a SQLite SELECT query parser",
+    "published_at": "2026-01-30T04:45:47Z",
+    "published_day": "2026-01-30",
+    "release": "0.1",
+    "repo": "sqlite-ast-conformance",
+    "repo_url": "https://github.com/simonw/sqlite-ast-conformance",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1"
+  },
   "sqlite-chronicle": {
     "description": "Use triggers to track when rows in a SQLite table were updated or deleted",
     "published_at": "2025-05-13T17:53:34Z",
@@ -3458,6 +3468,16 @@
     "repo_url": "https://github.com/simonw/textract-cli",
     "total_releases": 1,
     "url": "https://github.com/simonw/textract-cli/releases/tag/0.1"
+  },
+  "tiny-haversine": {
+    "description": "A Python package with a C module for haversine() - as a WASM experiment",
+    "published_at": "2026-01-30T05:27:58Z",
+    "published_day": "2026-01-30",
+    "release": "0.1.0",
+    "repo": "tiny-haversine",
+    "repo_url": "https://github.com/simonw/tiny-haversine",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/tiny-haversine/releases/tag/0.1.0"
   },
   "ttml-to-json": {
     "description": " Convert TTML to JSON",
