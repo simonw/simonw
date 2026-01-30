@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,058<!-- releases_count ends --> releases across <!-- project_count starts -->356<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,060<!-- releases_count ends --> releases across <!-- project_count starts -->357<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[tiny-haversine](https://github.com/simonw/tiny-haversine)**: [0.1.0](https://github.com/simonw/tiny-haversine/releases/tag/0.1.0) - 2026-01-30
+* **[sqlite-ast](https://github.com/simonw/sqlite-ast)**: [0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30
+<br />Python library for parsing SQLite SELECT queries into an AST
+* **[tiny-haversine](https://github.com/simonw/tiny-haversine)**: [0.1.1](https://github.com/simonw/tiny-haversine/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/tiny-haversine/releases)) - 2026-01-30
 <br />A Python package with a C module for haversine() - as a WASM experiment
 * **[sqlite-ast-conformance](https://github.com/simonw/sqlite-ast-conformance)**: [0.1](https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1) - 2026-01-30
 <br />A language independent conformance suite for implementations of a SQLite SELECT query parser

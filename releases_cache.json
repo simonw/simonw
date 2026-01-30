@@ -3199,6 +3199,16 @@
     "total_releases": 2,
     "url": "https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1"
   },
+  "sqlite-ast": {
+    "description": "Python library for parsing SQLite SELECT queries into an AST",
+    "published_at": "2026-01-30T06:12:45Z",
+    "published_day": "2026-01-30",
+    "release": "0.1a0",
+    "repo": "sqlite-ast",
+    "repo_url": "https://github.com/simonw/sqlite-ast",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/sqlite-ast/releases/tag/0.1a0"
+  },
   "sqlite-ast-conformance": {
     "description": "A language independent conformance suite for implementations of a SQLite SELECT query parser",
     "published_at": "2026-01-30T04:45:47Z",
@@ -3471,13 +3481,13 @@
   },
   "tiny-haversine": {
     "description": "A Python package with a C module for haversine() - as a WASM experiment",
-    "published_at": "2026-01-30T05:27:58Z",
+    "published_at": "2026-01-30T05:43:13Z",
     "published_day": "2026-01-30",
-    "release": "0.1.0",
+    "release": "0.1.1",
     "repo": "tiny-haversine",
     "repo_url": "https://github.com/simonw/tiny-haversine",
-    "total_releases": 1,
-    "url": "https://github.com/simonw/tiny-haversine/releases/tag/0.1.0"
+    "total_releases": 2,
+    "url": "https://github.com/simonw/tiny-haversine/releases/tag/0.1.1"
   },
   "ttml-to-json": {
     "description": " Convert TTML to JSON",
