@@ -3181,13 +3181,13 @@
   },
   "shot-scraper": {
     "description": "A command-line utility for taking automated screenshots of websites",
-    "published_at": "2025-12-29T05:23:15Z",
-    "published_day": "2025-12-29",
-    "release": "1.9",
+    "published_at": "2026-02-01T19:02:50Z",
+    "published_day": "2026-02-01",
+    "release": "1.9.1",
     "repo": "shot-scraper",
     "repo_url": "https://github.com/simonw/shot-scraper",
-    "total_releases": 34,
-    "url": "https://github.com/simonw/shot-scraper/releases/tag/1.9"
+    "total_releases": 35,
+    "url": "https://github.com/simonw/shot-scraper/releases/tag/1.9.1"
   },
   "sphinx-to-sqlite": {
     "description": "Create a SQLite database from Sphinx documentation",

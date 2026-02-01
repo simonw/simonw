@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - 2026-02-01
+
 [sqlite-ast 0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30
 
 [tiny-haversine 0.1.1](https://github.com/simonw/tiny-haversine/releases/tag/0.1.1) - 2026-01-30
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
 
 [datasette-visible-internal-db 0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - 2026-01-26
-
-[claude-code-transcripts 0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - 2026-01-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

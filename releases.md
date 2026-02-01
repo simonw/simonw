@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,060<!-- releases_count ends --> releases across <!-- project_count starts -->357<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,061<!-- releases_count ends --> releases across <!-- project_count starts -->357<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - ([35 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-02-01
+<br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-ast](https://github.com/simonw/sqlite-ast)**: [0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30
 <br />Python library for parsing SQLite SELECT queries into an AST
 * **[tiny-haversine](https://github.com/simonw/tiny-haversine)**: [0.1.1](https://github.com/simonw/tiny-haversine/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/tiny-haversine/releases)) - 2026-01-30
@@ -35,8 +37,6 @@ Listing <!-- releases_count starts -->2,060<!-- releases_count ends --> releases
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9](https://github.com/simonw/shot-scraper/releases/tag/1.9) - ([34 releases total](https://github.com/simonw/shot-scraper/releases)) - 2025-12-29
-<br />A command-line utility for taking automated screenshots of websites
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-27
 <br />Python port of MicroQuickJS
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - ([48 releases total](https://github.com/simonw/llm-gemini/releases)) - 2025-12-23
