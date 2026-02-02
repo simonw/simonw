@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
+
 [Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
 
 [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Downloading archived Git repositories from archive.softwareheritage.org](https://til.simonwillison.net/github/software-archive-recovery) - 2025-12-30
 
 [Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
-
-[Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
