@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,061<!-- releases_count ends --> releases across <!-- project_count starts -->357<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,062<!-- releases_count ends --> releases across <!-- project_count starts -->358<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.1.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.0) - 2026-02-03
+<br />Scan folders for SQLite database files
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - ([35 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-02-01
 <br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-ast](https://github.com/simonw/sqlite-ast)**: [0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30

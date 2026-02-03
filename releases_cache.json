@@ -3299,6 +3299,16 @@
     "total_releases": 4,
     "url": "https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0"
   },
+  "sqlite-scanner": {
+    "description": "Scan folders for SQLite database files",
+    "published_at": "2026-02-03T01:45:22Z",
+    "published_day": "2026-02-03",
+    "release": "v0.1.0",
+    "repo": "sqlite-scanner",
+    "repo_url": "https://github.com/simonw/sqlite-scanner",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.0"
+  },
   "sqlite-transform": {
     "description": "Tool for running transformations on columns in a SQLite database",
     "published_at": "2021-08-02T22:07:57Z",
