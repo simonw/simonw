@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,062<!-- releases_count ends --> releases across <!-- project_count starts -->358<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,063<!-- releases_count ends --> releases across <!-- project_count starts -->359<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[go-to-wheel](https://github.com/simonw/go-to-wheel)**: [0.1](https://github.com/simonw/go-to-wheel/releases/tag/0.1) - 2026-02-03
+<br />Wrap Go binaries in Python wheels
 * **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.1.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.0) - 2026-02-03
 <br />Scan folders for SQLite database files
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - ([35 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-02-01

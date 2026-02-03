@@ -2339,6 +2339,16 @@
     "total_releases": 23,
     "url": "https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9"
   },
+  "go-to-wheel": {
+    "description": "Wrap Go binaries in Python wheels",
+    "published_at": "2026-02-03T05:25:40Z",
+    "published_day": "2026-02-03",
+    "release": "0.1",
+    "repo": "go-to-wheel",
+    "repo_url": "https://github.com/simonw/go-to-wheel",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/go-to-wheel/releases/tag/0.1"
+  },
   "google-calendar-to-sqlite": {
     "description": "Create a SQLite database containing your data from Google Calendar",
     "published_at": "2022-05-21T16:45:51Z",

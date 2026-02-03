@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[go-to-wheel 0.1](https://github.com/simonw/go-to-wheel/releases/tag/0.1) - 2026-02-03
+
 [sqlite-scanner v0.1.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.0) - 2026-02-03
 
 [shot-scraper 1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - 2026-02-01
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette 1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - 2026-01-29
 
 [datasette-libfec 0.0.1a4](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a4) - 2026-01-27
-
-[datasette-plugin-router 0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - 2026-01-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
