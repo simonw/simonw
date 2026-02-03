@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-libfec 0.0.1a5](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a5) - 2026-02-03
+[datasette-libfec 0.0.1a6](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a6) - 2026-02-03
 
 [go-to-wheel 0.1](https://github.com/simonw/go-to-wheel/releases/tag/0.1) - 2026-02-03
 

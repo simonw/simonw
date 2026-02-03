@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,064<!-- releases_count ends --> releases across <!-- project_count starts -->359<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,065<!-- releases_count ends --> releases across <!-- project_count starts -->359<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a5](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a5) - ([5 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-03
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a6](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a6) - ([6 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-03
 <br />None
 * **[go-to-wheel](https://github.com/simonw/go-to-wheel)**: [0.1](https://github.com/simonw/go-to-wheel/releases/tag/0.1) - 2026-02-03
 <br />Wrap Go binaries in Python wheels
