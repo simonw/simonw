@@ -2091,13 +2091,13 @@
   },
   "datasette-youtube-embed": {
     "description": "Turn YouTube URLs into embedded players in Datasette",
-    "published_at": "2023-01-27T20:09:30Z",
-    "published_day": "2023-01-27",
-    "release": "0.1",
+    "published_at": "2026-02-04T16:46:34Z",
+    "published_day": "2026-02-04",
+    "release": "0.2",
     "repo": "datasette-youtube-embed",
     "repo_url": "https://github.com/simonw/datasette-youtube-embed",
-    "total_releases": 1,
-    "url": "https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1"
+    "total_releases": 2,
+    "url": "https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2"
   },
   "db-build": {
     "description": "Tools for building SQLite databases from files and directories",

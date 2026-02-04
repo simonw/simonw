@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,071<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,072<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-youtube-embed/releases)) - 2026-02-04
+<br />Turn YouTube URLs into embedded players in Datasette
 * **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.2.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0) - ([3 releases total](https://github.com/simonw/sqlite-scanner/releases)) - 2026-02-04
 <br />Scan folders for SQLite database files
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a7](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a7) - ([7 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-04
@@ -479,8 +481,6 @@ Listing <!-- releases_count starts -->2,071<!-- releases_count ends --> releases
 <br />Part of https://github.com/simonw/datasette-app
 * **[db-to-sqlite](https://github.com/simonw/db-to-sqlite)**: [1.5](https://github.com/simonw/db-to-sqlite/releases/tag/1.5) - ([17 releases total](https://github.com/simonw/db-to-sqlite/releases)) - 2023-02-07
 <br />CLI tool for exporting tables or queries from any SQL database to a SQLite file
-* **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.1](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.1) - 2023-01-27
-<br />Turn YouTube URLs into embedded players in Datasette
 * **[datasette-openai](https://github.com/simonw/datasette-openai)**: [0.2](https://github.com/simonw/datasette-openai/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-openai/releases)) - 2023-01-14
 <br />SQL functions for calling OpenAI APIs
 * **[datasette-cookies-for-magic-parameters](https://github.com/simonw/datasette-cookies-for-magic-parameters)**: [0.1.2](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/datasette-cookies-for-magic-parameters/releases)) - 2023-01-12
