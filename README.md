@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-libfec 0.0.1a7](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a7) - 2026-02-04
+
 [datasette-scan 0.1.1](https://github.com/simonw/datasette-scan/releases/tag/0.1.1) - 2026-02-04
 
 [sqlite-scanner v0.1.1](https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.1) - 2026-02-04
 
 [go-to-wheel 0.2](https://github.com/simonw/go-to-wheel/releases/tag/0.2) - 2026-02-04
-
-[datasette-libfec 0.0.1a6](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a6) - 2026-02-03
 
 [shot-scraper 1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - 2026-02-01
 
