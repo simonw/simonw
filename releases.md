@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,070<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,071<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.2.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0) - ([3 releases total](https://github.com/simonw/sqlite-scanner/releases)) - 2026-02-04
+<br />Scan folders for SQLite database files
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a7](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a7) - ([7 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-04
 <br />None
 * **[datasette-scan](https://github.com/simonw/datasette-scan)**: [0.1.1](https://github.com/simonw/datasette-scan/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/datasette-scan/releases)) - 2026-02-04
 <br />Datasette plugin for scanning for SQLite files
-* **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.1.1](https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.1) - ([2 releases total](https://github.com/simonw/sqlite-scanner/releases)) - 2026-02-04
-<br />Scan folders for SQLite database files
 * **[go-to-wheel](https://github.com/simonw/go-to-wheel)**: [0.2](https://github.com/simonw/go-to-wheel/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/go-to-wheel/releases)) - 2026-02-04
 <br />Wrap Go binaries in Python wheels
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - ([35 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-02-01

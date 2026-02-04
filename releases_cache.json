@@ -3321,13 +3321,13 @@
   },
   "sqlite-scanner": {
     "description": "Scan folders for SQLite database files",
-    "published_at": "2026-02-04T04:36:04Z",
+    "published_at": "2026-02-04T15:42:46Z",
     "published_day": "2026-02-04",
-    "release": "v0.1.1",
+    "release": "v0.2.0",
     "repo": "sqlite-scanner",
     "repo_url": "https://github.com/simonw/sqlite-scanner",
-    "total_releases": 2,
-    "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.1"
+    "total_releases": 3,
+    "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0"
   },
   "sqlite-transform": {
     "description": "Tool for running transformations on columns in a SQLite database",
