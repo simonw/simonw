@@ -1659,6 +1659,16 @@
     "total_releases": 7,
     "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2"
   },
+  "datasette-scan": {
+    "description": "Datasette plugin for scanning for SQLite files",
+    "published_at": "2026-02-04T05:26:45Z",
+    "published_day": "2026-02-04",
+    "release": "0.1.1",
+    "repo": "datasette-scan",
+    "repo_url": "https://github.com/simonw/datasette-scan",
+    "total_releases": 2,
+    "url": "https://github.com/simonw/datasette-scan/releases/tag/0.1.1"
+  },
   "datasette-schema-versions": {
     "description": "Datasette plugin that shows the schema version of every attached database",
     "published_at": "2024-03-01T02:43:49Z",
