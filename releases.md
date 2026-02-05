@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,072<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,073<!-- releases_count ends --> releases across <!-- project_count starts -->360<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - ([7 releases total](https://github.com/datasette/datasette-pins/releases)) - 2026-02-05
+<br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-youtube-embed/releases)) - 2026-02-04
 <br />Turn YouTube URLs into embedded players in Datasette
 * **[sqlite-scanner](https://github.com/simonw/sqlite-scanner)**: [v0.2.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0) - ([3 releases total](https://github.com/simonw/sqlite-scanner/releases)) - 2026-02-04
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->2,072<!-- releases_count ends --> releases
 <br />Datasette plugin that authenticates users against GitHub
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12
 <br />Geocoding and reverse geocoding using OpenCage
-* **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a6](https://github.com/datasette/datasette-pins/releases/tag/0.1a6) - ([6 releases total](https://github.com/datasette/datasette-pins/releases)) - 2025-11-11
-<br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - ([16 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2025-11-11
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11

@@ -1281,13 +1281,13 @@
   },
   "datasette-pins": {
     "description": "Pin databases, tables, and other items to the Datasette homepage",
-    "published_at": "2025-11-11T22:32:03Z",
-    "published_day": "2025-11-11",
-    "release": "0.1a6",
+    "published_at": "2026-02-05T16:34:33Z",
+    "published_day": "2026-02-05",
+    "release": "0.1a7",
     "repo": "datasette-pins",
     "repo_url": "https://github.com/datasette/datasette-pins",
-    "total_releases": 6,
-    "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a6"
+    "total_releases": 7,
+    "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a7"
   },
   "datasette-placekey": {
     "description": "SQL functions for working with placekeys",
