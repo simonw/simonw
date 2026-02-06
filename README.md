@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[showboat v0.1.0](https://github.com/simonw/showboat/releases/tag/v0.1.0) - 2026-02-06
+[showboat v0.2.0](https://github.com/simonw/showboat/releases/tag/v0.2.0) - 2026-02-06
 
 [datasette-pins 0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - 2026-02-05
 

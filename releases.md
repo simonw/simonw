@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,074<!-- releases_count ends --> releases across <!-- project_count starts -->361<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,075<!-- releases_count ends --> releases across <!-- project_count starts -->361<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[showboat](https://github.com/simonw/showboat)**: [v0.1.0](https://github.com/simonw/showboat/releases/tag/v0.1.0) - 2026-02-06
+* **[showboat](https://github.com/simonw/showboat)**: [v0.2.0](https://github.com/simonw/showboat/releases/tag/v0.2.0) - ([2 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-06
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - ([7 releases total](https://github.com/datasette/datasette-pins/releases)) - 2026-02-05
 <br />Pin databases, tables, and other items to the Datasette homepage

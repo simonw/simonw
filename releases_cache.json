@@ -3211,13 +3211,13 @@
   },
   "showboat": {
     "description": "Create executable documents that demonstrate an agent's work",
-    "published_at": "2026-02-06T16:39:56Z",
+    "published_at": "2026-02-06T18:16:30Z",
     "published_day": "2026-02-06",
-    "release": "v0.1.0",
+    "release": "v0.2.0",
     "repo": "showboat",
     "repo_url": "https://github.com/simonw/showboat",
-    "total_releases": 1,
-    "url": "https://github.com/simonw/showboat/releases/tag/v0.1.0"
+    "total_releases": 2,
+    "url": "https://github.com/simonw/showboat/releases/tag/v0.2.0"
   },
   "sphinx-to-sqlite": {
     "description": "Create a SQLite database from Sphinx documentation",
