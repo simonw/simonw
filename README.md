@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[showboat v0.1.0](https://github.com/simonw/showboat/releases/tag/v0.1.0) - 2026-02-06
+
 [datasette-pins 0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - 2026-02-05
 
 [datasette-youtube-embed 0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - 2026-02-04
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [go-to-wheel 0.2](https://github.com/simonw/go-to-wheel/releases/tag/0.2) - 2026-02-04
 
 [shot-scraper 1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - 2026-02-01
-
-[sqlite-ast 0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

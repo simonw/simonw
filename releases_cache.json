@@ -3209,6 +3209,16 @@
     "total_releases": 35,
     "url": "https://github.com/simonw/shot-scraper/releases/tag/1.9.1"
   },
+  "showboat": {
+    "description": "Create executable documents that demonstrate an agent's work",
+    "published_at": "2026-02-06T16:39:56Z",
+    "published_day": "2026-02-06",
+    "release": "v0.1.0",
+    "repo": "showboat",
+    "repo_url": "https://github.com/simonw/showboat",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/showboat/releases/tag/v0.1.0"
+  },
   "sphinx-to-sqlite": {
     "description": "Create a SQLite database from Sphinx documentation",
     "published_at": "2020-10-22T04:55:45Z",
