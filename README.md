@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly](https://simonwillison.net/2026/Feb/6/pydantic-monty/) - 2026-02-06
+
 [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/) - 2026-02-04
 
 [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/) - 2026-01-30
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/) - 2026-01-26
 
 [Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/) - 2026-01-23
-
-[First impressions of Claude Cowork, Anthropic's general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/) - 2026-01-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
