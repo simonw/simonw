@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[How StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/) - 2026-02-07
+
 [Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly](https://simonwillison.net/2026/Feb/6/pydantic-monty/) - 2026-02-06
 
 [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/) - 2026-02-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Adding dynamic features to an aggressively cached website](https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/) - 2026-01-28
 
 [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/) - 2026-01-26
-
-[Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/) - 2026-01-23
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
