@@ -1241,13 +1241,13 @@
   },
   "datasette-packages": {
     "description": "Show a list of currently installed Python packages",
-    "published_at": "2024-03-16T01:18:41Z",
-    "published_day": "2024-03-16",
-    "release": "0.2.1",
+    "published_at": "2026-02-08T18:14:39Z",
+    "published_day": "2026-02-08",
+    "release": "0.3",
     "repo": "datasette-packages",
     "repo_url": "https://github.com/simonw/datasette-packages",
-    "total_releases": 4,
-    "url": "https://github.com/simonw/datasette-packages/releases/tag/0.2.1"
+    "total_releases": 5,
+    "url": "https://github.com/simonw/datasette-packages/releases/tag/0.3"
   },
   "datasette-paste": {
     "description": "Paste data to create tables in Datasette",

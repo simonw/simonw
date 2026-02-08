@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,080<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,081<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-packages/releases)) - 2026-02-08
+<br />Show a list of currently installed Python packages
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.3a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.3a0) - ([3 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-08
 <br />SQLite table history tracking using a JSON audit log
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - ([9 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-06
@@ -341,8 +343,6 @@ Listing <!-- releases_count starts -->2,080<!-- releases_count ends --> releases
 <br />Enrich data with a custom JavaScript function
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
-* **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.2.1](https://github.com/simonw/datasette-packages/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/datasette-packages/releases)) - 2024-03-16
-<br />Show a list of currently installed Python packages
 * **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
 <br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
