@@ -3319,6 +3319,16 @@
     "total_releases": 2,
     "url": "https://github.com/simonw/sqlite-history/releases/tag/0.1"
   },
+  "sqlite-history-json": {
+    "description": "SQLite table history tracking using a JSON audit log",
+    "published_at": "2026-02-08T04:48:07Z",
+    "published_day": "2026-02-08",
+    "release": "0.1a0",
+    "repo": "sqlite-history-json",
+    "repo_url": "https://github.com/simonw/sqlite-history-json",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/sqlite-history-json/releases/tag/0.1a0"
+  },
   "sqlite-migrate": {
     "description": "A simple database migration system for SQLite, based on sqlite-utils",
     "published_at": "2023-10-27T23:46:36Z",

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,077<!-- releases_count ends --> releases across <!-- project_count starts -->361<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,078<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.1a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.1a0) - 2026-02-08
+<br />SQLite table history tracking using a JSON audit log
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - ([9 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-06
 <br />None
 * **[showboat](https://github.com/simonw/showboat)**: [v0.2.0](https://github.com/simonw/showboat/releases/tag/v0.2.0) - ([2 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-06
