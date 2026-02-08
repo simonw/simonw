@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-history-json 0.1a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.1a0) - 2026-02-08
+[sqlite-history-json 0.3a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.3a0) - 2026-02-08
 
 [datasette-libfec 0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - 2026-02-06
 
