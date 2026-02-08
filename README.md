@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-pretty-traces 0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - 2026-02-08
+
 [datasette-packages 0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - 2026-02-08
 
 [sqlite-history-json 0.3a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.3a0) - 2026-02-08
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-youtube-embed 0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - 2026-02-04
 
 [sqlite-scanner v0.2.0](https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0) - 2026-02-04
-
-[datasette-scan 0.1.1](https://github.com/simonw/datasette-scan/releases/tag/0.1.1) - 2026-02-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

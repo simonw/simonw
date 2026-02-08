@@ -1351,13 +1351,13 @@
   },
   "datasette-pretty-traces": {
     "description": "Prettier formatting for ?_trace=1 traces",
-    "published_at": "2025-10-24T17:24:03Z",
-    "published_day": "2025-10-24",
-    "release": "0.6",
+    "published_at": "2026-02-08T23:05:24Z",
+    "published_day": "2026-02-08",
+    "release": "0.7",
     "repo": "datasette-pretty-traces",
     "repo_url": "https://github.com/simonw/datasette-pretty-traces",
-    "total_releases": 8,
-    "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6"
+    "total_releases": 9,
+    "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7"
   },
   "datasette-profiles": {
     "description": null,

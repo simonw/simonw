@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,081<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,082<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2026-02-08
+<br />Prettier formatting for ?_trace=1 traces
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-packages/releases)) - 2026-02-08
 <br />Show a list of currently installed Python packages
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.3a0](https://github.com/simonw/sqlite-history-json/releases/tag/0.3a0) - ([3 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-08
@@ -149,8 +151,6 @@ Listing <!-- releases_count starts -->2,081<!-- releases_count ends --> releases
 <br />Datasette plugin for searching all searchable tables at once
 * **[llm-minimax](https://github.com/simonw/llm-minimax)**: [0.1](https://github.com/simonw/llm-minimax/releases/tag/0.1) - 2025-10-29
 <br />LLM plugin for accessing MiniMax models via their API
-* **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.6](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6) - ([8 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2025-10-24
-<br />Prettier formatting for ?_trace=1 traces
 * **[pytest-unused-port](https://github.com/simonw/pytest-unused-port)**: [0.2](https://github.com/simonw/pytest-unused-port/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/pytest-unused-port/releases)) - 2025-10-22
 <br />pytest fixture finding an unused local port
 * **[datasette-jsonschema-forms](https://github.com/datasette/datasette-jsonschema-forms)**: [0.0.3a1](https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1) - ([3 releases total](https://github.com/datasette/datasette-jsonschema-forms/releases)) - 2025-10-21
