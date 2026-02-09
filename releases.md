@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,083<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,084<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[showboat](https://github.com/simonw/showboat)**: [v0.3.0](https://github.com/simonw/showboat/releases/tag/v0.3.0) - ([3 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-09
+<br />Create executable documents that demonstrate an agent's work
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
 <br />Track changes to data using triggers and hidden JSON tables
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2026-02-08
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,083<!-- releases_count ends --> releases
 <br />SQLite table history tracking using a JSON audit log
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - ([9 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-06
 <br />None
-* **[showboat](https://github.com/simonw/showboat)**: [v0.2.0](https://github.com/simonw/showboat/releases/tag/v0.2.0) - ([2 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-06
-<br />Create executable documents that demonstrate an agent's work
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - ([7 releases total](https://github.com/datasette/datasette-pins/releases)) - 2026-02-05
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-youtube-embed/releases)) - 2026-02-04
