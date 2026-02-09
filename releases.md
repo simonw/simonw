@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,084<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,085<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[showboat](https://github.com/simonw/showboat)**: [v0.3.0](https://github.com/simonw/showboat/releases/tag/v0.3.0) - ([3 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-09
+* **[showboat](https://github.com/simonw/showboat)**: [v0.4.0](https://github.com/simonw/showboat/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-09
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
 <br />Track changes to data using triggers and hidden JSON tables
