@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,086<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,087<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rodney](https://github.com/simonw/rodney)**: [v0.1.0](https://github.com/simonw/rodney/releases/tag/v0.1.0) - 2026-02-09
+<br />CLI tool for interacting with the web
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
 * **[showboat](https://github.com/simonw/showboat)**: [v0.4.0](https://github.com/simonw/showboat/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-09

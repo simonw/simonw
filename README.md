@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[rodney v0.1.0](https://github.com/simonw/rodney/releases/tag/v0.1.0) - 2026-02-09
+
 [sqlite-history-json 0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - 2026-02-09
 
 [showboat v0.4.0](https://github.com/simonw/showboat/releases/tag/v0.4.0) - 2026-02-09
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-libfec 0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - 2026-02-06
 
 [datasette-pins 0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - 2026-02-05
-
-[datasette-youtube-embed 0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - 2026-02-04
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
