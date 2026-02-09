@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,082<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,083<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
+<br />Track changes to data using triggers and hidden JSON tables
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2026-02-08
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-packages/releases)) - 2026-02-08
