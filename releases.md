@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,088<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,090<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[rodney](https://github.com/simonw/rodney)**: [v0.2.0](https://github.com/simonw/rodney/releases/tag/v0.2.0) - ([2 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-10
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a10](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a10) - ([10 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-10
+<br />None
+* **[rodney](https://github.com/simonw/rodney)**: [v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - ([3 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-10
 <br />CLI tool for interacting with the web
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2,088<!-- releases_count ends --> releases
 <br />Prettier formatting for ?_trace=1 traces
 * **[datasette-packages](https://github.com/simonw/datasette-packages)**: [0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-packages/releases)) - 2026-02-08
 <br />Show a list of currently installed Python packages
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a9](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9) - ([9 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-06
-<br />None
 * **[datasette-pins](https://github.com/datasette/datasette-pins)**: [0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - ([7 releases total](https://github.com/datasette/datasette-pins/releases)) - 2026-02-05
 <br />Pin databases, tables, and other items to the Datasette homepage
 * **[datasette-youtube-embed](https://github.com/simonw/datasette-youtube-embed)**: [0.2](https://github.com/simonw/datasette-youtube-embed/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-youtube-embed/releases)) - 2026-02-04

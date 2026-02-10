@@ -1091,13 +1091,13 @@
   },
   "datasette-libfec": {
     "description": null,
-    "published_at": "2026-02-06T20:02:48Z",
-    "published_day": "2026-02-06",
-    "release": "0.0.1a9",
+    "published_at": "2026-02-10T17:59:08Z",
+    "published_day": "2026-02-10",
+    "release": "0.0.1a10",
     "repo": "datasette-libfec",
     "repo_url": "https://github.com/datasette/datasette-libfec",
-    "total_releases": 9,
-    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9"
+    "total_releases": 10,
+    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a10"
   },
   "datasette-llm": {
     "description": "LLM integration plugin for other plugins to depend on",
@@ -3181,13 +3181,13 @@
   },
   "rodney": {
     "description": "CLI tool for interacting with the web",
-    "published_at": "2026-02-10T03:49:29Z",
+    "published_at": "2026-02-10T17:48:43Z",
     "published_day": "2026-02-10",
-    "release": "v0.2.0",
+    "release": "v0.3.0",
     "repo": "rodney",
     "repo_url": "https://github.com/simonw/rodney",
-    "total_releases": 2,
-    "url": "https://github.com/simonw/rodney/releases/tag/v0.2.0"
+    "total_releases": 3,
+    "url": "https://github.com/simonw/rodney/releases/tag/v0.3.0"
   },
   "s3-credentials": {
     "description": "A tool for creating credentials for accessing S3 buckets",
