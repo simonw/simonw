@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[rodney v0.1.0](https://github.com/simonw/rodney/releases/tag/v0.1.0) - 2026-02-09
+[rodney v0.2.0](https://github.com/simonw/rodney/releases/tag/v0.2.0) - 2026-02-10
 
 [sqlite-history-json 0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - 2026-02-09
 
