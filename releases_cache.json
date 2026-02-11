@@ -1091,13 +1091,13 @@
   },
   "datasette-libfec": {
     "description": null,
-    "published_at": "2026-02-10T17:59:08Z",
-    "published_day": "2026-02-10",
-    "release": "0.0.1a10",
+    "published_at": "2026-02-11T16:36:53Z",
+    "published_day": "2026-02-11",
+    "release": "0.0.1a11",
     "repo": "datasette-libfec",
     "repo_url": "https://github.com/datasette/datasette-libfec",
-    "total_releases": 10,
-    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a10"
+    "total_releases": 11,
+    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a11"
   },
   "datasette-llm": {
     "description": "LLM integration plugin for other plugins to depend on",
