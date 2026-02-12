@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,091<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,093<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a11](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a11) - ([11 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-11
+* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
 <br />None
 * **[rodney](https://github.com/simonw/rodney)**: [v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - ([3 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-10
 <br />CLI tool for interacting with the web

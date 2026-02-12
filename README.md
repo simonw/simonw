@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-libfec 0.0.1a11](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a11) - 2026-02-11
+[datasette-libfec 0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - 2026-02-12
 
 [rodney v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - 2026-02-10
 
