@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[chartroom 0.1](https://github.com/simonw/chartroom/releases/tag/0.1) - 2026-02-14
+
 [datasette-libfec 0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - 2026-02-12
 
 [rodney v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - 2026-02-10
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-pretty-traces 0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - 2026-02-08
 
 [datasette-packages 0.3](https://github.com/simonw/datasette-packages/releases/tag/0.3) - 2026-02-08
-
-[datasette-pins 0.1a7](https://github.com/datasette/datasette-pins/releases/tag/0.1a7) - 2026-02-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

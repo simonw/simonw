@@ -119,6 +119,16 @@
     "total_releases": 1,
     "url": "https://github.com/simonw/c64/releases/tag/0.1a0"
   },
+  "chartroom": {
+    "description": "CLI tool for creating charts",
+    "published_at": "2026-02-14T16:20:23Z",
+    "published_day": "2026-02-14",
+    "release": "0.1",
+    "repo": "chartroom",
+    "repo_url": "https://github.com/simonw/chartroom",
+    "total_releases": 1,
+    "url": "https://github.com/simonw/chartroom/releases/tag/0.1"
+  },
   "claude-code-transcripts": {
     "description": "Tools for publishing transcripts for Claude Code sessions",
     "published_at": "2026-01-25T05:49:53Z",
