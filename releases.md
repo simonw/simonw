@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,094<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,097<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[chartroom](https://github.com/simonw/chartroom)**: [0.1](https://github.com/simonw/chartroom/releases/tag/0.1) - 2026-02-14
+* **[showboat](https://github.com/simonw/showboat)**: [v0.5.0](https://github.com/simonw/showboat/releases/tag/v0.5.0) - ([5 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-14
+<br />Create executable documents that demonstrate an agent's work
+* **[chartroom](https://github.com/simonw/chartroom)**: [0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/chartroom/releases)) - 2026-02-14
 <br />CLI tool for creating charts
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
 <br />None
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,094<!-- releases_count ends --> releases
 <br />CLI tool for interacting with the web
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
-* **[showboat](https://github.com/simonw/showboat)**: [v0.4.0](https://github.com/simonw/showboat/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-09
-<br />Create executable documents that demonstrate an agent's work
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
 <br />Track changes to data using triggers and hidden JSON tables
 * **[datasette-pretty-traces](https://github.com/simonw/datasette-pretty-traces)**: [0.7](https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/datasette-pretty-traces/releases)) - 2026-02-08

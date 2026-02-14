@@ -121,13 +121,13 @@
   },
   "chartroom": {
     "description": "CLI tool for creating charts",
-    "published_at": "2026-02-14T16:20:23Z",
+    "published_at": "2026-02-14T19:33:27Z",
     "published_day": "2026-02-14",
-    "release": "0.1",
+    "release": "0.2.1",
     "repo": "chartroom",
     "repo_url": "https://github.com/simonw/chartroom",
-    "total_releases": 1,
-    "url": "https://github.com/simonw/chartroom/releases/tag/0.1"
+    "total_releases": 3,
+    "url": "https://github.com/simonw/chartroom/releases/tag/0.2.1"
   },
   "claude-code-transcripts": {
     "description": "Tools for publishing transcripts for Claude Code sessions",
@@ -3241,13 +3241,13 @@
   },
   "showboat": {
     "description": "Create executable documents that demonstrate an agent's work",
-    "published_at": "2026-02-09T05:38:27Z",
-    "published_day": "2026-02-09",
-    "release": "v0.4.0",
+    "published_at": "2026-02-14T19:48:14Z",
+    "published_day": "2026-02-14",
+    "release": "v0.5.0",
     "repo": "showboat",
     "repo_url": "https://github.com/simonw/showboat",
-    "total_releases": 4,
-    "url": "https://github.com/simonw/showboat/releases/tag/v0.4.0"
+    "total_releases": 5,
+    "url": "https://github.com/simonw/showboat/releases/tag/v0.5.0"
   },
   "sphinx-to-sqlite": {
     "description": "Create a SQLite database from Sphinx documentation",
