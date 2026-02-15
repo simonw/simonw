@@ -3281,7 +3281,7 @@
   },
   "sqlite-chronicle": {
     "description": "Use triggers to track when rows in a SQLite table were updated or deleted",
-    "published_at": "2026-02-15T06:23:45Z",
+    "published_at": "2026-02-15T06:50:16Z",
     "published_day": "2026-02-15",
     "release": "0.5",
     "repo": "sqlite-chronicle",
