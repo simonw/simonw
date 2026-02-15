@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,097<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,098<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.5](https://github.com/simonw/sqlite-chronicle/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
+<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[showboat](https://github.com/simonw/showboat)**: [v0.5.0](https://github.com/simonw/showboat/releases/tag/v0.5.0) - ([5 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-14
 <br />Create executable documents that demonstrate an agent's work
 * **[chartroom](https://github.com/simonw/chartroom)**: [0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/chartroom/releases)) - 2026-02-14
@@ -203,8 +205,6 @@ Listing <!-- releases_count starts -->2,097<!-- releases_count ends --> releases
 <br />Make simple_eval available as an LLM tool
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
 <br />Enable sqlite-chronicle against tables in Datasette
-* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.4](https://github.com/simonw/sqlite-chronicle/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2025-05-13
-<br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
 <br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
