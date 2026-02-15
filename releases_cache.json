@@ -3281,13 +3281,13 @@
   },
   "sqlite-chronicle": {
     "description": "Use triggers to track when rows in a SQLite table were updated or deleted",
-    "published_at": "2026-02-15T06:50:16Z",
+    "published_at": "2026-02-15T15:12:05Z",
     "published_day": "2026-02-15",
-    "release": "0.5",
+    "release": "0.6.1",
     "repo": "sqlite-chronicle",
     "repo_url": "https://github.com/simonw/sqlite-chronicle",
-    "total_releases": 6,
-    "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.5"
+    "total_releases": 8,
+    "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1"
   },
   "sqlite-comprehend": {
     "description": "Tools for running data in a SQLite database through AWS Comprehend",

@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-chronicle 0.5](https://github.com/simonw/sqlite-chronicle/releases/tag/0.5) - 2026-02-15
+[sqlite-chronicle 0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - 2026-02-15
 
 [showboat v0.5.0](https://github.com/simonw/showboat/releases/tag/v0.5.0) - 2026-02-14
 

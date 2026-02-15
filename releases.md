@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,098<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,100<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.5](https://github.com/simonw/sqlite-chronicle/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
+* **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[showboat](https://github.com/simonw/showboat)**: [v0.5.0](https://github.com/simonw/showboat/releases/tag/v0.5.0) - ([5 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-14
 <br />Create executable documents that demonstrate an agent's work
