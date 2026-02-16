@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,100<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a0](https://github.com/simonw/datasette-showboat/releases/tag/0.1a0) - 2026-02-16
+<br />Datasette plugin for SHOWBOAT_REMOTE_URL
+* **[showboat](https://github.com/simonw/showboat)**: [v0.6.0](https://github.com/simonw/showboat/releases/tag/v0.6.0) - ([6 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-16
+<br />Create executable documents that demonstrate an agent's work
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
-* **[showboat](https://github.com/simonw/showboat)**: [v0.5.0](https://github.com/simonw/showboat/releases/tag/v0.5.0) - ([5 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-14
-<br />Create executable documents that demonstrate an agent's work
 * **[chartroom](https://github.com/simonw/chartroom)**: [0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/chartroom/releases)) - 2026-02-14
 <br />CLI tool for creating charts
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
