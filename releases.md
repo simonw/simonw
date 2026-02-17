@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,103<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17
+<br />CLI tool for interacting with the web
 * **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a0](https://github.com/simonw/datasette-showboat/releases/tag/0.1a0) - 2026-02-16
 <br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.0](https://github.com/simonw/showboat/releases/tag/v0.6.0) - ([6 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-16
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases
 <br />CLI tool for creating charts
 * **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
 <br />None
-* **[rodney](https://github.com/simonw/rodney)**: [v0.3.0](https://github.com/simonw/rodney/releases/tag/v0.3.0) - ([3 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-10
-<br />CLI tool for interacting with the web
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09

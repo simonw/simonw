@@ -3201,13 +3201,13 @@
   },
   "rodney": {
     "description": "CLI tool for interacting with the web",
-    "published_at": "2026-02-10T17:48:43Z",
-    "published_day": "2026-02-10",
-    "release": "v0.3.0",
+    "published_at": "2026-02-17T22:55:49Z",
+    "published_day": "2026-02-17",
+    "release": "v0.4.0",
     "repo": "rodney",
     "repo_url": "https://github.com/simonw/rodney",
-    "total_releases": 3,
-    "url": "https://github.com/simonw/rodney/releases/tag/v0.3.0"
+    "total_releases": 4,
+    "url": "https://github.com/simonw/rodney/releases/tag/v0.4.0"
   },
   "s3-credentials": {
     "description": "A tool for creating credentials for accessing S3 buckets",
