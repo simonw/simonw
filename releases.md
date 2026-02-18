@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,103<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,104<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - ([21 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-02-17
+<br />LLM access to models by Anthropic, including the Claude series
 * **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17
 <br />CLI tool for interacting with the web
 * **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a0](https://github.com/simonw/datasette-showboat/releases/tag/0.1a0) - 2026-02-16
@@ -87,8 +89,6 @@ Listing <!-- releases_count starts -->2,103<!-- releases_count ends --> releases
 <br />Enrich data by prompting LLMs
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
 <br />LLM accounting for Datasette
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.23](https://github.com/simonw/llm-anthropic/releases/tag/0.23) - ([20 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2025-11-25
-<br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
