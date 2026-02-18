@@ -50,6 +50,9 @@ query {
             name
             publishedAt
             url
+            author {
+              login
+            }
           }
         }
       }
@@ -79,6 +82,9 @@ query {
             name
             publishedAt
             url
+            author {
+              login
+            }
           }
         }
       }
@@ -121,16 +127,20 @@ def seed_releases_cache(oauth_token):
             if repo["name"] in SKIP_REPOS:
                 continue
             if repo["releases"]["totalCount"]:
+                release_node = repo["releases"]["nodes"][0]
+                release_author = (release_node.get("author") or {}).get("login")
+                if release_author != "simonw":
+                    continue
                 cache[repo["name"]] = {
                     "repo": repo["name"],
                     "repo_url": repo["url"],
                     "description": repo["description"],
-                    "release": repo["releases"]["nodes"][0]["name"]
+                    "release": release_node["name"]
                     .replace(repo["name"], "")
                     .strip(),
-                    "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                    "published_day": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
-                    "url": repo["releases"]["nodes"][0]["url"],
+                    "published_at": release_node["publishedAt"],
+                    "published_day": release_node["publishedAt"].split("T")[0],
+                    "url": release_node["url"],
                     "total_releases": repo["releases"]["totalCount"],
                 }
 
@@ -162,16 +172,20 @@ def fetch_and_update_releases(oauth_token):
         if repo["name"] in SKIP_REPOS:
             continue
         if repo["releases"]["totalCount"]:
+            release_node = repo["releases"]["nodes"][0]
+            release_author = (release_node.get("author") or {}).get("login")
+            if release_author != "simonw":
+                continue
             cache[repo["name"]] = {
                 "repo": repo["name"],
                 "repo_url": repo["url"],
                 "description": repo["description"],
-                "release": repo["releases"]["nodes"][0]["name"]
+                "release": release_node["name"]
                 .replace(repo["name"], "")
                 .strip(),
-                "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                "published_day": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
-                "url": repo["releases"]["nodes"][0]["url"],
+                "published_at": release_node["publishedAt"],
+                "published_day": release_node["publishedAt"].split("T")[0],
+                "url": release_node["url"],
                 "total_releases": repo["releases"]["totalCount"],
             }
 
