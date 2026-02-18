@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,104<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a1](https://github.com/simonw/datasette-showboat/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-02-18
+<br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - ([21 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-02-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17
 <br />CLI tool for interacting with the web
-* **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a0](https://github.com/simonw/datasette-showboat/releases/tag/0.1a0) - 2026-02-16
-<br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.0](https://github.com/simonw/showboat/releases/tag/v0.6.0) - ([6 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-16
 <br />Create executable documents that demonstrate an agent's work
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
