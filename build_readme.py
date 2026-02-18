@@ -44,7 +44,10 @@ query {
         name
         description
         url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
+        owner {
+          login
+        }
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 10) {
           totalCount
           nodes {
             name
@@ -76,8 +79,15 @@ query {
         name
         description
         url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
+        owner {
+          login
+        }
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 100) {
           totalCount
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
           nodes {
             name
             publishedAt
@@ -92,6 +102,77 @@ query {
   }
 }
 """
+
+GRAPHQL_REPO_RELEASES_QUERY = """
+query {
+  repository(owner: "OWNER", name: "NAME") {
+    releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 100, after: AFTER) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      nodes {
+        name
+        publishedAt
+        url
+        author {
+          login
+        }
+      }
+    }
+  }
+}
+"""
+
+
+def make_release_entry(repo_name, release_node):
+    """Build a release dict from a GraphQL release node."""
+    return {
+        "release": release_node["name"].replace(repo_name, "").strip(),
+        "published_at": release_node["publishedAt"],
+        "published_day": release_node["publishedAt"].split("T")[0],
+        "url": release_node["url"],
+    }
+
+
+def filter_releases_by_author(repo_name, release_nodes):
+    """Return release entries for releases authored by simonw."""
+    releases = []
+    for node in release_nodes:
+        author = (node.get("author") or {}).get("login")
+        if author != "simonw":
+            continue
+        releases.append(make_release_entry(repo_name, node))
+    return releases
+
+
+def fetch_all_repo_releases(oauth_token, owner, name, after_cursor):
+    """Paginate through remaining releases for a single repo."""
+    releases = []
+    has_next_page = True
+
+    while has_next_page:
+        query = (
+            GRAPHQL_REPO_RELEASES_QUERY.replace("OWNER", owner)
+            .replace("NAME", name)
+            .replace("AFTER", '"{}"'.format(after_cursor) if after_cursor else "null")
+        )
+        data = client.execute(
+            query=query,
+            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        )
+        releases_data = data["data"]["repository"]["releases"]
+        for node in releases_data["nodes"]:
+            author = (node.get("author") or {}).get("login")
+            if author != "simonw":
+                continue
+            releases.append(make_release_entry(name, node))
+
+        page_info = releases_data["pageInfo"]
+        has_next_page = page_info["hasNextPage"]
+        after_cursor = page_info["endCursor"]
+
+    return releases
 
 
 def load_releases_cache():
@@ -126,34 +207,49 @@ def seed_releases_cache(oauth_token):
         for repo in repo_nodes:
             if repo["name"] in SKIP_REPOS:
                 continue
-            if repo["releases"]["totalCount"]:
-                release_node = repo["releases"]["nodes"][0]
-                release_author = (release_node.get("author") or {}).get("login")
-                if release_author != "simonw":
-                    continue
+            if not repo["releases"]["totalCount"]:
+                continue
+
+            releases = filter_releases_by_author(
+                repo["name"], repo["releases"]["nodes"]
+            )
+
+            # Paginate if this repo has more releases
+            release_page_info = repo["releases"]["pageInfo"]
+            if release_page_info["hasNextPage"]:
+                owner = repo["owner"]["login"]
+                print(
+                    f"  Paginating releases for {owner}/{repo['name']}..."
+                )
+                releases.extend(
+                    fetch_all_repo_releases(
+                        oauth_token,
+                        owner,
+                        repo["name"],
+                        release_page_info["endCursor"],
+                    )
+                )
+
+            if releases:
                 cache[repo["name"]] = {
                     "repo": repo["name"],
                     "repo_url": repo["url"],
                     "description": repo["description"],
-                    "release": release_node["name"]
-                    .replace(repo["name"], "")
-                    .strip(),
-                    "published_at": release_node["publishedAt"],
-                    "published_day": release_node["publishedAt"].split("T")[0],
-                    "url": release_node["url"],
                     "total_releases": repo["releases"]["totalCount"],
+                    "releases": releases,
                 }
 
         after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
 
     save_releases_cache(cache)
-    print(f"Seeded cache with {len(cache)} releases")
-    return list(cache.values())
+    total_releases = sum(len(r["releases"]) for r in cache.values())
+    print(f"Seeded cache with {len(cache)} repos, {total_releases} releases")
+    return cache
 
 
 def fetch_and_update_releases(oauth_token):
-    """Fetch recent releases and merge into cache. Returns list of all releases."""
+    """Fetch recent releases and merge into cache. Returns cache dict."""
     # Load existing cache
     cache = load_releases_cache()
 
@@ -171,29 +267,58 @@ def fetch_and_update_releases(oauth_token):
     for repo in repo_nodes:
         if repo["name"] in SKIP_REPOS:
             continue
-        if repo["releases"]["totalCount"]:
-            release_node = repo["releases"]["nodes"][0]
-            release_author = (release_node.get("author") or {}).get("login")
-            if release_author != "simonw":
-                continue
+        if not repo["releases"]["totalCount"]:
+            continue
+
+        new_releases = filter_releases_by_author(
+            repo["name"], repo["releases"]["nodes"]
+        )
+
+        if repo["name"] in cache:
+            # Merge: add any new releases not already in cache
+            existing_urls = {r["url"] for r in cache[repo["name"]]["releases"]}
+            for release in new_releases:
+                if release["url"] not in existing_urls:
+                    cache[repo["name"]]["releases"].append(release)
+            # Re-sort by published_at descending
+            cache[repo["name"]]["releases"].sort(
+                key=lambda r: r["published_at"], reverse=True
+            )
+            # Update repo metadata
+            cache[repo["name"]]["description"] = repo["description"]
+            cache[repo["name"]]["total_releases"] = repo["releases"]["totalCount"]
+        elif new_releases:
             cache[repo["name"]] = {
                 "repo": repo["name"],
                 "repo_url": repo["url"],
                 "description": repo["description"],
-                "release": release_node["name"]
-                .replace(repo["name"], "")
-                .strip(),
-                "published_at": release_node["publishedAt"],
-                "published_day": release_node["publishedAt"].split("T")[0],
-                "url": release_node["url"],
                 "total_releases": repo["releases"]["totalCount"],
+                "releases": new_releases,
             }
 
     # Save updated cache
     save_releases_cache(cache)
 
-    # Return as list
-    return list(cache.values())
+    return cache
+
+
+def most_recent_releases(cache):
+    """Extract the most recent release per repo from the cache, for display."""
+    releases = []
+    for repo_data in cache.values():
+        if not repo_data["releases"]:
+            continue
+        latest = repo_data["releases"][0]
+        releases.append(
+            {
+                "repo": repo_data["repo"],
+                "repo_url": repo_data["repo_url"],
+                "description": repo_data["description"],
+                "total_releases": repo_data["total_releases"],
+                **latest,
+            }
+        )
+    return releases
 
 
 def fetch_tils():
@@ -228,9 +353,11 @@ if __name__ == "__main__":
 
     if "--seed" in sys.argv or not RELEASES_CACHE_PATH.exists():
         print("Seeding releases cache with full pagination...")
-        releases = seed_releases_cache(TOKEN)
+        cache = seed_releases_cache(TOKEN)
     else:
-        releases = fetch_and_update_releases(TOKEN)
+        cache = fetch_and_update_releases(TOKEN)
+
+    releases = most_recent_releases(cache)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n\n".join(
         [
