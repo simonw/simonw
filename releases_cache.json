@@ -229,16 +229,6 @@
     "total_releases": 5,
     "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6"
   },
-  "datasette-alerts-discord": {
-    "description": "Send alerts from datasette-alerts to Discord",
-    "published_at": "2025-08-19T23:03:23Z",
-    "published_day": "2025-08-19",
-    "release": "0.1.0a1",
-    "repo": "datasette-alerts-discord",
-    "repo_url": "https://github.com/datasette/datasette-alerts-discord",
-    "total_releases": 1,
-    "url": "https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1"
-  },
   "datasette-allow-permissions-debug": {
     "description": "Always allow access to /-/permissions, for debugging",
     "published_at": "2025-11-04T03:15:52Z",
@@ -679,26 +669,6 @@
     "total_releases": 3,
     "url": "https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1"
   },
-  "datasette-enrichments-llm": {
-    "description": "Enrich data by prompting LLMs",
-    "published_at": "2025-11-25T22:56:44Z",
-    "published_day": "2025-11-25",
-    "release": "0.1a3",
-    "repo": "datasette-enrichments-llm",
-    "repo_url": "https://github.com/datasette/datasette-enrichments-llm",
-    "total_releases": 4,
-    "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3"
-  },
-  "datasette-enrichments-opencage": {
-    "description": "Geocoding and reverse geocoding using OpenCage",
-    "published_at": "2025-11-12T23:14:57Z",
-    "published_day": "2025-11-12",
-    "release": "0.1.2a1",
-    "repo": "datasette-enrichments-opencage",
-    "repo_url": "https://github.com/datasette/datasette-enrichments-opencage",
-    "total_releases": 4,
-    "url": "https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1"
-  },
   "datasette-enrichments-quickjs": {
     "description": "Enrich data with a custom JavaScript function",
     "published_at": "2024-04-05T22:07:16Z",
@@ -1099,16 +1069,6 @@
     "total_releases": 8,
     "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2"
   },
-  "datasette-libfec": {
-    "description": null,
-    "published_at": "2026-02-12T23:15:43Z",
-    "published_day": "2026-02-12",
-    "release": "0.0.1a13",
-    "repo": "datasette-libfec",
-    "repo_url": "https://github.com/datasette/datasette-libfec",
-    "total_releases": 13,
-    "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13"
-  },
   "datasette-llm": {
     "description": "LLM integration plugin for other plugins to depend on",
     "published_at": "2026-01-22T17:10:06Z",
@@ -1118,16 +1078,6 @@
     "repo_url": "https://github.com/datasette/datasette-llm",
     "total_releases": 1,
     "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a0"
-  },
-  "datasette-llm-accountant": {
-    "description": "LLM accounting for Datasette",
-    "published_at": "2025-11-25T22:53:09Z",
-    "published_day": "2025-11-25",
-    "release": "0.1a1",
-    "repo": "datasette-llm-accountant",
-    "repo_url": "https://github.com/datasette/datasette-llm-accountant",
-    "total_releases": 2,
-    "url": "https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1"
   },
   "datasette-llm-embed": {
     "description": "Datasette plugin adding a llm_embed(model_id, text) SQL function",
@@ -1319,16 +1269,6 @@
     "total_releases": 1,
     "url": "https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4"
   },
-  "datasette-plugin-router": {
-    "description": null,
-    "published_at": "2026-01-27T05:48:48Z",
-    "published_day": "2026-01-27",
-    "release": "0.0.1a2",
-    "repo": "datasette-plugin-router",
-    "repo_url": "https://github.com/datasette/datasette-plugin-router",
-    "total_releases": 2,
-    "url": "https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2"
-  },
   "datasette-plugin-template-demo": {
     "description": "Demonstrating https://github.com/simonw/datasette-plugin",
     "published_at": "2020-06-19T23:41:42Z",
@@ -1338,16 +1278,6 @@
     "repo_url": "https://github.com/simonw/datasette-plugin-template-demo",
     "total_releases": 1,
     "url": "https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1"
-  },
-  "datasette-preact": {
-    "description": null,
-    "published_at": "2025-09-30T22:25:58Z",
-    "published_day": "2025-09-30",
-    "release": "0.0.1",
-    "repo": "datasette-preact",
-    "repo_url": "https://github.com/datasette/datasette-preact",
-    "total_releases": 1,
-    "url": "https://github.com/datasette/datasette-preact/releases/tag/0.0.1"
   },
   "datasette-pretty-json": {
     "description": "Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays",
@@ -1698,16 +1628,6 @@
     "repo_url": "https://github.com/simonw/datasette-screenshots",
     "total_releases": 1,
     "url": "https://github.com/simonw/datasette-screenshots/releases/tag/0.62"
-  },
-  "datasette-scribe": {
-    "description": null,
-    "published_at": "2024-02-23T00:36:42Z",
-    "published_day": "2024-02-23",
-    "release": "0.1a5",
-    "repo": "datasette-scribe",
-    "repo_url": "https://github.com/datasette/datasette-scribe",
-    "total_releases": 5,
-    "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a5"
   },
   "datasette-seaborn": {
     "description": "Statistical visualizations for Datasette using Seaborn",

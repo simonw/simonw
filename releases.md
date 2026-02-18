@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,073<!-- releases_count ends --> releases across <!-- project_count starts -->358<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a1](https://github.com/simonw/datasette-showboat/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-02-18
@@ -15,8 +15,6 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />Use triggers to track when rows in a SQLite table were updated or deleted
 * **[chartroom](https://github.com/simonw/chartroom)**: [0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/chartroom/releases)) - 2026-02-14
 <br />CLI tool for creating charts
-* **[datasette-libfec](https://github.com/datasette/datasette-libfec)**: [0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - ([13 releases total](https://github.com/datasette/datasette-libfec/releases)) - 2026-02-12
-<br />None
 * **[sqlite-history-json](https://github.com/simonw/sqlite-history-json)**: [0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/sqlite-history-json/releases)) - 2026-02-09
 <br />SQLite table history tracking using a JSON audit log
 * **[datasette-sqlite-history-json](https://github.com/datasette/datasette-sqlite-history-json)**: [0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
@@ -45,8 +43,6 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />A language independent conformance suite for implementations of a SQLite SELECT query parser
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - ([156 releases total](https://github.com/simonw/datasette/releases)) - 2026-01-29
 <br />An open source multi-tool for exploring and publishing data
-* **[datasette-plugin-router](https://github.com/datasette/datasette-plugin-router)**: [0.0.1a2](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a2) - ([2 releases total](https://github.com/datasette/datasette-plugin-router/releases)) - 2026-01-27
-<br />None
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
 <br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
@@ -85,10 +81,6 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />Import unstructured data (text and images) into structured tables
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a3](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-25
-<br />Enrich data by prompting LLMs
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a1](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-25
-<br />LLM accounting for Datasette
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
@@ -97,8 +89,6 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
 <br />Datasette plugin that authenticates users against GitHub
-* **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.2a1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.2a1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2025-11-12
-<br />Geocoding and reverse geocoding using OpenCage
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - ([16 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2025-11-11
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
@@ -177,12 +167,8 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />Provide information about the current OS at /-/os
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-10-06
 <br />OpenAI plugin for LLM
-* **[datasette-preact](https://github.com/datasette/datasette-preact)**: [0.0.1](https://github.com/datasette/datasette-preact/releases/tag/0.0.1) - 2025-09-30
-<br />None
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
 <br />LLM plugin for models hosted by OpenRouter
-* **[datasette-alerts-discord](https://github.com/datasette/datasette-alerts-discord)**: [0.1.0a1](https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1) - 2025-08-19
-<br />Send alerts from datasette-alerts to Discord
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
@@ -369,8 +355,6 @@ Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases
 <br />Datasette plugin that shows the schema version of every attached database
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
 <br />Explain and validate SQL queries as you type them into Datasette
-* **[datasette-scribe](https://github.com/datasette/datasette-scribe)**: [0.1a5](https://github.com/datasette/datasette-scribe/releases/tag/0.1a5) - ([5 releases total](https://github.com/datasette/datasette-scribe/releases)) - 2024-02-23
-<br />None
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-homepage-table](https://github.com/datasette/datasette-homepage-table)**: [0.2](https://github.com/datasette/datasette-homepage-table/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-homepage-table/releases)) - 2024-01-31

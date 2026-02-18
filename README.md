@@ -16,9 +16,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 [chartroom 0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - 2026-02-14
 
-[datasette-libfec 0.0.1a13](https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13) - 2026-02-12
-
 [sqlite-history-json 0.4](https://github.com/simonw/sqlite-history-json/releases/tag/0.4) - 2026-02-09
+
+[datasette-sqlite-history-json 0.1a0](https://github.com/datasette/datasette-sqlite-history-json/releases/tag/0.1a0) - 2026-02-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
