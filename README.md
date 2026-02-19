@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-endpoints 0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
+
 [datasette-files 0.1a0](https://github.com/datasette/datasette-files/releases/tag/0.1a0) - 2026-02-19
 
 [llm-gemini 0.29](https://github.com/simonw/llm-gemini/releases/tag/0.29) - 2026-02-19
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [showboat v0.6.0](https://github.com/simonw/showboat/releases/tag/v0.6.0) - 2026-02-16
 
 [sqlite-chronicle 0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - 2026-02-15
-
-[chartroom 0.2.1](https://github.com/simonw/chartroom/releases/tag/0.2.1) - 2026-02-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

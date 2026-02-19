@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,085<!-- releases_count ends --> releases across <!-- project_count starts -->362<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,086<!-- releases_count ends --> releases across <!-- project_count starts -->363<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-endpoints](https://github.com/datasette/datasette-endpoints)**: [0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
+<br />Plugin to add a /-/endpoints debug page listing all configured endpoints
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a0](https://github.com/datasette/datasette-files/releases/tag/0.1a0) - 2026-02-19
 <br />Upload files to Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.29](https://github.com/simonw/llm-gemini/releases/tag/0.29) - ([49 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-02-19

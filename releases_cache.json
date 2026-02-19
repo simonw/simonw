@@ -3715,6 +3715,20 @@
     "repo_url": "https://github.com/datasette/datasette-embeddings",
     "total_releases": 3
   },
+  "datasette-endpoints": {
+    "description": "Plugin to add a /-/endpoints debug page listing all configured endpoints",
+    "releases": [
+      {
+        "published_at": "2026-02-19T23:42:33Z",
+        "published_day": "2026-02-19",
+        "release": "0.1",
+        "url": "https://github.com/datasette/datasette-endpoints/releases/tag/0.1"
+      }
+    ],
+    "repo": "datasette-endpoints",
+    "repo_url": "https://github.com/datasette/datasette-endpoints",
+    "total_releases": 1
+  },
   "datasette-enrichments": {
     "description": "Tools for running enrichments against data stored in Datasette",
     "releases": [
