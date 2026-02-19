@@ -4431,6 +4431,20 @@
     "repo_url": "https://github.com/simonw/datasette-faiss",
     "total_releases": 3
   },
+  "datasette-files": {
+    "description": "Upload files to Datasette",
+    "releases": [
+      {
+        "published_at": "2026-02-19T22:25:14Z",
+        "published_day": "2026-02-19",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-files",
+    "repo_url": "https://github.com/datasette/datasette-files",
+    "total_releases": 1
+  },
   "datasette-glitch": {
     "description": "Utilities to help run Datasette on Glitch",
     "releases": [
