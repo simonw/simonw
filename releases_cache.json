@@ -4449,6 +4449,12 @@
     "description": "Upload files to Datasette",
     "releases": [
       {
+        "published_at": "2026-02-20T00:36:39Z",
+        "published_day": "2026-02-20",
+        "release": "0.1a1",
+        "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a1"
+      },
+      {
         "published_at": "2026-02-19T22:25:14Z",
         "published_day": "2026-02-19",
         "release": "0.1a0",
@@ -4457,6 +4463,20 @@
     ],
     "repo": "datasette-files",
     "repo_url": "https://github.com/datasette/datasette-files",
+    "total_releases": 2
+  },
+  "datasette-files-s3": {
+    "description": "datasette-files S3 backend",
+    "releases": [
+      {
+        "published_at": "2026-02-20T00:32:25Z",
+        "published_day": "2026-02-20",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-files-s3",
+    "repo_url": "https://github.com/datasette/datasette-files-s3",
     "total_releases": 1
   },
   "datasette-glitch": {
