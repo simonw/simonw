@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[showboat v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - 2026-02-23
+
 [datasette-files 0.1a1](https://github.com/datasette/datasette-files/releases/tag/0.1a1) - 2026-02-20
 
 [datasette-files-s3 0.1a0](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0) - 2026-02-20
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-anthropic 0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - 2026-02-17
 
 [rodney v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - 2026-02-17
-
-[showboat v0.6.0](https://github.com/simonw/showboat/releases/tag/v0.6.0) - 2026-02-16
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
