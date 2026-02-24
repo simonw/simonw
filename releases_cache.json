@@ -1771,7 +1771,7 @@
     ],
     "repo": "datasette-alerts",
     "repo_url": "https://github.com/datasette/datasette-alerts",
-    "total_releases": 5
+    "total_releases": 6
   },
   "datasette-allow-permissions-debug": {
     "description": "Always allow access to /-/permissions, for debugging",

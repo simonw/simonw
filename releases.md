@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,089<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,090<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
@@ -133,7 +133,7 @@ Listing <!-- releases_count starts -->2,089<!-- releases_count ends --> releases
 <br />Query databases and tables with AI assistance
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
 <br />API and UI for bulk loading data into Datasette from a URL
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - ([5 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-11-08
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - ([6 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-11-08
 <br />None
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-11-08
 <br />None
