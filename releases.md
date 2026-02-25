@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,090<!-- releases_count ends --> releases across <!-- project_count starts -->364<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,091<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
+<br />SwiftUI presentation software, every slide is a URL
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a1](https://github.com/datasette/datasette-files/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-02-20

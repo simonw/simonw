@@ -12637,6 +12637,20 @@
     "repo_url": "https://github.com/dogsheep/pocket-to-sqlite",
     "total_releases": 5
   },
+  "present": {
+    "description": "SwiftUI presentation software, every slide is a URL",
+    "releases": [
+      {
+        "published_at": "2026-02-24T23:59:12Z",
+        "published_day": "2026-02-24",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/present/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "present",
+    "repo_url": "https://github.com/simonw/present",
+    "total_releases": 1
+  },
   "preview-server": {
     "description": "Proxy server for previewing web app changes via uv",
     "releases": [
