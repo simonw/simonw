@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,091<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,092<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
+<br />An open source multi-tool for exploring and publishing data
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
@@ -51,8 +53,6 @@ Listing <!-- releases_count starts -->2,091<!-- releases_count ends --> releases
 <br />A Python package with a C module for haversine() - as a WASM experiment
 * **[sqlite-ast-conformance](https://github.com/simonw/sqlite-ast-conformance)**: [0.1](https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1) - 2026-01-30
 <br />A language independent conformance suite for implementations of a SQLite SELECT query parser
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a24](https://github.com/simonw/datasette/releases/tag/1.0a24) - ([156 releases total](https://github.com/simonw/datasette/releases)) - 2026-01-29
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-visible-internal-db](https://github.com/datasette/datasette-visible-internal-db)**: [0.1.1a2](https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2) - ([4 releases total](https://github.com/datasette/datasette-visible-internal-db/releases)) - 2026-01-26
 <br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
