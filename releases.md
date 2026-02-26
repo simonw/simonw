@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,093<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,095<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.5a0](https://github.com/simonw/dclient/releases/tag/0.5a0) - ([7 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-26
+<br />A client CLI utility for Datasette instances
+* **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
+<br />Datasette as an OAuth provider
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
 <br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
@@ -349,8 +353,6 @@ Listing <!-- releases_count starts -->2,093<!-- releases_count ends --> releases
 <br />Enrich data with a custom JavaScript function
 * **[textract-cli](https://github.com/simonw/textract-cli)**: [0.1](https://github.com/simonw/textract-cli/releases/tag/0.1) - 2024-03-29
 <br />CLI for running files through AWS Textract
-* **[dclient](https://github.com/simonw/dclient)**: [0.4](https://github.com/simonw/dclient/releases/tag/0.4) - ([6 releases total](https://github.com/simonw/dclient/releases)) - 2024-03-08
-<br />A client CLI utility for Datasette instances
 * **[datasette-saved-queries](https://github.com/simonw/datasette-saved-queries)**: [0.2.2](https://github.com/simonw/datasette-saved-queries/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-saved-queries/releases)) - 2024-03-07
 <br />Datasette plugin that lets users save and execute queries
 * **[pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite)**: [0.2.3](https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.3) - ([4 releases total](https://github.com/simonw/pypi-to-sqlite/releases)) - 2024-03-06

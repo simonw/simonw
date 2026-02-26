@@ -5827,6 +5827,20 @@
     "repo_url": "https://github.com/simonw/datasette-notebook",
     "total_releases": 4
   },
+  "datasette-oauth": {
+    "description": "Datasette as an OAuth provider",
+    "releases": [
+      {
+        "published_at": "2026-02-26T22:37:05Z",
+        "published_day": "2026-02-26",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-oauth/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-oauth",
+    "repo_url": "https://github.com/datasette/datasette-oauth",
+    "total_releases": 1
+  },
   "datasette-openai": {
     "description": "SQL functions for calling OpenAI APIs",
     "releases": [
@@ -8739,6 +8753,12 @@
     "description": "A client CLI utility for Datasette instances",
     "releases": [
       {
+        "published_at": "2026-02-26T23:06:20Z",
+        "published_day": "2026-02-26",
+        "release": "0.5a0",
+        "url": "https://github.com/simonw/dclient/releases/tag/0.5a0"
+      },
+      {
         "published_at": "2024-03-08T16:10:24Z",
         "published_day": "2024-03-08",
         "release": "0.4",
@@ -8777,7 +8797,7 @@
     ],
     "repo": "dclient",
     "repo_url": "https://github.com/simonw/dclient",
-    "total_releases": 6
+    "total_releases": 7
   },
   "denobox": {
     "description": "Run JavaScript code and WASM in a Deno sandbox",
