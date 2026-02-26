@@ -2391,6 +2391,12 @@
     "description": "Datasette plugin for authenticating access using API tokens",
     "releases": [
       {
+        "published_at": "2026-02-26T04:05:59Z",
+        "published_day": "2026-02-26",
+        "release": "0.4a12",
+        "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12"
+      },
+      {
         "published_at": "2025-11-10T21:27:55Z",
         "published_day": "2025-11-10",
         "release": "0.4a11",
@@ -2507,7 +2513,7 @@
     ],
     "repo": "datasette-auth-tokens",
     "repo_url": "https://github.com/simonw/datasette-auth-tokens",
-    "total_releases": 19
+    "total_releases": 20
   },
   "datasette-auth0": {
     "description": "Datasette plugin that authenticates users using Auth0",

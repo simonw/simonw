@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,092<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,093<!-- releases_count ends --> releases across <!-- project_count starts -->365<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
+<br />Datasette plugin for authenticating access using API tokens
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
 <br />An open source multi-tool for exploring and publishing data
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
@@ -115,8 +117,6 @@ Listing <!-- releases_count starts -->2,092<!-- releases_count ends --> releases
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5) - ([24 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-11-10
 <br />Datasette plugin for modifying table schemas
-* **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a11](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a11) - ([19 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2025-11-10
-<br />Datasette plugin for authenticating access using API tokens
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.4a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.4a0) - ([8 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2025-11-10
 <br />Upload SQLite database files to Datasette
 * **[datasette-configure-fts](https://github.com/simonw/datasette-configure-fts)**: [1.2a0](https://github.com/simonw/datasette-configure-fts/releases/tag/1.2a0) - ([15 releases total](https://github.com/simonw/datasette-configure-fts/releases)) - 2025-11-10
