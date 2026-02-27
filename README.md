@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dclient 0.5a0](https://github.com/simonw/dclient/releases/tag/0.5a0) - 2026-02-26
+[dclient 0.5a1](https://github.com/simonw/dclient/releases/tag/0.5a1) - 2026-02-26
 
 [datasette-oauth 0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
 

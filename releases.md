@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,095<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,096<!-- releases_count ends --> releases across <!-- project_count starts -->366<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dclient](https://github.com/simonw/dclient)**: [0.5a0](https://github.com/simonw/dclient/releases/tag/0.5a0) - ([7 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-26
+* **[dclient](https://github.com/simonw/dclient)**: [0.5a1](https://github.com/simonw/dclient/releases/tag/0.5a1) - ([8 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-26
 <br />A client CLI utility for Datasette instances
 * **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
 <br />Datasette as an OAuth provider
