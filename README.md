@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - 2026-03-05
+
 [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 2026-03-04
 
 [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/) - 2026-02-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Adding TILs, releases, museums, tools and research to my blog](https://simonwillison.net/2026/Feb/20/beats/) - 2026-02-20
 
 [Two new Showboat tools: Chartroom and datasette-showboat](https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/) - 2026-02-17
-
-[Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/) - 2026-02-15
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
