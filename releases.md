@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,098<!-- releases_count ends --> releases across <!-- project_count starts -->367<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,099<!-- releases_count ends --> releases across <!-- project_count starts -->367<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07
+<br />A client CLI utility for Datasette instances
 * **[datasette-table-diagram](https://github.com/datasette/datasette-table-diagram)**: [0.1a0](https://github.com/datasette/datasette-table-diagram/releases/tag/0.1a0) - 2026-03-07
 <br />Show Entity Relationship diagrams of tables in Datasette
-* **[dclient](https://github.com/simonw/dclient)**: [0.5a2](https://github.com/simonw/dclient/releases/tag/0.5a2) - ([9 releases total](https://github.com/simonw/dclient/releases)) - 2026-02-27
-<br />A client CLI utility for Datasette instances
 * **[datasette-oauth](https://github.com/datasette/datasette-oauth)**: [0.1a0](https://github.com/datasette/datasette-oauth/releases/tag/0.1a0) - 2026-02-26
 <br />Datasette as an OAuth provider
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26

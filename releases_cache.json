@@ -8767,6 +8767,12 @@
     "description": "A client CLI utility for Datasette instances",
     "releases": [
       {
+        "published_at": "2026-03-07T15:15:46Z",
+        "published_day": "2026-03-07",
+        "release": "0.5a3",
+        "url": "https://github.com/simonw/dclient/releases/tag/0.5a3"
+      },
+      {
         "published_at": "2026-02-27T05:56:05Z",
         "published_day": "2026-02-27",
         "release": "0.5a2",
@@ -8823,7 +8829,7 @@
     ],
     "repo": "dclient",
     "repo_url": "https://github.com/simonw/dclient",
-    "total_releases": 9
+    "total_releases": 10
   },
   "denobox": {
     "description": "Run JavaScript code and WASM in a Deno sandbox",
