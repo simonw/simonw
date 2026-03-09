@@ -12347,6 +12347,20 @@
     "repo_url": "https://github.com/simonw/llm-tools-docker",
     "total_releases": 1
   },
+  "llm-tools-edit": {
+    "description": "LLM plugin providing tools for editing files",
+    "releases": [
+      {
+        "published_at": "2026-03-09T19:14:43Z",
+        "published_day": "2026-03-09",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-tools-edit",
+    "repo_url": "https://github.com/simonw/llm-tools-edit",
+    "total_releases": 1
+  },
   "llm-tools-quickjs": {
     "description": "JavaScript execution as a tool for LLM",
     "releases": [

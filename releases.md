@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,099<!-- releases_count ends --> releases across <!-- project_count starts -->367<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,100<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
+<br />LLM plugin providing tools for editing files
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07
 <br />A client CLI utility for Datasette instances
 * **[datasette-table-diagram](https://github.com/datasette/datasette-table-diagram)**: [0.1a0](https://github.com/datasette/datasette-table-diagram/releases/tag/0.1a0) - 2026-03-07
