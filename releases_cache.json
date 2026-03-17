@@ -10235,6 +10235,12 @@
     "description": "Access large language models from the command-line",
     "releases": [
       {
+        "published_at": "2026-03-17T19:24:10Z",
+        "published_day": "2026-03-17",
+        "release": "0.29",
+        "url": "https://github.com/simonw/llm/releases/tag/0.29"
+      },
+      {
         "published_at": "2025-12-12T20:03:45Z",
         "published_day": "2025-12-12",
         "release": "0.28",
@@ -10573,7 +10579,7 @@
     ],
     "repo": "llm",
     "repo_url": "https://github.com/simonw/llm",
-    "total_releases": 56
+    "total_releases": 57
   },
   "llm-anthropic": {
     "description": "LLM access to models by Anthropic, including the Claude series",

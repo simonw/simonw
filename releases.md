@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,100<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,101<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
+<br />Access large language models from the command-line
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <br />LLM plugin providing tools for editing files
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07
@@ -91,8 +93,6 @@ Listing <!-- releases_count starts -->2,100<!-- releases_count ends --> releases
 <br />Tools for analyzing Git history using SQLite
 * **[s3-credentials](https://github.com/simonw/s3-credentials)**: [0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - ([19 releases total](https://github.com/simonw/s3-credentials/releases)) - 2025-12-16
 <br />A tool for creating credentials for accessing S3 buckets
-* **[llm](https://github.com/simonw/llm)**: [0.28](https://github.com/simonw/llm/releases/tag/0.28) - ([56 releases total](https://github.com/simonw/llm/releases)) - 2025-12-12
-<br />Access large language models from the command-line
 * **[datasette-redirects](https://github.com/datasette/datasette-redirects)**: [0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
 <br />Configure redirects for a Datasette instance
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - ([15 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-12-03
