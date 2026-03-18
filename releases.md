@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,101<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
+<br />An open source multi-tool for exploring and publishing data
 * **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
 <br />Access large language models from the command-line
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2,101<!-- releases_count ends --> releases
 <br />Datasette as an OAuth provider
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a12](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12) - ([20 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-02-26
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a25](https://github.com/simonw/datasette/releases/tag/1.0a25) - ([157 releases total](https://github.com/simonw/datasette/releases)) - 2026-02-26
-<br />An open source multi-tool for exploring and publishing data
 * **[present](https://github.com/simonw/present)**: [0.1a0](https://github.com/simonw/present/releases/tag/0.1a0) - 2026-02-24
 <br />SwiftUI presentation software, every slide is a URL
 * **[showboat](https://github.com/simonw/showboat)**: [v0.6.1](https://github.com/simonw/showboat/releases/tag/v0.6.1) - ([7 releases total](https://github.com/simonw/showboat/releases)) - 2026-02-23
