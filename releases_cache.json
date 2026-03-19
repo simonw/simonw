@@ -5547,7 +5547,7 @@
     ],
     "repo": "datasette-llm-accountant",
     "repo_url": "https://github.com/datasette/datasette-llm-accountant",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-llm-embed": {
     "description": "Datasette plugin adding a llm_embed(model_id, text) SQL function",

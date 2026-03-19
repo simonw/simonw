@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,103<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
@@ -103,7 +103,7 @@ Listing <!-- releases_count starts -->2,102<!-- releases_count ends --> releases
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - ([2 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-18
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - ([3 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-18
 <br />LLM accounting for Datasette
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
