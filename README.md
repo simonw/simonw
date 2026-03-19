@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) - 2026-03-19
+
 [GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/) - 2026-03-17
 
 [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) - 2026-03-14
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - 2026-03-05
 
 [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 2026-03-04
-
-[I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/) - 2026-02-25
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
