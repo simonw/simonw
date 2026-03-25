@@ -4493,6 +4493,12 @@
     "description": "datasette-files S3 backend",
     "releases": [
       {
+        "published_at": "2026-03-25T23:11:44Z",
+        "published_day": "2026-03-25",
+        "release": "0.1a2",
+        "url": "https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2"
+      },
+      {
         "published_at": "2026-03-25T21:57:05Z",
         "published_day": "2026-03-25",
         "release": "0.1a1",
@@ -4507,7 +4513,7 @@
     ],
     "repo": "datasette-files-s3",
     "repo_url": "https://github.com/datasette/datasette-files-s3",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-glitch": {
     "description": "Utilities to help run Datasette on Glitch",
