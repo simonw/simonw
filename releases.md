@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,104<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,105<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a1](https://github.com/datasette/datasette-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-25
+<br />LLM integration plugin for other plugins to depend on
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a2](https://github.com/datasette/datasette-files/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-23
 <br />Upload files to Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
@@ -69,8 +71,6 @@ Listing <!-- releases_count starts -->2,104<!-- releases_count ends --> releases
 <br />Datasette plugin for making the internal database visible for debugging
 * **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)**: [0.6](https://github.com/simonw/claude-code-transcripts/releases/tag/0.6) - ([6 releases total](https://github.com/simonw/claude-code-transcripts/releases)) - 2026-01-25
 <br />Tools for publishing transcripts for Claude Code sessions
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a0](https://github.com/datasette/datasette-llm/releases/tag/0.1a0) - 2026-01-22
-<br />LLM integration plugin for other plugins to depend on
 * **[multipart-form-data-conformance](https://github.com/simonw/multipart-form-data-conformance)**: [0.1a0](https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0) - 2026-01-22
 <br />A conformance suite for HTTP multipart form data
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2026-01-19
