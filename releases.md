@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,107<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,108<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a2](https://github.com/datasette/datasette-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-26
+<br />LLM integration plugin for other plugins to depend on
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files-s3/releases)) - 2026-03-25
 <br />datasette-files S3 backend
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a1](https://github.com/datasette/datasette-llm/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-25
-<br />LLM integration plugin for other plugins to depend on
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a2](https://github.com/datasette/datasette-files/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-23
 <br />Upload files to Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18

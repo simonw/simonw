@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-files-s3 0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - 2026-03-25
+[datasette-llm 0.1a2](https://github.com/datasette/datasette-llm/releases/tag/0.1a2) - 2026-03-26
 
-[datasette-llm 0.1a1](https://github.com/datasette/datasette-llm/releases/tag/0.1a1) - 2026-03-25
+[datasette-files-s3 0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - 2026-03-25
 
 [datasette-files 0.1a2](https://github.com/datasette/datasette-files/releases/tag/0.1a2) - 2026-03-23
 
