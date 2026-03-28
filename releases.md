@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,108<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,109<!-- releases_count ends --> releases across <!-- project_count starts -->368<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a2](https://github.com/simonw/datasette-showboat/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-03-27
+<br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a2](https://github.com/datasette/datasette-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-26
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files-s3/releases)) - 2026-03-25
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->2,108<!-- releases_count ends --> releases
 <br />Plugin to add a /-/endpoints debug page listing all configured endpoints
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.29](https://github.com/simonw/llm-gemini/releases/tag/0.29) - ([49 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-02-19
 <br />LLM plugin to access Google's Gemini family of models
-* **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a1](https://github.com/simonw/datasette-showboat/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-02-18
-<br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - ([21 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-02-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17

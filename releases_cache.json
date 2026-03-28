@@ -7693,6 +7693,12 @@
     "description": "Datasette plugin for SHOWBOAT_REMOTE_URL",
     "releases": [
       {
+        "published_at": "2026-03-27T23:42:47Z",
+        "published_day": "2026-03-27",
+        "release": "0.1a2",
+        "url": "https://github.com/simonw/datasette-showboat/releases/tag/0.1a2"
+      },
+      {
         "published_at": "2026-02-18T12:53:00Z",
         "published_day": "2026-02-18",
         "release": "0.1a1",
@@ -7707,7 +7713,7 @@
     ],
     "repo": "datasette-showboat",
     "repo_url": "https://github.com/simonw/datasette-showboat",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-simple-html": {
     "description": "Datasette SQL functions for very simple HTML operations",
