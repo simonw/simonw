@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,111<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,112<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a3](https://github.com/datasette/datasette-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-30
+<br />LLM integration plugin for other plugins to depend on
 * **[llm-mrchatterbox](https://github.com/simonw/llm-mrchatterbox)**: [0.1.1](https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-mrchatterbox/releases)) - 2026-03-30
 <br />Chat with Mr Chatterbox, trained on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899
 * **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a2](https://github.com/simonw/datasette-showboat/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-03-27
 <br />Datasette plugin for SHOWBOAT_REMOTE_URL
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a2](https://github.com/datasette/datasette-llm/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-26
-<br />LLM integration plugin for other plugins to depend on
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files-s3/releases)) - 2026-03-25
 <br />datasette-files S3 backend
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a2](https://github.com/datasette/datasette-files/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-23
