@@ -12007,6 +12007,26 @@
     "repo_url": "https://github.com/simonw/llm-mpt30b",
     "total_releases": 1
   },
+  "llm-mrchatterbox": {
+    "description": "Chat with Mr Chatterbox, trained on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899",
+    "releases": [
+      {
+        "published_at": "2026-03-30T02:39:40Z",
+        "published_day": "2026-03-30",
+        "release": "0.1.1",
+        "url": "https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1"
+      },
+      {
+        "published_at": "2026-03-30T02:20:46Z",
+        "published_day": "2026-03-30",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-mrchatterbox",
+    "repo_url": "https://github.com/simonw/llm-mrchatterbox",
+    "total_releases": 2
+  },
   "llm-nomic-api-embed": {
     "description": "Create embeddings for LLM using the Nomic API",
     "releases": [
