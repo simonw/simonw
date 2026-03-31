@@ -4467,6 +4467,12 @@
     "description": "Upload files to Datasette",
     "releases": [
       {
+        "published_at": "2026-03-30T23:58:49Z",
+        "published_day": "2026-03-30",
+        "release": "0.1a3",
+        "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a3"
+      },
+      {
         "published_at": "2026-03-23T23:06:38Z",
         "published_day": "2026-03-23",
         "release": "0.1a2",
@@ -4487,7 +4493,7 @@
     ],
     "repo": "datasette-files",
     "repo_url": "https://github.com/datasette/datasette-files",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-files-s3": {
     "description": "datasette-files S3 backend",
