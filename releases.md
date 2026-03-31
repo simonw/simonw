@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,115<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,117<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
+<br />Register async versions of models from LLM plugins that only provide a sync version
+* **[llm](https://github.com/simonw/llm)**: [0.30](https://github.com/simonw/llm/releases/tag/0.30) - ([58 releases total](https://github.com/simonw/llm/releases)) - 2026-03-31
+<br />Access large language models from the command-line
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
 <br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
@@ -17,8 +21,6 @@ Listing <!-- releases_count starts -->2,115<!-- releases_count ends --> releases
 <br />datasette-files S3 backend
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
 <br />An open source multi-tool for exploring and publishing data
-* **[llm](https://github.com/simonw/llm)**: [0.29](https://github.com/simonw/llm/releases/tag/0.29) - ([57 releases total](https://github.com/simonw/llm/releases)) - 2026-03-17
-<br />Access large language models from the command-line
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <br />LLM plugin providing tools for editing files
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07

@@ -10289,6 +10289,12 @@
     "description": "Access large language models from the command-line",
     "releases": [
       {
+        "published_at": "2026-03-31T20:35:51Z",
+        "published_day": "2026-03-31",
+        "release": "0.30",
+        "url": "https://github.com/simonw/llm/releases/tag/0.30"
+      },
+      {
         "published_at": "2026-03-17T19:24:10Z",
         "published_day": "2026-03-17",
         "release": "0.29",
@@ -10633,7 +10639,21 @@
     ],
     "repo": "llm",
     "repo_url": "https://github.com/simonw/llm",
-    "total_releases": 57
+    "total_releases": 58
+  },
+  "llm-all-models-async": {
+    "description": "Register async versions of models from LLM plugins that only provide a sync version",
+    "releases": [
+      {
+        "published_at": "2026-03-31T20:52:02Z",
+        "published_day": "2026-03-31",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-all-models-async/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-all-models-async",
+    "repo_url": "https://github.com/simonw/llm-all-models-async",
+    "total_releases": 1
   },
   "llm-anthropic": {
     "description": "LLM access to models by Anthropic, including the Claude series",
