@@ -11077,6 +11077,12 @@
     "description": "Debug plugin for LLM providing an echo model",
     "releases": [
       {
+        "published_at": "2026-03-31T16:48:59Z",
+        "published_day": "2026-03-31",
+        "release": "0.4",
+        "url": "https://github.com/simonw/llm-echo/releases/tag/0.4"
+      },
+      {
         "published_at": "2026-03-31T15:43:26Z",
         "published_day": "2026-03-31",
         "release": "0.3",
@@ -11121,7 +11127,7 @@
     ],
     "repo": "llm-echo",
     "repo_url": "https://github.com/simonw/llm-echo",
-    "total_releases": 7
+    "total_releases": 8
   },
   "llm-embed-jina": {
     "description": "Embedding models from Jina AI",

@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,114<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,115<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3](https://github.com/simonw/llm-echo/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
 <br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
 <br />Upload files to Datasette
