@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,117<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,118<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a4](https://github.com/datasette/datasette-llm/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-31
+<br />LLM integration plugin for other plugins to depend on
 * **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 <br />Register async versions of models from LLM plugins that only provide a sync version
 * **[llm](https://github.com/simonw/llm)**: [0.30](https://github.com/simonw/llm/releases/tag/0.30) - ([58 releases total](https://github.com/simonw/llm/releases)) - 2026-03-31
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,117<!-- releases_count ends --> releases
 <br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
 <br />Upload files to Datasette
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a3](https://github.com/datasette/datasette-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-30
-<br />LLM integration plugin for other plugins to depend on
 * **[llm-mrchatterbox](https://github.com/simonw/llm-mrchatterbox)**: [0.1.1](https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-mrchatterbox/releases)) - 2026-03-30
 <br />Chat with Mr Chatterbox, trained on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899
 * **[datasette-showboat](https://github.com/simonw/datasette-showboat)**: [0.1a2](https://github.com/simonw/datasette-showboat/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-showboat/releases)) - 2026-03-27
