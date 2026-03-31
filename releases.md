@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,113<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,114<!-- releases_count ends --> releases across <!-- project_count starts -->369<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3](https://github.com/simonw/llm-echo/releases/tag/0.3) - ([7 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
+<br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
 <br />Upload files to Datasette
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a3](https://github.com/datasette/datasette-llm/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-30
@@ -207,8 +209,6 @@ Listing <!-- releases_count starts -->2,113<!-- releases_count ends --> releases
 <br />LLM tools for running queries against SQLite
 * **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1) - ([4 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27
 <br />JavaScript execution as a tool for LLM
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.3a3](https://github.com/simonw/llm-echo/releases/tag/0.3a3) - ([6 releases total](https://github.com/simonw/llm-echo/releases)) - 2025-05-21
-<br />Debug plugin for LLM providing an echo model
 * **[llm-pdf-to-images](https://github.com/simonw/llm-pdf-to-images)**: [0.1](https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1) - 2025-05-18
 <br />LLM fragments plugin to load a PDF as a sequence of images
 * **[llm-tools-simpleeval](https://github.com/simonw/llm-tools-simpleeval)**: [0.1.1](https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-tools-simpleeval/releases)) - 2025-05-15
