@@ -5567,6 +5567,12 @@
     "description": "LLM integration plugin for other plugins to depend on",
     "releases": [
       {
+        "published_at": "2026-04-01T23:01:37Z",
+        "published_day": "2026-04-01",
+        "release": "0.1a6",
+        "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a6"
+      },
+      {
         "published_at": "2026-04-01T03:11:01Z",
         "published_day": "2026-04-01",
         "release": "0.1a5",
@@ -5605,7 +5611,7 @@
     ],
     "repo": "datasette-llm",
     "repo_url": "https://github.com/datasette/datasette-llm",
-    "total_releases": 6
+    "total_releases": 7
   },
   "datasette-llm-accountant": {
     "description": "LLM accounting for Datasette",
