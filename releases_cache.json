@@ -3949,6 +3949,12 @@
     "description": "Enrich data by prompting LLMs",
     "releases": [
       {
+        "published_at": "2026-04-01T03:28:44Z",
+        "published_day": "2026-04-01",
+        "release": "0.2a0",
+        "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0"
+      },
+      {
         "published_at": "2025-11-08T01:39:12Z",
         "published_day": "2025-11-08",
         "release": "0.1a2",
@@ -3969,7 +3975,7 @@
     ],
     "repo": "datasette-enrichments-llm",
     "repo_url": "https://github.com/datasette/datasette-enrichments-llm",
-    "total_releases": 4
+    "total_releases": 5
   },
   "datasette-enrichments-opencage": {
     "description": "Geocoding and reverse geocoding using OpenCage",
@@ -4343,6 +4349,12 @@
     "description": "Import unstructured data (text and images) into structured tables",
     "releases": [
       {
+        "published_at": "2026-04-01T03:32:16Z",
+        "published_day": "2026-04-01",
+        "release": "0.3a0",
+        "url": "https://github.com/datasette/datasette-extract/releases/tag/0.3a0"
+      },
+      {
         "published_at": "2025-12-03T05:13:57Z",
         "published_day": "2025-12-03",
         "release": "0.2a1",
@@ -4435,7 +4447,7 @@
     ],
     "repo": "datasette-extract",
     "repo_url": "https://github.com/datasette/datasette-extract",
-    "total_releases": 15
+    "total_releases": 16
   },
   "datasette-faiss": {
     "description": "Maintain a FAISS index for specified Datasette tables",
@@ -5639,6 +5651,12 @@
     "description": "Track usage of LLM tokens in a SQLite table",
     "releases": [
       {
+        "published_at": "2026-04-01T03:24:03Z",
+        "published_day": "2026-04-01",
+        "release": "0.2a0",
+        "url": "https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0"
+      },
+      {
         "published_at": "2025-11-08T01:41:13Z",
         "published_day": "2025-11-08",
         "release": "0.1a2",
@@ -5659,7 +5677,7 @@
     ],
     "repo": "datasette-llm-usage",
     "repo_url": "https://github.com/datasette/datasette-llm-usage",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-load": {
     "description": "API and UI for bulk loading data into Datasette from a URL",

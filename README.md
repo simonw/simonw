@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-extract 0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - 2026-04-01
+
+[datasette-enrichments-llm 0.2a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0) - 2026-04-01
+
+[datasette-llm-usage 0.2a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0) - 2026-04-01
+
 [datasette-llm 0.1a5](https://github.com/datasette/datasette-llm/releases/tag/0.1a5) - 2026-04-01
 
 [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-echo 0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - 2026-03-31
 
 [datasette-files 0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - 2026-03-30
-
-[llm-mrchatterbox 0.1.1](https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1) - 2026-03-30
-
-[datasette-showboat 0.1a2](https://github.com/simonw/datasette-showboat/releases/tag/0.1a2) - 2026-03-27
-
-[datasette-files-s3 0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - 2026-03-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

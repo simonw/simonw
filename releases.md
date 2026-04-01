@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,119<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,122<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - ([16 releases total](https://github.com/datasette/datasette-extract/releases)) - 2026-04-01
+<br />Import unstructured data (text and images) into structured tables
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0) - ([5 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
+<br />Enrich data by prompting LLMs
+* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.2a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0) - ([4 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2026-04-01
+<br />Track usage of LLM tokens in a SQLite table
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a5](https://github.com/datasette/datasette-llm/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
 <br />LLM integration plugin for other plugins to depend on
 * **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
@@ -101,8 +107,6 @@ Listing <!-- releases_count starts -->2,119<!-- releases_count ends --> releases
 <br />A tool for creating credentials for accessing S3 buckets
 * **[datasette-redirects](https://github.com/datasette/datasette-redirects)**: [0.1](https://github.com/datasette/datasette-redirects/releases/tag/0.1) - 2025-12-03
 <br />Configure redirects for a Datasette instance
-* **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.2a1](https://github.com/datasette/datasette-extract/releases/tag/0.2a1) - ([15 releases total](https://github.com/datasette/datasette-extract/releases)) - 2025-12-03
-<br />Import unstructured data (text and images) into structured tables
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
@@ -141,10 +145,6 @@ Listing <!-- releases_count starts -->2,119<!-- releases_count ends --> releases
 <br />Datasette plugin for uploading CSV files and converting them to database tables
 * **[datasette-ephemeral-tables](https://github.com/simonw/datasette-ephemeral-tables)**: [0.2.3](https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.3) - ([5 releases total](https://github.com/simonw/datasette-ephemeral-tables/releases)) - 2025-11-09
 <br />Provide tables that expire after a time limit
-* **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.1a2](https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2025-11-08
-<br />Track usage of LLM tokens in a SQLite table
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.1a2](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a2) - ([4 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2025-11-08
-<br />Enrich data by prompting LLMs
 * **[datasette-query-assistant](https://github.com/datasette/datasette-query-assistant)**: [0.1a5](https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-query-assistant/releases)) - 2025-11-08
 <br />Query databases and tables with AI assistance
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
