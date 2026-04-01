@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-llm 0.1a4](https://github.com/datasette/datasette-llm/releases/tag/0.1a4) - 2026-03-31
+[datasette-llm 0.1a5](https://github.com/datasette/datasette-llm/releases/tag/0.1a5) - 2026-04-01
 
 [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 

@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,118<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,119<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a4](https://github.com/datasette/datasette-llm/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-03-31
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a5](https://github.com/datasette/datasette-llm/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
 <br />LLM integration plugin for other plugins to depend on
 * **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 <br />Register async versions of models from LLM plugins that only provide a sync version
