@@ -3949,6 +3949,12 @@
     "description": "Enrich data by prompting LLMs",
     "releases": [
       {
+        "published_at": "2026-04-01T22:00:34Z",
+        "published_day": "2026-04-01",
+        "release": "0.2a1",
+        "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1"
+      },
+      {
         "published_at": "2026-04-01T03:28:44Z",
         "published_day": "2026-04-01",
         "release": "0.2a0",
@@ -3975,7 +3981,7 @@
     ],
     "repo": "datasette-enrichments-llm",
     "repo_url": "https://github.com/datasette/datasette-enrichments-llm",
-    "total_releases": 5
+    "total_releases": 6
   },
   "datasette-enrichments-opencage": {
     "description": "Geocoding and reverse geocoding using OpenCage",

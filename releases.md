@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,122<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,123<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
+<br />Enrich data by prompting LLMs
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - ([16 releases total](https://github.com/datasette/datasette-extract/releases)) - 2026-04-01
 <br />Import unstructured data (text and images) into structured tables
-* **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a0](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0) - ([5 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
-<br />Enrich data by prompting LLMs
 * **[datasette-llm-usage](https://github.com/datasette/datasette-llm-usage)**: [0.2a0](https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0) - ([4 releases total](https://github.com/datasette/datasette-llm-usage/releases)) - 2026-04-01
 <br />Track usage of LLM tokens in a SQLite table
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a5](https://github.com/datasette/datasette-llm/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
