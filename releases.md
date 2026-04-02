@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,124<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,125<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->2,124<!-- releases_count ends --> releases
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-endpoints](https://github.com/datasette/datasette-endpoints)**: [0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
 <br />Plugin to add a /-/endpoints debug page listing all configured endpoints
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.29](https://github.com/simonw/llm-gemini/releases/tag/0.29) - ([49 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-02-19
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - ([21 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-02-17
 <br />LLM access to models by Anthropic, including the Claude series
 * **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17
