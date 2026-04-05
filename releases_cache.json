@@ -13255,6 +13255,26 @@
     "repo_url": "https://github.com/simonw/s3-ocr",
     "total_releases": 9
   },
+  "scan-for-secrets": {
+    "description": "Scan for secrets in files you plan to share",
+    "releases": [
+      {
+        "published_at": "2026-04-05T03:39:33Z",
+        "published_day": "2026-04-05",
+        "release": "0.1.1",
+        "url": "https://github.com/simonw/scan-for-secrets/releases/tag/0.1.1"
+      },
+      {
+        "published_at": "2026-04-05T03:27:13Z",
+        "published_day": "2026-04-05",
+        "release": "0.1",
+        "url": "https://github.com/simonw/scan-for-secrets/releases/tag/0.1"
+      }
+    ],
+    "repo": "scan-for-secrets",
+    "repo_url": "https://github.com/simonw/scan-for-secrets",
+    "total_releases": 2
+  },
   "shapefile-to-sqlite": {
     "description": "Load shapefiles into a SQLite (optionally SpatiaLite) database",
     "releases": [
