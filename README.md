@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[scan-for-secrets 0.1.1](https://github.com/simonw/scan-for-secrets/releases/tag/0.1.1) - 2026-04-05
+[scan-for-secrets 0.2](https://github.com/simonw/scan-for-secrets/releases/tag/0.2) - 2026-04-05
 
 [research-llm-apis 2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
 

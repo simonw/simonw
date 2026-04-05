@@ -13259,6 +13259,12 @@
     "description": "Scan for secrets in files you plan to share",
     "releases": [
       {
+        "published_at": "2026-04-05T04:07:13Z",
+        "published_day": "2026-04-05",
+        "release": "0.2",
+        "url": "https://github.com/simonw/scan-for-secrets/releases/tag/0.2"
+      },
+      {
         "published_at": "2026-04-05T03:39:33Z",
         "published_day": "2026-04-05",
         "release": "0.1.1",
@@ -13273,7 +13279,7 @@
     ],
     "repo": "scan-for-secrets",
     "repo_url": "https://github.com/simonw/scan-for-secrets",
-    "total_releases": 2
+    "total_releases": 3
   },
   "shapefile-to-sqlite": {
     "description": "Load shapefiles into a SQLite (optionally SpatiaLite) database",
