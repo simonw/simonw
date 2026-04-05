@@ -13025,6 +13025,20 @@
     "repo_url": "https://github.com/simonw/pytest-unused-port",
     "total_releases": 2
   },
+  "research-llm-apis": {
+    "description": "Research into the HTTP APIs from various LLM providers.",
+    "releases": [
+      {
+        "published_at": "2026-04-05T00:32:11Z",
+        "published_day": "2026-04-05",
+        "release": "2026-04-04",
+        "url": "https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04"
+      }
+    ],
+    "repo": "research-llm-apis",
+    "repo_url": "https://github.com/simonw/research-llm-apis",
+    "total_releases": 1
+  },
   "rodney": {
     "description": "CLI tool for interacting with the web",
     "releases": [

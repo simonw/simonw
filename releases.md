@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,126<!-- releases_count ends --> releases across <!-- project_count starts -->370<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,127<!-- releases_count ends --> releases across <!-- project_count starts -->371<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[research-llm-apis](https://github.com/simonw/research-llm-apis)**: [2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
+<br />Research into the HTTP APIs from various LLM providers.
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - ([7 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-04-01
