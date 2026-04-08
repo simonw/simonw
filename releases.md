@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,133<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,135<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a2](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-turnstile/releases)) - 2026-04-08
+<br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-06
 <br />Find all currently running Datasette instances and list their ports
 * **[scan-for-secrets](https://github.com/simonw/scan-for-secrets)**: [0.3](https://github.com/simonw/scan-for-secrets/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/scan-for-secrets/releases)) - 2026-04-06
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->2,133<!-- releases_count ends --> releases
 <br />API for executing multiple queries within a transaction
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a0](https://github.com/datasette/datasette-public/releases/tag/0.4a0) - ([12 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-01-06
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a0](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a0) - 2025-12-30
-<br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[micro-javascript](https://github.com/simonw/micro-javascript)**: [0.1a3](https://github.com/simonw/micro-javascript/releases/tag/0.1a3) - ([4 releases total](https://github.com/simonw/micro-javascript/releases)) - 2025-12-27
 <br />Python port of MicroQuickJS
 * **[preview-server](https://github.com/simonw/preview-server)**: [0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - ([5 releases total](https://github.com/simonw/preview-server/releases)) - 2025-12-22
