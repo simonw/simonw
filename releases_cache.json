@@ -1981,6 +1981,12 @@
     "description": "Datasette plugin that adds a .atom output format",
     "releases": [
       {
+        "published_at": "2026-04-08T18:02:43Z",
+        "published_day": "2026-04-08",
+        "release": "0.10a0",
+        "url": "https://github.com/simonw/datasette-atom/releases/tag/0.10a0"
+      },
+      {
         "published_at": "2023-03-14T03:50:25Z",
         "published_day": "2023-03-14",
         "release": "0.9",
@@ -2055,7 +2061,7 @@
     ],
     "repo": "datasette-atom",
     "repo_url": "https://github.com/simonw/datasette-atom",
-    "total_releases": 12
+    "total_releases": 13
   },
   "datasette-auth-existing-cookies": {
     "description": "Datasette plugin that authenticates users based on existing domain cookies",
@@ -4583,6 +4589,12 @@
     "description": "Datasette plugin providing an automatic GraphQL API for your SQLite databases",
     "releases": [
       {
+        "published_at": "2026-04-08T18:32:44Z",
+        "published_day": "2026-04-08",
+        "release": "3.0a1",
+        "url": "https://github.com/simonw/datasette-graphql/releases/tag/3.0a1"
+      },
+      {
         "published_at": "2023-09-07T16:51:35Z",
         "published_day": "2023-09-07",
         "release": "3.0a0",
@@ -4819,7 +4831,7 @@
     ],
     "repo": "datasette-graphql",
     "repo_url": "https://github.com/simonw/datasette-graphql",
-    "total_releases": 39
+    "total_releases": 40
   },
   "datasette-gunicorn": {
     "description": "Plugin for running Datasette using Gunicorn",
@@ -9357,6 +9369,12 @@
     "description": "Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette",
     "releases": [
       {
+        "published_at": "2026-04-08T17:51:51Z",
+        "published_day": "2026-04-08",
+        "release": "0.11",
+        "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.11"
+      },
+      {
         "published_at": "2021-06-13T14:38:09Z",
         "published_day": "2021-06-13",
         "release": "0.10.2",
@@ -9479,7 +9497,7 @@
     ],
     "repo": "dogsheep-beta",
     "repo_url": "https://github.com/dogsheep/dogsheep-beta",
-    "total_releases": 20
+    "total_releases": 21
   },
   "dogsheep-photos": {
     "description": "Upload your photos to S3 and import metadata about them into a SQLite database",

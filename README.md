@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-graphql 3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - 2026-04-08
+
+[datasette-atom 0.10a0](https://github.com/simonw/datasette-atom/releases/tag/0.10a0) - 2026-04-08
+
+[dogsheep-beta 0.11](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.11) - 2026-04-08
+
 [datasette-template-sql 1.0.3](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3) - 2026-04-08
 
 [datasette-turnstile 0.1a2](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a2) - 2026-04-08
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [scan-for-secrets 0.3](https://github.com/simonw/scan-for-secrets/releases/tag/0.3) - 2026-04-06
 
 [research-llm-apis 2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
-
-[llm-gemini 0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - 2026-04-02
-
-[datasette-llm 0.1a6](https://github.com/datasette/datasette-llm/releases/tag/0.1a6) - 2026-04-01
-
-[datasette-enrichments-llm 0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - 2026-04-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
