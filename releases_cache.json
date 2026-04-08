@@ -8123,6 +8123,12 @@
     "description": "Datasette plugin for executing SQL queries from templates",
     "releases": [
       {
+        "published_at": "2026-04-08T17:28:26Z",
+        "published_day": "2026-04-08",
+        "release": "1.0.3",
+        "url": "https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3"
+      },
+      {
         "published_at": "2021-01-29T02:29:57Z",
         "published_day": "2021-01-29",
         "release": "1.0.2",
@@ -8149,7 +8155,7 @@
     ],
     "repo": "datasette-template-sql",
     "repo_url": "https://github.com/simonw/datasette-template-sql",
-    "total_releases": 4
+    "total_releases": 5
   },
   "datasette-test": {
     "description": "Utilities to help write tests for Datasette plugins and applications",

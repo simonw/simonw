@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,135<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,136<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.3](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2026-04-08
+<br />Datasette plugin for executing SQL queries from templates
 * **[datasette-turnstile](https://github.com/simonw/datasette-turnstile)**: [0.1a2](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/datasette-turnstile/releases)) - 2026-04-08
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-06
@@ -687,8 +689,6 @@ Listing <!-- releases_count starts -->2,135<!-- releases_count ends --> releases
 <br />A basemap for Datasette and datasette-leaflet
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
 <br />Datasette plugin adding the Leaflet JavaScript library
-* **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.2](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.2) - ([4 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2021-01-29
-<br />Datasette plugin for executing SQL queries from templates
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09
