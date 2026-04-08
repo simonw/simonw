@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-turnstile 0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - 2026-04-08
+
 [datasette-graphql 3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - 2026-04-08
 
 [datasette-atom 0.10a0](https://github.com/simonw/datasette-atom/releases/tag/0.10a0) - 2026-04-08
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [dogsheep-beta 0.11](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.11) - 2026-04-08
 
 [datasette-template-sql 1.0.3](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3) - 2026-04-08
-
-[datasette-turnstile 0.1a2](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a2) - 2026-04-08
 
 [datasette-ports 0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - 2026-04-06
 

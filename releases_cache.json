@@ -8335,6 +8335,12 @@
     "description": "Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile",
     "releases": [
       {
+        "published_at": "2026-04-08T19:00:34Z",
+        "published_day": "2026-04-08",
+        "release": "0.1a3",
+        "url": "https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3"
+      },
+      {
         "published_at": "2026-04-08T15:59:48Z",
         "published_day": "2026-04-08",
         "release": "0.1a2",
@@ -8355,7 +8361,7 @@
     ],
     "repo": "datasette-turnstile",
     "repo_url": "https://github.com/simonw/datasette-turnstile",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-unsafe-actor-debug": {
     "description": "Debug plugin that lets you imitate any actor",
