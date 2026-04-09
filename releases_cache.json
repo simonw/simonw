@@ -253,6 +253,12 @@
     "description": "gzip middleware for ASGI applications, extracted from Starlette",
     "releases": [
       {
+        "published_at": "2026-04-09T03:54:40Z",
+        "published_day": "2026-04-09",
+        "release": "0.3",
+        "url": "https://github.com/simonw/asgi-gzip/releases/tag/0.3"
+      },
+      {
         "published_at": "2022-10-13T23:47:49Z",
         "published_day": "2022-10-13",
         "release": "0.2",
@@ -267,7 +273,7 @@
     ],
     "repo": "asgi-gzip",
     "repo_url": "https://github.com/simonw/asgi-gzip",
-    "total_releases": 2
+    "total_releases": 3
   },
   "asgi-log-to-sqlite": {
     "description": "ASGI middleware for logging traffic to a SQLite database",
@@ -4857,6 +4863,12 @@
     "description": "Add gzip compression to Datasette",
     "releases": [
       {
+        "published_at": "2026-04-09T04:04:18Z",
+        "published_day": "2026-04-09",
+        "release": "0.3",
+        "url": "https://github.com/simonw/datasette-gzip/releases/tag/0.3"
+      },
+      {
         "published_at": "2022-04-28T16:06:51Z",
         "published_day": "2022-04-28",
         "release": "0.2",
@@ -4871,7 +4883,7 @@
     ],
     "repo": "datasette-gzip",
     "repo_url": "https://github.com/simonw/datasette-gzip",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-hashed-urls": {
     "description": "Optimize Datasette performance behind a caching proxy",
