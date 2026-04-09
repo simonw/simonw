@@ -76,15 +76,17 @@ function formatNumber(n) {
   return n < 10 ? n.toFixed(1) : Math.round(n).toLocaleString();
 }
 
-document.getElementById('form').addEventListener('submit', async (e) => {
-  e.preventDefault();
+async function checkRepo(repoInput) {
   const result = document.getElementById('result');
-  const repo = parseRepo(document.getElementById('input').value);
+  const repo = parseRepo(repoInput);
   if (!repo) {
     result.className = 'error';
     result.innerHTML = 'Enter a valid repo: <code>owner/repo</code> or a GitHub URL.';
     return;
   }
+  const url = new URL(location.href);
+  url.searchParams.set('repo', repo);
+  history.replaceState(null, '', url);
   result.className = 'success';
   result.innerHTML = 'Loading&hellip;';
   try {
@@ -102,7 +104,18 @@ document.getElementById('form').addEventListener('submit', async (e) => {
     result.className = 'error';
     result.textContent = err.message;
   }
+}
+
+document.getElementById('form').addEventListener('submit', (e) => {
+  e.preventDefault();
+  checkRepo(document.getElementById('input').value);
 });
+
+const initialRepo = new URLSearchParams(location.search).get('repo');
+if (initialRepo) {
+  document.getElementById('input').value = initialRepo;
+  checkRepo(initialRepo);
+}
 </script>
 </body>
 </html>
