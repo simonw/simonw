@@ -4271,6 +4271,12 @@
     "description": "Export a copy of a mutable SQLite database on demand",
     "releases": [
       {
+        "published_at": "2026-04-15T23:52:35Z",
+        "published_day": "2026-04-15",
+        "release": "0.3a1",
+        "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.3a1"
+      },
+      {
         "published_at": "2025-11-11T00:22:09Z",
         "published_day": "2025-11-11",
         "release": "0.3a0",
@@ -4303,7 +4309,7 @@
     ],
     "repo": "datasette-export-database",
     "repo_url": "https://github.com/datasette/datasette-export-database",
-    "total_releases": 5
+    "total_releases": 6
   },
   "datasette-export-notebook": {
     "description": "Datasette plugin providing instructions for exporting data to Jupyter or Observable",

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,145<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,146<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
+<br />Export a copy of a mutable SQLite database on demand
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - ([159 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-15
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
@@ -147,8 +149,6 @@ Listing <!-- releases_count starts -->2,145<!-- releases_count ends --> releases
 <br />Create a SQL view from a query
 * **[datasette-write](https://github.com/simonw/datasette-write)**: [0.5a0](https://github.com/simonw/datasette-write/releases/tag/0.5a0) - ([8 releases total](https://github.com/simonw/datasette-write/releases)) - 2025-11-11
 <br />Datasette plugin providing a UI for executing SQL writes against the database
-* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a0](https://github.com/datasette/datasette-export-database/releases/tag/0.3a0) - ([5 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2025-11-11
-<br />Export a copy of a mutable SQLite database on demand
 * **[datasette-events-forward](https://github.com/datasette/datasette-events-forward)**: [0.1a4](https://github.com/datasette/datasette-events-forward/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-events-forward/releases)) - 2025-11-10
 <br />Forward Datasette analytical events on to another Datasette instance
 * **[datasette-edit-schema](https://github.com/simonw/datasette-edit-schema)**: [0.8a5](https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5) - ([24 releases total](https://github.com/simonw/datasette-edit-schema/releases)) - 2025-11-10
