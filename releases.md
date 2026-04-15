@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,143<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,144<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
+<br />Find all currently running Datasette instances and list their ports
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2026-04-09
 <br />Add gzip compression to Datasette
 * **[asgi-gzip](https://github.com/simonw/asgi-gzip)**: [0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/asgi-gzip/releases)) - 2026-04-09
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,143<!-- releases_count ends --> releases
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.3](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2026-04-08
 <br />Datasette plugin for executing SQL queries from templates
-* **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.2](https://github.com/datasette/datasette-ports/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-06
-<br />Find all currently running Datasette instances and list their ports
 * **[scan-for-secrets](https://github.com/simonw/scan-for-secrets)**: [0.3](https://github.com/simonw/scan-for-secrets/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/scan-for-secrets/releases)) - 2026-04-06
 <br />Scan for secrets in files you plan to share
 * **[research-llm-apis](https://github.com/simonw/research-llm-apis)**: [2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
