@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,144<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,145<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - ([159 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-15
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
 <br />Find all currently running Datasette instances and list their ports
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2026-04-09
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->2,144<!-- releases_count ends --> releases
 <br />Datasette plugin for SHOWBOAT_REMOTE_URL
 * **[datasette-files-s3](https://github.com/datasette/datasette-files-s3)**: [0.1a2](https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-files-s3/releases)) - 2026-03-25
 <br />datasette-files S3 backend
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a26](https://github.com/simonw/datasette/releases/tag/1.0a26) - ([158 releases total](https://github.com/simonw/datasette/releases)) - 2026-03-18
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-tools-edit](https://github.com/simonw/llm-tools-edit)**: [0.1a0](https://github.com/simonw/llm-tools-edit/releases/tag/0.1a0) - 2026-03-09
 <br />LLM plugin providing tools for editing files
 * **[dclient](https://github.com/simonw/dclient)**: [0.5a3](https://github.com/simonw/dclient/releases/tag/0.5a3) - ([10 releases total](https://github.com/simonw/dclient/releases)) - 2026-03-07
