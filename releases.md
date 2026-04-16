@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,146<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,147<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - ([22 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-04-16
+<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
 <br />Export a copy of a mutable SQLite database on demand
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - ([159 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-15
@@ -67,8 +69,6 @@ Listing <!-- releases_count starts -->2,146<!-- releases_count ends --> releases
 <br />Create executable documents that demonstrate an agent's work
 * **[datasette-endpoints](https://github.com/datasette/datasette-endpoints)**: [0.1](https://github.com/datasette/datasette-endpoints/releases/tag/0.1) - 2026-02-19
 <br />Plugin to add a /-/endpoints debug page listing all configured endpoints
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.24](https://github.com/simonw/llm-anthropic/releases/tag/0.24) - ([21 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-02-17
-<br />LLM access to models by Anthropic, including the Claude series
 * **[rodney](https://github.com/simonw/rodney)**: [v0.4.0](https://github.com/simonw/rodney/releases/tag/v0.4.0) - ([4 releases total](https://github.com/simonw/rodney/releases)) - 2026-02-17
 <br />CLI tool for interacting with the web
 * **[sqlite-chronicle](https://github.com/simonw/sqlite-chronicle)**: [0.6.1](https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1) - ([8 releases total](https://github.com/simonw/sqlite-chronicle/releases)) - 2026-02-15
