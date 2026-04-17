@@ -4,11 +4,13 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-public 0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - 2026-04-17
+
+[datasette 1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - 2026-04-17
+
 [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - 2026-04-16
 
 [datasette-export-database 0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - 2026-04-15
-
-[datasette 1.0a27](https://github.com/simonw/datasette/releases/tag/1.0a27) - 2026-04-15
 
 [datasette-ports 0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - 2026-04-15
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - 2026-04-09
 
 [datasette-turnstile 0.1a3](https://github.com/simonw/datasette-turnstile/releases/tag/0.1a3) - 2026-04-08
-
-[datasette-graphql 3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - 2026-04-08
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

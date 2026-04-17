@@ -751,6 +751,12 @@
     "description": "An open source multi-tool for exploring and publishing data",
     "releases": [
       {
+        "published_at": "2026-04-17T04:01:56Z",
+        "published_day": "2026-04-17",
+        "release": "1.0a28",
+        "url": "https://github.com/simonw/datasette/releases/tag/1.0a28"
+      },
+      {
         "published_at": "2026-04-15T23:16:34Z",
         "published_day": "2026-04-15",
         "release": "1.0a27",
@@ -1707,7 +1713,7 @@
     ],
     "repo": "datasette",
     "repo_url": "https://github.com/simonw/datasette",
-    "total_releases": 159
+    "total_releases": 160
   },
   "datasette-acl": {
     "description": "Advanced permission management for Datasette",
@@ -6425,6 +6431,12 @@
     "description": "Make selected Datasette databases and tables visible to the public",
     "releases": [
       {
+        "published_at": "2026-04-17T04:30:22Z",
+        "published_day": "2026-04-17",
+        "release": "0.4a1",
+        "url": "https://github.com/datasette/datasette-public/releases/tag/0.4a1"
+      },
+      {
         "published_at": "2026-01-06T16:44:15Z",
         "published_day": "2026-01-06",
         "release": "0.4a0",
@@ -6499,7 +6511,7 @@
     ],
     "repo": "datasette-public",
     "repo_url": "https://github.com/datasette/datasette-public",
-    "total_releases": 12
+    "total_releases": 13
   },
   "datasette-publish-azure": {
     "description": "Publish Datasette instances to Azure Functions (in progress)",
