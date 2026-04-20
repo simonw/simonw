@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[SQL functions in Google Sheets to fetch data from Datasette](https://til.simonwillison.net/google-sheets/datasette-sql) - 2026-04-20
+
 [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
 
 [Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Taking Neon I at the Crucible](https://til.simonwillison.net/neon/neon-1) - 2026-01-11
 
 [Downloading archived Git repositories from archive.softwareheritage.org](https://til.simonwillison.net/github/software-archive-recovery) - 2025-12-30
-
-[Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
