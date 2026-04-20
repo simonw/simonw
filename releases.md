@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,149<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,150<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-04-20
+<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - ([160 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-17
@@ -211,8 +213,6 @@ Listing <!-- releases_count starts -->2,149<!-- releases_count ends --> releases
 <br />Provide information about the current OS at /-/os
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-10-06
 <br />OpenAI plugin for LLM
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5) - ([6 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2025-09-20
-<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
