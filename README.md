@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-openai-via-codex 0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
+
 [llm-openrouter 0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - 2026-04-20
 
 [datasette-public 0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - 2026-04-17
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-ports 0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - 2026-04-15
 
 [datasette-gzip 0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - 2026-04-09
-
-[asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) - 2026-04-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

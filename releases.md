@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,150<!-- releases_count ends --> releases across <!-- project_count starts -->373<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,151<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
+<br />Access OpenAI models via an existing Codex subscription
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-04-20
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17

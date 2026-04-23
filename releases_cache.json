@@ -12317,6 +12317,20 @@
     "repo_url": "https://github.com/simonw/llm-openai-plugin",
     "total_releases": 9
   },
+  "llm-openai-via-codex": {
+    "description": "Access OpenAI models via an existing Codex subscription",
+    "releases": [
+      {
+        "published_at": "2026-04-23T19:22:29Z",
+        "published_day": "2026-04-23",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-openai-via-codex",
+    "repo_url": "https://github.com/simonw/llm-openai-via-codex",
+    "total_releases": 1
+  },
   "llm-openrouter": {
     "description": "LLM plugin for models hosted by OpenRouter",
     "releases": [
