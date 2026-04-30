@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,153<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,154<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.32a0](https://github.com/simonw/llm/releases/tag/0.32a0) - ([60 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
+* **[llm](https://github.com/simonw/llm)**: [0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - ([61 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
 <br />Access large language models from the command-line
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <br />Access OpenAI models via an existing Codex subscription

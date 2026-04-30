@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm 0.32a0](https://github.com/simonw/llm/releases/tag/0.32a0) - 2026-04-29
+[llm 0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - 2026-04-29
 
 [llm-openai-via-codex 0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 
