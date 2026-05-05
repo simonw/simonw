@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,154<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,155<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
+<br />Debug plugin for LLM providing an echo model
 * **[llm](https://github.com/simonw/llm)**: [0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - ([61 releases total](https://github.com/simonw/llm/releases)) - 2026-04-29
 <br />Access large language models from the command-line
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
@@ -49,8 +51,6 @@ Listing <!-- releases_count starts -->2,154<!-- releases_count ends --> releases
 <br />Track usage of LLM tokens in a SQLite table
 * **[llm-all-models-async](https://github.com/simonw/llm-all-models-async)**: [0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1) - 2026-03-31
 <br />Register async versions of models from LLM plugins that only provide a sync version
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.4](https://github.com/simonw/llm-echo/releases/tag/0.4) - ([8 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-03-31
-<br />Debug plugin for LLM providing an echo model
 * **[datasette-files](https://github.com/datasette/datasette-files)**: [0.1a3](https://github.com/datasette/datasette-files/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-files/releases)) - 2026-03-30
 <br />Upload files to Datasette
 * **[llm-mrchatterbox](https://github.com/simonw/llm-mrchatterbox)**: [0.1.1](https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/llm-mrchatterbox/releases)) - 2026-03-30
