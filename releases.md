@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,156<!-- releases_count ends --> releases across <!-- project_count starts -->374<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,157<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
+<br />Set the Referrer-Policy header for a Datasette site
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-05
 <br />LLM integration plugin for other plugins to depend on
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05

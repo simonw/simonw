@@ -6937,6 +6937,20 @@
     "repo_url": "https://github.com/datasette/datasette-redirects",
     "total_releases": 1
   },
+  "datasette-referrer-policy": {
+    "description": "Set the Referrer-Policy header for a Datasette site",
+    "releases": [
+      {
+        "published_at": "2026-05-05T23:44:27Z",
+        "published_day": "2026-05-05",
+        "release": "0.1",
+        "url": "https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1"
+      }
+    ],
+    "repo": "datasette-referrer-policy",
+    "repo_url": "https://github.com/datasette/datasette-referrer-policy",
+    "total_releases": 1
+  },
   "datasette-remote-actors": {
     "description": "Datasette plugin for fetching details of actors from a remote endpoint",
     "releases": [
