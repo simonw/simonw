@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,157<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,158<!-- releases_count ends --> releases across <!-- project_count starts -->375<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 <br />Set the Referrer-Policy header for a Datasette site
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-05
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->2,157<!-- releases_count ends --> releases
 <br />Scan for secrets in files you plan to share
 * **[research-llm-apis](https://github.com/simonw/research-llm-apis)**: [2026-04-04](https://github.com/simonw/research-llm-apis/releases/tag/2026-04-04) - 2026-04-05
 <br />Research into the HTTP APIs from various LLM providers.
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.30](https://github.com/simonw/llm-gemini/releases/tag/0.30) - ([50 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-04-02
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)**: [0.2a1](https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1) - ([6 releases total](https://github.com/datasette/datasette-enrichments-llm/releases)) - 2026-04-01
 <br />Enrich data by prompting LLMs
 * **[datasette-extract](https://github.com/datasette/datasette-extract)**: [0.3a0](https://github.com/datasette/datasette-extract/releases/tag/0.3a0) - ([16 releases total](https://github.com/datasette/datasette-extract/releases)) - 2026-04-01
