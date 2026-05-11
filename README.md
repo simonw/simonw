@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using LLM in the shebang line of a script](https://til.simonwillison.net/llms/llm-shebang) - 2026-05-11
+
 [SQL functions in Google Sheets to fetch data from Datasette](https://til.simonwillison.net/google-sheets/datasette-sql) - 2026-04-20
 
 [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
 
 [Taking Neon I at the Crucible](https://til.simonwillison.net/neon/neon-1) - 2026-01-11
-
-[Downloading archived Git repositories from archive.softwareheritage.org](https://til.simonwillison.net/github/software-archive-recovery) - 2025-12-30
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
