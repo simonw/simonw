@@ -1797,6 +1797,20 @@
     "repo_url": "https://github.com/datasette/datasette-agent",
     "total_releases": 1
   },
+  "datasette-agent-charts": {
+    "description": "Observable Plot charts for Datasette Agent",
+    "releases": [
+      {
+        "published_at": "2026-05-12T21:41:08Z",
+        "published_day": "2026-05-12",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-agent-charts",
+    "repo_url": "https://github.com/datasette/datasette-agent-charts",
+    "total_releases": 1
+  },
   "datasette-alerts": {
     "description": null,
     "releases": [
