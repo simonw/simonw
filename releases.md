@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,161<!-- releases_count ends --> releases across <!-- project_count starts -->377<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,162<!-- releases_count ends --> releases across <!-- project_count starts -->378<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
+<br />Generate images in Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
 <br />Observable Plot charts for Datasette Agent
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a0](https://github.com/datasette/datasette-agent/releases/tag/0.1a0) - 2026-05-12

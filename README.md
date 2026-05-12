@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-agent-openai-imagegen 0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
+
 [datasette-agent-charts 0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
 
 [datasette-agent 0.1a0](https://github.com/datasette/datasette-agent/releases/tag/0.1a0) - 2026-05-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-llm 0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - 2026-05-05
 
 [llm-echo 0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - 2026-05-05
-
-[llm-openai-via-codex 0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
