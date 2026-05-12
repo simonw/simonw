@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,162<!-- releases_count ends --> releases across <!-- project_count starts -->378<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,163<!-- releases_count ends --> releases across <!-- project_count starts -->378<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 <br />Generate images in Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->2,162<!-- releases_count ends --> releases
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a28](https://github.com/simonw/datasette/releases/tag/1.0a28) - ([160 releases total](https://github.com/simonw/datasette/releases)) - 2026-04-17
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) - ([22 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-04-16
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
