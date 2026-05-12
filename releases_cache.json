@@ -10455,6 +10455,12 @@
     "description": "Access large language models from the command-line",
     "releases": [
       {
+        "published_at": "2026-05-12T17:45:07Z",
+        "published_day": "2026-05-12",
+        "release": "0.32a2",
+        "url": "https://github.com/simonw/llm/releases/tag/0.32a2"
+      },
+      {
         "published_at": "2026-04-29T23:52:50Z",
         "published_day": "2026-04-29",
         "release": "0.32a1",
@@ -10823,7 +10829,7 @@
     ],
     "repo": "llm",
     "repo_url": "https://github.com/simonw/llm",
-    "total_releases": 61
+    "total_releases": 62
   },
   "llm-all-models-async": {
     "description": "Register async versions of models from LLM plugins that only provide a sync version",

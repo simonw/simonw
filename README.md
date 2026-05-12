@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - 2026-05-12
+
 [llm-gemini 0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - 2026-05-07
 
 [datasette-referrer-policy 0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-llm 0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - 2026-05-05
 
 [llm-echo 0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - 2026-05-05
-
-[llm 0.32a1](https://github.com/simonw/llm/releases/tag/0.32a1) - 2026-04-29
 
 [llm-openai-via-codex 0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 
