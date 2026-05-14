@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,165<!-- releases_count ends --> releases across <!-- project_count starts -->379<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,166<!-- releases_count ends --> releases across <!-- project_count starts -->379<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a1](https://github.com/datasette/datasette-agent/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-14
+<br />An LLM-powered agent for Datasette
 * **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
 <br />Rate limit Datasette requests by client IP address
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,165<!-- releases_count ends --> releases
 <br />Generate images in Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
 <br />Observable Plot charts for Datasette Agent
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a0](https://github.com/datasette/datasette-agent/releases/tag/0.1a0) - 2026-05-12
-<br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
 <br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07

@@ -1793,6 +1793,12 @@
     "description": "An LLM-powered agent for Datasette",
     "releases": [
       {
+        "published_at": "2026-05-14T22:01:42Z",
+        "published_day": "2026-05-14",
+        "release": "0.1a1",
+        "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a1"
+      },
+      {
         "published_at": "2026-05-12T21:29:33Z",
         "published_day": "2026-05-12",
         "release": "0.1a0",
@@ -1801,7 +1807,7 @@
     ],
     "repo": "datasette-agent",
     "repo_url": "https://github.com/datasette/datasette-agent",
-    "total_releases": 1
+    "total_releases": 2
   },
   "datasette-agent-charts": {
     "description": "Observable Plot charts for Datasette Agent",
