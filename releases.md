@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,164<!-- releases_count ends --> releases across <!-- project_count starts -->378<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,165<!-- releases_count ends --> releases across <!-- project_count starts -->379<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
+<br />Rate limit Datasette requests by client IP address
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12

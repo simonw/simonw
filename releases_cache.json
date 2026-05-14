@@ -5353,6 +5353,20 @@
     "repo_url": "https://github.com/simonw/datasette-insert-unsafe",
     "total_releases": 1
   },
+  "datasette-ip-rate-limit": {
+    "description": "Rate limit Datasette requests by client IP address",
+    "releases": [
+      {
+        "published_at": "2026-05-14T04:10:23Z",
+        "published_day": "2026-05-14",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-ip-rate-limit",
+    "repo_url": "https://github.com/datasette/datasette-ip-rate-limit",
+    "total_releases": 1
+  },
   "datasette-jellyfish": {
     "description": "Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish",
     "releases": [
