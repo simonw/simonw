@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,166<!-- releases_count ends --> releases across <!-- project_count starts -->379<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,168<!-- releases_count ends --> releases across <!-- project_count starts -->380<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a1](https://github.com/datasette/datasette-agent/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-14
+* **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
+<br />Plugin for configuring periodic limits on LLM usage in Datasette
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a2](https://github.com/datasette/datasette-agent/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-15
 <br />An LLM-powered agent for Datasette
 * **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
 <br />Rate limit Datasette requests by client IP address
