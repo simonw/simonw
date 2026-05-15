@@ -10453,6 +10453,20 @@
     "repo_url": "https://github.com/simonw/image-diff",
     "total_releases": 4
   },
+  "inaturalist-clumper": {
+    "description": "Group iNaturalist sightings into clumps",
+    "releases": [
+      {
+        "published_at": "2026-05-15T23:53:11Z",
+        "published_day": "2026-05-15",
+        "release": "0.1",
+        "url": "https://github.com/simonw/inaturalist-clumper/releases/tag/0.1"
+      }
+    ],
+    "repo": "inaturalist-clumper",
+    "repo_url": "https://github.com/simonw/inaturalist-clumper",
+    "total_releases": 1
+  },
   "inaturalist-to-sqlite": {
     "description": "Create a SQLite database containing your observation history from iNaturalist",
     "releases": [

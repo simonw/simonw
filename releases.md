@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,168<!-- releases_count ends --> releases across <!-- project_count starts -->380<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,169<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[inaturalist-clumper](https://github.com/simonw/inaturalist-clumper)**: [0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
+<br />Group iNaturalist sightings into clumps
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
 <br />Plugin for configuring periodic limits on LLM usage in Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a2](https://github.com/datasette/datasette-agent/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-15
