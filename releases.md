@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,169<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,172<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
+<br />LLM accounting for Datasette
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32a0](https://github.com/simonw/llm-gemini/releases/tag/0.32a0) - ([52 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
+<br />LLM plugin to access Google's Gemini family of models
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-19
+<br />LLM integration plugin for other plugins to depend on
 * **[inaturalist-clumper](https://github.com/simonw/inaturalist-clumper)**: [0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
 <br />Group iNaturalist sightings into clumps
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
@@ -19,12 +25,8 @@ Listing <!-- releases_count starts -->2,169<!-- releases_count ends --> releases
 <br />Observable Plot charts for Datasette Agent
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
 <br />Access large language models from the command-line
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.31](https://github.com/simonw/llm-gemini/releases/tag/0.31) - ([51 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-07
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 <br />Set the Referrer-Policy header for a Datasette site
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7) - ([8 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-05
-<br />LLM integration plugin for other plugins to depend on
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
 <br />Debug plugin for LLM providing an echo model
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
@@ -151,8 +153,6 @@ Listing <!-- releases_count starts -->2,169<!-- releases_count ends --> releases
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
-* **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a0) - ([4 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2025-11-18
-<br />LLM accounting for Datasette
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16

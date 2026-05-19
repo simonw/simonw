@@ -5683,6 +5683,12 @@
     "description": "LLM integration plugin for other plugins to depend on",
     "releases": [
       {
+        "published_at": "2026-05-19T20:28:16Z",
+        "published_day": "2026-05-19",
+        "release": "0.1a8",
+        "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a8"
+      },
+      {
         "published_at": "2026-05-05T01:56:55Z",
         "published_day": "2026-05-05",
         "release": "0.1a7",
@@ -5733,11 +5739,17 @@
     ],
     "repo": "datasette-llm",
     "repo_url": "https://github.com/datasette/datasette-llm",
-    "total_releases": 8
+    "total_releases": 9
   },
   "datasette-llm-accountant": {
     "description": "LLM accounting for Datasette",
     "releases": [
+      {
+        "published_at": "2026-05-19T20:45:43Z",
+        "published_day": "2026-05-19",
+        "release": "0.1a4",
+        "url": "https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4"
+      },
       {
         "published_at": "2025-11-18T01:23:03Z",
         "published_day": "2025-11-18",
@@ -5747,7 +5759,7 @@
     ],
     "repo": "datasette-llm-accountant",
     "repo_url": "https://github.com/datasette/datasette-llm-accountant",
-    "total_releases": 4
+    "total_releases": 5
   },
   "datasette-llm-embed": {
     "description": "Datasette plugin adding a llm_embed(model_id, text) SQL function",
@@ -11591,6 +11603,12 @@
     "description": "LLM plugin to access Google's Gemini family of models",
     "releases": [
       {
+        "published_at": "2026-05-19T20:36:23Z",
+        "published_day": "2026-05-19",
+        "release": "0.32a0",
+        "url": "https://github.com/simonw/llm-gemini/releases/tag/0.32a0"
+      },
+      {
         "published_at": "2026-05-07T19:57:06Z",
         "published_day": "2026-05-07",
         "release": "0.31",
@@ -11899,7 +11917,7 @@
     ],
     "repo": "llm-gemini",
     "repo_url": "https://github.com/simonw/llm-gemini",
-    "total_releases": 51
+    "total_releases": 52
   },
   "llm-gguf": {
     "description": "Run models distributed as GGUF files using LLM",

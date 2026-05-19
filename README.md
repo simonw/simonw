@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-llm-accountant 0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - 2026-05-19
+
+[llm-gemini 0.32a0](https://github.com/simonw/llm-gemini/releases/tag/0.32a0) - 2026-05-19
+
+[datasette-llm 0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - 2026-05-19
+
 [inaturalist-clumper 0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
 
 [datasette-llm-limits 0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-ip-rate-limit 0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
 
 [datasette 1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - 2026-05-12
-
-[datasette-agent-openai-imagegen 0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
-
-[datasette-agent-charts 0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
-
-[llm 0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - 2026-05-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
