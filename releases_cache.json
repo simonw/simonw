@@ -11603,6 +11603,12 @@
     "description": "LLM plugin to access Google's Gemini family of models",
     "releases": [
       {
+        "published_at": "2026-05-19T23:46:27Z",
+        "published_day": "2026-05-19",
+        "release": "0.32",
+        "url": "https://github.com/simonw/llm-gemini/releases/tag/0.32"
+      },
+      {
         "published_at": "2026-05-19T20:36:23Z",
         "published_day": "2026-05-19",
         "release": "0.32a0",
@@ -11917,7 +11923,7 @@
     ],
     "repo": "llm-gemini",
     "repo_url": "https://github.com/simonw/llm-gemini",
-    "total_releases": 52
+    "total_releases": 53
   },
   "llm-gguf": {
     "description": "Run models distributed as GGUF files using LLM",

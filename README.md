@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-llm-accountant 0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - 2026-05-19
+[llm-gemini 0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - 2026-05-19
 
-[llm-gemini 0.32a0](https://github.com/simonw/llm-gemini/releases/tag/0.32a0) - 2026-05-19
+[datasette-llm-accountant 0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - 2026-05-19
 
 [datasette-llm 0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - 2026-05-19
 

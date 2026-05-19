@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,172<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,173<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - ([53 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
 <br />LLM accounting for Datasette
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32a0](https://github.com/simonw/llm-gemini/releases/tag/0.32a0) - ([52 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-19
 <br />LLM integration plugin for other plugins to depend on
 * **[inaturalist-clumper](https://github.com/simonw/inaturalist-clumper)**: [0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
