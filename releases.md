@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,173<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,174<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a1](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-20
+<br />Observable Plot charts for Datasette Agent
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - ([53 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->2,173<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 <br />Generate images in Datasette Agent
-* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a0](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0) - 2026-05-12
-<br />Observable Plot charts for Datasette Agent
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
 <br />Access large language models from the command-line
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
