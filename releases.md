@@ -1,10 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,174<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,176<!-- releases_count ends --> releases across <!-- project_count starts -->381<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a1](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-20
+* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-21
 <br />Observable Plot charts for Datasette Agent
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a3](https://github.com/datasette/datasette-agent/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-21
+<br />An LLM-powered agent for Datasette
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - ([53 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2,174<!-- releases_count ends --> releases
 <br />Group iNaturalist sightings into clumps
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a0](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0) - 2026-05-15
 <br />Plugin for configuring periodic limits on LLM usage in Datasette
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a2](https://github.com/datasette/datasette-agent/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-15
-<br />An LLM-powered agent for Datasette
 * **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
 <br />Rate limit Datasette requests by client IP address
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
