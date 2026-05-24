@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,178<!-- releases_count ends --> releases across <!-- project_count starts -->382<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,179<!-- releases_count ends --> releases across <!-- project_count starts -->382<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a30](https://github.com/simonw/datasette/releases/tag/1.0a30) - ([162 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-24
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a1](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-05-21
 <br />Plugin for configuring periodic limits on LLM usage in Datasette
 * **[datasette-agent-sprites](https://github.com/datasette/datasette-agent-sprites)**: [0.1a0](https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0) - 2026-05-21
@@ -21,8 +23,6 @@ Listing <!-- releases_count starts -->2,178<!-- releases_count ends --> releases
 <br />Group iNaturalist sightings into clumps
 * **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
 <br />Rate limit Datasette requests by client IP address
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a29](https://github.com/simonw/datasette/releases/tag/1.0a29) - ([161 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-12
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 <br />Generate images in Datasette Agent
 * **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
