@@ -4667,6 +4667,20 @@
     "repo_url": "https://github.com/datasette/datasette-files-s3",
     "total_releases": 3
   },
+  "datasette-fixtures": {
+    "description": "Add a fixtures test database to Datasette",
+    "releases": [
+      {
+        "published_at": "2026-05-24T21:38:32Z",
+        "published_day": "2026-05-24",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-fixtures",
+    "repo_url": "https://github.com/datasette/datasette-fixtures",
+    "total_releases": 1
+  },
   "datasette-glitch": {
     "description": "Utilities to help run Datasette on Glitch",
     "releases": [

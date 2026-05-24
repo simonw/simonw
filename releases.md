@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,179<!-- releases_count ends --> releases across <!-- project_count starts -->382<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,180<!-- releases_count ends --> releases across <!-- project_count starts -->383<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
+<br />Add a fixtures test database to Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a30](https://github.com/simonw/datasette/releases/tag/1.0a30) - ([162 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-24
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a1](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-05-21
