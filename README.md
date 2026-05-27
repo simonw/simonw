@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 2026-05-27
+
 [Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/) - 2026-05-25
 
 [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/) - 2026-05-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - 2026-05-19
 
 [Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/) - 2026-05-07
-
-[Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/) - 2026-05-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
