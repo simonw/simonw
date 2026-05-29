@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a31](https://github.com/simonw/datasette/releases/tag/1.0a31) - 2026-05-29
+
 [llm-anthropic 0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - 2026-05-28
 
 [datasette-agent 0.1a4](https://github.com/datasette/datasette-agent/releases/tag/0.1a4) - 2026-05-24
 
 [datasette-fixtures 0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
-
-[datasette 1.0a30](https://github.com/simonw/datasette/releases/tag/1.0a30) - 2026-05-24
 
 [datasette-llm-limits 0.1a1](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1) - 2026-05-21
 
