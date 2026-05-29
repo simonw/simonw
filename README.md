@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - 2026-05-28
+
 [datasette-agent 0.1a4](https://github.com/datasette/datasette-agent/releases/tag/0.1a4) - 2026-05-24
 
 [datasette-fixtures 0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-agent-charts 0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - 2026-05-21
 
 [llm-gemini 0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - 2026-05-19
-
-[datasette-llm-accountant 0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - 2026-05-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/) - 2026-05-28
+
 [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 2026-05-27
 
 [Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/) - 2026-05-25
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/) - 2026-05-19
 
 [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - 2026-05-19
-
-[Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/) - 2026-05-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
