@@ -751,6 +751,12 @@
     "description": "An open source multi-tool for exploring and publishing data",
     "releases": [
       {
+        "published_at": "2026-05-31T23:23:38Z",
+        "published_day": "2026-05-31",
+        "release": "1.0a32",
+        "url": "https://github.com/simonw/datasette/releases/tag/1.0a32"
+      },
+      {
         "published_at": "2026-05-29T03:32:02Z",
         "published_day": "2026-05-29",
         "release": "1.0a31",
@@ -1731,7 +1737,7 @@
     ],
     "repo": "datasette",
     "repo_url": "https://github.com/simonw/datasette",
-    "total_releases": 163
+    "total_releases": 164
   },
   "datasette-acl": {
     "description": "Advanced permission management for Datasette",
