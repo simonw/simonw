@@ -1871,6 +1871,20 @@
     "repo_url": "https://github.com/datasette/datasette-agent-charts",
     "total_releases": 3
   },
+  "datasette-agent-micropython": {
+    "description": "MicroPython in a WASM sandbox as a tool for Datasette Agent",
+    "releases": [
+      {
+        "published_at": "2026-06-02T19:28:36Z",
+        "published_day": "2026-06-02",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-agent-micropython",
+    "repo_url": "https://github.com/datasette/datasette-agent-micropython",
+    "total_releases": 1
+  },
   "datasette-agent-openai-imagegen": {
     "description": "Generate images in Datasette Agent",
     "releases": [
@@ -13111,6 +13125,12 @@
     "description": "Python library for running a MicroPython sandbox using WebAssembly",
     "releases": [
       {
+        "published_at": "2026-06-02T19:20:47Z",
+        "published_day": "2026-06-02",
+        "release": "0.1a1",
+        "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a1"
+      },
+      {
         "published_at": "2026-06-02T03:43:45Z",
         "published_day": "2026-06-02",
         "release": "0.1a0",
@@ -13119,7 +13139,7 @@
     ],
     "repo": "micropython-wasm",
     "repo_url": "https://github.com/simonw/micropython-wasm",
-    "total_releases": 1
+    "total_releases": 2
   },
   "multipart-form-data-conformance": {
     "description": "A conformance suite for HTTP multipart form data",
