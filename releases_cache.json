@@ -13107,6 +13107,20 @@
     "repo_url": "https://github.com/simonw/micro-javascript",
     "total_releases": 4
   },
+  "micropython-wasm": {
+    "description": "Python library for running a MicroPython sandbox using WebAssembly",
+    "releases": [
+      {
+        "published_at": "2026-06-02T03:43:45Z",
+        "published_day": "2026-06-02",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "micropython-wasm",
+    "repo_url": "https://github.com/simonw/micropython-wasm",
+    "total_releases": 1
+  },
   "multipart-form-data-conformance": {
     "description": "A conformance suite for HTTP multipart form data",
     "releases": [

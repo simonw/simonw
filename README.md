@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[micropython-wasm 0.1a0](https://github.com/simonw/micropython-wasm/releases/tag/0.1a0) - 2026-06-02
+
 [datasette 1.0a32](https://github.com/simonw/datasette/releases/tag/1.0a32) - 2026-05-31
 
 [llm-anthropic 0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - 2026-05-28
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-agent-sprites 0.1a0](https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0) - 2026-05-21
 
 [datasette-agent-charts 0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - 2026-05-21
-
-[llm-gemini 0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - 2026-05-19
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
