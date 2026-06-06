@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[micropython-wasm 0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - 2026-06-06
+
 [datasette-apps 0.1a0](https://github.com/datasette/datasette-apps/releases/tag/0.1a0) - 2026-06-04
 
 [datasette-agent-micropython 0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
-
-[micropython-wasm 0.1a1](https://github.com/simonw/micropython-wasm/releases/tag/0.1a1) - 2026-06-02
 
 [datasette 1.0a32](https://github.com/simonw/datasette/releases/tag/1.0a32) - 2026-05-31
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) - 2026-06-06
+
 [Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/) - 2026-05-28
 
 [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 2026-05-27
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/) - 2026-05-21
 
 [Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/) - 2026-05-19
-
-[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - 2026-05-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

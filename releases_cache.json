@@ -13139,6 +13139,12 @@
     "description": "Python library for running a MicroPython sandbox using WebAssembly",
     "releases": [
       {
+        "published_at": "2026-06-06T04:26:06Z",
+        "published_day": "2026-06-06",
+        "release": "0.1a2",
+        "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a2"
+      },
+      {
         "published_at": "2026-06-02T19:20:47Z",
         "published_day": "2026-06-02",
         "release": "0.1a1",
@@ -13153,7 +13159,7 @@
     ],
     "repo": "micropython-wasm",
     "repo_url": "https://github.com/simonw/micropython-wasm",
-    "total_releases": 2
+    "total_releases": 3
   },
   "multipart-form-data-conformance": {
     "description": "A conformance suite for HTTP multipart form data",
