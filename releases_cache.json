@@ -1871,6 +1871,20 @@
     "repo_url": "https://github.com/datasette/datasette-agent-charts",
     "total_releases": 3
   },
+  "datasette-agent-edit": {
+    "description": "Add artifacts (inline HTML+JS apps) to Datasette Agent",
+    "releases": [
+      {
+        "published_at": "2026-06-07T23:56:38Z",
+        "published_day": "2026-06-07",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-agent-edit",
+    "repo_url": "https://github.com/datasette/datasette-agent-edit",
+    "total_releases": 1
+  },
   "datasette-agent-micropython": {
     "description": "MicroPython in a WASM sandbox as a tool for Datasette Agent",
     "releases": [

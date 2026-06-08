@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,189<!-- releases_count ends --> releases across <!-- project_count starts -->386<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,190<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
+<br />Add artifacts (inline HTML+JS apps) to Datasette Agent
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
 <br />Python library for running a MicroPython sandbox using WebAssembly
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a0](https://github.com/datasette/datasette-apps/releases/tag/0.1a0) - 2026-06-04
