@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->2,190<!-- releases_count ends --> releases
 
 <!-- recent_releases starts -->
 * **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
-<br />Add artifacts (inline HTML+JS apps) to Datasette Agent
+<br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
 <br />Python library for running a MicroPython sandbox using WebAssembly
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a0](https://github.com/datasette/datasette-apps/releases/tag/0.1a0) - 2026-06-04

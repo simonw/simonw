@@ -1872,7 +1872,7 @@
     "total_releases": 3
   },
   "datasette-agent-edit": {
-    "description": "Add artifacts (inline HTML+JS apps) to Datasette Agent",
+    "description": "Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins",
     "releases": [
       {
         "published_at": "2026-06-07T23:56:38Z",
