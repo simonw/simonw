@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,191<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,192<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
+<br />Access large language models from the command-line
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a1](https://github.com/datasette/datasette-apps/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-09
 <br />Apps that live inside Datasette
 * **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->2,191<!-- releases_count ends --> releases
 <br />Rate limit Datasette requests by client IP address
 * **[datasette-agent-openai-imagegen](https://github.com/datasette/datasette-agent-openai-imagegen)**: [0.1a1](https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1) - 2026-05-12
 <br />Generate images in Datasette Agent
-* **[llm](https://github.com/simonw/llm)**: [0.32a2](https://github.com/simonw/llm/releases/tag/0.32a2) - ([62 releases total](https://github.com/simonw/llm/releases)) - 2026-05-12
-<br />Access large language models from the command-line
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 <br />Set the Referrer-Policy header for a Datasette site
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
