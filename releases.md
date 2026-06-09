@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,190<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,191<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a1](https://github.com/datasette/datasette-apps/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-09
+<br />Apps that live inside Datasette
 * **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 <br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
 <br />Python library for running a MicroPython sandbox using WebAssembly
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a0](https://github.com/datasette/datasette-apps/releases/tag/0.1a0) - 2026-06-04
-<br />Apps that live inside Datasette
 * **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
 <br />MicroPython in a WASM sandbox as a tool for Datasette Agent
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a32](https://github.com/simonw/datasette/releases/tag/1.0a32) - ([164 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-31

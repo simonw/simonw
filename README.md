@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-apps 0.1a1](https://github.com/datasette/datasette-apps/releases/tag/0.1a1) - 2026-06-09
+
 [datasette-agent-edit 0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 
 [micropython-wasm 0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - 2026-06-06
-
-[datasette-apps 0.1a0](https://github.com/datasette/datasette-apps/releases/tag/0.1a0) - 2026-06-04
 
 [datasette-agent-micropython 0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
 

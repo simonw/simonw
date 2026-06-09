@@ -2143,6 +2143,12 @@
     "description": "Apps that live inside Datasette",
     "releases": [
       {
+        "published_at": "2026-06-09T16:26:38Z",
+        "published_day": "2026-06-09",
+        "release": "0.1a1",
+        "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a1"
+      },
+      {
         "published_at": "2026-06-04T22:44:49Z",
         "published_day": "2026-06-04",
         "release": "0.1a0",
@@ -2151,7 +2157,7 @@
     ],
     "repo": "datasette-apps",
     "repo_url": "https://github.com/datasette/datasette-apps",
-    "total_releases": 1
+    "total_releases": 2
   },
   "datasette-atom": {
     "description": "Datasette plugin that adds a .atom output format",
