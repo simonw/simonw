@@ -1805,7 +1805,7 @@
     ],
     "repo": "datasette-acl",
     "repo_url": "https://github.com/datasette/datasette-acl",
-    "total_releases": 10
+    "total_releases": 11
   },
   "datasette-agent": {
     "description": "An LLM-powered agent for Datasette",
