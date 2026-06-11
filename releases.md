@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,194<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,195<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
+<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.2a0](https://github.com/datasette/datasette-agent/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-10
 <br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
@@ -235,8 +237,6 @@ Listing <!-- releases_count starts -->2,194<!-- releases_count ends --> releases
 <br />Tools for importing data into Datasette
 * **[datasette-column-sum](https://github.com/datasette/datasette-column-sum)**: [0.1a1](https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-column-sum/releases)) - 2025-10-21
 <br />Sum the values in numeric Datasette columns
-* **[asyncinject](https://github.com/simonw/asyncinject)**: [0.6.1](https://github.com/simonw/asyncinject/releases/tag/0.6.1) - ([9 releases total](https://github.com/simonw/asyncinject/releases)) - 2025-10-09
-<br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-os-info](https://github.com/datasette/datasette-os-info)**: [0.1](https://github.com/datasette/datasette-os-info/releases/tag/0.1) - 2025-10-08
 <br />Provide information about the current OS at /-/os
 * **[llm-openai-plugin](https://github.com/simonw/llm-openai-plugin)**: [0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) - ([9 releases total](https://github.com/simonw/llm-openai-plugin/releases)) - 2025-10-06

@@ -333,6 +333,12 @@
     "description": "Run async workflows using pytest-fixtures-style dependency injection",
     "releases": [
       {
+        "published_at": "2026-06-11T06:28:09Z",
+        "published_day": "2026-06-11",
+        "release": "0.7",
+        "url": "https://github.com/simonw/asyncinject/releases/tag/0.7"
+      },
+      {
         "published_at": "2025-10-09T03:19:17Z",
         "published_day": "2025-10-09",
         "release": "0.6.1",
@@ -389,7 +395,7 @@
     ],
     "repo": "asyncinject",
     "repo_url": "https://github.com/simonw/asyncinject",
-    "total_releases": 9
+    "total_releases": 10
   },
   "blip-caption": {
     "description": "Generate captions for images with Salesforce BLIP",
