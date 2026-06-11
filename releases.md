@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,195<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,196<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a33](https://github.com/simonw/datasette/releases/tag/1.0a33) - ([165 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-11
+<br />An open source multi-tool for exploring and publishing data
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.2a0](https://github.com/datasette/datasette-agent/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-10
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,195<!-- releases_count ends --> releases
 <br />Python library for running a MicroPython sandbox using WebAssembly
 * **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
 <br />MicroPython in a WASM sandbox as a tool for Datasette Agent
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a32](https://github.com/simonw/datasette/releases/tag/1.0a32) - ([164 releases total](https://github.com/simonw/datasette/releases)) - 2026-05-31
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - ([23 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-05-28
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
