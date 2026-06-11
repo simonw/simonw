@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,193<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,194<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.2a0](https://github.com/datasette/datasette-agent/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-10
+<br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
 <br />Access large language models from the command-line
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a1](https://github.com/datasette/datasette-apps/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-09
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,193<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - ([23 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-05-28
 <br />LLM access to models by Anthropic, including the Claude series
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.1a4](https://github.com/datasette/datasette-agent/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-05-24
-<br />An LLM-powered agent for Datasette
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
 <br />Add a fixtures test database to Datasette
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a1](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-05-21
