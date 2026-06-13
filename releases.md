@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,196<!-- releases_count ends --> releases across <!-- project_count starts -->387<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,197<!-- releases_count ends --> releases across <!-- project_count starts -->388<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[luau-wasm](https://github.com/simonw/luau-wasm)**: [0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
+<br />Luau packaged as a Pyodide WebAssembly wheel
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a33](https://github.com/simonw/datasette/releases/tag/1.0a33) - ([165 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-11
 <br />An open source multi-tool for exploring and publishing data
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11

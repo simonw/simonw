@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[luau-wasm 0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
+
 [datasette 1.0a33](https://github.com/simonw/datasette/releases/tag/1.0a33) - 2026-06-11
 
 [asyncinject 0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - 2026-06-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-agent-edit 0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 
 [micropython-wasm 0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - 2026-06-06
-
-[datasette-agent-micropython 0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

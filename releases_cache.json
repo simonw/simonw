@@ -13113,6 +13113,20 @@
     "repo_url": "https://github.com/simonw/llm-whisper-api",
     "total_releases": 2
   },
+  "luau-wasm": {
+    "description": "Luau packaged as a Pyodide WebAssembly wheel",
+    "releases": [
+      {
+        "published_at": "2026-06-13T23:14:30Z",
+        "published_day": "2026-06-13",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/luau-wasm/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "luau-wasm",
+    "repo_url": "https://github.com/simonw/luau-wasm",
+    "total_releases": 1
+  },
   "markdown-to-sqlite": {
     "description": "CLI tool for loading markdown files into a SQLite database",
     "releases": [
