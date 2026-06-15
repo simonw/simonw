@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,199<!-- releases_count ends --> releases across <!-- project_count starts -->388<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,200<!-- releases_count ends --> releases across <!-- project_count starts -->388<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a2](https://github.com/datasette/datasette-apps/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-15
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a3](https://github.com/datasette/datasette-apps/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-15
 <br />Apps that live inside Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-15
 <br />An LLM-powered agent for Datasette
