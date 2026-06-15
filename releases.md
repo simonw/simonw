@@ -1,20 +1,20 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,197<!-- releases_count ends --> releases across <!-- project_count starts -->388<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,199<!-- releases_count ends --> releases across <!-- project_count starts -->388<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a2](https://github.com/datasette/datasette-apps/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-15
+<br />Apps that live inside Datasette
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-15
+<br />An LLM-powered agent for Datasette
 * **[luau-wasm](https://github.com/simonw/luau-wasm)**: [0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
 <br />Luau packaged as a Pyodide WebAssembly wheel
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a33](https://github.com/simonw/datasette/releases/tag/1.0a33) - ([165 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-11
 <br />An open source multi-tool for exploring and publishing data
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
 <br />Run async workflows using pytest-fixtures-style dependency injection
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.2a0](https://github.com/datasette/datasette-agent/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-10
-<br />An LLM-powered agent for Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
 <br />Access large language models from the command-line
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a1](https://github.com/datasette/datasette-apps/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-09
-<br />Apps that live inside Datasette
 * **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 <br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
