@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,201<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,202<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - ([166 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-16
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
 <br />Run a Datasette instance on a Tailscale network
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a3](https://github.com/datasette/datasette-apps/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-15
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,201<!-- releases_count ends --> releases
 <br />An LLM-powered agent for Datasette
 * **[luau-wasm](https://github.com/simonw/luau-wasm)**: [0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
 <br />Luau packaged as a Pyodide WebAssembly wheel
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a33](https://github.com/simonw/datasette/releases/tag/1.0a33) - ([165 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-11
-<br />An open source multi-tool for exploring and publishing data
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
 <br />Run async workflows using pytest-fixtures-style dependency injection
 * **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
