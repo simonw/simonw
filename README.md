@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Cloudflare CAPTCHA on at least one ampersand](https://til.simonwillison.net/cloudflare/captcha-on-at-least-one-ampersand) - 2026-06-16
+
 [Setting a custom price for a model in AgentsView](https://til.simonwillison.net/llms/agentsview-custom-model-price) - 2026-06-09
 
 [Using LLM in the shebang line of a script](https://til.simonwillison.net/llms/llm-shebang) - 2026-05-11
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
 
 [Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
-
-[Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) - 2026-01-22
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
