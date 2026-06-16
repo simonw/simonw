@@ -8439,6 +8439,20 @@
     "repo_url": "https://github.com/datasette/datasette-tail",
     "total_releases": 3
   },
+  "datasette-tailscale": {
+    "description": "Run a Datasette instance on a Tailscale network",
+    "releases": [
+      {
+        "published_at": "2026-06-16T16:18:20Z",
+        "published_day": "2026-06-16",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-tailscale",
+    "repo_url": "https://github.com/datasette/datasette-tailscale",
+    "total_releases": 1
+  },
   "datasette-template-request": {
     "description": "Expose the Datasette request object to custom templates",
     "releases": [
