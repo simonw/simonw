@@ -1761,6 +1761,12 @@
     "description": "Advanced permission management for Datasette",
     "releases": [
       {
+        "published_at": "2026-06-18T19:03:13Z",
+        "published_day": "2026-06-18",
+        "release": "0.6a0",
+        "url": "https://github.com/datasette/datasette-acl/releases/tag/0.6a0"
+      },
+      {
         "published_at": "2025-11-04T16:08:12Z",
         "published_day": "2025-11-04",
         "release": "0.5a0",
@@ -1823,7 +1829,7 @@
     ],
     "repo": "datasette-acl",
     "repo_url": "https://github.com/datasette/datasette-acl",
-    "total_releases": 11
+    "total_releases": 12
   },
   "datasette-agent": {
     "description": "An LLM-powered agent for Datasette",

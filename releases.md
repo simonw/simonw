@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,202<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,203<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([12 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
+<br />Advanced permission management for Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - ([166 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-16
 <br />An open source multi-tool for exploring and publishing data
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
@@ -221,8 +223,6 @@ Listing <!-- releases_count starts -->2,202<!-- releases_count ends --> releases
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.5a0](https://github.com/datasette/datasette-acl/releases/tag/0.5a0) - ([11 releases total](https://github.com/datasette/datasette-acl/releases)) - 2025-11-04
-<br />Advanced permission management for Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04

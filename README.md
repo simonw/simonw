@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-acl 0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - 2026-06-18
+
 [datasette 1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - 2026-06-16
 
 [datasette-tailscale 0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [asyncinject 0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - 2026-06-11
 
 [llm 0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - 2026-06-09
-
-[datasette-agent-edit 0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
