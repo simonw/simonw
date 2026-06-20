@@ -141,6 +141,13 @@ def make_release_entry(repo_name, release_node):
     }
 
 
+def make_release_entry_with_author(repo_name, release_node):
+    """Release dict including the author login, for the per-repo releases.json."""
+    entry = make_release_entry(repo_name, release_node)
+    entry["author"] = (release_node.get("author") or {}).get("login")
+    return entry
+
+
 def filter_releases_by_author(repo_name, release_nodes):
     """Return release entries for releases authored by simonw."""
     releases = []
@@ -152,9 +159,9 @@ def filter_releases_by_author(repo_name, release_nodes):
     return releases
 
 
-def fetch_all_repo_releases(oauth_token, owner, name, after_cursor):
-    """Paginate through remaining releases for a single repo."""
-    releases = []
+def paginate_repo_releases(oauth_token, owner, name, after_cursor):
+    """Return all remaining raw release nodes for a single repo."""
+    nodes = []
     has_next_page = True
 
     while has_next_page:
@@ -168,17 +175,38 @@ def fetch_all_repo_releases(oauth_token, owner, name, after_cursor):
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         releases_data = data["data"]["repository"]["releases"]
-        for node in releases_data["nodes"]:
-            author = (node.get("author") or {}).get("login")
-            if author != "simonw":
-                continue
-            releases.append(make_release_entry(name, node))
+        nodes.extend(releases_data["nodes"])
 
         page_info = releases_data["pageInfo"]
         has_next_page = page_info["hasNextPage"]
         after_cursor = page_info["endCursor"]
 
-    return releases
+    return nodes
+
+
+def fetch_all_repo_releases(oauth_token, owner, name, after_cursor):
+    """Paginate remaining releases for a repo, keeping only simonw-authored ones."""
+    nodes = paginate_repo_releases(oauth_token, owner, name, after_cursor)
+    return [
+        make_release_entry(name, node)
+        for node in nodes
+        if (node.get("author") or {}).get("login") == "simonw"
+    ]
+
+
+def collect_all_releases(repo):
+    """All releases (every author) for a repo, fully paginated, for releases.json."""
+    rel = repo["releases"]
+    if not rel["totalCount"]:
+        return []
+    nodes = list(rel["nodes"])
+    if rel["pageInfo"]["hasNextPage"]:
+        nodes.extend(
+            paginate_repo_releases(
+                TOKEN, repo["owner"]["login"], repo["name"], rel["pageInfo"]["endCursor"]
+            )
+        )
+    return [make_release_entry_with_author(repo["name"], node) for node in nodes]
 
 
 def load_releases_cache():
@@ -241,7 +269,7 @@ def update_cache_releases(cache, repo, full_release_pagination):
         }
 
 
-def write_repo_files(repo, cache):
+def write_repo_files(repo, all_releases):
     """Write repos/<owner>/<repo>/README.md and releases.json for one repo."""
     owner = repo["owner"]["login"]
     name = repo["name"]
@@ -252,14 +280,13 @@ def write_repo_files(repo, cache):
     if readme_text is not None:
         (repo_dir / "README.md").write_text(readme_text)
 
-    cached = cache.get(name)
     releases_json = {
         "repo": name,
         "owner": owner,
         "url": repo["url"],
         "description": repo["description"],
         "total_releases": repo["releases"]["totalCount"],
-        "releases": cached["releases"] if cached else [],
+        "releases": all_releases,
     }
     (repo_dir / "releases.json").write_text(
         json.dumps(releases_json, indent=2, sort_keys=True)
@@ -296,7 +323,7 @@ def build(query_string, full_release_pagination):
         if repo["name"] in SKIP_REPOS:
             continue
         update_cache_releases(cache, repo, full_release_pagination)
-        write_repo_files(repo, cache)
+        write_repo_files(repo, collect_all_releases(repo))
         written += 1
 
     save_releases_cache(cache)
