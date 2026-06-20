@@ -1,4 +1,5 @@
 from python_graphql_client import GraphqlClient
+from datetime import datetime, timedelta, timezone
 import feedparser
 import httpx
 import json
@@ -11,6 +12,12 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("SIMONW_TOKEN", "")
+
+OWNERS = "owner:simonw owner:dogsheep owner:datasette"
+
+# How many hours back the scheduled (incremental) run looks at. The workflow
+# runs hourly, so 3 hours gives a comfortable overlap in case a run is skipped.
+INCREMENTAL_HOURS = 3
 
 SKIP_REPOS = {
     "playing-with-actions",
@@ -35,40 +42,12 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+# Single search query template. QUERY_STRING and AFTER are substituted in. Each
+# repo node carries its README (a few common filename spellings are requested as
+# aliases) so we never need a second fetch to mirror it.
 GRAPHQL_SEARCH_QUERY = """
 query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated") {
-    nodes {
-      __typename
-      ... on Repository {
-        name
-        description
-        url
-        owner {
-          login
-        }
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 10) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-            author {
-              login
-            }
-          }
-        }
-      }
-    }
-  }
-}
-"""
-
-RELEASES_CACHE_PATH = root / "releases_cache.json"
-
-GRAPHQL_SEARCH_QUERY_PAGINATED = """
-query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
+  search(first: 100, type: REPOSITORY, query: "QUERY_STRING", after: AFTER) {
     pageInfo {
       hasNextPage
       endCursor
@@ -82,6 +61,11 @@ query {
         owner {
           login
         }
+        readme_md: object(expression: "HEAD:README.md") { ... on Blob { text } }
+        readme_markdown: object(expression: "HEAD:README.markdown") { ... on Blob { text } }
+        readme_lower: object(expression: "HEAD:readme.md") { ... on Blob { text } }
+        readme_rst: object(expression: "HEAD:README.rst") { ... on Blob { text } }
+        readme_plain: object(expression: "HEAD:README") { ... on Blob { text } }
         releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 100) {
           totalCount
           pageInfo {
@@ -103,6 +87,9 @@ query {
 }
 """
 
+RELEASES_CACHE_PATH = root / "releases_cache.json"
+REPOS_DIR = root / "repos"
+
 GRAPHQL_REPO_RELEASES_QUERY = """
 query {
   repository(owner: "OWNER", name: "NAME") {
@@ -123,6 +110,25 @@ query {
   }
 }
 """
+
+
+def everything_query():
+    """Search query matching every public repo across the owners."""
+    return "is:public {} sort:updated".format(OWNERS)
+
+
+def incremental_query(hours=INCREMENTAL_HOURS):
+    """Search query limited to repos pushed within the last `hours` hours."""
+    since = (datetime.now(timezone.utc) - timedelta(hours=hours)).strftime(
+        "%Y-%m-%dT%H:%M:%SZ"
+    )
+    return "is:public {} pushed:>{} sort:updated".format(OWNERS, since)
+
+
+def build_search_query(query_string, after_cursor):
+    return GRAPHQL_SEARCH_QUERY.replace("QUERY_STRING", query_string).replace(
+        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    )
 
 
 def make_release_entry(repo_name, release_node):
@@ -187,118 +193,114 @@ def save_releases_cache(cache):
     RELEASES_CACHE_PATH.write_text(json.dumps(cache, indent=2, sort_keys=True))
 
 
-def seed_releases_cache(oauth_token):
-    """Fetch ALL releases via pagination to seed the cache. Run once with --seed."""
-    cache = {}
-    has_next_page = True
+def pick_readme(repo):
+    """Return the first available README text from the aliased blob fields."""
+    for key in ("readme_md", "readme_markdown", "readme_lower", "readme_rst", "readme_plain"):
+        obj = repo.get(key)
+        if obj and obj.get("text"):
+            return obj["text"]
+    return None
+
+
+def update_cache_releases(cache, repo, full_release_pagination):
+    """Merge a repo's releases into the cache. Returns nothing; mutates cache."""
+    name = repo["name"]
+    total = repo["releases"]["totalCount"]
+    if not total:
+        return
+
+    new_releases = filter_releases_by_author(name, repo["releases"]["nodes"])
+
+    # Only the seed/full run deep-paginates repos with >100 releases; the
+    # incremental run relies on the cache already holding the older ones.
+    if full_release_pagination and repo["releases"]["pageInfo"]["hasNextPage"]:
+        new_releases.extend(
+            fetch_all_repo_releases(
+                TOKEN,
+                repo["owner"]["login"],
+                name,
+                repo["releases"]["pageInfo"]["endCursor"],
+            )
+        )
+
+    if name in cache:
+        existing_urls = {r["url"] for r in cache[name]["releases"]}
+        for release in new_releases:
+            if release["url"] not in existing_urls:
+                cache[name]["releases"].append(release)
+        cache[name]["releases"].sort(key=lambda r: r["published_at"], reverse=True)
+        cache[name]["description"] = repo["description"]
+        cache[name]["total_releases"] = total
+    elif new_releases:
+        cache[name] = {
+            "repo": name,
+            "repo_url": repo["url"],
+            "description": repo["description"],
+            "total_releases": total,
+            "releases": new_releases,
+        }
+
+
+def write_repo_files(repo, cache):
+    """Write repos/<owner>/<repo>/README.md and releases.json for one repo."""
+    owner = repo["owner"]["login"]
+    name = repo["name"]
+    repo_dir = REPOS_DIR / owner / name
+    repo_dir.mkdir(parents=True, exist_ok=True)
+
+    readme_text = pick_readme(repo)
+    if readme_text is not None:
+        (repo_dir / "README.md").write_text(readme_text)
+
+    cached = cache.get(name)
+    releases_json = {
+        "repo": name,
+        "owner": owner,
+        "url": repo["url"],
+        "description": repo["description"],
+        "total_releases": repo["releases"]["totalCount"],
+        "releases": cached["releases"] if cached else [],
+    }
+    (repo_dir / "releases.json").write_text(
+        json.dumps(releases_json, indent=2, sort_keys=True)
+    )
+
+
+def fetch_repos(query_string):
+    """Paginate the repo search and return every matching repo node."""
+    nodes = []
     after_cursor = None
+    has_next_page = True
 
     while has_next_page:
-        query = GRAPHQL_SEARCH_QUERY_PAGINATED.replace(
-            "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-        )
         data = client.execute(
-            query=query,
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            query=build_search_query(query_string, after_cursor),
+            headers={"Authorization": "Bearer {}".format(TOKEN)},
         )
-        print(json.dumps(data, indent=4))
+        search = data["data"]["search"]
+        nodes.extend(search["nodes"])
+        page_info = search["pageInfo"]
+        has_next_page = page_info["hasNextPage"]
+        after_cursor = page_info["endCursor"]
 
-        repo_nodes = data["data"]["search"]["nodes"]
-        for repo in repo_nodes:
-            if repo["name"] in SKIP_REPOS:
-                continue
-            if not repo["releases"]["totalCount"]:
-                continue
-
-            releases = filter_releases_by_author(
-                repo["name"], repo["releases"]["nodes"]
-            )
-
-            # Paginate if this repo has more releases
-            release_page_info = repo["releases"]["pageInfo"]
-            if release_page_info["hasNextPage"]:
-                owner = repo["owner"]["login"]
-                print(
-                    f"  Paginating releases for {owner}/{repo['name']}..."
-                )
-                releases.extend(
-                    fetch_all_repo_releases(
-                        oauth_token,
-                        owner,
-                        repo["name"],
-                        release_page_info["endCursor"],
-                    )
-                )
-
-            if releases:
-                cache[repo["name"]] = {
-                    "repo": repo["name"],
-                    "repo_url": repo["url"],
-                    "description": repo["description"],
-                    "total_releases": repo["releases"]["totalCount"],
-                    "releases": releases,
-                }
-
-        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
-        has_next_page = after_cursor
-
-    save_releases_cache(cache)
-    total_releases = sum(len(r["releases"]) for r in cache.values())
-    print(f"Seeded cache with {len(cache)} repos, {total_releases} releases")
-    return cache
+    return nodes
 
 
-def fetch_and_update_releases(oauth_token):
-    """Fetch recent releases and merge into cache. Returns cache dict."""
-    # Load existing cache
+def build(query_string, full_release_pagination):
+    """Scan repos matching query_string, mirror their files, update the cache."""
     cache = load_releases_cache()
+    repo_nodes = fetch_repos(query_string)
 
-    # Fetch the 100 most recently updated repos (single API call)
-    data = client.execute(
-        query=GRAPHQL_SEARCH_QUERY,
-        headers={"Authorization": "Bearer {}".format(oauth_token)},
-    )
-    print()
-    print(json.dumps(data, indent=4))
-    print()
-
-    # Update cache with fresh data
-    repo_nodes = data["data"]["search"]["nodes"]
+    written = 0
     for repo in repo_nodes:
         if repo["name"] in SKIP_REPOS:
             continue
-        if not repo["releases"]["totalCount"]:
-            continue
+        update_cache_releases(cache, repo, full_release_pagination)
+        write_repo_files(repo, cache)
+        written += 1
 
-        new_releases = filter_releases_by_author(
-            repo["name"], repo["releases"]["nodes"]
-        )
-
-        if repo["name"] in cache:
-            # Merge: add any new releases not already in cache
-            existing_urls = {r["url"] for r in cache[repo["name"]]["releases"]}
-            for release in new_releases:
-                if release["url"] not in existing_urls:
-                    cache[repo["name"]]["releases"].append(release)
-            # Re-sort by published_at descending
-            cache[repo["name"]]["releases"].sort(
-                key=lambda r: r["published_at"], reverse=True
-            )
-            # Update repo metadata
-            cache[repo["name"]]["description"] = repo["description"]
-            cache[repo["name"]]["total_releases"] = repo["releases"]["totalCount"]
-        elif new_releases:
-            cache[repo["name"]] = {
-                "repo": repo["name"],
-                "repo_url": repo["url"],
-                "description": repo["description"],
-                "total_releases": repo["releases"]["totalCount"],
-                "releases": new_releases,
-            }
-
-    # Save updated cache
     save_releases_cache(cache)
-
+    print("Scanned {} repos, wrote files for {}".format(len(repo_nodes), written))
     return cache
 
 
@@ -351,11 +353,22 @@ if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
 
-    if "--seed" in sys.argv or not RELEASES_CACHE_PATH.exists():
-        print("Seeding releases cache with full pagination...")
-        cache = seed_releases_cache(TOKEN)
+    # --all (or --seed) scans every repo; an empty cache forces a full scan too.
+    # Otherwise the scheduled run only looks at repos pushed in the last few hours.
+    if (
+        "--all" in sys.argv
+        or "--seed" in sys.argv
+        or not RELEASES_CACHE_PATH.exists()
+    ):
+        print("Running full scan against every repo...")
+        cache = build(everything_query(), full_release_pagination=True)
     else:
-        cache = fetch_and_update_releases(TOKEN)
+        print(
+            "Running incremental scan (repos pushed in the last {} hours)...".format(
+                INCREMENTAL_HOURS
+            )
+        )
+        cache = build(incremental_query(), full_release_pagination=False)
 
     releases = most_recent_releases(cache)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
