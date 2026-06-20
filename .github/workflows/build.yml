@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
     inputs:
-      seed:
-        description: 'Seed the releases cache with full data (run once)'
+      all:
+        description: 'Run against every repo (full scan, ignores the 3-hour window)'
         required: false
         type: boolean
         default: false
@@ -30,8 +30,8 @@ jobs:
       env:
         SIMONW_TOKEN: ${{ secrets.SIMONW_TOKEN }}
       run: |-
-        if [ "${{ inputs.seed }}" = "true" ]; then
-          python build_readme.py --seed
+        if [ "${{ inputs.all }}" = "true" ]; then
+          python build_readme.py --all
         else
           python build_readme.py
         fi
