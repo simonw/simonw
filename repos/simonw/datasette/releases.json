@@ -1,0 +1,1005 @@
+{
+  "description": "An open source multi-tool for exploring and publishing data",
+  "owner": "simonw",
+  "releases": [
+    {
+      "published_at": "2026-06-16T21:31:24Z",
+      "published_day": "2026-06-16",
+      "release": "1.0a34",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a34"
+    },
+    {
+      "published_at": "2026-06-11T15:26:49Z",
+      "published_day": "2026-06-11",
+      "release": "1.0a33",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a33"
+    },
+    {
+      "published_at": "2026-05-31T23:23:38Z",
+      "published_day": "2026-05-31",
+      "release": "1.0a32",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a32"
+    },
+    {
+      "published_at": "2026-05-29T03:32:02Z",
+      "published_day": "2026-05-29",
+      "release": "1.0a31",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a31"
+    },
+    {
+      "published_at": "2026-05-24T21:20:14Z",
+      "published_day": "2026-05-24",
+      "release": "1.0a30",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a30"
+    },
+    {
+      "published_at": "2026-05-12T23:41:06Z",
+      "published_day": "2026-05-12",
+      "release": "1.0a29",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a29"
+    },
+    {
+      "published_at": "2026-04-17T04:01:56Z",
+      "published_day": "2026-04-17",
+      "release": "1.0a28",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a28"
+    },
+    {
+      "published_at": "2026-04-15T23:16:34Z",
+      "published_day": "2026-04-15",
+      "release": "1.0a27",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a27"
+    },
+    {
+      "published_at": "2026-03-18T22:16:19Z",
+      "published_day": "2026-03-18",
+      "release": "1.0a26",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a26"
+    },
+    {
+      "published_at": "2026-02-26T00:50:43Z",
+      "published_day": "2026-02-26",
+      "release": "1.0a25",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a25"
+    },
+    {
+      "published_at": "2026-01-29T17:04:33Z",
+      "published_day": "2026-01-29",
+      "release": "1.0a24",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a24"
+    },
+    {
+      "published_at": "2025-12-03T03:21:50Z",
+      "published_day": "2025-12-03",
+      "release": "1.0a23",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a23"
+    },
+    {
+      "published_at": "2025-11-13T18:42:02Z",
+      "published_day": "2025-11-13",
+      "release": "1.0a22",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a22"
+    },
+    {
+      "published_at": "2025-11-05T21:55:15Z",
+      "published_day": "2025-11-05",
+      "release": "1.0a21",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a21"
+    },
+    {
+      "published_at": "2025-11-05T18:20:30Z",
+      "published_day": "2025-11-05",
+      "release": "0.65.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.65.2"
+    },
+    {
+      "published_at": "2025-11-03T22:50:28Z",
+      "published_day": "2025-11-03",
+      "release": "1.0a20",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a20"
+    },
+    {
+      "published_at": "2025-04-22T05:39:37Z",
+      "published_day": "2025-04-22",
+      "release": "1.0a19",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a19"
+    },
+    {
+      "published_at": "2025-04-17T05:18:09Z",
+      "published_day": "2025-04-17",
+      "release": "1.0a18",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a18"
+    },
+    {
+      "published_at": "2025-02-06T19:14:10Z",
+      "published_day": "2025-02-06",
+      "release": "1.0a17",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a17"
+    },
+    {
+      "published_at": "2024-11-29T01:13:13Z",
+      "published_day": "2024-11-29",
+      "release": "0.65.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.65.1"
+    },
+    {
+      "published_at": "2024-10-07T17:38:03Z",
+      "published_day": "2024-10-07",
+      "release": "0.65",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.65"
+    },
+    {
+      "published_at": "2024-09-06T03:58:44Z",
+      "published_day": "2024-09-06",
+      "release": "1.0a16",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a16"
+    },
+    {
+      "published_at": "2024-08-16T05:05:47Z",
+      "published_day": "2024-08-16",
+      "release": "1.0a15",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a15"
+    },
+    {
+      "published_at": "2024-08-05T21:31:43Z",
+      "published_day": "2024-08-05",
+      "release": "1.0a14",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a14"
+    },
+    {
+      "published_at": "2024-06-21T23:42:18Z",
+      "published_day": "2024-06-21",
+      "release": "0.64.8",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.8"
+    },
+    {
+      "published_at": "2024-06-12T23:09:31Z",
+      "published_day": "2024-06-12",
+      "release": "0.64.7",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.7"
+    },
+    {
+      "published_at": "2024-03-13T02:14:36Z",
+      "published_day": "2024-03-13",
+      "release": "1.0a13",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a13"
+    },
+    {
+      "published_at": "2024-02-29T22:36:42Z",
+      "published_day": "2024-02-29",
+      "release": "1.0a12",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a12"
+    },
+    {
+      "published_at": "2024-02-19T22:52:29Z",
+      "published_day": "2024-02-19",
+      "release": "1.0a11",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a11"
+    },
+    {
+      "published_at": "2024-02-18T05:04:08Z",
+      "published_day": "2024-02-18",
+      "release": "1.0a10",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a10"
+    },
+    {
+      "published_at": "2024-02-16T22:39:38Z",
+      "published_day": "2024-02-16",
+      "release": "1.0a9",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a9"
+    },
+    {
+      "published_at": "2024-02-07T16:37:33Z",
+      "published_day": "2024-02-07",
+      "release": "1.0a8",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a8"
+    },
+    {
+      "published_at": "2023-12-22T23:19:30Z",
+      "published_day": "2023-12-22",
+      "release": "0.64.6",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.6"
+    },
+    {
+      "published_at": "2023-10-08T16:05:20Z",
+      "published_day": "2023-10-08",
+      "release": "0.64.5",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.5"
+    },
+    {
+      "published_at": "2023-09-21T22:13:27Z",
+      "published_day": "2023-09-21",
+      "release": "1.0a7",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a7"
+    },
+    {
+      "published_at": "2023-09-21T19:43:54Z",
+      "published_day": "2023-09-21",
+      "release": "0.64.4",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.4"
+    },
+    {
+      "published_at": "2023-09-08T04:45:12Z",
+      "published_day": "2023-09-08",
+      "release": "1.0a6",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a6"
+    },
+    {
+      "published_at": "2023-08-29T17:19:35Z",
+      "published_day": "2023-08-29",
+      "release": "1.0a5",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a5"
+    },
+    {
+      "published_at": "2023-08-22T17:13:26Z",
+      "published_day": "2023-08-22",
+      "release": "1.0a4",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a4"
+    },
+    {
+      "published_at": "2023-08-09T19:17:26Z",
+      "published_day": "2023-08-09",
+      "release": "1.0a3",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a3"
+    },
+    {
+      "published_at": "2023-04-27T15:00:27Z",
+      "published_day": "2023-04-27",
+      "release": "0.64.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.3"
+    },
+    {
+      "published_at": "2023-03-08T20:46:27Z",
+      "published_day": "2023-03-08",
+      "release": "0.64.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.2"
+    },
+    {
+      "published_at": "2023-01-11T18:27:56Z",
+      "published_day": "2023-01-11",
+      "release": "0.64.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64.1"
+    },
+    {
+      "published_at": "2023-01-09T16:49:04Z",
+      "published_day": "2023-01-09",
+      "release": "0.64",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.64"
+    },
+    {
+      "published_at": "2022-12-18T03:10:52Z",
+      "published_day": "2022-12-18",
+      "release": "0.63.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63.3"
+    },
+    {
+      "published_at": "2022-12-15T02:03:59Z",
+      "published_day": "2022-12-15",
+      "release": "1.0a2",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a2"
+    },
+    {
+      "published_at": "2022-12-01T21:42:45Z",
+      "published_day": "2022-12-01",
+      "release": "1.0a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a1"
+    },
+    {
+      "published_at": "2022-11-29T19:58:55Z",
+      "published_day": "2022-11-29",
+      "release": "1.0a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a0"
+    },
+    {
+      "published_at": "2022-11-19T00:58:27Z",
+      "published_day": "2022-11-19",
+      "release": "0.63.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63.2"
+    },
+    {
+      "published_at": "2022-11-11T07:02:36Z",
+      "published_day": "2022-11-11",
+      "release": "0.63.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63.1"
+    },
+    {
+      "published_at": "2022-10-27T22:13:32Z",
+      "published_day": "2022-10-27",
+      "release": "0.63",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63"
+    },
+    {
+      "published_at": "2022-10-24T03:11:47Z",
+      "published_day": "2022-10-24",
+      "release": "0.63a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63a1"
+    },
+    {
+      "published_at": "2022-09-26T21:56:30Z",
+      "published_day": "2022-09-26",
+      "release": "0.63a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.63a0"
+    },
+    {
+      "published_at": "2022-08-14T17:43:05Z",
+      "published_day": "2022-08-14",
+      "release": "0.62",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.62"
+    },
+    {
+      "published_at": "2022-07-18T01:09:05Z",
+      "published_day": "2022-07-18",
+      "release": "0.62a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.62a1"
+    },
+    {
+      "published_at": "2022-05-02T21:39:52Z",
+      "published_day": "2022-05-02",
+      "release": "0.62a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.62a0"
+    },
+    {
+      "published_at": "2022-03-23T20:31:09Z",
+      "published_day": "2022-03-23",
+      "release": "0.61.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.61.1"
+    },
+    {
+      "published_at": "2022-03-23T18:14:36Z",
+      "published_day": "2022-03-23",
+      "release": "0.61",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.61"
+    },
+    {
+      "published_at": "2022-03-20T01:16:41Z",
+      "published_day": "2022-03-20",
+      "release": "0.61a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.61a0"
+    },
+    {
+      "published_at": "2022-02-07T23:49:38Z",
+      "published_day": "2022-02-07",
+      "release": "0.60.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.60.2"
+    },
+    {
+      "published_at": "2022-01-21T02:12:54Z",
+      "published_day": "2022-01-21",
+      "release": "0.60.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.60.1"
+    },
+    {
+      "published_at": "2022-01-14T01:41:28Z",
+      "published_day": "2022-01-14",
+      "release": "0.60",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.60"
+    },
+    {
+      "published_at": "2021-12-19T22:11:16Z",
+      "published_day": "2021-12-19",
+      "release": "0.60a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.60a1"
+    },
+    {
+      "published_at": "2021-12-17T19:15:38Z",
+      "published_day": "2021-12-17",
+      "release": "0.60a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.60a0"
+    },
+    {
+      "published_at": "2021-11-30T06:50:48Z",
+      "published_day": "2021-11-30",
+      "release": "0.59.4",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59.4"
+    },
+    {
+      "published_at": "2021-11-20T23:41:33Z",
+      "published_day": "2021-11-20",
+      "release": "0.59.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59.3"
+    },
+    {
+      "published_at": "2021-11-14T05:43:09Z",
+      "published_day": "2021-11-14",
+      "release": "0.59.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59.2"
+    },
+    {
+      "published_at": "2021-10-24T22:32:25Z",
+      "published_day": "2021-10-24",
+      "release": "0.59.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59.1"
+    },
+    {
+      "published_at": "2021-10-14T19:31:56Z",
+      "published_day": "2021-10-14",
+      "release": "0.59",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59"
+    },
+    {
+      "published_at": "2021-08-28T01:57:38Z",
+      "published_day": "2021-08-28",
+      "release": "0.59a2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59a2"
+    },
+    {
+      "published_at": "2021-08-09T01:14:06Z",
+      "published_day": "2021-08-09",
+      "release": "0.59a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59a1"
+    },
+    {
+      "published_at": "2021-08-07T05:42:25Z",
+      "published_day": "2021-08-07",
+      "release": "0.59a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.59a0"
+    },
+    {
+      "published_at": "2021-07-16T19:51:15Z",
+      "published_day": "2021-07-16",
+      "release": "0.58.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.58.1"
+    },
+    {
+      "published_at": "2021-07-15T00:37:57Z",
+      "published_day": "2021-07-15",
+      "release": "0.58",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.58"
+    },
+    {
+      "published_at": "2021-06-24T16:29:09Z",
+      "published_day": "2021-06-24",
+      "release": "0.58a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.58a1"
+    },
+    {
+      "published_at": "2021-06-10T04:52:45Z",
+      "published_day": "2021-06-10",
+      "release": "0.58a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.58a0"
+    },
+    {
+      "published_at": "2021-06-08T16:28:31Z",
+      "published_day": "2021-06-08",
+      "release": "0.57.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.57.1"
+    },
+    {
+      "published_at": "2021-06-05T22:11:18Z",
+      "published_day": "2021-06-05",
+      "release": "0.57",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.57"
+    },
+    {
+      "published_at": "2021-06-05T22:00:01Z",
+      "published_day": "2021-06-05",
+      "release": "0.56.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.56.1"
+    },
+    {
+      "published_at": "2021-05-27T16:58:41Z",
+      "published_day": "2021-05-27",
+      "release": "0.57a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.57a1"
+    },
+    {
+      "published_at": "2021-05-23T00:46:44Z",
+      "published_day": "2021-05-23",
+      "release": "0.57a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.57a0"
+    },
+    {
+      "published_at": "2021-03-29T00:43:36Z",
+      "published_day": "2021-03-29",
+      "release": "0.56",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.56"
+    },
+    {
+      "published_at": "2021-02-19T02:02:29Z",
+      "published_day": "2021-02-19",
+      "release": "0.55",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.55"
+    },
+    {
+      "published_at": "2021-02-02T21:30:12Z",
+      "published_day": "2021-02-02",
+      "release": "0.54.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.54.1"
+    },
+    {
+      "published_at": "2021-01-25T17:36:30Z",
+      "published_day": "2021-01-25",
+      "release": "0.54",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.54"
+    },
+    {
+      "published_at": "2021-01-19T20:51:13Z",
+      "published_day": "2021-01-19",
+      "release": "0.54a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.54a0"
+    },
+    {
+      "published_at": "2020-12-11T01:46:44Z",
+      "published_day": "2020-12-11",
+      "release": "0.53",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.53"
+    },
+    {
+      "published_at": "2020-12-09T20:10:23Z",
+      "published_day": "2020-12-09",
+      "release": "0.52.5",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52.5"
+    },
+    {
+      "published_at": "2020-12-05T19:42:57Z",
+      "published_day": "2020-12-05",
+      "release": "0.52.4",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52.4"
+    },
+    {
+      "published_at": "2020-12-03T19:08:29Z",
+      "published_day": "2020-12-03",
+      "release": "0.52.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52.3"
+    },
+    {
+      "published_at": "2020-12-03T00:58:43Z",
+      "published_day": "2020-12-03",
+      "release": "0.52.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52.2"
+    },
+    {
+      "published_at": "2020-11-29T19:39:52Z",
+      "published_day": "2020-11-29",
+      "release": "0.52.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52.1"
+    },
+    {
+      "published_at": "2020-11-28T23:57:12Z",
+      "published_day": "2020-11-28",
+      "release": "0.52",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.52"
+    },
+    {
+      "published_at": "2020-11-01T03:34:36Z",
+      "published_day": "2020-11-01",
+      "release": "0.51.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.51.1"
+    },
+    {
+      "published_at": "2020-10-31T22:29:33Z",
+      "published_day": "2020-10-31",
+      "release": "0.51",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.51"
+    },
+    {
+      "published_at": "2020-10-30T17:57:53Z",
+      "published_day": "2020-10-30",
+      "release": "0.51a2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.51a2"
+    },
+    {
+      "published_at": "2020-10-30T05:37:34Z",
+      "published_day": "2020-10-30",
+      "release": "0.51a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.51a1"
+    },
+    {
+      "published_at": "2020-10-20T05:33:01Z",
+      "published_day": "2020-10-20",
+      "release": "0.51a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.51a0"
+    },
+    {
+      "published_at": "2020-10-10T03:59:18Z",
+      "published_day": "2020-10-10",
+      "release": "0.50.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.50.2"
+    },
+    {
+      "published_at": "2020-10-10T00:44:23Z",
+      "published_day": "2020-10-10",
+      "release": "0.50.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.50.1"
+    },
+    {
+      "published_at": "2020-10-09T17:58:27Z",
+      "published_day": "2020-10-09",
+      "release": "0.50",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.50"
+    },
+    {
+      "published_at": "2020-10-06T20:52:49Z",
+      "published_day": "2020-10-06",
+      "release": "0.50a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.50a1"
+    },
+    {
+      "published_at": "2020-10-01T23:35:54Z",
+      "published_day": "2020-10-01",
+      "release": "0.50a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.50a0"
+    },
+    {
+      "published_at": "2020-09-15T20:21:16Z",
+      "published_day": "2020-09-15",
+      "release": "0.49.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.49.1"
+    },
+    {
+      "published_at": "2020-09-14T21:40:11Z",
+      "published_day": "2020-09-14",
+      "release": "0.49",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.49"
+    },
+    {
+      "published_at": "2020-09-14T02:48:19Z",
+      "published_day": "2020-09-14",
+      "release": "0.49a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.49a1"
+    },
+    {
+      "published_at": "2020-08-28T23:18:09Z",
+      "published_day": "2020-08-28",
+      "release": "0.49a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.49a0"
+    },
+    {
+      "published_at": "2020-08-16T18:58:34Z",
+      "published_day": "2020-08-16",
+      "release": "0.48",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.48"
+    },
+    {
+      "published_at": "2020-08-15T21:03:58Z",
+      "published_day": "2020-08-15",
+      "release": "0.47.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.47.3"
+    },
+    {
+      "published_at": "2020-08-12T20:55:28Z",
+      "published_day": "2020-08-12",
+      "release": "0.47.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.47.2"
+    },
+    {
+      "published_at": "2020-08-12T02:38:00Z",
+      "published_day": "2020-08-12",
+      "release": "0.47.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.47.1"
+    },
+    {
+      "published_at": "2020-08-12T00:44:52Z",
+      "published_day": "2020-08-12",
+      "release": "0.47",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.47"
+    },
+    {
+      "published_at": "2020-08-09T16:10:47Z",
+      "published_day": "2020-08-09",
+      "release": "0.46",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.46"
+    },
+    {
+      "published_at": "2020-07-01T21:46:07Z",
+      "published_day": "2020-07-01",
+      "release": "0.45",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45"
+    },
+    {
+      "published_at": "2020-07-01T04:27:08Z",
+      "published_day": "2020-07-01",
+      "release": "0.45a5",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a5"
+    },
+    {
+      "published_at": "2020-06-29T02:33:02Z",
+      "published_day": "2020-06-29",
+      "release": "0.45a4",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a4"
+    },
+    {
+      "published_at": "2020-06-28T03:27:12Z",
+      "published_day": "2020-06-28",
+      "release": "0.45a3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a3"
+    },
+    {
+      "published_at": "2020-06-24T04:32:12Z",
+      "published_day": "2020-06-24",
+      "release": "0.45a2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a2"
+    },
+    {
+      "published_at": "2020-06-19T00:02:29Z",
+      "published_day": "2020-06-19",
+      "release": "0.45a1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a1"
+    },
+    {
+      "published_at": "2020-06-18T21:14:00Z",
+      "published_day": "2020-06-18",
+      "release": "0.45a0",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.45a0"
+    },
+    {
+      "published_at": "2020-06-12T07:10:38Z",
+      "published_day": "2020-06-12",
+      "release": "0.44",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.44"
+    },
+    {
+      "published_at": "2020-05-28T14:39:18Z",
+      "published_day": "2020-05-28",
+      "release": "0.43",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.43"
+    },
+    {
+      "published_at": "2020-05-08T17:56:36Z",
+      "published_day": "2020-05-08",
+      "release": "0.42",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.42"
+    },
+    {
+      "published_at": "2020-05-06T18:30:03Z",
+      "published_day": "2020-05-06",
+      "release": "0.41",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.41"
+    },
+    {
+      "published_at": "2020-04-22T04:06:51Z",
+      "published_day": "2020-04-22",
+      "release": "0.40",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.40"
+    },
+    {
+      "published_at": "2020-03-25T04:11:35Z",
+      "published_day": "2020-03-25",
+      "release": "0.39",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.39"
+    },
+    {
+      "published_at": "2020-03-08T23:42:36Z",
+      "published_day": "2020-03-08",
+      "release": "0.38",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.38"
+    },
+    {
+      "published_at": "2020-03-03T03:46:17Z",
+      "published_day": "2020-03-03",
+      "release": "Datasette 0.37.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.37.1"
+    },
+    {
+      "published_at": "2020-02-26T03:44:07Z",
+      "published_day": "2020-02-26",
+      "release": "Datasette 0.37",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.37"
+    },
+    {
+      "published_at": "2020-02-22T03:24:50Z",
+      "published_day": "2020-02-22",
+      "release": "Datasette 0.36",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.36"
+    },
+    {
+      "published_at": "2020-02-05T02:32:34Z",
+      "published_day": "2020-02-05",
+      "release": "Datasette 0.35",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.35"
+    },
+    {
+      "published_at": "2020-01-30T00:29:21Z",
+      "published_day": "2020-01-30",
+      "release": "Datasette 0.34",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.34"
+    },
+    {
+      "published_at": "2019-12-22T16:43:31Z",
+      "published_day": "2019-12-22",
+      "release": "Datasette 0.33",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.33"
+    },
+    {
+      "published_at": "2019-11-14T23:42:14Z",
+      "published_day": "2019-11-14",
+      "release": "Datasette 0.32",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.32"
+    },
+    {
+      "published_at": "2019-11-13T17:38:59Z",
+      "published_day": "2019-11-13",
+      "release": "0.31.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.31.2"
+    },
+    {
+      "published_at": "2019-11-13T02:40:53Z",
+      "published_day": "2019-11-13",
+      "release": "0.31.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.31.1"
+    },
+    {
+      "published_at": "2019-11-13T02:16:15Z",
+      "published_day": "2019-11-13",
+      "release": "Datasette 0.31",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.31"
+    },
+    {
+      "published_at": "2019-11-02T23:33:13Z",
+      "published_day": "2019-11-02",
+      "release": "0.30.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.30.2"
+    },
+    {
+      "published_at": "2019-11-02T00:06:02Z",
+      "published_day": "2019-11-02",
+      "release": "0.30.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.30.1"
+    },
+    {
+      "published_at": "2019-10-30T18:51:30Z",
+      "published_day": "2019-10-30",
+      "release": "0.30",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.30"
+    },
+    {
+      "published_at": "2019-10-18T05:24:54Z",
+      "published_day": "2019-10-18",
+      "release": "0.29.3",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.29.3"
+    },
+    {
+      "published_at": "2019-09-03T00:33:35Z",
+      "published_day": "2019-09-03",
+      "release": "0.29.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.29.2"
+    },
+    {
+      "published_at": "2019-07-14T01:43:44Z",
+      "published_day": "2019-07-14",
+      "release": "0.29.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.29.1"
+    },
+    {
+      "published_at": "2019-07-08T03:43:13Z",
+      "published_day": "2019-07-08",
+      "release": "Datasette 0.29",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.29"
+    },
+    {
+      "published_at": "2019-05-19T21:42:28Z",
+      "published_day": "2019-05-19",
+      "release": "Datasette 0.28",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.28"
+    },
+    {
+      "published_at": "2019-02-06T05:10:20Z",
+      "published_day": "2019-02-06",
+      "release": "Datasette 0.27",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.27"
+    },
+    {
+      "published_at": "2019-01-28T01:50:45Z",
+      "published_day": "2019-01-28",
+      "release": "Datasette 0.26.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.26.1"
+    },
+    {
+      "published_at": "2019-01-10T21:41:00Z",
+      "published_day": "2019-01-10",
+      "release": "Datasette 0.26",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.26"
+    },
+    {
+      "published_at": "2018-12-16T21:45:39Z",
+      "published_day": "2018-12-16",
+      "release": "Datasette 0.25.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.25.2"
+    },
+    {
+      "published_at": "2018-12-16T21:44:27Z",
+      "published_day": "2018-12-16",
+      "release": "Datasette 0.25.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.25.1"
+    },
+    {
+      "published_at": "2018-09-19T18:27:21Z",
+      "published_day": "2018-09-19",
+      "release": "Datasette 0.25",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.25"
+    },
+    {
+      "published_at": "2018-07-24T16:51:29Z",
+      "published_day": "2018-07-24",
+      "release": "Datasette 0.24",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.24"
+    },
+    {
+      "published_at": "2018-07-08T05:41:38Z",
+      "published_day": "2018-07-08",
+      "release": "Datasette 0.23.2",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.23.2"
+    },
+    {
+      "published_at": "2018-06-21T16:02:44Z",
+      "published_day": "2018-06-21",
+      "release": "Datasette 0.23.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.23.1"
+    },
+    {
+      "published_at": "2018-06-18T15:28:37Z",
+      "published_day": "2018-06-18",
+      "release": "Datasette 0.23: CSV, SpatiaLite and more",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.23"
+    },
+    {
+      "published_at": "2018-05-23T14:04:17Z",
+      "published_day": "2018-05-23",
+      "release": "Datasette 0.22.1",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.22.1"
+    },
+    {
+      "published_at": "2018-05-20T23:44:19Z",
+      "published_day": "2018-05-20",
+      "release": "Datasette 0.22: Datasette Facets",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.22"
+    },
+    {
+      "published_at": "2018-05-05T23:21:33Z",
+      "published_day": "2018-05-05",
+      "release": "Datasette 0.21: New _shape=, new _size=, search within columns",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.21"
+    },
+    {
+      "published_at": "2018-04-20T14:41:14Z",
+      "published_day": "2018-04-20",
+      "release": "Datasette 0.20: static assets and templates for plugins",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.20"
+    },
+    {
+      "published_at": "2018-04-17T02:21:51Z",
+      "published_day": "2018-04-17",
+      "release": "Datasette 0.19: plugins preview",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.19"
+    },
+    {
+      "published_at": "2018-04-14T15:45:11Z",
+      "published_day": "2018-04-14",
+      "release": "Datasette 0.18: units",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.18"
+    },
+    {
+      "published_at": "2018-04-13T21:10:53Z",
+      "published_day": "2018-04-13",
+      "release": "Datasette 0.16: sort on mobile, better error handling",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.16"
+    },
+    {
+      "published_at": "2018-04-09T15:55:29Z",
+      "published_day": "2018-04-09",
+      "release": "Datasette 0.15: sort by column",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.15"
+    },
+    {
+      "published_at": "2017-12-10T01:41:14Z",
+      "published_day": "2017-12-10",
+      "release": "Datasette 0.14: customization edition",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.14"
+    },
+    {
+      "published_at": "2017-11-25T03:44:46Z",
+      "published_day": "2017-11-25",
+      "release": "Datasette 0.13: foreign key, search and filters",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.13"
+    },
+    {
+      "published_at": "2017-11-16T16:01:35Z",
+      "published_day": "2017-11-16",
+      "release": "Datasette 0.12",
+      "url": "https://github.com/simonw/datasette/releases/tag/0.12"
+    }
+  ],
+  "repo": "datasette",
+  "total_releases": 166,
+  "url": "https://github.com/simonw/datasette"
+}
