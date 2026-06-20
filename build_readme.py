@@ -7,9 +7,37 @@ import pathlib
 import re
 import os
 import sys
+import time
+import requests
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
+
+# GitHub's GraphQL API intermittently returns these when a query is briefly
+# overloaded or times out server-side. They're transient, so we retry.
+RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+MAX_RETRIES = 5
+
+
+def execute_query(query):
+    """Run a GraphQL query, retrying transient gateway errors with backoff."""
+    for attempt in range(MAX_RETRIES):
+        try:
+            return client.execute(
+                query=query,
+                headers={"Authorization": "Bearer {}".format(TOKEN)},
+            )
+        except requests.exceptions.HTTPError as error:
+            response = error.response
+            status = response.status_code if response is not None else None
+            if status not in RETRYABLE_STATUS or attempt == MAX_RETRIES - 1:
+                raise
+            print("  GraphQL {} error, retrying...".format(status))
+        except requests.exceptions.RequestException:
+            if attempt == MAX_RETRIES - 1:
+                raise
+            print("  GraphQL network error, retrying...")
+        time.sleep(2**attempt)
 
 TOKEN = os.environ.get("SIMONW_TOKEN", "")
 
@@ -170,10 +198,7 @@ def paginate_repo_releases(oauth_token, owner, name, after_cursor):
             .replace("NAME", name)
             .replace("AFTER", '"{}"'.format(after_cursor) if after_cursor else "null")
         )
-        data = client.execute(
-            query=query,
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
+        data = execute_query(query)
         releases_data = data["data"]["repository"]["releases"]
         nodes.extend(releases_data["nodes"])
 
@@ -300,10 +325,7 @@ def fetch_repos(query_string):
     has_next_page = True
 
     while has_next_page:
-        data = client.execute(
-            query=build_search_query(query_string, after_cursor),
-            headers={"Authorization": "Bearer {}".format(TOKEN)},
-        )
+        data = execute_query(build_search_query(query_string, after_cursor))
         search = data["data"]["search"]
         nodes.extend(search["nodes"])
         page_info = search["pageInfo"]
