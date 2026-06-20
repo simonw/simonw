@@ -1,0 +1,8 @@
+{
+  "description": "A modern library for integrating OpenID with Django - incomplete, but really nearly there (promise)",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-openid",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-openid"
+}

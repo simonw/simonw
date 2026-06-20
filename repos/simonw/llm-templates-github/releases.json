@@ -1,0 +1,23 @@
+{
+  "description": "Research prototype for new register_template_loaders LLM plugin hook",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T16:06:59Z",
+      "published_day": "2025-04-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-templates-github/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-01T06:58:30Z",
+      "published_day": "2025-03-01",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-templates-github/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-templates-github",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-templates-github"
+}

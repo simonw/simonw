@@ -1,0 +1,44 @@
+{
+  "description": "Show a list of currently installed Python packages",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-08T18:14:39Z",
+      "published_day": "2026-02-08",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-packages/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-16T01:18:41Z",
+      "published_day": "2024-03-16",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-packages/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-03T02:29:02Z",
+      "published_day": "2022-07-03",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-packages/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-25T22:17:21Z",
+      "published_day": "2022-03-25",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-packages/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-25T22:05:51Z",
+      "published_day": "2022-03-25",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-packages/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-packages",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-packages"
+}

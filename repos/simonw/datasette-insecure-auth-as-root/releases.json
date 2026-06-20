@@ -1,0 +1,8 @@
+{
+  "description": "Extremely unsafe plugin: every Datasette visitor is treated as the root user",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-insecure-auth-as-root",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-insecure-auth-as-root"
+}

@@ -1,0 +1,44 @@
+{
+  "description": "Import data from Socrata into Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T03:29:06Z",
+      "published_day": "2022-11-18",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-socrata/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-17T20:29:53Z",
+      "published_day": "2022-06-17",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-socrata/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-11T15:54:55Z",
+      "published_day": "2022-06-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-socrata/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-10T18:54:22Z",
+      "published_day": "2022-06-10",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-socrata/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-09T21:24:37Z",
+      "published_day": "2022-06-09",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-socrata/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-socrata",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-socrata"
+}

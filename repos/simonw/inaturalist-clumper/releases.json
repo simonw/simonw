@@ -1,0 +1,16 @@
+{
+  "description": "Group iNaturalist sightings into clumps",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-15T23:53:11Z",
+      "published_day": "2026-05-15",
+      "release": "0.1",
+      "url": "https://github.com/simonw/inaturalist-clumper/releases/tag/0.1"
+    }
+  ],
+  "repo": "inaturalist-clumper",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/inaturalist-clumper"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "Upload files to Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-03-30T23:58:49Z",
+      "published_day": "2026-03-30",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-23T23:06:38Z",
+      "published_day": "2026-03-23",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-20T00:36:39Z",
+      "published_day": "2026-02-20",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-19T22:25:14Z",
+      "published_day": "2026-02-19",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-files/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-files",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-files"
+}

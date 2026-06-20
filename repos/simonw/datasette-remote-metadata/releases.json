@@ -1,0 +1,30 @@
+{
+  "description": "Periodically refresh Datasette metadata from a remote URL",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-08-05T22:45:57Z",
+      "published_day": "2024-08-05",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-29T01:43:16Z",
+      "published_day": "2021-07-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-28T23:28:46Z",
+      "published_day": "2021-07-28",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-remote-metadata/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-remote-metadata",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-remote-metadata"
+}

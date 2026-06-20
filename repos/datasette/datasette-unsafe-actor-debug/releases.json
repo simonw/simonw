@@ -1,0 +1,23 @@
+{
+  "description": "Debug plugin that lets you imitate any actor",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-02-18T20:20:13Z",
+      "published_day": "2024-02-18",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-18T19:18:45Z",
+      "published_day": "2024-02-18",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-unsafe-actor-debug",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-unsafe-actor-debug"
+}

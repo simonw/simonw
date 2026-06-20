@@ -1,0 +1,51 @@
+{
+  "description": "Datasette plugin that renders binary blob images using data-uris",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-06-14T21:36:06Z",
+      "published_day": "2023-06-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-23T18:36:26Z",
+      "published_day": "2020-08-23",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-27T05:11:01Z",
+      "published_day": "2020-07-27",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-27T04:57:04Z",
+      "published_day": "2020-07-27",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-18T20:35:36Z",
+      "published_day": "2020-06-18",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-18T20:19:18Z",
+      "published_day": "2020-06-18",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/datasette-render-images/releases/tag/0.2a0"
+    }
+  ],
+  "repo": "datasette-render-images",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/datasette-render-images"
+}

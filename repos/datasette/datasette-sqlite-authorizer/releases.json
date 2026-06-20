@@ -1,0 +1,23 @@
+{
+  "description": "Configure Datasette to block operations using the SQLIte set_authorizer mechanism",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-05T01:09:05Z",
+      "published_day": "2024-03-05",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-14T21:56:26Z",
+      "published_day": "2023-12-14",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-sqlite-authorizer/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sqlite-authorizer",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-sqlite-authorizer"
+}

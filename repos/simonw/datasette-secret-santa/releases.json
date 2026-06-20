@@ -1,0 +1,23 @@
+{
+  "description": "Run secret santa gift circles using Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-12-11T01:41:10Z",
+      "published_day": "2022-12-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-secret-santa/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-12-10T22:23:55Z",
+      "published_day": "2022-12-10",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-secret-santa/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-secret-santa",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-secret-santa"
+}

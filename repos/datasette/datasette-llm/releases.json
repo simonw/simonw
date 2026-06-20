@@ -1,0 +1,72 @@
+{
+  "description": "LLM integration plugin for other plugins to depend on",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-19T20:28:16Z",
+      "published_day": "2026-05-19",
+      "release": "0.1a8",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-05T01:56:55Z",
+      "published_day": "2026-05-05",
+      "release": "0.1a7",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T23:01:37Z",
+      "published_day": "2026-04-01",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T03:11:01Z",
+      "published_day": "2026-04-01",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-31T21:17:23Z",
+      "published_day": "2026-03-31",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-30T19:48:43Z",
+      "published_day": "2026-03-30",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-26T15:52:32Z",
+      "published_day": "2026-03-26",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-26T00:00:10Z",
+      "published_day": "2026-03-26",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-01-22T17:10:06Z",
+      "published_day": "2026-01-22",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-llm",
+  "total_releases": 9,
+  "url": "https://github.com/datasette/datasette-llm"
+}

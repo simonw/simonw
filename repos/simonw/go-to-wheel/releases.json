@@ -1,0 +1,23 @@
+{
+  "description": "Wrap Go binaries in Python wheels",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-04T04:26:59Z",
+      "published_day": "2026-02-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/go-to-wheel/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-03T05:25:40Z",
+      "published_day": "2026-02-03",
+      "release": "0.1",
+      "url": "https://github.com/simonw/go-to-wheel/releases/tag/0.1"
+    }
+  ],
+  "repo": "go-to-wheel",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/go-to-wheel"
+}

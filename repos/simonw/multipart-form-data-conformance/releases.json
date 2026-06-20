@@ -1,0 +1,16 @@
+{
+  "description": "A conformance suite for HTTP multipart form data",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-22T05:34:49Z",
+      "published_day": "2026-01-22",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/multipart-form-data-conformance/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "multipart-form-data-conformance",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/multipart-form-data-conformance"
+}

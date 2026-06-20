@@ -1,0 +1,142 @@
+{
+  "description": "ASGI middleware for protecting against CSRF attacks",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-11-15T01:04:32Z",
+      "published_day": "2024-11-15",
+      "release": "0.11",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-15T03:24:11Z",
+      "published_day": "2024-08-15",
+      "release": "0.10",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-23T19:35:34Z",
+      "published_day": "2021-06-23",
+      "release": "0.9",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-23T22:33:45Z",
+      "published_day": "2021-01-23",
+      "release": "0.8",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-23T21:30:31Z",
+      "published_day": "2021-01-23",
+      "release": "0.7.2",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.7.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-27T01:20:29Z",
+      "published_day": "2020-08-27",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-15T18:04:29Z",
+      "published_day": "2020-08-15",
+      "release": "0.7",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-15T02:37:03Z",
+      "published_day": "2020-08-15",
+      "release": "0.7a0",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.7a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-09T04:54:08Z",
+      "published_day": "2020-08-09",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T00:46:19Z",
+      "published_day": "2020-07-01",
+      "release": "0.6",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-06T00:14:44Z",
+      "published_day": "2020-06-06",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-05T23:28:52Z",
+      "published_day": "2020-06-05",
+      "release": "0.5",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-05T18:52:17Z",
+      "published_day": "2020-06-05",
+      "release": "0.4",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-05T04:17:51Z",
+      "published_day": "2020-06-05",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-03T23:54:23Z",
+      "published_day": "2020-06-03",
+      "release": "0.3",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-03T12:39:40Z",
+      "published_day": "2020-03-03",
+      "release": "0.2.2a",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.2.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-02T03:32:15Z",
+      "published_day": "2020-03-02",
+      "release": "0.2.1a",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.2.1a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-02T03:23:37Z",
+      "published_day": "2020-03-02",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-02T03:19:47Z",
+      "published_day": "2020-03-02",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/asgi-csrf/releases/tag/0.1a"
+    }
+  ],
+  "repo": "asgi-csrf",
+  "total_releases": 19,
+  "url": "https://github.com/simonw/asgi-csrf"
+}

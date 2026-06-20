@@ -1,0 +1,121 @@
+{
+  "description": "Web interface for searching your code using ripgrep, built as a Datasette plugin",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T15:26:54Z",
+      "published_day": "2025-11-11",
+      "release": "0.9a0",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-25T00:09:02Z",
+      "published_day": "2023-10-25",
+      "release": "0.8.2",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-21T22:36:11Z",
+      "published_day": "2023-08-21",
+      "release": "0.8.1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.8.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-12-15T01:13:08Z",
+      "published_day": "2022-12-15",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T03:24:04Z",
+      "published_day": "2022-11-18",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-11T20:03:38Z",
+      "published_day": "2021-03-11",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T22:42:44Z",
+      "published_day": "2020-11-28",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T22:28:30Z",
+      "published_day": "2020-11-28",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T20:02:36Z",
+      "published_day": "2020-11-28",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T18:07:08Z",
+      "published_day": "2020-11-28",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T16:57:14Z",
+      "published_day": "2020-11-28",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T16:16:38Z",
+      "published_day": "2020-11-28",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-28T06:23:37Z",
+      "published_day": "2020-11-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-26T02:36:56Z",
+      "published_day": "2020-11-26",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-25T01:56:20Z",
+      "published_day": "2020-11-25",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-25T01:28:13Z",
+      "published_day": "2020-11-25",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-ripgrep/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-ripgrep",
+  "total_releases": 16,
+  "url": "https://github.com/simonw/datasette-ripgrep"
+}

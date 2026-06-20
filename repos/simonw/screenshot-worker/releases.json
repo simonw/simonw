@@ -1,0 +1,8 @@
+{
+  "description": "Cloudflare worker for taking screenshots based on a URL protected by a signature",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "screenshot-worker",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/screenshot-worker"
+}

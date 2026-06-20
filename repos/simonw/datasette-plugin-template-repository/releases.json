@@ -1,0 +1,8 @@
+{
+  "description": "GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-plugin-template-repository",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-plugin-template-repository"
+}

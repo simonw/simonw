@@ -1,0 +1,44 @@
+{
+  "description": "LLM plugin for running models using MLC",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-08-15T04:22:04Z",
+      "published_day": "2023-08-15",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-mlc/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-14T00:21:25Z",
+      "published_day": "2023-08-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-mlc/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-12T05:26:26Z",
+      "published_day": "2023-08-12",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-mlc/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-12T04:52:51Z",
+      "published_day": "2023-08-12",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-mlc/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-12T02:07:49Z",
+      "published_day": "2023-08-12",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-mlc/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-mlc",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/llm-mlc"
+}

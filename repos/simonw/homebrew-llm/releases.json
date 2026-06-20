@@ -1,0 +1,8 @@
+{
+  "description": "Homebrew formulas for installing LLM and related tools",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "homebrew-llm",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/homebrew-llm"
+}

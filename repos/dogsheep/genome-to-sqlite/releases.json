@@ -1,0 +1,16 @@
+{
+  "description": "Import your genome into a SQLite database",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2019-09-19T15:41:17Z",
+      "published_day": "2019-09-19",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/genome-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "genome-to-sqlite",
+  "total_releases": 1,
+  "url": "https://github.com/dogsheep/genome-to-sqlite"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Python utilities for filtering nasty characters in unicode strings.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "uniclean",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/uniclean"
+}

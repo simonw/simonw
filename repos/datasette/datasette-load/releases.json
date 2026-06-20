@@ -1,0 +1,51 @@
+{
+  "description": "API and UI for bulk loading data into Datasette from a URL",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T01:24:47Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T21:01:07Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-07T22:41:19Z",
+      "published_day": "2025-07-07",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-11T20:09:22Z",
+      "published_day": "2025-02-11",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-11T19:18:08Z",
+      "published_day": "2025-02-11",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-06T07:01:19Z",
+      "published_day": "2025-02-06",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-load/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-load",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-load"
+}

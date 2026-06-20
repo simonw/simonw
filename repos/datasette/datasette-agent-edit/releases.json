@@ -1,0 +1,16 @@
+{
+  "description": "Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-07T23:56:38Z",
+      "published_day": "2026-06-07",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-agent-edit",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-agent-edit"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "An ASGI function for proxying to a backend over HTTP",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-11-06T07:40:01Z",
+      "published_day": "2024-11-06",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/asgi-proxy-lib/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-01T01:44:05Z",
+      "published_day": "2023-07-01",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/asgi-proxy-lib/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "asgi-proxy-lib",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/asgi-proxy-lib"
+}

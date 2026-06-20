@@ -1,0 +1,319 @@
+# Showboat
+
+[![PyPI](https://img.shields.io/pypi/v/showboat.svg)](https://pypi.org/project/showboat/)
+[![Changelog](https://img.shields.io/github/v/release/simonw/showboat?include_prereleases&label=changelog)](https://github.com/simonw/showboat/releases)
+[![Tests](https://github.com/simonw/showboat/actions/workflows/test.yml/badge.svg)](https://github.com/simonw/showboat/actions/workflows/test.yml)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/showboat/blob/main/LICENSE)
+
+Create executable demo documents that show and prove an agent's work.
+
+Showboat helps agents build markdown documents that mix commentary, executable code blocks, and captured output. These documents serve as both readable documentation and reproducible proof of work. A verifier can re-execute all code blocks and confirm the outputs still match.
+
+## Example
+
+Here's [an example Showboat demo document](https://github.com/simonw/showboat-demos/blob/main/shot-scraper/README.md) that demonstrates [shot-scraper](https://github.com/shot-scraper). It was created by Claude Code, as shown by [this transcript](https://gisthost.github.io/?29b0d0ebef50c57e7985a6004aad01c4/page-001.html#msg-2026-02-06T07-33-41-296Z).
+
+## Installation
+
+This Go tool can be installed directly [from PyPI](https://pypi.org/project/showboat/) using `pip` or `uv`.
+
+You can run it without installing it first using `uvx`:
+
+```bash
+uvx showboat --help
+```
+Or install it like this, then run `showboat --help`:
+```bash
+uv tool install showboat
+# or
+pip install showboat
+```
+
+You can also install the Go binary directly:
+```bash
+go install github.com/simonw/showboat@latest
+```
+Or run it without installation like this:
+```bash
+go run github.com/simonw/showboat@latest --help
+```
+Compiled binaries are available [on the releases page](https://github.com/simonw/showboat/releases). On macOS you may need to [follow these extra steps](https://support.apple.com/en-us/102445) to use those.
+
+## Help
+
+<!-- [[[cog
+import cog
+import subprocess
+result = subprocess.run(["go", "run", ".", "--help"], capture_output=True, text=True)
+cog.out(
+    "````\n{}\n````\n".format(result.stdout.strip())
+)
+]]] -->
+````
+showboat - Create executable demo documents that show and prove an agent's work.
+
+Showboat helps agents build markdown documents that mix commentary, executable
+code blocks, and captured output. These documents serve as both readable
+documentation and reproducible proof of work. A verifier can re-execute all
+code blocks and confirm the outputs still match.
+
+Usage:
+  showboat init <file> <title>             Create a new demo document
+  showboat note <file> [text]              Append commentary (text or stdin)
+  showboat exec <file> <lang> [code]       Run code and capture output
+  showboat image <file> <path>             Copy image into document
+  showboat image <file> '![alt](path)'   Copy image with alt text
+  showboat pop <file>                      Remove the most recent entry
+  showboat verify <file> [--output <new>]  Re-run and diff all code blocks
+  showboat extract <file> [--filename <name>]  Emit commands to recreate file
+
+Global Options:
+  --workdir <dir>   Set working directory for code execution (default: current)
+  --version         Print version and exit
+  --help, -h        Show this help message
+
+Exec output:
+  The "exec" command prints the captured shell output to stdout and exits with
+  the same exit code as the executed command. This lets agents see what happened
+  and react to errors. The output is still appended to the document regardless
+  of exit code. Use "pop" to remove a failed entry.
+
+    $ showboat exec demo.md bash "echo hello && exit 1"
+    hello
+    $ echo $?
+    1
+
+Image:
+  The "image" command accepts a path to an image file or a markdown image
+  reference of the form ![alt text](path). The image is copied into the same
+  directory as the document with a generated filename and an image reference is
+  appended to the markdown. When a markdown reference is provided the alt text
+  is preserved; otherwise it is derived from the generated filename.
+
+Pop:
+  The "pop" command removes the most recent entry from a document. For an "exec"
+  or "image" entry this removes both the code block and its output. For a "note"
+  entry it removes the single commentary block. This is useful when a command
+  produces an error that shouldn't remain in the document.
+
+Verify:
+  Re-runs every code block (skipping image blocks) and compares actual output
+  against the recorded output. Prints diffs and exits with code 1 if any output
+  has changed; exits 0 if everything matches. Use --output <file> to write an
+  updated copy of the document with the new outputs without modifying the
+  original.
+
+Extract:
+  Parses a document and prints the sequence of showboat CLI commands (one per
+  line) that would recreate it from scratch. Output blocks are omitted since
+  they are regenerated by "exec". Use --filename <name> to substitute a
+  different filename in the emitted commands.
+
+Stdin:
+  Commands accept input from stdin when the text/code argument is omitted.
+  For example:
+    echo "Hello world" | showboat note demo.md
+    cat script.sh | showboat exec demo.md bash
+
+Example:
+  # Create a demo
+  showboat init demo.md "Setting Up a Python Project"
+
+  # Add commentary
+  showboat note demo.md "First, let's create a virtual environment."
+
+  # Run a command and capture output (output is printed to stdout)
+  showboat exec demo.md bash "python3 -m venv .venv && echo 'Done'"
+
+  # Run Python and capture output
+  showboat exec demo.md python "print('Hello from Python')"
+
+  # Oops, wrong command — remove the last entry from the document
+  showboat pop demo.md
+
+  # Redo it correctly
+  showboat exec demo.md python3 "print('Hello from Python')"
+
+  # Add a screenshot
+  showboat image demo.md screenshot.png
+
+  # Add a screenshot with alt text
+  showboat image demo.md '![Homepage screenshot](screenshot.png)'
+
+  # Verify the demo still works
+  showboat verify demo.md
+
+  # See what commands built the demo
+  showboat extract demo.md
+
+Resulting markdown format:
+
+  # Setting Up a Python Project
+
+  *2026-02-06T15:30:00Z*
+
+  First, let's create a virtual environment.
+
+  ```bash
+  python3 -m venv .venv && echo 'Done'
+  ```
+
+  ```output
+  Done
+  ```
+
+  ```python3
+  print('Hello from Python')
+  ```
+
+  ```output
+  Hello from Python
+  ```
+
+  ```bash {image}
+  screenshot.png
+  ```
+
+  ![screenshot](screenshot.png)
+
+  ```bash {image}
+  ![Homepage screenshot](screenshot.png)
+  ```
+
+  ![Homepage screenshot](screenshot.png)
+````
+<!-- [[[end]]] -->
+
+## Example
+
+```bash
+# Create a demo
+showboat init demo.md "Setting Up a Python Project"
+
+# Add commentary
+showboat note demo.md "First, let's create a virtual environment."
+
+# Run a command and capture output
+showboat exec demo.md bash "python3 -m venv .venv && echo 'Done'"
+
+# Run Python and capture output
+showboat exec demo.md python "print('Hello from Python')"
+
+# Add a screenshot
+showboat image demo.md screenshot.png
+
+# Add a screenshot with alt text
+showboat image demo.md '![Homepage screenshot](screenshot.png)'
+```
+
+This produces a markdown file like:
+
+````markdown
+# Setting Up a Python Project
+
+*2026-02-06T15:30:00Z*
+
+First, let's create a virtual environment.
+
+```bash
+python3 -m venv .venv && echo 'Done'
+```
+
+```output
+Done
+```
+
+```python
+print('Hello from Python')
+```
+
+```output
+Hello from Python
+```
+````
+
+## Verifying
+
+`showboat verify` re-executes every code block in a document and checks that the outputs still match:
+
+```bash
+showboat verify demo.md
+```
+
+## Extracting
+
+`showboat extract` emits the sequence of commands that would recreate a document from scratch:
+
+```bash
+showboat extract demo.md
+```
+
+For the example above this would output:
+
+```
+showboat init demo.md 'Setting Up a Python Project'
+showboat note demo.md 'First, let'\''s create a virtual environment.'
+showboat exec demo.md bash 'python3 -m venv .venv && echo '\''Done'\'''
+showboat exec demo.md python 'print('\''Hello from Python'\'')'
+```
+
+By default the commands reference the original filename. Use `--filename` to substitute a different filename in the emitted commands:
+
+```bash
+showboat extract demo.md --filename copy.md
+```
+
+## Remote Document Streaming
+
+When the `SHOWBOAT_REMOTE_URL` environment variable is set, each `init`, `note`, `exec`, `image`, and `pop` command will POST its content to the specified URL. This enables real-time streaming of document updates to a remote viewer as the document is built.
+
+Each document created with `showboat init` receives a UUID that ties all subsequent commands together into a single document stream. The UUID is stored as an HTML comment in the markdown:
+
+```
+<!-- showboat-id: 550e8400-e29b-41d4-a716-446655440000 -->
+```
+
+### Configuration
+
+Set the environment variable to your receiver's URL:
+
+```bash
+export SHOWBOAT_REMOTE_URL=https://www.example.com/showboat
+```
+
+Authentication can be handled by an optional query string argument:
+
+```bash
+export SHOWBOAT_REMOTE_URL=https://www.example.com/showboat?token=secret-token-here
+```
+
+Remote POST errors are printed as warnings to stderr but never fail the main command. If the URL is unset or empty, no POSTs are made.
+
+### POST Body Format
+
+All POSTs use `application/x-www-form-urlencoded` except `image`, which uses `multipart/form-data`. Every POST includes `uuid` and `command` fields.
+
+| Command | Content-Type | Form Fields |
+| --- | --- | --- |
+| `init` | `application/x-www-form-urlencoded` | `uuid`, `command=init`, `title` |
+| `note` | `application/x-www-form-urlencoded` | `uuid`, `command=note`, `markdown` |
+| `exec` | `application/x-www-form-urlencoded` | `uuid`, `command=exec`, `language`, `input`, `output` |
+| `image` | `multipart/form-data` | `uuid`, `command=image`, `input`, `alt`, `image` (file upload) |
+| `pop` | `application/x-www-form-urlencoded` | `uuid`, `command=pop` |
+
+For `exec`, `language` is the interpreter name (e.g. `bash`, `python3`), `input` is the source code, and `output` is the captured stdout/stderr. For `image`, the `image` field is the copied image file. For `note`, `markdown` contains the rendered markdown of the commentary block.
+
+## Building the Python wheels
+
+The Python wheel versions are built using [go-to-wheel](https://github.com/simonw/go-to-wheel):
+
+```bash
+uvx go-to-wheel . \
+  --readme README.md \
+  --description "Create executable documents that demonstrate an agent's work" \
+  --author 'Simon Willison' \
+  --license Apache-2.0 \
+  --url https://github.com/simonw/showboat \
+  --set-version-var main.version \
+  --version 0.1.0
+```

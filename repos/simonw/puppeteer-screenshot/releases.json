@@ -1,0 +1,8 @@
+{
+  "description": "Vercel app for taking screenshots of web pages using Puppeteer",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "puppeteer-screenshot",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/puppeteer-screenshot"
+}

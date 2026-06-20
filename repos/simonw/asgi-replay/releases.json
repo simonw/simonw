@@ -1,0 +1,16 @@
+{
+  "description": "Record and replay ASGI web page loads",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-07-24T15:06:20Z",
+      "published_day": "2023-07-24",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/asgi-replay/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "asgi-replay",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/asgi-replay"
+}

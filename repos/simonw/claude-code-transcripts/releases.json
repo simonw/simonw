@@ -1,0 +1,51 @@
+{
+  "description": "Tools for publishing transcripts for Claude Code sessions",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-25T05:49:53Z",
+      "published_day": "2026-01-25",
+      "release": "0.6",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-31T07:29:23Z",
+      "published_day": "2025-12-31",
+      "release": "0.5",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-27T07:16:06Z",
+      "published_day": "2025-12-27",
+      "release": "0.4",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-25T22:59:29Z",
+      "published_day": "2025-12-25",
+      "release": "0.3",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-25T03:30:34Z",
+      "published_day": "2025-12-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-24T23:45:29Z",
+      "published_day": "2025-12-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/claude-code-transcripts/releases/tag/0.1"
+    }
+  ],
+  "repo": "claude-code-transcripts",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/claude-code-transcripts"
+}

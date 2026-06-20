@@ -1,0 +1,79 @@
+{
+  "description": "Export Airtable data to YAML, JSON or SQLite files on disk",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-04-09T23:13:21Z",
+      "published_day": "2021-04-09",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-08T22:18:29Z",
+      "published_day": "2021-04-08",
+      "release": "0.7",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-02T05:42:52Z",
+      "published_day": "2021-04-02",
+      "release": "0.6",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-22T06:02:10Z",
+      "published_day": "2021-02-22",
+      "release": "0.5",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-30T03:13:50Z",
+      "published_day": "2020-08-30",
+      "release": "0.4",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T22:16:06Z",
+      "published_day": "2020-08-29",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T21:46:39Z",
+      "published_day": "2020-08-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T21:14:26Z",
+      "published_day": "2020-08-29",
+      "release": "0.2",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T20:16:24Z",
+      "published_day": "2020-08-29",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T19:53:35Z",
+      "published_day": "2020-08-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/airtable-export/releases/tag/0.1"
+    }
+  ],
+  "repo": "airtable-export",
+  "total_releases": 10,
+  "url": "https://github.com/simonw/airtable-export"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Experimental package of ASGI utilities extracted from Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-03-21T23:24:22Z",
+      "published_day": "2021-03-21",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/c64/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "c64",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/c64"
+}

@@ -1,0 +1,30 @@
+{
+  "description": "CLI tool for stripping hidden form values from an HTML document",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-02-11T23:05:01Z",
+      "published_day": "2022-02-11",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-11T22:53:13Z",
+      "published_day": "2022-02-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/strip-hidden-form-values/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-11T18:54:21Z",
+      "published_day": "2022-02-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/strip-hidden-form-values/releases/tag/0.1"
+    }
+  ],
+  "repo": "strip-hidden-form-values",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/strip-hidden-form-values"
+}

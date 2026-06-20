@@ -1,0 +1,44 @@
+{
+  "description": "Support for MLX models in LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-04-23T17:49:32Z",
+      "published_day": "2025-04-23",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-mlx/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-17T01:48:27Z",
+      "published_day": "2025-02-17",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-mlx/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-15T19:53:48Z",
+      "published_day": "2025-02-15",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/llm-mlx/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-15T18:09:47Z",
+      "published_day": "2025-02-15",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-mlx/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-15T00:21:53Z",
+      "published_day": "2025-02-15",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-mlx/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-mlx",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/llm-mlx"
+}

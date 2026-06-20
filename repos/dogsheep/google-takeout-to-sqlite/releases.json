@@ -1,0 +1,8 @@
+{
+  "description": "Save data from Google Takeout to a SQLite database",
+  "owner": "dogsheep",
+  "releases": [],
+  "repo": "google-takeout-to-sqlite",
+  "total_releases": 0,
+  "url": "https://github.com/dogsheep/google-takeout-to-sqlite"
+}

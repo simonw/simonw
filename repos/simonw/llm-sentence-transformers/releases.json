@@ -1,0 +1,58 @@
+{
+  "description": "LLM plugin for embeddings using sentence-transformers",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-04-23T17:09:59Z",
+      "published_day": "2025-04-23",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T21:11:52Z",
+      "published_day": "2025-03-27",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-12T21:24:40Z",
+      "published_day": "2025-02-12",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-04T18:54:45Z",
+      "published_day": "2024-02-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-13T22:38:07Z",
+      "published_day": "2023-09-13",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T20:45:46Z",
+      "published_day": "2023-09-08",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-04T02:47:02Z",
+      "published_day": "2023-09-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-sentence-transformers/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-sentence-transformers",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/llm-sentence-transformers"
+}

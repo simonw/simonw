@@ -1,0 +1,72 @@
+{
+  "description": "Prettier formatting for ?_trace=1 traces",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-08T23:05:24Z",
+      "published_day": "2026-02-08",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-24T17:24:03Z",
+      "published_day": "2025-10-24",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-21T19:31:00Z",
+      "published_day": "2024-08-21",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-14T02:08:51Z",
+      "published_day": "2022-01-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-19T04:31:36Z",
+      "published_day": "2021-12-19",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-19T03:51:39Z",
+      "published_day": "2021-12-19",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-13T23:38:01Z",
+      "published_day": "2021-12-13",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-13T20:30:31Z",
+      "published_day": "2021-12-13",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-13T19:48:59Z",
+      "published_day": "2021-12-13",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-pretty-traces/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-pretty-traces",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/datasette-pretty-traces"
+}

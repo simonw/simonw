@@ -1,0 +1,16 @@
+{
+  "description": "Access fireworks.ai models via API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-18T23:29:00Z",
+      "published_day": "2024-04-18",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-fireworks/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-fireworks",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-fireworks"
+}

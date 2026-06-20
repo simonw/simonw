@@ -1,0 +1,51 @@
+{
+  "description": "Load shapefiles into a SQLite (optionally SpatiaLite) database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-01-08T20:24:46Z",
+      "published_day": "2023-01-08",
+      "release": "0.4.2",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-23T05:48:12Z",
+      "published_day": "2020-08-23",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-23T04:42:13Z",
+      "published_day": "2020-08-23",
+      "release": "0.4",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-22T00:30:09Z",
+      "published_day": "2020-08-22",
+      "release": "0.3",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-19T05:20:39Z",
+      "published_day": "2020-02-19",
+      "release": "0.2",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-17T00:28:27Z",
+      "published_day": "2020-02-17",
+      "release": "0.1",
+      "url": "https://github.com/simonw/shapefile-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "shapefile-to-sqlite",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/shapefile-to-sqlite"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "SQL statistics functions for Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-11-30T23:34:58Z",
+      "published_day": "2023-11-30",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-statistics/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-10-15T18:47:47Z",
+      "published_day": "2021-10-15",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-statistics/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-16T03:21:38Z",
+      "published_day": "2021-09-16",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-statistics/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-16T03:08:23Z",
+      "published_day": "2021-09-16",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-statistics/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-statistics",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-statistics"
+}

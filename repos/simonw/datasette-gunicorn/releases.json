@@ -1,0 +1,23 @@
+{
+  "description": "Plugin for running Datasette using Gunicorn",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-12-18T06:46:37Z",
+      "published_day": "2022-12-18",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-22T20:57:44Z",
+      "published_day": "2022-10-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-gunicorn/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-gunicorn",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-gunicorn"
+}

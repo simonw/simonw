@@ -1,0 +1,30 @@
+{
+  "description": "UI for setting cookies to populate magic parameters",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-01-12T19:04:37Z",
+      "published_day": "2023-01-12",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-11T23:42:35Z",
+      "published_day": "2023-01-11",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-11T22:52:56Z",
+      "published_day": "2023-01-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-cookies-for-magic-parameters/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-cookies-for-magic-parameters",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-cookies-for-magic-parameters"
+}

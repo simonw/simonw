@@ -1,0 +1,8 @@
+{
+  "description": "Scrape highway information from https://roads.dot.ca.gov/",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "scrape-roads-dot-ca-gov",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/scrape-roads-dot-ca-gov"
+}

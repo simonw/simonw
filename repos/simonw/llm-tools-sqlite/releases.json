@@ -1,0 +1,30 @@
+{
+  "description": "LLM tools for running queries against SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:38:37Z",
+      "published_day": "2025-05-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T05:42:29Z",
+      "published_day": "2025-05-27",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-18T03:09:02Z",
+      "published_day": "2025-05-18",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-tools-sqlite",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-tools-sqlite"
+}

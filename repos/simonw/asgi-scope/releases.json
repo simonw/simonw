@@ -1,0 +1,8 @@
+{
+  "description": "A tiny application for understanding ASGI scope",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "asgi-scope",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/asgi-scope"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "CLI tool for converting DBF files (dBase, FoxPro etc) to SQLite",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "dbf-to-sqlite",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/dbf-to-sqlite"
+}

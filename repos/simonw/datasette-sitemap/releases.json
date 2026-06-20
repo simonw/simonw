@@ -1,0 +1,30 @@
+{
+  "description": "Generate sitemap.xml for Datasette sites",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-30T17:59:53Z",
+      "published_day": "2022-08-30",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-sitemap/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-29T22:36:22Z",
+      "published_day": "2022-08-29",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-sitemap/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-29T22:19:49Z",
+      "published_day": "2022-08-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-sitemap/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sitemap",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-sitemap"
+}

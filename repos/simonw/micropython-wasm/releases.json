@@ -1,0 +1,30 @@
+{
+  "description": "Python library for running a MicroPython sandbox using WebAssembly",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-06T04:26:06Z",
+      "published_day": "2026-06-06",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-02T19:20:47Z",
+      "published_day": "2026-06-02",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-02T03:43:45Z",
+      "published_day": "2026-06-02",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/micropython-wasm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "micropython-wasm",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/micropython-wasm"
+}

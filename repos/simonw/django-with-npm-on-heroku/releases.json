@@ -1,0 +1,8 @@
+{
+  "description": "Figuring out how to run Django on Heroku with an npm-powered static asset build step",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-with-npm-on-heroku",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-with-npm-on-heroku"
+}

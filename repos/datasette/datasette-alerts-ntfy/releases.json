@@ -1,0 +1,23 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T00:23:26Z",
+      "published_day": "2026-04-09",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T22:16:54Z",
+      "published_day": "2026-02-26",
+      "release": "0.1.0a1",
+      "url": "https://github.com/datasette/datasette-alerts-ntfy/releases/tag/0.1.0a1"
+    }
+  ],
+  "repo": "datasette-alerts-ntfy",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-alerts-ntfy"
+}

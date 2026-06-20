@@ -1,0 +1,30 @@
+{
+  "description": "Datasette enrichment for evaluating templates in a Jinja sandbox",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-12-06T20:09:12Z",
+      "published_day": "2023-12-06",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-20T05:06:14Z",
+      "published_day": "2023-11-20",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-16T20:06:12Z",
+      "published_day": "2023-11-16",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments-jinja",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-enrichments-jinja"
+}

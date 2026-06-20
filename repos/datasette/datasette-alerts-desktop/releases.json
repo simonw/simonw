@@ -1,0 +1,30 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T00:21:39Z",
+      "published_day": "2026-04-09",
+      "release": "0.1.0a5",
+      "url": "https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T22:30:03Z",
+      "published_day": "2026-02-26",
+      "release": "0.1.0a3",
+      "url": "https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T22:21:55Z",
+      "published_day": "2026-02-26",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-alerts-desktop/releases/tag/0.1.0a2"
+    }
+  ],
+  "repo": "datasette-alerts-desktop",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-alerts-desktop"
+}

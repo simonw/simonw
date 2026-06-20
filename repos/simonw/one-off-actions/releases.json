@@ -1,0 +1,8 @@
+{
+  "description": "Experimental GitHub Actions, only triggered by workflow dispatch",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "one-off-actions",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/one-off-actions"
+}

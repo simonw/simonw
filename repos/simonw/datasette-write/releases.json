@@ -1,0 +1,65 @@
+{
+  "description": "Datasette plugin providing a UI for executing SQL writes against the database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T01:50:21Z",
+      "published_day": "2025-11-11",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-04T04:49:02Z",
+      "published_day": "2024-09-04",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-18T16:45:45Z",
+      "published_day": "2024-03-18",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-14T02:35:52Z",
+      "published_day": "2024-03-14",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-27T22:48:50Z",
+      "published_day": "2024-02-27",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-11T06:03:07Z",
+      "published_day": "2021-09-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T23:47:57Z",
+      "published_day": "2020-07-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-29T03:45:50Z",
+      "published_day": "2020-06-29",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-write/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-write",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/datasette-write"
+}

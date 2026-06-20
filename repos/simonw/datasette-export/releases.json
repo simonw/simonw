@@ -1,0 +1,16 @@
+{
+  "description": "Export pages from Datasette to files on disk",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-11-27T04:20:09Z",
+      "published_day": "2022-11-27",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-export/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-export",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-export"
+}

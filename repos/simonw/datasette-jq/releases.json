@@ -1,0 +1,16 @@
+{
+  "description": "Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-04-09T05:43:43Z",
+      "published_day": "2020-04-09",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-jq/releases/tag/0.2.1"
+    }
+  ],
+  "repo": "datasette-jq",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-jq"
+}

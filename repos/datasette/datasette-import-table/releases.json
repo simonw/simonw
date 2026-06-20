@@ -1,0 +1,58 @@
+{
+  "description": "Datasette plugin for importing tables from other Datasette instances",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T06:30:26Z",
+      "published_day": "2022-11-18",
+      "release": "0.3.1",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-08T04:49:48Z",
+      "published_day": "2021-09-08",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-28T15:27:45Z",
+      "published_day": "2020-09-28",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-28T14:32:03Z",
+      "published_day": "2020-09-28",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-28T05:48:34Z",
+      "published_day": "2020-09-28",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-28T05:42:00Z",
+      "published_day": "2020-09-28",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-28T05:31:43Z",
+      "published_day": "2020-09-28",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-import-table/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-import-table",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-import-table"
+}

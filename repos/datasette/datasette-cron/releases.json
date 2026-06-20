@@ -1,0 +1,23 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T00:22:41Z",
+      "published_day": "2026-05-13",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-cron/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-08T23:48:37Z",
+      "published_day": "2026-04-08",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-cron/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-cron",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-cron"
+}

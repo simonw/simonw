@@ -1,0 +1,44 @@
+{
+  "description": "Datasette enrichment for analyzing row data using OpenAI's GPT models",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-05-15T21:48:50Z",
+      "published_day": "2024-05-15",
+      "release": "0.5",
+      "url": "https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-10T03:27:54Z",
+      "published_day": "2024-04-10",
+      "release": "0.4",
+      "url": "https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-01T22:54:24Z",
+      "published_day": "2023-12-01",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-30T05:53:20Z",
+      "published_day": "2023-11-30",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-22T17:28:47Z",
+      "published_day": "2023-11-22",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments-gpt",
+  "total_releases": 5,
+  "url": "https://github.com/datasette/datasette-enrichments-gpt"
+}

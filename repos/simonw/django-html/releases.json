@@ -1,0 +1,8 @@
+{
+  "description": "A way of rendering django.forms widgets that differentiates between HTML and XHTML.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-html",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-html"
+}

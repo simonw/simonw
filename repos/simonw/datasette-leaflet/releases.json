@@ -1,0 +1,37 @@
+{
+  "description": "Datasette plugin adding the Leaflet JavaScript library",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-01T22:20:28Z",
+      "published_day": "2021-02-01",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-31T07:23:01Z",
+      "published_day": "2021-01-31",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-25T19:03:10Z",
+      "published_day": "2021-01-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-24T18:19:32Z",
+      "published_day": "2021-01-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-leaflet",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-leaflet"
+}

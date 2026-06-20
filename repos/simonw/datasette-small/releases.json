@@ -1,0 +1,8 @@
+{
+  "description": "Experimental project for building smallest possible Docker image for Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-small",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-small"
+}

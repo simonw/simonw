@@ -1,0 +1,30 @@
+{
+  "description": "Observable Plot charts for Datasette Agent",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-21T15:15:58Z",
+      "published_day": "2026-05-21",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-20T14:52:16Z",
+      "published_day": "2026-05-20",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-12T21:41:08Z",
+      "published_day": "2026-05-12",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-agent-charts",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-agent-charts"
+}

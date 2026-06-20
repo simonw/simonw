@@ -1,0 +1,8 @@
+{
+  "description": "Git scraper recording the package versions installed on the defaul GitHub Actions ubuntu-latest worker",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "scrape-github-actions-package-versions",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/scrape-github-actions-package-versions"
+}

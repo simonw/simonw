@@ -1,0 +1,51 @@
+{
+  "description": "Datasette plugin that blocks robots and crawlers using robots.txt",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-30T16:25:38Z",
+      "published_day": "2022-08-30",
+      "release": "1.1",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-19T20:09:53Z",
+      "published_day": "2021-08-19",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-06T01:43:52Z",
+      "published_day": "2020-09-06",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-05T17:14:56Z",
+      "published_day": "2020-09-05",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T03:37:27Z",
+      "published_day": "2020-06-23",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T02:53:49Z",
+      "published_day": "2020-06-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-block-robots",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/datasette-block-robots"
+}

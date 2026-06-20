@@ -1,0 +1,8 @@
+{
+  "description": "Datasette instance with data from unitedstates/congress-legislators",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "congress-legislators-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/congress-legislators-datasette"
+}

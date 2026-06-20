@@ -1,0 +1,16 @@
+{
+  "description": "LLM fragment loader for Python symbols",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-04-23T05:43:13Z",
+      "published_day": "2025-04-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-fragments-symbex/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-fragments-symbex",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-fragments-symbex"
+}

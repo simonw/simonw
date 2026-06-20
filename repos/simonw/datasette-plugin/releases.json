@@ -1,0 +1,8 @@
+{
+  "description": "Cookiecutter template for creating Datasette plugins",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-plugin",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-plugin"
+}

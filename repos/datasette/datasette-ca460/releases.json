@@ -1,0 +1,37 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-04-16T22:51:07Z",
+      "published_day": "2026-04-16",
+      "release": "0.0.1a4",
+      "url": "https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-16T21:54:32Z",
+      "published_day": "2026-04-16",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-16T21:47:44Z",
+      "published_day": "2026-04-16",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-19T15:19:16Z",
+      "published_day": "2026-03-19",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-ca460/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-ca460",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-ca460"
+}

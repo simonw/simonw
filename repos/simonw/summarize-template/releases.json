@@ -1,0 +1,16 @@
+{
+  "description": "Show a summary of a Django or Jinja template",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-04-13T01:23:27Z",
+      "published_day": "2022-04-13",
+      "release": "0.1",
+      "url": "https://github.com/simonw/summarize-template/releases/tag/0.1"
+    }
+  ],
+  "repo": "summarize-template",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/summarize-template"
+}

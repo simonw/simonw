@@ -1,0 +1,23 @@
+{
+  "description": "Make simple_eval available as an LLM tool",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-15T02:03:15Z",
+      "published_day": "2025-05-15",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-14T20:30:20Z",
+      "published_day": "2025-05-14",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-tools-simpleeval/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-tools-simpleeval",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-tools-simpleeval"
+}

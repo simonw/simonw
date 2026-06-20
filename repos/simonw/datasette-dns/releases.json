@@ -1,0 +1,23 @@
+{
+  "description": "Custom SQL function for making DNS lookups",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-09-10T15:58:52Z",
+      "published_day": "2020-09-10",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-dns/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-10T04:45:58Z",
+      "published_day": "2020-09-10",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-dns/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-dns",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-dns"
+}

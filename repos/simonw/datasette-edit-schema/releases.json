@@ -1,0 +1,177 @@
+{
+  "description": "Datasette plugin for modifying table schemas",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-10T22:03:50Z",
+      "published_day": "2025-11-10",
+      "release": "0.8a5",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:27Z",
+      "published_day": "2025-10-21",
+      "release": "0.8a4",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-03T16:35:13Z",
+      "published_day": "2024-09-03",
+      "release": "0.8a3",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-24T04:07:32Z",
+      "published_day": "2024-04-24",
+      "release": "0.8a2",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-14T02:31:39Z",
+      "published_day": "2024-03-14",
+      "release": "0.8a1",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-18T22:20:34Z",
+      "published_day": "2024-02-18",
+      "release": "0.8a0",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.8a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-04T21:22:04Z",
+      "published_day": "2023-11-04",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-26T00:49:02Z",
+      "published_day": "2023-10-26",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-09T00:20:57Z",
+      "published_day": "2023-09-09",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-07T15:54:45Z",
+      "published_day": "2023-09-07",
+      "release": "0.6a2",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-06T23:26:31Z",
+      "published_day": "2023-09-06",
+      "release": "0.6a1",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-06T22:30:57Z",
+      "published_day": "2023-09-06",
+      "release": "0.6a0",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.6a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-18T06:12:09Z",
+      "published_day": "2023-08-18",
+      "release": "0.5.3",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T07:01:12Z",
+      "published_day": "2022-11-18",
+      "release": "0.5.2",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-22T22:45:58Z",
+      "published_day": "2022-08-22",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-01T23:15:59Z",
+      "published_day": "2022-07-01",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-31T22:56:51Z",
+      "published_day": "2020-10-31",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-30T05:51:34Z",
+      "published_day": "2020-10-30",
+      "release": "0.4a0",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-01T22:41:06Z",
+      "published_day": "2020-10-01",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-01T21:28:19Z",
+      "published_day": "2020-10-01",
+      "release": "0.3a2",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.3a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-30T18:12:06Z",
+      "published_day": "2020-09-30",
+      "release": "0.3a1",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.3a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-30T17:00:54Z",
+      "published_day": "2020-09-30",
+      "release": "0.3a",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.3a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-06T20:36:24Z",
+      "published_day": "2020-07-06",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-15T19:00:25Z",
+      "published_day": "2020-03-15",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-edit-schema/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-edit-schema",
+  "total_releases": 24,
+  "url": "https://github.com/simonw/datasette-edit-schema"
+}

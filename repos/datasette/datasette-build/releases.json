@@ -1,0 +1,16 @@
+{
+  "description": "Build a directory full of files into a SQLite database",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-01-15T02:18:16Z",
+      "published_day": "2024-01-15",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-build/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-build",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-build"
+}

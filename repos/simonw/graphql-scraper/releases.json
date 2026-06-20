@@ -1,0 +1,8 @@
+{
+  "description": "Track changes to GraphQL APIs by git scraping their schemas",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "graphql-scraper",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/graphql-scraper"
+}

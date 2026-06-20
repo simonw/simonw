@@ -1,0 +1,156 @@
+{
+  "description": "Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-08T17:51:51Z",
+      "published_day": "2026-04-08",
+      "release": "0.11",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-13T14:38:09Z",
+      "published_day": "2021-06-13",
+      "release": "0.10.2",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-19T06:19:13Z",
+      "published_day": "2020-12-19",
+      "release": "0.10.1",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-16T21:28:13Z",
+      "published_day": "2020-12-16",
+      "release": "0.10",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-17T23:03:04Z",
+      "published_day": "2020-10-17",
+      "release": "0.9",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-20T23:37:48Z",
+      "published_day": "2020-09-20",
+      "release": "0.9a0",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-18T22:41:33Z",
+      "published_day": "2020-09-18",
+      "release": "0.8",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-17T23:13:46Z",
+      "published_day": "2020-09-17",
+      "release": "0.7.1",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-17T22:57:09Z",
+      "published_day": "2020-09-17",
+      "release": "0.7",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-09T00:46:06Z",
+      "published_day": "2020-09-09",
+      "release": "0.7a0",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-05T16:26:06Z",
+      "published_day": "2020-09-05",
+      "release": "0.6",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-04T01:46:16Z",
+      "published_day": "2020-09-04",
+      "release": "0.5",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-03T21:41:52Z",
+      "published_day": "2020-09-03",
+      "release": "0.4.1",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-03T21:11:28Z",
+      "published_day": "2020-09-03",
+      "release": "0.4",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-03T18:03:50Z",
+      "published_day": "2020-09-03",
+      "release": "0.4a1",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-03T03:54:23Z",
+      "published_day": "2020-09-03",
+      "release": "0.4a0",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-02T21:07:44Z",
+      "published_day": "2020-09-02",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-01T20:41:31Z",
+      "published_day": "2020-09-01",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-01T06:12:05Z",
+      "published_day": "2020-09-01",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-01T04:50:01Z",
+      "published_day": "2020-09-01",
+      "release": "0.1a2",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-01T04:19:00Z",
+      "published_day": "2020-09-01",
+      "release": "0.1a",
+      "url": "https://github.com/dogsheep/dogsheep-beta/releases/tag/0.1a"
+    }
+  ],
+  "repo": "dogsheep-beta",
+  "total_releases": 21,
+  "url": "https://github.com/dogsheep/dogsheep-beta"
+}

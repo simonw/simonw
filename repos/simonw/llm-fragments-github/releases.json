@@ -1,0 +1,44 @@
+{
+  "description": "Load GitHub repository contents as LLM fragments",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-12T21:20:59Z",
+      "published_day": "2025-05-12",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-fragments-github/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-05T05:16:24Z",
+      "published_day": "2025-05-05",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-fragments-github/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-20T15:00:26Z",
+      "published_day": "2025-04-20",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/llm-fragments-github/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-20T05:52:18Z",
+      "published_day": "2025-04-20",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-fragments-github/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T16:39:53Z",
+      "published_day": "2025-04-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-fragments-github/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-fragments-github",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/llm-fragments-github"
+}

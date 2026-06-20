@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin adding a /-/psutil debugging endpoint",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-06-13T23:28:41Z",
+      "published_day": "2020-06-13",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-psutil/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-13T23:27:56Z",
+      "published_day": "2020-06-13",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-psutil/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-psutil",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-psutil"
+}

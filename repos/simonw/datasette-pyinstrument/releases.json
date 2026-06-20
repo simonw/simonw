@@ -1,0 +1,16 @@
+{
+  "description": "Use pyinstrument to analyze Datasette page performance",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-08T15:43:44Z",
+      "published_day": "2021-08-08",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-pyinstrument/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-pyinstrument",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-pyinstrument"
+}

@@ -1,0 +1,72 @@
+{
+  "description": "OpenAI plugin for LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-06T19:42:31Z",
+      "published_day": "2025-10-06",
+      "release": "0.7",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-09-24T00:00:42Z",
+      "published_day": "2025-09-24",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-06-10T20:30:16Z",
+      "published_day": "2025-06-10",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-16T18:08:45Z",
+      "published_day": "2025-05-16",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-16T17:30:31Z",
+      "published_day": "2025-04-16",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-14T21:45:44Z",
+      "published_day": "2025-04-14",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-14T17:27:36Z",
+      "published_day": "2025-04-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-21T21:34:00Z",
+      "published_day": "2025-03-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-21T00:22:33Z",
+      "published_day": "2025-03-21",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-openai-plugin/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-openai-plugin",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/llm-openai-plugin"
+}

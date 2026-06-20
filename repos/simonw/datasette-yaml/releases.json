@@ -1,0 +1,30 @@
+{
+  "description": "Export Datasette records as YAML",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-12-03T00:09:35Z",
+      "published_day": "2020-12-03",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-yaml/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-14T22:13:36Z",
+      "published_day": "2020-09-14",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-yaml/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-29T22:35:22Z",
+      "published_day": "2020-08-29",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-yaml/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-yaml",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-yaml"
+}

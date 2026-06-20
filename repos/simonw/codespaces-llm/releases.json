@@ -1,0 +1,8 @@
+{
+  "description": "Codespaces with LLM pre-configured using GitHub models",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "codespaces-llm",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/codespaces-llm"
+}

@@ -1,0 +1,86 @@
+{
+  "description": "Tools for analyzing Git history using SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-12-21T20:22:54Z",
+      "published_day": "2025-12-21",
+      "release": "0.7",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-11T20:13:48Z",
+      "published_day": "2023-01-11",
+      "release": "0.7a0",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.7a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-08T20:29:19Z",
+      "published_day": "2021-12-08",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-07T17:15:07Z",
+      "published_day": "2021-12-07",
+      "release": "0.6",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-03T04:05:15Z",
+      "published_day": "2021-12-03",
+      "release": "0.5",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-21T05:08:43Z",
+      "published_day": "2021-11-21",
+      "release": "0.4",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-12T07:30:25Z",
+      "published_day": "2021-11-12",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-12T03:39:34Z",
+      "published_day": "2021-11-12",
+      "release": "0.3",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-12T02:50:49Z",
+      "published_day": "2021-11-12",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-12T02:40:45Z",
+      "published_day": "2021-11-12",
+      "release": "0.2",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-12T00:56:49Z",
+      "published_day": "2021-11-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/git-history/releases/tag/0.1"
+    }
+  ],
+  "repo": "git-history",
+  "total_releases": 11,
+  "url": "https://github.com/simonw/git-history"
+}

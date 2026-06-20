@@ -1,0 +1,8 @@
+{
+  "description": "Incomplete system for creating time series style reports about Django models",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-timereports",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-timereports"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Create separate files on disk based on a JSON object",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-01-10T20:12:21Z",
+      "published_day": "2023-01-10",
+      "release": "0.1",
+      "url": "https://github.com/simonw/json-to-files/releases/tag/0.1"
+    }
+  ],
+  "repo": "json-to-files",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/json-to-files"
+}

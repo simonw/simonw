@@ -1,0 +1,23 @@
+{
+  "description": " Convert TTML to JSON",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-09-25T00:49:59Z",
+      "published_day": "2022-09-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/ttml-to-json/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-25T00:01:42Z",
+      "published_day": "2022-09-25",
+      "release": "0.1",
+      "url": "https://github.com/simonw/ttml-to-json/releases/tag/0.1"
+    }
+  ],
+  "repo": "ttml-to-json",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/ttml-to-json"
+}

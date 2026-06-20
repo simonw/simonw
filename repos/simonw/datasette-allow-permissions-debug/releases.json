@@ -1,0 +1,23 @@
+{
+  "description": "Always allow access to /-/permissions, for debugging",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-04T03:15:52Z",
+      "published_day": "2025-11-04",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-30T23:07:55Z",
+      "published_day": "2020-06-30",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-allow-permissions-debug",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-allow-permissions-debug"
+}

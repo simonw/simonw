@@ -1,0 +1,72 @@
+{
+  "description": "Tools for running OCR against files stored in S3",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-10T04:43:17Z",
+      "published_day": "2022-08-10",
+      "release": "0.6.3",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.6.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-09T20:35:32Z",
+      "published_day": "2022-08-09",
+      "release": "0.6.2",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.6.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-09T19:40:19Z",
+      "published_day": "2022-08-09",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-07T17:42:07Z",
+      "published_day": "2022-08-07",
+      "release": "0.6",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-19T02:35:36Z",
+      "published_day": "2022-07-19",
+      "release": "0.5",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-30T21:03:44Z",
+      "published_day": "2022-06-30",
+      "release": "0.4",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-30T00:44:10Z",
+      "published_day": "2022-06-30",
+      "release": "0.3",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-29T19:35:21Z",
+      "published_day": "2022-06-29",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-29T02:53:10Z",
+      "published_day": "2022-06-29",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/s3-ocr/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "s3-ocr",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/s3-ocr"
+}

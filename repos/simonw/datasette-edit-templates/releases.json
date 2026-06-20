@@ -1,0 +1,72 @@
+{
+  "description": "Plugin allowing Datasette templates to be edited within Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-10T19:31:58Z",
+      "published_day": "2025-11-10",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-17T00:39:07Z",
+      "published_day": "2024-01-17",
+      "release": "0.4.3",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-17T00:23:55Z",
+      "published_day": "2024-01-17",
+      "release": "0.4.2",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T05:48:39Z",
+      "published_day": "2024-01-16",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T05:27:21Z",
+      "published_day": "2024-01-16",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T04:48:35Z",
+      "published_day": "2024-01-16",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T04:06:37Z",
+      "published_day": "2022-11-18",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-27T22:54:35Z",
+      "published_day": "2022-10-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-14T21:03:20Z",
+      "published_day": "2022-09-14",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-edit-templates/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-edit-templates",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/datasette-edit-templates"
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Run prompts against models hosted on AWS Bedrock",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T15:38:25Z",
+      "published_day": "2024-12-04",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T04:40:31Z",
+      "published_day": "2024-12-04",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T03:03:51Z",
+      "published_day": "2024-12-04",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T02:17:08Z",
+      "published_day": "2024-12-04",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T02:07:57Z",
+      "published_day": "2024-12-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-04T01:04:09Z",
+      "published_day": "2024-12-04",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-bedrock/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-bedrock",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/llm-bedrock"
+}

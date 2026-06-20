@@ -1,0 +1,72 @@
+{
+  "description": "Convert an Apple Healthkit export zip to a SQLite database",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-20T00:56:17Z",
+      "published_day": "2021-08-20",
+      "release": "1.0.1",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-17T21:17:34Z",
+      "published_day": "2020-10-17",
+      "release": "1.0",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-28T01:55:19Z",
+      "published_day": "2020-03-28",
+      "release": "0.5",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-08T01:19:51Z",
+      "published_day": "2019-11-08",
+      "release": "0.4",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-26T06:12:12Z",
+      "published_day": "2019-07-26",
+      "release": "0.3.2",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-24T06:38:36Z",
+      "published_day": "2019-07-24",
+      "release": "0.3.1",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-22T03:33:32Z",
+      "published_day": "2019-07-22",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-20T16:44:41Z",
+      "published_day": "2019-07-20",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-20T16:43:09Z",
+      "published_day": "2019-07-20",
+      "release": "Initial release",
+      "url": "https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "healthkit-to-sqlite",
+  "total_releases": 9,
+  "url": "https://github.com/dogsheep/healthkit-to-sqlite"
+}

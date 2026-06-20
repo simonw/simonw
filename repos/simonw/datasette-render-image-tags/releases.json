@@ -1,0 +1,16 @@
+{
+  "description": "Turn any URLs ending in .jpg/.png/.gif into img tags with width 200",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-09-04T00:48:32Z",
+      "published_day": "2022-09-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-render-image-tags",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-render-image-tags"
+}

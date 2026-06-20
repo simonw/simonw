@@ -1,0 +1,30 @@
+{
+  "description": "Count and truncate text based on tokens",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-05-02T23:37:54Z",
+      "published_day": "2024-05-02",
+      "release": "0.3",
+      "url": "https://github.com/simonw/ttok/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-10T23:37:29Z",
+      "published_day": "2023-07-10",
+      "release": "0.2",
+      "url": "https://github.com/simonw/ttok/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-18T19:53:41Z",
+      "published_day": "2023-05-18",
+      "release": "0.1",
+      "url": "https://github.com/simonw/ttok/releases/tag/0.1"
+    }
+  ],
+  "repo": "ttok",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/ttok"
+}

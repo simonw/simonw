@@ -1,0 +1,16 @@
+{
+  "description": "Python library for parsing SQLite SELECT queries into an AST",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-30T06:12:45Z",
+      "published_day": "2026-01-30",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/sqlite-ast/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "sqlite-ast",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/sqlite-ast"
+}

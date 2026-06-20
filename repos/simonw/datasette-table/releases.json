@@ -1,0 +1,16 @@
+{
+  "description": "A Web Component for embedding a Datasette table on a page",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-11-28T18:29:21Z",
+      "published_day": "2021-11-28",
+      "release": "0.1.0",
+      "url": "https://github.com/simonw/datasette-table/releases/tag/0.1.0"
+    }
+  ],
+  "repo": "datasette-table",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-table"
+}

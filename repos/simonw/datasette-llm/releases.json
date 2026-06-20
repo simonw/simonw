@@ -1,0 +1,8 @@
+{
+  "description": "Datasette plugin for interacting with Large Language Models using LLM",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-llm",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-llm"
+}

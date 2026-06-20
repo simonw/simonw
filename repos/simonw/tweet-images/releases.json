@@ -1,0 +1,30 @@
+{
+  "description": "Send tweets with images from the command line",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-04-18T03:11:16Z",
+      "published_day": "2022-04-18",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/tweet-images/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-17T22:24:49Z",
+      "published_day": "2022-04-17",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/tweet-images/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-17T22:02:39Z",
+      "published_day": "2022-04-17",
+      "release": "0.1",
+      "url": "https://github.com/simonw/tweet-images/releases/tag/0.1"
+    }
+  ],
+  "repo": "tweet-images",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/tweet-images"
+}

@@ -1,0 +1,65 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T15:20:27Z",
+      "published_day": "2026-05-13",
+      "release": "0.0.1a10",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a10"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T00:17:16Z",
+      "published_day": "2026-04-09",
+      "release": "0.0.1a8",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a8"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-24T23:18:14Z",
+      "published_day": "2026-02-24",
+      "release": "0.0.1a7",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T01:19:19Z",
+      "published_day": "2025-11-08",
+      "release": "0.0.1a6",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:52:11Z",
+      "published_day": "2025-10-21",
+      "release": "0.0.1a5",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-08-19T22:33:11Z",
+      "published_day": "2025-08-19",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-08-19T22:30:04Z",
+      "published_day": "2025-08-19",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-06-02T15:42:28Z",
+      "published_day": "2025-06-02",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-alerts",
+  "total_releases": 8,
+  "url": "https://github.com/datasette/datasette-alerts"
+}

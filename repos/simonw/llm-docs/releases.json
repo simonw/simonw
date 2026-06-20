@@ -1,0 +1,37 @@
+{
+  "description": "LLM plugin for asking questions of LLM's own documentation, and related packages",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-05T17:04:14Z",
+      "published_day": "2025-05-05",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/llm-docs/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-14T02:47:29Z",
+      "published_day": "2025-04-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-docs/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T15:43:27Z",
+      "published_day": "2025-04-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-docs/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T04:56:31Z",
+      "published_day": "2025-04-07",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-docs/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-docs",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/llm-docs"
+}

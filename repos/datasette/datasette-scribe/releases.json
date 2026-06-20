@@ -1,0 +1,58 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T15:41:57Z",
+      "published_day": "2026-05-13",
+      "release": "0.2a2",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.2a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-10T05:29:08Z",
+      "published_day": "2026-03-10",
+      "release": "0.2a1",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.2a1"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-02-23T00:36:42Z",
+      "published_day": "2024-02-23",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-02-16T19:22:41Z",
+      "published_day": "2024-02-16",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-02-14T05:11:36Z",
+      "published_day": "2024-02-14",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-02-14T01:30:27Z",
+      "published_day": "2024-02-14",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-02-14T01:23:41Z",
+      "published_day": "2024-02-14",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-scribe/releases/tag/0.1a1"
+    }
+  ],
+  "repo": "datasette-scribe",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-scribe"
+}

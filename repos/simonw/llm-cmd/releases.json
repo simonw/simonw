@@ -1,0 +1,23 @@
+{
+  "description": "Use LLM to generate and execute commands in your shell",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-09T23:32:13Z",
+      "published_day": "2024-09-09",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/llm-cmd/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-26T15:05:22Z",
+      "published_day": "2024-03-26",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-cmd/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-cmd",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-cmd"
+}

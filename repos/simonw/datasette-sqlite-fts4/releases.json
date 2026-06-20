@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin that adds custom SQL functions for working with SQLite FTS4",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-07-31T14:46:26Z",
+      "published_day": "2022-07-31",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-28T16:47:54Z",
+      "published_day": "2022-07-28",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-sqlite-fts4/releases/tag/0.3.1"
+    }
+  ],
+  "repo": "datasette-sqlite-fts4",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-sqlite-fts4"
+}

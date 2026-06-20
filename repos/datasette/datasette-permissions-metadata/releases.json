@@ -1,0 +1,16 @@
+{
+  "description": "Configure permissions for Datasette 0.x in metadata.json",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-05-15T23:10:50Z",
+      "published_day": "2024-05-15",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-permissions-metadata",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-permissions-metadata"
+}

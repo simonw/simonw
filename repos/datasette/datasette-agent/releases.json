@@ -1,0 +1,58 @@
+{
+  "description": "An LLM-powered agent for Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-15T17:19:27Z",
+      "published_day": "2026-06-15",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-10T23:57:27Z",
+      "published_day": "2026-06-10",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-24T23:19:34Z",
+      "published_day": "2026-05-24",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-21T15:04:09Z",
+      "published_day": "2026-05-21",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-15T00:03:00Z",
+      "published_day": "2026-05-15",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-14T22:01:42Z",
+      "published_day": "2026-05-14",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-12T21:29:33Z",
+      "published_day": "2026-05-12",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-agent",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-agent"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Provide information about the current OS at /-/os",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-08T22:50:46Z",
+      "published_day": "2025-10-08",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-os-info/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-os-info",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-os-info"
+}

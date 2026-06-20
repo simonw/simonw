@@ -1,0 +1,16 @@
+{
+  "description": "Make multiple newline separated URLs clickable in Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-24T22:31:53Z",
+      "published_day": "2022-08-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-multiline-links/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-multiline-links",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-multiline-links"
+}

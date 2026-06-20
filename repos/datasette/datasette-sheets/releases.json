@@ -1,0 +1,44 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T16:34:48Z",
+      "published_day": "2026-05-13",
+      "release": "0.0.1a5",
+      "url": "https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-04T21:11:13Z",
+      "published_day": "2026-05-04",
+      "release": "0.0.1a4",
+      "url": "https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-04T18:21:29Z",
+      "published_day": "2026-05-04",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-04T17:37:30Z",
+      "published_day": "2026-05-04",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-04T17:30:03Z",
+      "published_day": "2026-05-04",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-sheets/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-sheets",
+  "total_releases": 5,
+  "url": "https://github.com/datasette/datasette-sheets"
+}

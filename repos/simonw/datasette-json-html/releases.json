@@ -1,0 +1,51 @@
+{
+  "description": "Datasette plugin for rendering HTML based on JSON values",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-07-31T19:22:20Z",
+      "published_day": "2021-07-31",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-31T19:10:13Z",
+      "published_day": "2021-07-31",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-09T22:48:46Z",
+      "published_day": "2020-08-09",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-09T22:47:21Z",
+      "published_day": "2020-08-09",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-14T01:33:44Z",
+      "published_day": "2019-06-14",
+      "release": "0.5 - tooltips and demos",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-01-02T04:17:15Z",
+      "published_day": "2019-01-02",
+      "release": "0.4.0 - <pre> support",
+      "url": "https://github.com/simonw/datasette-json-html/releases/tag/0.4.0"
+    }
+  ],
+  "repo": "datasette-json-html",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/datasette-json-html"
+}

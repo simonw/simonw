@@ -1,0 +1,51 @@
+{
+  "description": "Create a SQLite database containing metadata from Google Drive",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-02-20T20:12:49Z",
+      "published_day": "2022-02-20",
+      "release": "0.4",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-19T21:37:13Z",
+      "published_day": "2022-02-19",
+      "release": "0.3",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-18T06:36:07Z",
+      "published_day": "2022-02-18",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-17T19:20:59Z",
+      "published_day": "2022-02-17",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-17T06:52:55Z",
+      "published_day": "2022-02-17",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-16T22:18:21Z",
+      "published_day": "2022-02-16",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/google-drive-to-sqlite/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "google-drive-to-sqlite",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/google-drive-to-sqlite"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Access llamafile localhost models via LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-22T04:10:20Z",
+      "published_day": "2024-04-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-llamafile/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-llamafile",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-llamafile"
+}

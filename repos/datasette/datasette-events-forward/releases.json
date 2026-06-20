@@ -1,0 +1,44 @@
+{
+  "description": "Forward Datasette analytical events on to another Datasette instance",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-10T23:46:42Z",
+      "published_day": "2025-11-10",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-events-forward/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-04T02:47:49Z",
+      "published_day": "2025-11-04",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-events-forward/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T22:28:19Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-events-forward/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-20T21:54:53Z",
+      "published_day": "2024-02-20",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-events-forward/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-20T19:47:29Z",
+      "published_day": "2024-02-20",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-events-forward/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-events-forward",
+  "total_releases": 5,
+  "url": "https://github.com/datasette/datasette-events-forward"
+}

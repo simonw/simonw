@@ -1,0 +1,30 @@
+{
+  "description": "Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-11-28T18:29:38Z",
+      "published_day": "2023-11-28",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-pretty-json/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-28T21:06:31Z",
+      "published_day": "2022-09-28",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-09T21:22:43Z",
+      "published_day": "2020-12-09",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-pretty-json/releases/tag/0.2.1"
+    }
+  ],
+  "repo": "datasette-pretty-json",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-pretty-json"
+}

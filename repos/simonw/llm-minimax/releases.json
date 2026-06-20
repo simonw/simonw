@@ -1,0 +1,16 @@
+{
+  "description": "LLM plugin for accessing MiniMax models via their API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-29T22:05:15Z",
+      "published_day": "2025-10-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-minimax/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-minimax",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-minimax"
+}

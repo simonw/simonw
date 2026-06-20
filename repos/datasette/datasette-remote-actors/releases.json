@@ -1,0 +1,65 @@
+{
+  "description": "Datasette plugin for fetching details of actors from a remote endpoint",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T00:17:38Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a7",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:24Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-25T22:24:35Z",
+      "published_day": "2025-04-25",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-28T06:32:55Z",
+      "published_day": "2025-03-28",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T17:41:08Z",
+      "published_day": "2025-03-27",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-28T05:06:43Z",
+      "published_day": "2023-09-28",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T04:56:19Z",
+      "published_day": "2023-09-08",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T03:33:14Z",
+      "published_day": "2023-09-08",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-remote-actors/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-remote-actors",
+  "total_releases": 8,
+  "url": "https://github.com/datasette/datasette-remote-actors"
+}

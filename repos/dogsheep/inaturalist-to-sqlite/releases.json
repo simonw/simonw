@@ -1,0 +1,23 @@
+{
+  "description": "Create a SQLite database containing your observation history from iNaturalist",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-10-22T00:08:58Z",
+      "published_day": "2020-10-22",
+      "release": "0.2.1",
+      "url": "https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-24T00:36:40Z",
+      "published_day": "2020-03-24",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/inaturalist-to-sqlite/releases/tag/0.2"
+    }
+  ],
+  "repo": "inaturalist-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/dogsheep/inaturalist-to-sqlite"
+}

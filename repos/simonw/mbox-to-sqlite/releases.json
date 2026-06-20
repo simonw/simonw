@@ -1,0 +1,16 @@
+{
+  "description": "Load email from .mbox files into SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-05-31T18:46:36Z",
+      "published_day": "2022-05-31",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/mbox-to-sqlite/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "mbox-to-sqlite",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/mbox-to-sqlite"
+}

@@ -1,0 +1,177 @@
+{
+  "description": "Datasette plugin that shows a map for any data with latitude/longitude columns",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-06-13T23:06:02Z",
+      "published_day": "2024-06-13",
+      "release": "0.18.2",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T05:05:51Z",
+      "published_day": "2024-01-16",
+      "release": "0.18.1",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-13T06:50:38Z",
+      "published_day": "2024-01-13",
+      "release": "0.18",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-11T17:27:44Z",
+      "published_day": "2023-09-11",
+      "release": "0.18a0",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.18a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-07T19:39:03Z",
+      "published_day": "2021-12-07",
+      "release": "0.17.2",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-01T22:22:25Z",
+      "published_day": "2021-02-01",
+      "release": "0.17.1",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-29T02:06:19Z",
+      "published_day": "2021-01-29",
+      "release": "0.17",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-26T06:33:15Z",
+      "published_day": "2021-01-26",
+      "release": "0.17a0",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.17a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-23T22:50:55Z",
+      "published_day": "2021-01-23",
+      "release": "0.16",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-18T21:49:39Z",
+      "published_day": "2021-01-18",
+      "release": "0.15",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-22T03:52:30Z",
+      "published_day": "2020-10-22",
+      "release": "0.14",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-19T21:39:40Z",
+      "published_day": "2020-10-19",
+      "release": "0.13",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-01T23:24:20Z",
+      "published_day": "2020-10-01",
+      "release": "0.12.4",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-01T00:30:03Z",
+      "published_day": "2020-10-01",
+      "release": "0.12.3",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-01T00:11:09Z",
+      "published_day": "2020-10-01",
+      "release": "0.12.2",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-30T18:30:30Z",
+      "published_day": "2020-09-30",
+      "release": "0.12.1",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-16T19:46:05Z",
+      "published_day": "2020-08-16",
+      "release": "0.12",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-14T15:47:44Z",
+      "published_day": "2020-08-14",
+      "release": "0.11.1",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.11.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-14T05:41:38Z",
+      "published_day": "2020-08-14",
+      "release": "0.11",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-21T17:39:27Z",
+      "published_day": "2020-05-21",
+      "release": "0.10",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-08T02:35:04Z",
+      "published_day": "2020-04-08",
+      "release": "0.9.1",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.9.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-21T20:03:20Z",
+      "published_day": "2020-02-21",
+      "release": "0.9",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-18T22:40:47Z",
+      "published_day": "2019-11-18",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-02T03:54:36Z",
+      "published_day": "2019-11-02",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.7"
+    }
+  ],
+  "repo": "datasette-cluster-map",
+  "total_releases": 24,
+  "url": "https://github.com/simonw/datasette-cluster-map"
+}

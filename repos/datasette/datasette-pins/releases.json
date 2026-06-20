@@ -1,0 +1,58 @@
+{
+  "description": "Pin databases, tables, and other items to the Datasette homepage",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-05T16:34:33Z",
+      "published_day": "2026-02-05",
+      "release": "0.1a7",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T22:32:03Z",
+      "published_day": "2025-11-11",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:21Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-01T22:15:44Z",
+      "published_day": "2024-09-01",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-08-07T23:30:04Z",
+      "published_day": "2024-08-07",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-05-08T17:26:51Z",
+      "published_day": "2024-05-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2024-05-08T17:23:11Z",
+      "published_day": "2024-05-08",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-pins/releases/tag/0.1a1"
+    }
+  ],
+  "repo": "datasette-pins",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-pins"
+}

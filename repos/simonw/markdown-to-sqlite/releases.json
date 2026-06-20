@@ -1,0 +1,23 @@
+{
+  "description": "CLI tool for loading markdown files into a SQLite database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-06-13T04:17:15Z",
+      "published_day": "2021-06-13",
+      "release": "1.0",
+      "url": "https://github.com/simonw/markdown-to-sqlite/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-14T20:21:19Z",
+      "published_day": "2021-01-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/markdown-to-sqlite/releases/tag/0.2"
+    }
+  ],
+  "repo": "markdown-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/markdown-to-sqlite"
+}

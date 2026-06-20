@@ -1,0 +1,8 @@
+{
+  "description": "Code to package FiveThirtyEight data using Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "fivethirtyeight-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/fivethirtyeight-datasette"
+}

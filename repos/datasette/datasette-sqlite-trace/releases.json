@@ -1,0 +1,16 @@
+{
+  "description": "Datasette plugin that prints all executed SQL to stderr",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-09-10T22:03:52Z",
+      "published_day": "2023-09-10",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-sqlite-trace/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sqlite-trace",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-sqlite-trace"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "usgs-demo",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/usgs-demo"
+}

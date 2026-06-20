@@ -1,0 +1,51 @@
+{
+  "description": "Export a copy of a mutable SQLite database on demand",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-15T23:52:35Z",
+      "published_day": "2026-04-15",
+      "release": "0.3a1",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.3a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T00:22:09Z",
+      "published_day": "2025-11-11",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-16T00:49:48Z",
+      "published_day": "2024-03-16",
+      "release": "0.2.1",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-15T05:31:40Z",
+      "published_day": "2024-03-15",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-15T05:11:36Z",
+      "published_day": "2024-03-15",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-15T05:03:43Z",
+      "published_day": "2024-03-15",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-export-database/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-export-database",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-export-database"
+}

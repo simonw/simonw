@@ -1,0 +1,37 @@
+{
+  "description": "Fetch data from Tableau into a SQLite database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-03-22T03:56:03Z",
+      "published_day": "2021-03-22",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-11T06:52:22Z",
+      "published_day": "2021-03-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/tableau-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-11T06:37:14Z",
+      "published_day": "2021-03-11",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/tableau-to-sqlite/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-11T06:13:20Z",
+      "published_day": "2021-03-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/tableau-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "tableau-to-sqlite",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/tableau-to-sqlite"
+}

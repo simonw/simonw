@@ -1,0 +1,65 @@
+{
+  "description": "Use triggers to track when rows in a SQLite table were updated or deleted",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-15T15:12:05Z",
+      "published_day": "2026-02-15",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-15T14:25:51Z",
+      "published_day": "2026-02-15",
+      "release": "0.6",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-15T06:50:16Z",
+      "published_day": "2026-02-15",
+      "release": "0.5",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-13T17:53:34Z",
+      "published_day": "2025-05-13",
+      "release": "0.4",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-09T20:26:21Z",
+      "published_day": "2025-05-09",
+      "release": "0.3",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-06T05:20:20Z",
+      "published_day": "2023-12-06",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-06T04:46:12Z",
+      "published_day": "2023-12-06",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-11T05:34:35Z",
+      "published_day": "2023-09-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-chronicle/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-chronicle",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/sqlite-chronicle"
+}

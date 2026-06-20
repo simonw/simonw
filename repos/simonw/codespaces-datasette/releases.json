@@ -1,0 +1,8 @@
+{
+  "description": "An example repository for running Datasette in GitHub Codespaces",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "codespaces-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/codespaces-datasette"
+}

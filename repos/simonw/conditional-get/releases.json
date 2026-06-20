@@ -1,0 +1,37 @@
+{
+  "description": "CLI tool for fetching data using HTTP conditional get",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-07-14T03:28:02Z",
+      "published_day": "2021-07-14",
+      "release": "0.3",
+      "url": "https://github.com/simonw/conditional-get/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-30T00:58:22Z",
+      "published_day": "2020-04-30",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/conditional-get/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-29T17:36:31Z",
+      "published_day": "2020-04-29",
+      "release": "0.1.1a",
+      "url": "https://github.com/simonw/conditional-get/releases/tag/0.1.1a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-29T17:35:43Z",
+      "published_day": "2020-04-29",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/conditional-get/releases/tag/0.1a"
+    }
+  ],
+  "repo": "conditional-get",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/conditional-get"
+}

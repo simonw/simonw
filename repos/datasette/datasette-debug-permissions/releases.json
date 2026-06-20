@@ -1,0 +1,23 @@
+{
+  "description": "A Datasette plugin that outputs debug information about permission checks",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-08-24T00:35:53Z",
+      "published_day": "2023-08-24",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-debug-permissions/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-23T22:29:48Z",
+      "published_day": "2023-08-23",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-debug-permissions/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-debug-permissions",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-debug-permissions"
+}

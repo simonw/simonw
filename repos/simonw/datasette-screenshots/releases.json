@@ -1,0 +1,16 @@
+{
+  "description": "Screenshots of Datasette, taken using shot-scraper",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-10-14T19:41:19Z",
+      "published_day": "2022-10-14",
+      "release": "0.62",
+      "url": "https://github.com/simonw/datasette-screenshots/releases/tag/0.62"
+    }
+  ],
+  "repo": "datasette-screenshots",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-screenshots"
+}

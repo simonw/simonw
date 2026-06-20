@@ -1,0 +1,8 @@
+{
+  "description": "A Datasette JSON API demo using TodoMVC",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "todomvc-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/todomvc-datasette"
+}

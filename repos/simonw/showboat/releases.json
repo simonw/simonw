@@ -1,0 +1,58 @@
+{
+  "description": "Create executable documents that demonstrate an agent's work",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-23T14:08:09Z",
+      "published_day": "2026-02-23",
+      "release": "v0.6.1",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-16T19:42:53Z",
+      "published_day": "2026-02-16",
+      "release": "v0.6.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.6.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-14T19:48:14Z",
+      "published_day": "2026-02-14",
+      "release": "v0.5.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.5.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-09T05:38:27Z",
+      "published_day": "2026-02-09",
+      "release": "v0.4.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.4.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-09T01:42:18Z",
+      "published_day": "2026-02-09",
+      "release": "v0.3.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.3.0"
+    },
+    {
+      "author": "github-actions[bot]",
+      "published_at": "2026-02-06T18:16:30Z",
+      "published_day": "2026-02-06",
+      "release": "v0.2.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.2.0"
+    },
+    {
+      "author": "github-actions[bot]",
+      "published_at": "2026-02-06T16:39:56Z",
+      "published_day": "2026-02-06",
+      "release": "v0.1.0",
+      "url": "https://github.com/simonw/showboat/releases/tag/v0.1.0"
+    }
+  ],
+  "repo": "showboat",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/showboat"
+}

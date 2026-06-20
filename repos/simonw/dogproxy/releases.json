@@ -1,0 +1,8 @@
+{
+  "description": "Experimental HTTP proxy (using node.js) for avoiding the dog pile effect.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "dogproxy",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/dogproxy"
+}

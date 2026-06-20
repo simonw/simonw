@@ -1,0 +1,23 @@
+{
+  "description": "JupyterLite as a Datasette plugin",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-11-05T05:12:33Z",
+      "published_day": "2021-11-05",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-01T19:45:47Z",
+      "published_day": "2021-11-01",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-jupyterlite/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-jupyterlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-jupyterlite"
+}

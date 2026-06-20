@@ -1,0 +1,23 @@
+{
+  "description": "Ask questions of your data with LLM assistance",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-11-24T20:39:35Z",
+      "published_day": "2024-11-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-19T22:34:06Z",
+      "published_day": "2024-08-19",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/sqlite-utils-ask/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "sqlite-utils-ask",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/sqlite-utils-ask"
+}

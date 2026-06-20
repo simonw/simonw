@@ -1,0 +1,79 @@
+{
+  "description": "Python CLI tool and library for diffing CSV and JSON files",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-06T05:20:04Z",
+      "published_day": "2024-09-06",
+      "release": "1.2",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-23T01:14:25Z",
+      "published_day": "2021-02-23",
+      "release": "1.1",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-16T01:31:05Z",
+      "published_day": "2020-10-16",
+      "release": "1.0",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-29T19:58:53Z",
+      "published_day": "2020-02-29",
+      "release": "0.6",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-04-27T18:30:33Z",
+      "published_day": "2019-04-27",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-04-27T18:29:19Z",
+      "published_day": "2019-04-27",
+      "release": "0.5",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-04-27T18:27:55Z",
+      "published_day": "2019-04-27",
+      "release": "0.4",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-04-07T19:46:22Z",
+      "published_day": "2019-04-07",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-03-13T05:09:03Z",
+      "published_day": "2019-03-13",
+      "release": "0.2",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-03-13T02:12:08Z",
+      "published_day": "2019-03-13",
+      "release": ": first release",
+      "url": "https://github.com/simonw/csv-diff/releases/tag/0.1"
+    }
+  ],
+  "repo": "csv-diff",
+  "total_releases": 10,
+  "url": "https://github.com/simonw/csv-diff"
+}

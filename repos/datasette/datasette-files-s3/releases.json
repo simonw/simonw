@@ -1,0 +1,30 @@
+{
+  "description": "datasette-files S3 backend",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-03-25T23:11:44Z",
+      "published_day": "2026-03-25",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-files-s3/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-25T21:57:05Z",
+      "published_day": "2026-03-25",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-files-s3/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-20T00:52:41Z",
+      "published_day": "2026-02-20",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-files-s3/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-files-s3",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-files-s3"
+}

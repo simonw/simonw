@@ -1,0 +1,16 @@
+{
+  "description": "Plugin for LLM adding support for Google's PaLM 2 model",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-07-12T14:37:34Z",
+      "published_day": "2023-07-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-palm/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-palm",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-palm"
+}

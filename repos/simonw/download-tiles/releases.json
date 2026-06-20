@@ -1,0 +1,44 @@
+{
+  "description": "Download map tiles and store them in an MBTiles database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-16T04:19:59Z",
+      "published_day": "2021-02-16",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/download-tiles/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-03T03:32:11Z",
+      "published_day": "2021-02-03",
+      "release": "0.4",
+      "url": "https://github.com/simonw/download-tiles/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-03T00:35:59Z",
+      "published_day": "2021-02-03",
+      "release": "0.3",
+      "url": "https://github.com/simonw/download-tiles/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T18:24:29Z",
+      "published_day": "2021-02-02",
+      "release": "0.2",
+      "url": "https://github.com/simonw/download-tiles/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T17:39:35Z",
+      "published_day": "2021-02-02",
+      "release": "0.1",
+      "url": "https://github.com/simonw/download-tiles/releases/tag/0.1"
+    }
+  ],
+  "repo": "download-tiles",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/download-tiles"
+}

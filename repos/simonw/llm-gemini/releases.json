@@ -1,0 +1,380 @@
+{
+  "description": "LLM plugin to access Google's Gemini family of models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-19T23:46:27Z",
+      "published_day": "2026-05-19",
+      "release": "0.32",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.32"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-19T20:47:53Z",
+      "published_day": "2026-05-19",
+      "release": "0.32a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.32a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-07T19:57:06Z",
+      "published_day": "2026-05-07",
+      "release": "0.31",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.31"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-02T18:25:08Z",
+      "published_day": "2026-04-02",
+      "release": "0.30",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.30"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-19T17:57:25Z",
+      "published_day": "2026-02-19",
+      "release": "0.29",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.29"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-23T16:20:33Z",
+      "published_day": "2025-12-23",
+      "release": "0.28.2",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.28.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-18T17:57:28Z",
+      "published_day": "2025-12-18",
+      "release": "0.28.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.28.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-17T18:14:48Z",
+      "published_day": "2025-12-17",
+      "release": "0.28",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.28"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-18T22:56:18Z",
+      "published_day": "2025-11-18",
+      "release": "0.27",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.27"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-11T05:36:49Z",
+      "published_day": "2025-10-11",
+      "release": "0.26.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.26.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-09-25T18:43:42Z",
+      "published_day": "2025-09-25",
+      "release": "0.26",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.26"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-08-18T23:54:52Z",
+      "published_day": "2025-08-18",
+      "release": "0.25",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.25"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-22T20:33:47Z",
+      "published_day": "2025-07-22",
+      "release": "0.24",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.24"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-06-17T17:25:47Z",
+      "published_day": "2025-06-17",
+      "release": "0.23",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.23"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-06-05T17:38:41Z",
+      "published_day": "2025-06-05",
+      "release": "0.22",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:44:51Z",
+      "published_day": "2025-05-27",
+      "release": "0.21",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-20T19:41:43Z",
+      "published_day": "2025-05-20",
+      "release": "0.20a2",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.20a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-20T19:40:39Z",
+      "published_day": "2025-05-20",
+      "release": "0.20",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-16T00:06:59Z",
+      "published_day": "2025-05-16",
+      "release": "0.20a1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.20a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-14T12:31:58Z",
+      "published_day": "2025-05-14",
+      "release": "0.20a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.20a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-08T05:42:52Z",
+      "published_day": "2025-05-08",
+      "release": "0.19.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.19.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-06T16:25:19Z",
+      "published_day": "2025-05-06",
+      "release": "0.19",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-18T00:08:20Z",
+      "published_day": "2025-04-18",
+      "release": "0.18.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.18.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-17T20:16:44Z",
+      "published_day": "2025-04-17",
+      "release": "0.18",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-04T17:03:10Z",
+      "published_day": "2025-04-04",
+      "release": "0.17",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-25T19:53:08Z",
+      "published_day": "2025-03-25",
+      "release": "0.16",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-12T16:04:27Z",
+      "published_day": "2025-03-12",
+      "release": "0.15",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-08T06:36:45Z",
+      "published_day": "2025-03-08",
+      "release": "0.14.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.14.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-07T20:33:18Z",
+      "published_day": "2025-03-07",
+      "release": "0.14",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-04T16:54:00Z",
+      "published_day": "2025-03-04",
+      "release": "0.13.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.13.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-28T17:12:04Z",
+      "published_day": "2025-02-28",
+      "release": "0.13",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-27T01:36:29Z",
+      "published_day": "2025-02-27",
+      "release": "0.13a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.13a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-25T19:46:08Z",
+      "published_day": "2025-02-25",
+      "release": "0.12",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-17T05:43:37Z",
+      "published_day": "2025-02-17",
+      "release": "0.11",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-05T16:34:30Z",
+      "published_day": "2025-02-05",
+      "release": "0.10",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-22T03:38:50Z",
+      "published_day": "2025-01-22",
+      "release": "0.9",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-19T23:44:02Z",
+      "published_day": "2024-12-19",
+      "release": "0.8",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-11T16:10:38Z",
+      "published_day": "2024-12-11",
+      "release": "0.7",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-06T17:29:36Z",
+      "published_day": "2024-12-06",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-02T00:12:40Z",
+      "published_day": "2024-12-02",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-22T00:43:24Z",
+      "published_day": "2024-11-22",
+      "release": "0.4.2",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.4.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-20T05:13:15Z",
+      "published_day": "2024-11-20",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-18T08:04:13Z",
+      "published_day": "2024-11-18",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-18T07:33:20Z",
+      "published_day": "2024-11-18",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-29T04:12:46Z",
+      "published_day": "2024-10-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-28T23:08:00Z",
+      "published_day": "2024-10-28",
+      "release": "0.3a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-03T20:30:28Z",
+      "published_day": "2024-10-03",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-24T19:46:02Z",
+      "published_day": "2024-09-24",
+      "release": "0.1a5",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-05-14T19:59:13Z",
+      "published_day": "2024-05-14",
+      "release": "0.1a4",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-10T21:37:21Z",
+      "published_day": "2024-04-10",
+      "release": "0.1a3",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-10T03:01:49Z",
+      "published_day": "2024-04-10",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-27T18:40:27Z",
+      "published_day": "2024-03-27",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-13T20:22:49Z",
+      "published_day": "2023-12-13",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-gemini",
+  "total_releases": 53,
+  "url": "https://github.com/simonw/llm-gemini"
+}

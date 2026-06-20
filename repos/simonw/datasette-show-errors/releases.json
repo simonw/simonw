@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin for displaying error tracebacks",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T15:44:01Z",
+      "published_day": "2020-03-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-show-errors/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T15:10:46Z",
+      "published_day": "2020-03-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-show-errors/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-show-errors",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-show-errors"
+}

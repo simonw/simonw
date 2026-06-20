@@ -1,0 +1,37 @@
+{
+  "description": "Apps that live inside Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-15T20:25:07Z",
+      "published_day": "2026-06-15",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-15T17:26:11Z",
+      "published_day": "2026-06-15",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-09T16:26:38Z",
+      "published_day": "2026-06-09",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-06-04T22:44:49Z",
+      "published_day": "2026-06-04",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-apps",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-apps"
+}

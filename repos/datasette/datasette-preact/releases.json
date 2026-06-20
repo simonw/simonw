@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2025-09-30T22:25:58Z",
+      "published_day": "2025-09-30",
+      "release": "0.0.1",
+      "url": "https://github.com/datasette/datasette-preact/releases/tag/0.0.1"
+    }
+  ],
+  "repo": "datasette-preact",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-preact"
+}

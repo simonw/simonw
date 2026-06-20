@@ -1,0 +1,23 @@
+{
+  "description": "Generate embeddings for images and text using CLIP with LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-09-12T19:17:00Z",
+      "published_day": "2023-09-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-clip/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-12T06:32:04Z",
+      "published_day": "2023-09-12",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-clip/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-clip",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-clip"
+}

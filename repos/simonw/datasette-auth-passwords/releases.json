@@ -1,0 +1,100 @@
+{
+  "description": "Datasette plugin for authentication using passwords",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-03T17:53:00Z",
+      "published_day": "2024-09-03",
+      "release": "1.1.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-09T20:53:59Z",
+      "published_day": "2023-01-09",
+      "release": "1.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-09T18:02:01Z",
+      "published_day": "2022-02-09",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-05T23:39:15Z",
+      "published_day": "2021-06-05",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-19T21:02:12Z",
+      "published_day": "2021-03-19",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-11T05:29:14Z",
+      "published_day": "2020-12-11",
+      "release": "0.3.3",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-22T04:08:40Z",
+      "published_day": "2020-08-22",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-26T00:27:22Z",
+      "published_day": "2020-07-26",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-13T22:11:28Z",
+      "published_day": "2020-07-13",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-13T21:04:03Z",
+      "published_day": "2020-07-13",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-13T20:50:00Z",
+      "published_day": "2020-07-13",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-13T20:25:58Z",
+      "published_day": "2020-07-13",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-13T19:22:41Z",
+      "published_day": "2020-07-13",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-auth-passwords/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-auth-passwords",
+  "total_releases": 13,
+  "url": "https://github.com/simonw/datasette-auth-passwords"
+}

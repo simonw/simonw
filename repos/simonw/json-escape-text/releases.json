@@ -1,0 +1,8 @@
+{
+  "description": "A tool for turning text into an escaped JSON string",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "json-escape-text",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/json-escape-text"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Generate images in Datasette Agent",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-12T22:03:22Z",
+      "published_day": "2026-05-12",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-agent-openai-imagegen/releases/tag/0.1a1"
+    }
+  ],
+  "repo": "datasette-agent-openai-imagegen",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-agent-openai-imagegen"
+}

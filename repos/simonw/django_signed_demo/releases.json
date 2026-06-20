@@ -1,0 +1,8 @@
+{
+  "description": "Demonstrations of Django's signed cookie support",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django_signed_demo",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django_signed_demo"
+}

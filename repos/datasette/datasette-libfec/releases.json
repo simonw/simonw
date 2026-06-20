@@ -1,0 +1,156 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-06-02T17:48:50Z",
+      "published_day": "2026-06-02",
+      "release": "0.0.1a22",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a22"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T05:25:27Z",
+      "published_day": "2026-04-09",
+      "release": "0.0.1a21",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a21"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-17T20:26:09Z",
+      "published_day": "2026-03-17",
+      "release": "0.0.1a20",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a20"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-04T06:10:57Z",
+      "published_day": "2026-03-04",
+      "release": "0.0.1a19",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a19"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T22:44:44Z",
+      "published_day": "2026-02-26",
+      "release": "0.0.1a17",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a17"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T00:18:56Z",
+      "published_day": "2026-02-26",
+      "release": "0.0.1a16",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a16"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T00:11:09Z",
+      "published_day": "2026-02-26",
+      "release": "0.0.1a15",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a15"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-25T16:03:50Z",
+      "published_day": "2026-02-25",
+      "release": "0.0.1a14",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a14"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-12T23:15:43Z",
+      "published_day": "2026-02-12",
+      "release": "0.0.1a13",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a13"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-12T22:50:28Z",
+      "published_day": "2026-02-12",
+      "release": "0.0.1a12",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a12"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-11T16:36:53Z",
+      "published_day": "2026-02-11",
+      "release": "0.0.1a11",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a11"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-10T17:59:08Z",
+      "published_day": "2026-02-10",
+      "release": "0.0.1a10",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a10"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-06T20:02:48Z",
+      "published_day": "2026-02-06",
+      "release": "0.0.1a9",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a9"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-06T19:26:18Z",
+      "published_day": "2026-02-06",
+      "release": "0.0.1a8",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a8"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-04T05:57:29Z",
+      "published_day": "2026-02-04",
+      "release": "0.0.1a7",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a7"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-03T21:43:42Z",
+      "published_day": "2026-02-03",
+      "release": "0.0.1a6",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a6"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-03T21:12:45Z",
+      "published_day": "2026-02-03",
+      "release": "0.0.1a5",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-01-27T18:18:10Z",
+      "published_day": "2026-01-27",
+      "release": "0.0.1a4",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-01-27T17:21:42Z",
+      "published_day": "2026-01-27",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-01-27T16:40:52Z",
+      "published_day": "2026-01-27",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-01-27T05:41:22Z",
+      "published_day": "2026-01-27",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-libfec",
+  "total_releases": 21,
+  "url": "https://github.com/datasette/datasette-libfec"
+}

@@ -1,0 +1,30 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T21:01:10Z",
+      "published_day": "2025-10-21",
+      "release": "0.0.3a1",
+      "url": "https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3a1"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-09-30T20:15:11Z",
+      "published_day": "2025-09-30",
+      "release": "0.0.3",
+      "url": "https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-09-24T16:24:11Z",
+      "published_day": "2025-09-24",
+      "release": "0.0.2",
+      "url": "https://github.com/datasette/datasette-jsonschema-forms/releases/tag/0.0.2"
+    }
+  ],
+  "repo": "datasette-jsonschema-forms",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-jsonschema-forms"
+}

@@ -1,0 +1,58 @@
+{
+  "description": "Quit Datasette if it has not received traffic for a specified time period",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-19T20:46:15Z",
+      "published_day": "2026-01-19",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-29T21:23:49Z",
+      "published_day": "2024-02-29",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-29T20:26:00Z",
+      "published_day": "2024-02-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-05T22:29:17Z",
+      "published_day": "2022-08-05",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-23T00:06:21Z",
+      "published_day": "2022-06-23",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-22T00:07:40Z",
+      "published_day": "2022-06-22",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-21T22:51:59Z",
+      "published_day": "2022-06-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-scale-to-zero",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/datasette-scale-to-zero"
+}

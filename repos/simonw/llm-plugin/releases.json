@@ -1,0 +1,8 @@
+{
+  "description": "A cookiecutter template for building plugins for LLM",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-plugin",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-plugin"
+}

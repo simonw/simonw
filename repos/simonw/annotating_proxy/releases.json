@@ -1,0 +1,8 @@
+{
+  "description": "A proxy that adds jQuery-powered annotations to the proxied site, configured by a CSS selector.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "annotating_proxy",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/annotating_proxy"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Create a SQLite database from Sphinx documentation",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-10-22T04:55:45Z",
+      "published_day": "2020-10-22",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-18T21:28:45Z",
+      "published_day": "2020-10-18",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/sphinx-to-sqlite/releases/tag/0.1a"
+    }
+  ],
+  "repo": "sphinx-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/sphinx-to-sqlite"
+}

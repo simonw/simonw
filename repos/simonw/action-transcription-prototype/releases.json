@@ -1,0 +1,8 @@
+{
+  "description": "Open an issue with a YouTube URL, get back a transcript of that video",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "action-transcription-prototype",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/action-transcription-prototype"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Run a Datasette instance on a Tailscale network",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-16T16:18:20Z",
+      "published_day": "2026-06-16",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-tailscale",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-tailscale"
+}

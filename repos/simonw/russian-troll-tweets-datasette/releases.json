@@ -1,0 +1,8 @@
+{
+  "description": "The FiveThirtyEight collection of Russian troll tweets published using Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "russian-troll-tweets-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/russian-troll-tweets-datasette"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "A language independent conformance suite for implementations of a SQLite SELECT query parser",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-30T04:45:47Z",
+      "published_day": "2026-01-30",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-ast-conformance/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-ast-conformance",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/sqlite-ast-conformance"
+}

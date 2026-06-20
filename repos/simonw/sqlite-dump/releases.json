@@ -1,0 +1,30 @@
+{
+  "description": "An improved version of .iterdump() for sqlite3",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-09-07T01:07:51Z",
+      "published_day": "2020-09-07",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/sqlite-dump/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-07T00:50:23Z",
+      "published_day": "2020-09-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-dump/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-06T15:23:46Z",
+      "published_day": "2020-09-06",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/sqlite-dump/releases/tag/0.1a"
+    }
+  ],
+  "repo": "sqlite-dump",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/sqlite-dump"
+}

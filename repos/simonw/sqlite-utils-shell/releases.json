@@ -1,0 +1,30 @@
+{
+  "description": "Interactive shell for sqlite-utils",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-12-21T06:24:17Z",
+      "published_day": "2023-12-21",
+      "release": "0.3",
+      "url": "https://github.com/simonw/sqlite-utils-shell/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-24T14:43:47Z",
+      "published_day": "2023-07-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-utils-shell/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-24T03:47:27Z",
+      "published_day": "2023-07-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-utils-shell/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-utils-shell",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/sqlite-utils-shell"
+}

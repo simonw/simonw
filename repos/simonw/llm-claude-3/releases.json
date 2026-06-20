@@ -1,0 +1,107 @@
+{
+  "description": "LLM plugin for interacting with the Claude 3 family of models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-12-02T00:10:53Z",
+      "published_day": "2024-12-02",
+      "release": "0.10",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-20T04:31:39Z",
+      "published_day": "2024-11-20",
+      "release": "0.10a0",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.10a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-17T21:00:01Z",
+      "published_day": "2024-11-17",
+      "release": "0.9",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-14T03:37:56Z",
+      "published_day": "2024-11-14",
+      "release": "0.9a0",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.9a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-04T18:45:31Z",
+      "published_day": "2024-11-04",
+      "release": "0.8",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-01T18:50:23Z",
+      "published_day": "2024-11-01",
+      "release": "0.7",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-29T04:14:36Z",
+      "published_day": "2024-10-29",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-29T01:54:07Z",
+      "published_day": "2024-10-29",
+      "release": "0.6a0",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.6a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-22T16:32:02Z",
+      "published_day": "2024-10-22",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-30T23:11:48Z",
+      "published_day": "2024-08-30",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-06-20T18:32:49Z",
+      "published_day": "2024-06-20",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-13T21:07:02Z",
+      "published_day": "2024-03-13",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-07T21:14:28Z",
+      "published_day": "2024-03-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-04T15:44:41Z",
+      "published_day": "2024-03-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-claude-3/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-claude-3",
+  "total_releases": 14,
+  "url": "https://github.com/simonw/llm-claude-3"
+}

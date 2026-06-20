@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin to expose selected environment variables at /-/env for debugging",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-03T00:06:22Z",
+      "published_day": "2024-03-03",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-expose-env/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-03T21:28:55Z",
+      "published_day": "2022-07-03",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-expose-env/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-expose-env",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-expose-env"
+}

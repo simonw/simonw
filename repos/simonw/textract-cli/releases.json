@@ -1,0 +1,16 @@
+{
+  "description": "CLI for running files through AWS Textract",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-29T18:48:04Z",
+      "published_day": "2024-03-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/textract-cli/releases/tag/0.1"
+    }
+  ],
+  "repo": "textract-cli",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/textract-cli"
+}

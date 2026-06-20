@@ -1,0 +1,23 @@
+{
+  "description": "Enrich data using regular expressions powered by re2",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-11-30T02:12:47Z",
+      "published_day": "2023-11-30",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-28T02:07:14Z",
+      "published_day": "2023-11-28",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments-re2/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments-re2",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-enrichments-re2"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "A Python package with a C module for haversine() - as a WASM experiment",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-30T05:43:13Z",
+      "published_day": "2026-01-30",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/tiny-haversine/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-01-30T05:33:55Z",
+      "published_day": "2026-01-30",
+      "release": "0.1.0",
+      "url": "https://github.com/simonw/tiny-haversine/releases/tag/0.1.0"
+    }
+  ],
+  "repo": "tiny-haversine",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/tiny-haversine"
+}

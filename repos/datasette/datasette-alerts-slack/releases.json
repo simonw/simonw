@@ -1,0 +1,23 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T00:24:15Z",
+      "published_day": "2026-04-09",
+      "release": "0.1.0a3",
+      "url": "https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-26T22:43:03Z",
+      "published_day": "2026-02-26",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-alerts-slack/releases/tag/0.1.0a2"
+    }
+  ],
+  "repo": "datasette-alerts-slack",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-alerts-slack"
+}

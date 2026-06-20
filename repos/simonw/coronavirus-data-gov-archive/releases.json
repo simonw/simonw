@@ -1,0 +1,8 @@
+{
+  "description": "Backing up https://coronavirus.data.gov.uk/ to a git repository",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "coronavirus-data-gov-archive",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/coronavirus-data-gov-archive"
+}

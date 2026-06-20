@@ -1,0 +1,58 @@
+{
+  "description": "LLM plugin for models hosted by OpenRouter",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-20T18:00:26Z",
+      "published_day": "2026-04-20",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-09-20T23:43:29Z",
+      "published_day": "2025-09-20",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-23T21:37:29Z",
+      "published_day": "2025-04-23",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-10T21:01:23Z",
+      "published_day": "2025-03-10",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-08T23:52:47Z",
+      "published_day": "2024-12-08",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-05-03T23:57:56Z",
+      "published_day": "2024-05-03",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-21T07:03:20Z",
+      "published_day": "2023-08-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-openrouter",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/llm-openrouter"
+}

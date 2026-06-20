@@ -1,0 +1,58 @@
+{
+  "description": "Create a SQLite database containing your checkin history from Foursquare Swarm",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-04-11T03:18:16Z",
+      "published_day": "2023-04-11",
+      "release": "0.3.4",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-18T04:36:03Z",
+      "published_day": "2021-01-18",
+      "release": "0.3.3",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-12T20:33:48Z",
+      "published_day": "2020-10-12",
+      "release": "0.3.2",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-28T02:30:10Z",
+      "published_day": "2020-03-28",
+      "release": "0.3.1",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-28T02:28:35Z",
+      "published_day": "2020-03-28",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-16T20:40:55Z",
+      "published_day": "2019-10-16",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-08-31T02:58:32Z",
+      "published_day": "2019-08-31",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/swarm-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "swarm-to-sqlite",
+  "total_releases": 7,
+  "url": "https://github.com/dogsheep/swarm-to-sqlite"
+}

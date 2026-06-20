@@ -1,0 +1,30 @@
+{
+  "description": "Tools for tailing your database",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-04T01:34:03Z",
+      "published_day": "2025-11-04",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-tail/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T15:10:09Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-tail/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-01T16:25:48Z",
+      "published_day": "2024-03-01",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-tail/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-tail",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-tail"
+}

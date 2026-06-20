@@ -1,0 +1,149 @@
+{
+  "description": "Datasette plugin for authenticating access using API tokens",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-26T04:05:59Z",
+      "published_day": "2026-02-26",
+      "release": "0.4a12",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-10T21:27:55Z",
+      "published_day": "2025-11-10",
+      "release": "0.4a11",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-03T17:04:44Z",
+      "published_day": "2024-09-03",
+      "release": "0.4a10",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-20T16:36:43Z",
+      "published_day": "2024-02-20",
+      "release": "0.4a9",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-14T00:21:16Z",
+      "published_day": "2024-02-14",
+      "release": "0.4a8",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-13T18:58:45Z",
+      "published_day": "2024-01-13",
+      "release": "0.4a7",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-10T19:40:38Z",
+      "published_day": "2024-01-10",
+      "release": "0.4a6",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-10T19:05:28Z",
+      "published_day": "2024-01-10",
+      "release": "0.4a5",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-26T16:18:26Z",
+      "published_day": "2023-09-26",
+      "release": "0.4a4",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-31T22:31:10Z",
+      "published_day": "2023-08-31",
+      "release": "0.4a3",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-29T18:56:41Z",
+      "published_day": "2023-08-29",
+      "release": "0.4a2",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-21T23:52:56Z",
+      "published_day": "2023-08-21",
+      "release": "0.4a1",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-17T19:11:58Z",
+      "published_day": "2023-07-17",
+      "release": "0.4a0",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-10-15T00:54:20Z",
+      "published_day": "2021-10-15",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-20T00:33:43Z",
+      "published_day": "2020-07-20",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T19:22:08Z",
+      "published_day": "2020-07-01",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T19:08:44Z",
+      "published_day": "2020-07-01",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-18T17:36:58Z",
+      "published_day": "2020-06-18",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-12T07:11:48Z",
+      "published_day": "2020-06-12",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-11T23:34:19Z",
+      "published_day": "2020-06-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-auth-tokens",
+  "total_releases": 20,
+  "url": "https://github.com/simonw/datasette-auth-tokens"
+}

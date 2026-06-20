@@ -1,0 +1,8 @@
+{
+  "description": "A Datasette instance for searching WebVid-10M",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "webvid-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/webvid-datasette"
+}

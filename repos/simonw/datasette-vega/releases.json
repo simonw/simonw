@@ -1,0 +1,30 @@
+{
+  "description": "Datasette plugin for visualizing data using Vega",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2018-07-10T03:44:51Z",
+      "published_day": "2018-07-10",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-vega/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2018-07-07T01:20:53Z",
+      "published_day": "2018-07-07",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-vega/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2018-07-06T03:34:28Z",
+      "published_day": "2018-07-06",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-vega/releases/tag/0.5"
+    }
+  ],
+  "repo": "datasette-vega",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-vega"
+}

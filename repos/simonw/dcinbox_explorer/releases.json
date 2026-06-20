@@ -1,0 +1,8 @@
+{
+  "description": "A Flask+Elasticsearch UI for exploring the DC Inbox dataset from http://web.stevens.edu/dcinbox/Home.html",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "dcinbox_explorer",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/dcinbox_explorer"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Repository template for creating a new Datasette buildpack instance",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "buildpack-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/buildpack-datasette"
+}

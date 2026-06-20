@@ -1,0 +1,8 @@
+{
+  "description": "Trying to get the GitHub API to work with files larger than 1MB",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "github-large-file-test",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/github-large-file-test"
+}

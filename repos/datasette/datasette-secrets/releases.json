@@ -1,0 +1,58 @@
+{
+  "description": "Manage secrets such as API keys for use with other Datasette plugins",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T01:56:21Z",
+      "published_day": "2025-11-11",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-26T23:20:48Z",
+      "published_day": "2024-04-26",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-25T02:24:15Z",
+      "published_day": "2024-04-25",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-24T23:22:05Z",
+      "published_day": "2024-04-24",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-24T22:07:45Z",
+      "published_day": "2024-04-24",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-23T05:34:09Z",
+      "published_day": "2024-04-23",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-23T05:05:58Z",
+      "published_day": "2024-04-23",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-secrets/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-secrets",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-secrets"
+}

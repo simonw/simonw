@@ -1,0 +1,44 @@
+{
+  "description": "Optimize Datasette performance behind a caching proxy",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-03-24T20:52:04Z",
+      "published_day": "2022-03-24",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-hashed-urls/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-24T03:23:43Z",
+      "published_day": "2022-03-24",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-hashed-urls/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-23T20:42:49Z",
+      "published_day": "2022-03-23",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-hashed-urls/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-16T04:35:26Z",
+      "published_day": "2022-03-16",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-hashed-urls/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-15T22:46:07Z",
+      "published_day": "2022-03-15",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-hashed-urls/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-hashed-urls",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-hashed-urls"
+}

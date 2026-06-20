@@ -1,0 +1,8 @@
+{
+  "description": "An experiment using GPT-2 to generate imaginary headlines for New York Times articles from different decades",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "gpt2-headlines",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/gpt2-headlines"
+}

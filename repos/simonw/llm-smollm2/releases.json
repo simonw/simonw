@@ -1,0 +1,30 @@
+{
+  "description": "SmolLM2-135M-Instruct.Q4_1 for LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-02-07T07:01:50Z",
+      "published_day": "2025-02-07",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/llm-smollm2/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-07T04:10:56Z",
+      "published_day": "2025-02-07",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-smollm2/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-07T04:03:40Z",
+      "published_day": "2025-02-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-smollm2/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-smollm2",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-smollm2"
+}

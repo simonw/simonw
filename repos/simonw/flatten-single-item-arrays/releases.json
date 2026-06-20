@@ -1,0 +1,16 @@
+{
+  "description": "Given a JSON list of objects, flatten any keys which always contain single item arrays to just a single value",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-25T14:50:42Z",
+      "published_day": "2021-02-25",
+      "release": "0.1",
+      "url": "https://github.com/simonw/flatten-single-item-arrays/releases/tag/0.1"
+    }
+  ],
+  "repo": "flatten-single-item-arrays",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/flatten-single-item-arrays"
+}

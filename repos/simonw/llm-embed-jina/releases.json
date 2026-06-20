@@ -1,0 +1,30 @@
+{
+  "description": "Embedding models from Jina AI",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-10-26T03:03:45Z",
+      "published_day": "2023-10-26",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-26T01:26:42Z",
+      "published_day": "2023-10-26",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-embed-jina/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-26T01:09:28Z",
+      "published_day": "2023-10-26",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-embed-jina/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-embed-jina",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-embed-jina"
+}

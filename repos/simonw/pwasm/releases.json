@@ -1,0 +1,16 @@
+{
+  "description": "A WebAssembly engine in pure Python",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-10T21:48:53Z",
+      "published_day": "2026-01-10",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/pwasm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "pwasm",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/pwasm"
+}

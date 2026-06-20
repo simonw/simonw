@@ -1,0 +1,100 @@
+{
+  "description": "Datasette plugin that adds a .atom output format",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-08T18:02:43Z",
+      "published_day": "2026-04-08",
+      "release": "0.10a0",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.10a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-03-14T03:50:25Z",
+      "published_day": "2023-03-14",
+      "release": "0.9",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-25T19:40:13Z",
+      "published_day": "2020-11-25",
+      "release": "0.8.1",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.8.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-14T22:15:38Z",
+      "published_day": "2020-09-14",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-23T16:57:02Z",
+      "published_day": "2020-08-23",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-28T16:31:28Z",
+      "published_day": "2020-05-28",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-30T16:10:45Z",
+      "published_day": "2020-04-30",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-28T07:45:45Z",
+      "published_day": "2020-02-28",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-12-03T00:35:48Z",
+      "published_day": "2019-12-03",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-30T23:32:28Z",
+      "published_day": "2019-11-30",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-30T06:44:29Z",
+      "published_day": "2019-11-30",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-30T06:27:19Z",
+      "published_day": "2019-11-30",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-17T15:40:22Z",
+      "published_day": "2019-09-17",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-atom",
+  "total_releases": 13,
+  "url": "https://github.com/simonw/datasette-atom"
+}

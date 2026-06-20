@@ -1,0 +1,8 @@
+{
+  "description": "Using Datasette to provide an API for Core Based Statistical Areas",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "cbsa-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/cbsa-datasette"
+}

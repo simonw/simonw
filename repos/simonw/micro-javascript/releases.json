@@ -1,0 +1,37 @@
+{
+  "description": "Python port of MicroQuickJS",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-12-27T19:16:36Z",
+      "published_day": "2025-12-27",
+      "release": "0.1a3",
+      "url": "https://github.com/simonw/micro-javascript/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-25T05:49:21Z",
+      "published_day": "2025-12-25",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/micro-javascript/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-25T04:49:25Z",
+      "published_day": "2025-12-25",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/micro-javascript/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-25T04:19:34Z",
+      "published_day": "2025-12-25",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/micro-javascript/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "micro-javascript",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/micro-javascript"
+}

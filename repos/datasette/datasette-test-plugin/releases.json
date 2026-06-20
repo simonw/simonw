@@ -1,0 +1,16 @@
+{
+  "description": "Part of datasette-test",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-26T18:50:00Z",
+      "published_day": "2024-04-26",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-test-plugin/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-test-plugin",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-test-plugin"
+}

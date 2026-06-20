@@ -1,0 +1,58 @@
+{
+  "description": "Datasette plugin for serving media based on a SQL query",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-12-13T20:03:51Z",
+      "published_day": "2022-12-13",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-29T22:05:36Z",
+      "published_day": "2020-07-29",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-27T20:22:21Z",
+      "published_day": "2020-07-27",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-08T00:35:49Z",
+      "published_day": "2020-07-08",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-18T22:25:40Z",
+      "published_day": "2020-05-18",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-08T18:14:09Z",
+      "published_day": "2020-05-08",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-08T03:06:00Z",
+      "published_day": "2020-05-08",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-media/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-media",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/datasette-media"
+}

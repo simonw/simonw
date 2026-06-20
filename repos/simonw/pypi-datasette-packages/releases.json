@@ -1,0 +1,8 @@
+{
+  "description": "Archive PyPI JSON information for all Datasette related packages",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "pypi-datasette-packages",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/pypi-datasette-packages"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "A Datasette instance exposing names, FIPS codes and polygons of US counties",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "us-counties-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/us-counties-datasette"
+}

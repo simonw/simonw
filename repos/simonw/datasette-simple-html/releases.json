@@ -1,0 +1,23 @@
+{
+  "description": "Datasette SQL functions for very simple HTML operations",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-03-12T17:30:47Z",
+      "published_day": "2023-03-12",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-simple-html/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-03-01T02:35:10Z",
+      "published_day": "2023-03-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-simple-html/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-simple-html",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-simple-html"
+}

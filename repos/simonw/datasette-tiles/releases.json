@@ -1,0 +1,65 @@
+{
+  "description": "Mapping tile server for Datasette, serving tiles from MBTiles packages",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-11T00:40:11Z",
+      "published_day": "2021-02-11",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-11T00:25:56Z",
+      "published_day": "2021-02-11",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-04T18:16:52Z",
+      "published_day": "2021-02-04",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-03T22:24:18Z",
+      "published_day": "2021-02-03",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T23:41:32Z",
+      "published_day": "2021-02-02",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T19:54:11Z",
+      "published_day": "2021-02-02",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T07:05:04Z",
+      "published_day": "2021-02-02",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-02T06:47:44Z",
+      "published_day": "2021-02-02",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-tiles/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-tiles",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/datasette-tiles"
+}

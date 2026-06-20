@@ -1,0 +1,16 @@
+{
+  "description": "API for executing multiple queries within a transaction",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-10T04:08:34Z",
+      "published_day": "2026-01-10",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-transactions/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-transactions",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-transactions"
+}

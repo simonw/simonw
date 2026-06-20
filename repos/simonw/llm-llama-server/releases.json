@@ -1,0 +1,23 @@
+{
+  "description": "LLM plugin for interacting with llama-server models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-28T06:19:26Z",
+      "published_day": "2025-05-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-llama-server/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-10T06:16:08Z",
+      "published_day": "2025-05-10",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-llama-server/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-llama-server",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-llama-server"
+}

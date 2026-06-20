@@ -1,0 +1,16 @@
+{
+  "description": "Register async versions of models from LLM plugins that only provide a sync version",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-03-31T20:52:02Z",
+      "published_day": "2026-03-31",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-all-models-async/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-all-models-async",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-all-models-async"
+}

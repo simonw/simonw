@@ -1,0 +1,37 @@
+{
+  "description": "ASGI middleware for applying CORS headers to an ASGI application",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-12T03:18:48Z",
+      "published_day": "2024-04-12",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/asgi-cors/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-08T16:15:41Z",
+      "published_day": "2024-04-08",
+      "release": "1.0",
+      "url": "https://github.com/simonw/asgi-cors/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-05-07T15:49:47Z",
+      "published_day": "2019-05-07",
+      "release": "0.3",
+      "url": "https://github.com/simonw/asgi-cors/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-05-07T15:50:56Z",
+      "published_day": "2019-05-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/asgi-cors/releases/tag/0.2"
+    }
+  ],
+  "repo": "asgi-cors",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/asgi-cors"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "Ensure specific tables and views exist on startup",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T22:47:09Z",
+      "published_day": "2020-07-01",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-init/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-29T21:16:51Z",
+      "published_day": "2020-06-29",
+      "release": "0.1a3",
+      "url": "https://github.com/simonw/datasette-init/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-28T18:52:00Z",
+      "published_day": "2020-06-28",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/datasette-init/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-28T16:27:42Z",
+      "published_day": "2020-06-28",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-init/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-init",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-init"
+}

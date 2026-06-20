@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin for scanning for SQLite files",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-04T05:26:45Z",
+      "published_day": "2026-02-04",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-scan/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-04T04:52:46Z",
+      "published_day": "2026-02-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-scan/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-scan",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-scan"
+}

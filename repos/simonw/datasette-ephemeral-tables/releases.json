@@ -1,0 +1,44 @@
+{
+  "description": "Provide tables that expire after a time limit",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-09T23:54:08Z",
+      "published_day": "2025-11-09",
+      "release": "0.2.3",
+      "url": "https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-12-02T00:36:31Z",
+      "published_day": "2022-12-02",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-30T04:36:32Z",
+      "published_day": "2022-11-30",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-30T01:49:02Z",
+      "published_day": "2022-11-30",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-29T23:47:26Z",
+      "published_day": "2022-11-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-ephemeral-tables/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-ephemeral-tables",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-ephemeral-tables"
+}

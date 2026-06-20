@@ -1,0 +1,842 @@
+{
+  "description": "Python CLI utility and library for manipulating SQLite databases",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-24T18:42:29Z",
+      "published_day": "2025-11-24",
+      "release": "3.39",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.39"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-24T06:32:51Z",
+      "published_day": "2025-11-24",
+      "release": "4.0a1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.0a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-09T03:54:32Z",
+      "published_day": "2025-05-09",
+      "release": "4.0a0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.0a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-23T22:40:30Z",
+      "published_day": "2024-11-23",
+      "release": "3.38",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.38"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-08T20:14:47Z",
+      "published_day": "2024-11-08",
+      "release": "3.38a0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.38a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-18T18:44:02Z",
+      "published_day": "2024-07-18",
+      "release": "3.37",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.37"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-08T05:32:21Z",
+      "published_day": "2023-12-08",
+      "release": "3.36",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.36"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-04T01:05:56Z",
+      "published_day": "2023-11-04",
+      "release": "3.35.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.35.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-09T00:50:42Z",
+      "published_day": "2023-09-09",
+      "release": "3.35.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.35.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-18T02:05:22Z",
+      "published_day": "2023-08-18",
+      "release": "3.35",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.35"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-22T23:30:49Z",
+      "published_day": "2023-07-22",
+      "release": "3.34",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.34"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-26T01:32:30Z",
+      "published_day": "2023-06-26",
+      "release": "3.33",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.33"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-21T21:12:05Z",
+      "published_day": "2023-05-21",
+      "release": "3.32.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.32.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-21T18:55:42Z",
+      "published_day": "2023-05-21",
+      "release": "3.32",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.32"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-08T22:37:24Z",
+      "published_day": "2023-05-08",
+      "release": "3.31",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.31"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-25T22:34:48Z",
+      "published_day": "2022-10-25",
+      "release": "3.30",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.30"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-28T03:50:29Z",
+      "published_day": "2022-08-28",
+      "release": "3.29",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.29"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-15T23:02:45Z",
+      "published_day": "2022-07-15",
+      "release": "3.28",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.28"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-15T04:34:45Z",
+      "published_day": "2022-06-15",
+      "release": "3.27",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.27"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-05-02T18:18:01Z",
+      "published_day": "2022-05-02",
+      "release": "3.26.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.26.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-13T22:53:36Z",
+      "published_day": "2022-04-13",
+      "release": "3.26",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.26"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-11T18:35:41Z",
+      "published_day": "2022-03-11",
+      "release": "3.25.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.25.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-02T06:35:18Z",
+      "published_day": "2022-03-02",
+      "release": "3.25",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.25"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-16T01:41:50Z",
+      "published_day": "2022-02-16",
+      "release": "3.24",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.24"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-04T06:44:19Z",
+      "published_day": "2022-02-04",
+      "release": "3.23",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.23"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-26T03:29:24Z",
+      "published_day": "2022-01-26",
+      "release": "3.22.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.22.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-11T23:49:28Z",
+      "published_day": "2022-01-11",
+      "release": "3.22",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-11T02:35:02Z",
+      "published_day": "2022-01-11",
+      "release": "3.21",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-06T06:57:09Z",
+      "published_day": "2022-01-06",
+      "release": "3.20",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-21T04:42:24Z",
+      "published_day": "2021-11-21",
+      "release": "3.19",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-19T07:28:50Z",
+      "published_day": "2021-11-19",
+      "release": "3.19a0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.19a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-15T03:17:31Z",
+      "published_day": "2021-11-15",
+      "release": "3.18",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-22T20:51:04Z",
+      "published_day": "2021-09-22",
+      "release": "3.17.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.17.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-24T23:42:22Z",
+      "published_day": "2021-08-24",
+      "release": "3.17",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-18T22:37:55Z",
+      "published_day": "2021-08-18",
+      "release": "3.16",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-10T23:55:38Z",
+      "published_day": "2021-08-10",
+      "release": "3.15.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.15.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-09T22:43:16Z",
+      "published_day": "2021-08-09",
+      "release": "3.15",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-02T21:34:43Z",
+      "published_day": "2021-08-02",
+      "release": "3.14",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-24T22:17:47Z",
+      "published_day": "2021-07-24",
+      "release": "3.13",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-25T18:00:18Z",
+      "published_day": "2021-06-25",
+      "release": "3.12",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-20T18:53:09Z",
+      "published_day": "2021-06-20",
+      "release": "3.11",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-19T16:13:11Z",
+      "published_day": "2021-06-19",
+      "release": "3.10",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-13T03:00:45Z",
+      "published_day": "2021-06-13",
+      "release": "3.9.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.9.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-12T02:08:03Z",
+      "published_day": "2021-06-12",
+      "release": "3.9",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-03T05:17:33Z",
+      "published_day": "2021-06-03",
+      "release": "3.8",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-29T05:49:59Z",
+      "published_day": "2021-05-29",
+      "release": "3.7",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-19T05:19:00Z",
+      "published_day": "2021-02-19",
+      "release": "3.6",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-14T22:44:21Z",
+      "published_day": "2021-02-14",
+      "release": "3.5",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-06T02:11:15Z",
+      "published_day": "2021-02-06",
+      "release": "3.4.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-06T01:38:26Z",
+      "published_day": "2021-02-06",
+      "release": "3.4",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-18T04:29:48Z",
+      "published_day": "2021-01-18",
+      "release": "3.3",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-12T23:23:25Z",
+      "published_day": "2021-01-12",
+      "release": "3.2.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-03T21:17:37Z",
+      "published_day": "2021-01-03",
+      "release": "3.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-01T23:57:07Z",
+      "published_day": "2021-01-01",
+      "release": "3.1.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-13T07:31:40Z",
+      "published_day": "2020-12-13",
+      "release": "3.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-08T17:24:27Z",
+      "published_day": "2020-11-08",
+      "release": "3.0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-07T01:24:43Z",
+      "published_day": "2020-11-07",
+      "release": "3.0a0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/3.0a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-28T21:38:54Z",
+      "published_day": "2020-10-28",
+      "release": "2.23",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.23"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-16T19:31:45Z",
+      "published_day": "2020-10-16",
+      "release": "2.22",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-24T16:45:44Z",
+      "published_day": "2020-09-24",
+      "release": "2.21",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-23T00:37:01Z",
+      "published_day": "2020-09-23",
+      "release": "2.20",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-20T22:24:04Z",
+      "published_day": "2020-09-20",
+      "release": "2.19",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-08T23:39:21Z",
+      "published_day": "2020-09-08",
+      "release": "2.18",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-07T22:08:33Z",
+      "published_day": "2020-09-07",
+      "release": "2.17",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-28T22:47:02Z",
+      "published_day": "2020-08-28",
+      "release": "2.16.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.16.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-21T21:05:51Z",
+      "published_day": "2020-08-21",
+      "release": "2.16",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-12T17:00:27Z",
+      "published_day": "2020-08-12",
+      "release": "2.15.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.15.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-10T19:07:27Z",
+      "published_day": "2020-08-10",
+      "release": "2.15",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-06T06:31:48Z",
+      "published_day": "2020-08-06",
+      "release": "2.14.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.14.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-01T21:00:31Z",
+      "published_day": "2020-08-01",
+      "release": "2.14",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-30T01:15:55Z",
+      "published_day": "2020-07-30",
+      "release": "2.13",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-27T07:24:10Z",
+      "published_day": "2020-07-27",
+      "release": "2.12",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-08T17:36:45Z",
+      "published_day": "2020-07-08",
+      "release": "2.11",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T21:04:50Z",
+      "published_day": "2020-06-23",
+      "release": "2.10.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.10.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-12T17:44:32Z",
+      "published_day": "2020-06-12",
+      "release": "2.10",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-11T19:21:24Z",
+      "published_day": "2020-05-11",
+      "release": "2.9.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.9.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-11T01:57:11Z",
+      "published_day": "2020-05-11",
+      "release": "2.9",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-03T15:41:31Z",
+      "published_day": "2020-05-03",
+      "release": "2.8",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-02T16:10:11Z",
+      "published_day": "2020-05-02",
+      "release": "2.7.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.7.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-01T22:11:19Z",
+      "published_day": "2020-05-01",
+      "release": "2.7.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-30T18:33:20Z",
+      "published_day": "2020-04-30",
+      "release": "2.7",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-16T03:14:48Z",
+      "published_day": "2020-04-16",
+      "release": "2.6",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-13T03:54:08Z",
+      "published_day": "2020-04-13",
+      "release": "2.5",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-23T20:34:18Z",
+      "published_day": "2020-03-23",
+      "release": "2.4.4",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.4.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-23T20:00:25Z",
+      "published_day": "2020-03-23",
+      "release": "2.4.3",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.4.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-14T20:13:18Z",
+      "published_day": "2020-03-14",
+      "release": "2.4.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.4.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-14T20:06:08Z",
+      "published_day": "2020-03-14",
+      "release": "2.4.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-27T04:58:25Z",
+      "published_day": "2020-02-27",
+      "release": "2.4",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-11T05:59:43Z",
+      "published_day": "2020-02-11",
+      "release": "2.3.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-08T23:59:20Z",
+      "published_day": "2020-02-08",
+      "release": "2.3",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-07T07:24:54Z",
+      "published_day": "2020-02-07",
+      "release": "2.2.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-07T07:18:12Z",
+      "published_day": "2020-02-07",
+      "release": "2.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-31T00:30:40Z",
+      "published_day": "2020-01-31",
+      "release": "2.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-05T17:33:15Z",
+      "published_day": "2020-01-05",
+      "release": "2.0.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-12-30T06:26:09Z",
+      "published_day": "2019-12-30",
+      "release": "2.0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/2.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-07T05:00:55Z",
+      "published_day": "2019-11-07",
+      "release": "1.12.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.12.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-07T05:00:24Z",
+      "published_day": "2019-11-07",
+      "release": "1.12",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-03T01:03:27Z",
+      "published_day": "2019-09-03",
+      "release": "1.11",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-03T00:46:27Z",
+      "published_day": "2019-09-03",
+      "release": "1.10",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-03T00:46:02Z",
+      "published_day": "2019-09-03",
+      "release": "1.9",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-03T00:45:42Z",
+      "published_day": "2019-09-03",
+      "release": "1.8",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-28T12:05:36Z",
+      "published_day": "2019-07-28",
+      "release": "1.7.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-28T12:03:21Z",
+      "published_day": "2019-07-28",
+      "release": "1.7",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-07-19T05:36:48Z",
+      "published_day": "2019-07-19",
+      "release": "1.6",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-29T06:39:32Z",
+      "published_day": "2019-06-29",
+      "release": "1.3",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-26T04:24:33Z",
+      "published_day": "2019-06-26",
+      "release": "1.2.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-21T00:06:29Z",
+      "published_day": "2019-06-21",
+      "release": "1.2.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-13T06:42:21Z",
+      "published_day": "2019-06-13",
+      "release": "1.2",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-05-29T05:15:22Z",
+      "published_day": "2019-05-29",
+      "release": "1.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-05-28T00:51:21Z",
+      "published_day": "2019-05-28",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-05-25T01:19:21Z",
+      "published_day": "2019-05-25",
+      "release": "1.0",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-02-24T23:15:16Z",
+      "published_day": "2019-02-24",
+      "release": "0.14",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-02-24T07:00:14Z",
+      "published_day": "2019-02-24",
+      "release": "0.13",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-02-23T02:31:29Z",
+      "published_day": "2019-02-23",
+      "release": "0.12",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-02-23T02:15:34Z",
+      "published_day": "2019-02-23",
+      "release": "0.11",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-02-08T05:19:33Z",
+      "published_day": "2019-02-08",
+      "release": "0.10",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-01-29T15:30:48Z",
+      "published_day": "2019-01-29",
+      "release": "0.9",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-01-28T06:28:12Z",
+      "published_day": "2019-01-28",
+      "release": "0.8",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-01-25T07:27:57Z",
+      "published_day": "2019-01-25",
+      "release": "0.7",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/0.7"
+    }
+  ],
+  "repo": "sqlite-utils",
+  "total_releases": 119,
+  "url": "https://github.com/simonw/sqlite-utils"
+}

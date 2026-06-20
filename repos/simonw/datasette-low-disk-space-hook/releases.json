@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin providing the low_disk_space hook for other plugins to check for low disk space",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-06-17T20:09:38Z",
+      "published_day": "2022-06-17",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-11T21:19:15Z",
+      "published_day": "2022-06-11",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-low-disk-space-hook/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-low-disk-space-hook",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-low-disk-space-hook"
+}

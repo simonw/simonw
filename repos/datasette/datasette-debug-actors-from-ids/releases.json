@@ -1,0 +1,37 @@
+{
+  "description": "Datasette plugin for trying out the actors_from_ids hook",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-07T23:57:34Z",
+      "published_day": "2025-11-07",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T21:53:52Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T04:56:39Z",
+      "published_day": "2023-09-08",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T03:57:42Z",
+      "published_day": "2023-09-08",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-debug-actors-from-ids/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-debug-actors-from-ids",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-debug-actors-from-ids"
+}

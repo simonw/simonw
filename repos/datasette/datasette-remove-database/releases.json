@@ -1,0 +1,30 @@
+{
+  "description": "Remove a database from Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T00:13:10Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-remove-database/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:57:59Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-remove-database/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-12T18:34:10Z",
+      "published_day": "2025-02-12",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-remove-database/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-remove-database",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-remove-database"
+}

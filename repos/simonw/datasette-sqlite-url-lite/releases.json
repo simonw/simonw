@@ -1,0 +1,16 @@
+{
+  "description": "A pure Python alternative to sqlite-url ready to be used in Datasette Lite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-05-26T14:49:08Z",
+      "published_day": "2023-05-26",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-sqlite-url-lite/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sqlite-url-lite",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-sqlite-url-lite"
+}

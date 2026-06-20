@@ -1,0 +1,8 @@
+{
+  "description": "Debugging middleware for ASGI applications",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "asgi-debug",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/asgi-debug"
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Tools for importing data into Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:46:08Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-import/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-04T05:38:06Z",
+      "published_day": "2024-09-04",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-import/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-06T16:22:27Z",
+      "published_day": "2024-04-06",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-import/releases/tag/0.1a4"
+    }
+  ],
+  "repo": "datasette-import",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-import"
+}

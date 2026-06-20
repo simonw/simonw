@@ -1,0 +1,30 @@
+{
+  "description": "Find all currently running Datasette instances and list their ports",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-15T02:50:57Z",
+      "published_day": "2026-04-15",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-ports/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-06T03:25:43Z",
+      "published_day": "2026-04-06",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-ports/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-06T00:23:55Z",
+      "published_day": "2026-04-06",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-ports/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-ports",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-ports"
+}

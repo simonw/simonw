@@ -1,0 +1,44 @@
+{
+  "description": "Proxy server for previewing web app changes via uv",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-12-22T15:19:38Z",
+      "published_day": "2025-12-22",
+      "release": "0.2a3",
+      "url": "https://github.com/simonw/preview-server/releases/tag/0.2a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-22T06:19:30Z",
+      "published_day": "2025-12-22",
+      "release": "0.2a2",
+      "url": "https://github.com/simonw/preview-server/releases/tag/0.2a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-21T06:54:05Z",
+      "published_day": "2025-12-21",
+      "release": "0.2a1",
+      "url": "https://github.com/simonw/preview-server/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-21T06:43:21Z",
+      "published_day": "2025-12-21",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/preview-server/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-21T04:46:56Z",
+      "published_day": "2025-12-21",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/preview-server/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "preview-server",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/preview-server"
+}

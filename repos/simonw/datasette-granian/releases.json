@@ -1,0 +1,23 @@
+{
+  "description": "Run Datasette using the Granian HTTP server",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-01-23T20:58:06Z",
+      "published_day": "2024-01-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-granian/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-20T01:50:01Z",
+      "published_day": "2023-01-20",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-granian/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-granian",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-granian"
+}

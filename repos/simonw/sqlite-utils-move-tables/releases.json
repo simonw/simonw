@@ -1,0 +1,16 @@
+{
+  "description": "sqlite-utils plugin adding a move-tables command",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-09-01T02:09:14Z",
+      "published_day": "2023-09-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-utils-move-tables/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-utils-move-tables",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/sqlite-utils-move-tables"
+}

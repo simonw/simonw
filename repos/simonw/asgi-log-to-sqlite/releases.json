@@ -1,0 +1,23 @@
+{
+  "description": "ASGI middleware for logging traffic to a SQLite database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-02-24T20:16:34Z",
+      "published_day": "2020-02-24",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-12-16T20:32:04Z",
+      "published_day": "2019-12-16",
+      "release": "0.1",
+      "url": "https://github.com/simonw/asgi-log-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "asgi-log-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/asgi-log-to-sqlite"
+}

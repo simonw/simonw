@@ -1,0 +1,8 @@
+{
+  "description": "Experimental .transform(fn) method for Django QuerySets, for clever lazily evaluated optimisations.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-queryset-transform",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-queryset-transform"
+}

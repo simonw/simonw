@@ -1,0 +1,23 @@
+{
+  "description": "Chat with Mr Chatterbox, trained on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-03-30T02:39:40Z",
+      "published_day": "2026-03-30",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-30T02:20:46Z",
+      "published_day": "2026-03-30",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-mrchatterbox",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-mrchatterbox"
+}

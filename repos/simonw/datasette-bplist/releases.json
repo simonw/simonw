@@ -1,0 +1,16 @@
+{
+  "description": "Datasette plugin for working with Apple's binary plist format",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2019-06-09T01:19:55Z",
+      "published_day": "2019-06-09",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-bplist/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-bplist",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-bplist"
+}

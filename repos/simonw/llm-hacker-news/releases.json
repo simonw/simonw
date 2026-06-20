@@ -1,0 +1,23 @@
+{
+  "description": "LLM plugin for pulling content from Hacker News",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-05T17:10:45Z",
+      "published_day": "2025-05-05",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-hacker-news/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T23:59:49Z",
+      "published_day": "2025-04-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-hacker-news/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-hacker-news",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-hacker-news"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Examples of actions checked by the SQLite authorizer mechanism",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "sqlite-authorizer-examples",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/sqlite-authorizer-examples"
+}

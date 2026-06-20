@@ -1,0 +1,8 @@
+{
+  "description": "A simple Node.js server for queueing and relaying webhook requests",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "webhook-relay",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/webhook-relay"
+}

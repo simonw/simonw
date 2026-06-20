@@ -1,0 +1,44 @@
+{
+  "description": "Create a SQLite database containing data from your Pocket account",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-07-09T01:15:03Z",
+      "published_day": "2023-07-09",
+      "release": "0.2.3",
+      "url": "https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-22T16:21:34Z",
+      "published_day": "2022-08-22",
+      "release": "0.2.2",
+      "url": "https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-22T00:08:24Z",
+      "published_day": "2020-10-22",
+      "release": "0.2.1",
+      "url": "https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-27T22:26:30Z",
+      "published_day": "2020-03-27",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-07T05:18:20Z",
+      "published_day": "2019-10-07",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "pocket-to-sqlite",
+  "total_releases": 5,
+  "url": "https://github.com/dogsheep/pocket-to-sqlite"
+}

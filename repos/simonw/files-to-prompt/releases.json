@@ -1,0 +1,58 @@
+{
+  "description": "Concatenate a directory full of files into a single prompt for use with LLMs",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-02-19T05:57:43Z",
+      "published_day": "2025-02-19",
+      "release": "0.6",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-14T04:05:26Z",
+      "published_day": "2025-02-14",
+      "release": "0.5",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-16T23:25:24Z",
+      "published_day": "2024-10-16",
+      "release": "0.4",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-09T05:46:16Z",
+      "published_day": "2024-09-09",
+      "release": "0.3",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-08T06:04:50Z",
+      "published_day": "2024-04-08",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-08T05:39:55Z",
+      "published_day": "2024-04-08",
+      "release": "0.2",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-22T15:48:04Z",
+      "published_day": "2024-03-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/files-to-prompt/releases/tag/0.1"
+    }
+  ],
+  "repo": "files-to-prompt",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/files-to-prompt"
+}

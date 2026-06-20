@@ -1,0 +1,30 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T00:15:47Z",
+      "published_day": "2026-05-13",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-17T00:49:30Z",
+      "published_day": "2026-04-17",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T22:54:36Z",
+      "published_day": "2026-03-18",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-sidebar/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-sidebar",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-sidebar"
+}

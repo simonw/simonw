@@ -1,0 +1,16 @@
+{
+  "description": "Set the Referrer-Policy header for a Datasette site",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-05T23:44:27Z",
+      "published_day": "2026-05-05",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-referrer-policy",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-referrer-policy"
+}

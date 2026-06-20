@@ -1,0 +1,51 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T00:39:01Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:56:32Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T16:40:32Z",
+      "published_day": "2025-03-27",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T00:30:05Z",
+      "published_day": "2025-03-27",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T00:17:06Z",
+      "published_day": "2025-03-27",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-26T15:48:13Z",
+      "published_day": "2025-03-26",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-profiles/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-profiles",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-profiles"
+}

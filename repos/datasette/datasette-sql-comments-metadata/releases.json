@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-03-27T18:51:45Z",
+      "published_day": "2026-03-27",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-sql-comments-metadata/releases/tag/0.0.1a2"
+    }
+  ],
+  "repo": "datasette-sql-comments-metadata",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-sql-comments-metadata"
+}

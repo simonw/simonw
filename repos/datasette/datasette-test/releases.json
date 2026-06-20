@@ -1,0 +1,51 @@
+{
+  "description": "Utilities to help write tests for Datasette plugins and applications",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-26T23:12:29Z",
+      "published_day": "2024-04-26",
+      "release": "0.3.2",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-26T18:54:53Z",
+      "published_day": "2024-04-26",
+      "release": "0.3.1",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-26T18:22:56Z",
+      "published_day": "2024-04-26",
+      "release": "0.3 - release yanked",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T22:35:10Z",
+      "published_day": "2024-01-16",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T21:11:55Z",
+      "published_day": "2024-01-16",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-16T20:39:06Z",
+      "published_day": "2024-01-16",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-test/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-test",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-test"
+}

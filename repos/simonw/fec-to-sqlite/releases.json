@@ -1,0 +1,23 @@
+{
+  "description": "Save FEC campaign finance data to a SQLite database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-03-07T18:22:58Z",
+      "published_day": "2020-03-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/fec-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-07T18:22:03Z",
+      "published_day": "2020-03-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/fec-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "fec-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/fec-to-sqlite"
+}

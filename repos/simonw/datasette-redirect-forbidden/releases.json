@@ -1,0 +1,16 @@
+{
+  "description": "Redirect forbidden requests to a login page",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-02-23T22:02:38Z",
+      "published_day": "2022-02-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-redirect-forbidden/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-redirect-forbidden",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-redirect-forbidden"
+}

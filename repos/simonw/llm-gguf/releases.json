@@ -1,0 +1,23 @@
+{
+  "description": "Run models distributed as GGUF files using LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-11-21T07:15:58Z",
+      "published_day": "2024-11-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-gguf/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-23T22:13:53Z",
+      "published_day": "2024-07-23",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-gguf/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-gguf",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-gguf"
+}

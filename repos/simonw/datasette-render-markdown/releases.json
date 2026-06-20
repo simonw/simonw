@@ -1,0 +1,93 @@
+{
+  "description": "Datasette plugin for rendering Markdown",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-08-15T03:10:29Z",
+      "published_day": "2023-08-15",
+      "release": "2.2.1",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/2.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-02T00:44:39Z",
+      "published_day": "2023-07-02",
+      "release": "2.2",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-27T23:31:36Z",
+      "published_day": "2023-01-27",
+      "release": "2.1.1",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/2.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-02-26T18:22:00Z",
+      "published_day": "2022-02-26",
+      "release": "2.1",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-22T22:18:20Z",
+      "published_day": "2021-09-22",
+      "release": "2.0",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/2.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-28T22:54:59Z",
+      "published_day": "2020-10-28",
+      "release": "1.2",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-02T08:32:21Z",
+      "published_day": "2020-05-02",
+      "release": "1.1.2",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-24T20:01:29Z",
+      "published_day": "2020-03-24",
+      "release": "1.1.1",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/1.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-24T19:51:13Z",
+      "published_day": "2020-03-24",
+      "release": "1.1",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-22T23:21:04Z",
+      "published_day": "2020-03-22",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-15T05:35:12Z",
+      "published_day": "2019-11-15",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-09T23:49:58Z",
+      "published_day": "2019-11-09",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-render-markdown/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-render-markdown",
+  "total_releases": 12,
+  "url": "https://github.com/simonw/datasette-render-markdown"
+}

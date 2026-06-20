@@ -1,0 +1,37 @@
+{
+  "description": "async alternatives to browser alert() and prompt() and confirm()",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-12-08T00:20:05Z",
+      "published_day": "2024-12-08",
+      "release": "0.0.4",
+      "url": "https://github.com/simonw/prompts-js/releases/tag/0.0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-07T22:11:58Z",
+      "published_day": "2024-12-07",
+      "release": "0.0.3",
+      "url": "https://github.com/simonw/prompts-js/releases/tag/0.0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-07T20:29:13Z",
+      "published_day": "2024-12-07",
+      "release": "0.0.2",
+      "url": "https://github.com/simonw/prompts-js/releases/tag/0.0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-07T20:28:52Z",
+      "published_day": "2024-12-07",
+      "release": "0.0.1",
+      "url": "https://github.com/simonw/prompts-js/releases/tag/0.0.1"
+    }
+  ],
+  "repo": "prompts-js",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/prompts-js"
+}

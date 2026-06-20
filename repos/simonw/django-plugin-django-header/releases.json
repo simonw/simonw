@@ -1,0 +1,23 @@
+{
+  "description": "Add a Django-Compositions HTTP header to a Django app",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-23T19:42:20Z",
+      "published_day": "2024-09-23",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/django-plugin-django-header/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-23T19:14:35Z",
+      "published_day": "2024-09-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/django-plugin-django-header/releases/tag/0.1"
+    }
+  ],
+  "repo": "django-plugin-django-header",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/django-plugin-django-header"
+}

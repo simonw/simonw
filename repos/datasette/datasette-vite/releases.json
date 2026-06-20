@@ -1,0 +1,37 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-12T23:49:33Z",
+      "published_day": "2026-05-12",
+      "release": "0.0.1a4",
+      "url": "https://github.com/datasette/datasette-vite/releases/tag/0.0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T22:34:41Z",
+      "published_day": "2026-03-18",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-vite/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-17T19:47:58Z",
+      "published_day": "2026-03-17",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-vite/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-22T01:01:14Z",
+      "published_day": "2026-02-22",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-vite/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-vite",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-vite"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "Enable sqlite-chronicle against tables in Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-13T18:21:37Z",
+      "published_day": "2025-05-13",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-chronicle/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-08T06:11:50Z",
+      "published_day": "2023-12-08",
+      "release": "0.2.1",
+      "url": "https://github.com/datasette/datasette-chronicle/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-06T22:00:51Z",
+      "published_day": "2023-12-06",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-chronicle/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-06T05:58:37Z",
+      "published_day": "2023-12-06",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-chronicle/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-chronicle",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-chronicle"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Glitch project that converts and serves CSV files using Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-csvs",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-csvs"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Paste in some broken unicode text and FTFY will tell you how to fix it!",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "ftfy-web",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/ftfy-web"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Django plugin to run Datasette inside of Django",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-26T16:38:10Z",
+      "published_day": "2024-09-26",
+      "release": "0.2",
+      "url": "https://github.com/simonw/django-plugin-datasette/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-26T15:52:03Z",
+      "published_day": "2024-09-26",
+      "release": "0.1",
+      "url": "https://github.com/simonw/django-plugin-datasette/releases/tag/0.1"
+    }
+  ],
+  "repo": "django-plugin-datasette",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/django-plugin-datasette"
+}

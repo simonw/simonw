@@ -1,0 +1,23 @@
+{
+  "description": "Authentication and permissions for Datasette on Sandstorm",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-09-16T17:14:12Z",
+      "published_day": "2022-09-16",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-14T04:09:51Z",
+      "published_day": "2022-09-14",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-sandstorm-support/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sandstorm-support",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-sandstorm-support"
+}

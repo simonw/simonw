@@ -1,0 +1,16 @@
+{
+  "description": "Verify that files can be opened by Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-28T02:31:34Z",
+      "published_day": "2021-08-28",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-verify/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-verify",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-verify"
+}

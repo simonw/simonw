@@ -1,0 +1,65 @@
+{
+  "description": "Datasette plugin that replaces any GeoJSON column values with a Leaflet map.",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-25T05:04:35Z",
+      "published_day": "2024-04-25",
+      "release": "0.8.2",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-07T20:54:37Z",
+      "published_day": "2023-12-07",
+      "release": "0.8.1",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-26T02:41:07Z",
+      "published_day": "2021-01-26",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-20T20:21:25Z",
+      "published_day": "2021-01-20",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-21T23:54:48Z",
+      "published_day": "2020-08-21",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-21T22:48:28Z",
+      "published_day": "2020-08-21",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-02T01:48:09Z",
+      "published_day": "2019-11-02",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-14T15:18:48Z",
+      "published_day": "2019-10-14",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-leaflet-geojson/releases/tag/0.3"
+    }
+  ],
+  "repo": "datasette-leaflet-geojson",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/datasette-leaflet-geojson"
+}

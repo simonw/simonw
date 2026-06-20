@@ -1,0 +1,44 @@
+{
+  "description": "Copy database files into an in-memory database on startup",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-04-30T19:49:29Z",
+      "published_day": "2022-04-30",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-28T21:48:59Z",
+      "published_day": "2022-04-28",
+      "release": "0.1a3",
+      "url": "https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-28T21:07:09Z",
+      "published_day": "2022-04-28",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-28T20:48:43Z",
+      "published_day": "2022-04-28",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-28T20:05:30Z",
+      "published_day": "2022-04-28",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-copy-to-memory/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-copy-to-memory",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-copy-to-memory"
+}

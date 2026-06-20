@@ -1,0 +1,8 @@
+{
+  "description": "Demo plugin built with github.com/datasette/skill",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-cowsay",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-cowsay"
+}

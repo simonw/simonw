@@ -1,0 +1,65 @@
+{
+  "description": "CLI tool for stripping tags from HTML",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-02-28T21:53:34Z",
+      "published_day": "2025-02-28",
+      "release": "0.6",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-09T21:52:16Z",
+      "published_day": "2023-07-09",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-27T20:28:04Z",
+      "published_day": "2023-06-27",
+      "release": "0.5",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-18T08:38:26Z",
+      "published_day": "2023-06-18",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-18T08:08:09Z",
+      "published_day": "2023-06-18",
+      "release": "0.4",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-19T05:19:16Z",
+      "published_day": "2023-05-19",
+      "release": "0.3",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-18T16:26:05Z",
+      "published_day": "2023-05-18",
+      "release": "0.2",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-18T16:11:49Z",
+      "published_day": "2023-05-18",
+      "release": "0.1",
+      "url": "https://github.com/simonw/strip-tags/releases/tag/0.1"
+    }
+  ],
+  "repo": "strip-tags",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/strip-tags"
+}

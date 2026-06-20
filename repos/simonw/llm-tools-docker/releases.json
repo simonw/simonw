@@ -1,0 +1,16 @@
+{
+  "description": "Grant LLM access to a Docker container for running commands",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-06-14T01:26:08Z",
+      "published_day": "2025-06-14",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-tools-docker",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-tools-docker"
+}

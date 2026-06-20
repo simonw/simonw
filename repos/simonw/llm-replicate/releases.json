@@ -1,0 +1,37 @@
+{
+  "description": "LLM plugin for models hosted on Replicate",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-18T17:13:28Z",
+      "published_day": "2024-04-18",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/llm-replicate/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-20T18:36:44Z",
+      "published_day": "2023-07-20",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-replicate/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-18T18:59:38Z",
+      "published_day": "2023-07-18",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-replicate/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-18T04:07:36Z",
+      "published_day": "2023-07-18",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-replicate/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-replicate",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/llm-replicate"
+}

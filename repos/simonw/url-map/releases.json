@@ -1,0 +1,8 @@
+{
+  "description": "Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "url-map",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/url-map"
+}

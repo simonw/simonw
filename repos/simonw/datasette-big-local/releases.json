@@ -1,0 +1,8 @@
+{
+  "description": "Integration between Datasette and Big Local News",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-big-local",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-big-local"
+}

@@ -1,0 +1,72 @@
+{
+  "description": "Debug plugin for LLM providing an echo model",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-05T01:31:54Z",
+      "published_day": "2026-05-05",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-31T16:48:59Z",
+      "published_day": "2026-03-31",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-31T15:43:26Z",
+      "published_day": "2026-03-31",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-21T05:13:28Z",
+      "published_day": "2025-05-21",
+      "release": "0.3a3",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.3a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-21T04:53:11Z",
+      "published_day": "2025-05-21",
+      "release": "0.3a2",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.3a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-16T15:42:57Z",
+      "published_day": "2025-05-16",
+      "release": "0.3a1",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.3a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-16T00:16:12Z",
+      "published_day": "2025-05-16",
+      "release": "0.3a0",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-04T16:15:54Z",
+      "published_day": "2025-05-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-20T05:25:00Z",
+      "published_day": "2025-04-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-echo",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/llm-echo"
+}

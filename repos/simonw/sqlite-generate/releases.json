@@ -1,0 +1,72 @@
+{
+  "description": "Tool for generating demo SQLite databases",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T21:23:47Z",
+      "published_day": "2020-06-23",
+      "release": "1.1.1",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/1.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T20:58:34Z",
+      "published_day": "2020-06-23",
+      "release": "1.1",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T19:24:39Z",
+      "published_day": "2020-06-23",
+      "release": "1.0",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T18:04:41Z",
+      "published_day": "2020-06-23",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T14:55:05Z",
+      "published_day": "2020-06-23",
+      "release": "0.4",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T03:26:28Z",
+      "published_day": "2020-06-23",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T02:17:45Z",
+      "published_day": "2020-06-23",
+      "release": "0.3",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-23T01:08:58Z",
+      "published_day": "2020-06-23",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-22T23:44:09Z",
+      "published_day": "2020-06-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-generate/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-generate",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/sqlite-generate"
+}

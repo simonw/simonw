@@ -1,0 +1,8 @@
+{
+  "description": "Launch Datasette Studio in a GitHub Codespace",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "studio",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/studio"
+}

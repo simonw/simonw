@@ -1,0 +1,16 @@
+{
+  "description": "\"llm python\" is a command to run a Python interpreter in the LLM virtual environment",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-10-27T05:37:25Z",
+      "published_day": "2023-10-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-python/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-python",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-python"
+}

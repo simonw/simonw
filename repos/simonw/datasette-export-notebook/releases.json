@@ -1,0 +1,51 @@
+{
+  "description": "Datasette plugin providing instructions for exporting data to Jupyter or Observable",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-09-15T18:59:37Z",
+      "published_day": "2023-09-15",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-17T04:01:49Z",
+      "published_day": "2021-07-17",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-29T22:22:44Z",
+      "published_day": "2021-01-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-11T22:29:04Z",
+      "published_day": "2021-01-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-09T23:57:26Z",
+      "published_day": "2021-01-09",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-06T08:12:31Z",
+      "published_day": "2021-01-06",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-export-notebook/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-export-notebook",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/datasette-export-notebook"
+}

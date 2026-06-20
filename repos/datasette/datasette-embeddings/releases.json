@@ -1,0 +1,30 @@
+{
+  "description": "Store and query embedding vectors in Datasette tables",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-08T00:06:25Z",
+      "published_day": "2024-04-08",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-embeddings/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-30T18:40:36Z",
+      "published_day": "2024-03-30",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-embeddings/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-26T05:54:20Z",
+      "published_day": "2024-03-26",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-embeddings/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-embeddings",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-embeddings"
+}

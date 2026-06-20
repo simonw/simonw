@@ -1,0 +1,8 @@
+{
+  "description": "A skill for creating Datasette plugins.",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "skill",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/skill"
+}

@@ -1,0 +1,100 @@
+{
+  "description": "Datasette plugin that authenticates users based on existing domain cookies",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-03-28T05:21:36Z",
+      "published_day": "2025-03-28",
+      "release": "1.0a2",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-05-29T17:38:24Z",
+      "published_day": "2022-05-29",
+      "release": "1.0a1",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-05-29T15:15:37Z",
+      "published_day": "2022-05-29",
+      "release": "1.0a0",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/1.0a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-15T15:23:34Z",
+      "published_day": "2020-04-15",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-06T07:01:43Z",
+      "published_day": "2020-02-06",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-06T06:23:37Z",
+      "published_day": "2020-02-06",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-05T06:19:03Z",
+      "published_day": "2020-02-05",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-05T04:35:45Z",
+      "published_day": "2020-02-05",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-05T01:17:04Z",
+      "published_day": "2020-02-05",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-04T05:11:06Z",
+      "published_day": "2020-02-04",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-04T05:10:03Z",
+      "published_day": "2020-02-04",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-28T22:30:18Z",
+      "published_day": "2020-01-28",
+      "release": "0.3b",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.3b"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-28T22:27:39Z",
+      "published_day": "2020-01-28",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-auth-existing-cookies/releases/tag/0.2a"
+    }
+  ],
+  "repo": "datasette-auth-existing-cookies",
+  "total_releases": 13,
+  "url": "https://github.com/simonw/datasette-auth-existing-cookies"
+}

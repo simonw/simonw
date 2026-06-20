@@ -1,0 +1,30 @@
+{
+  "description": "Experimental Datasette output plugin using CSS properties",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-01-07T20:28:40Z",
+      "published_day": "2021-01-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-css-properties/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-07T19:48:50Z",
+      "published_day": "2021-01-07",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-css-properties/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-05T18:39:44Z",
+      "published_day": "2021-01-05",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-css-properties/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-css-properties",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-css-properties"
+}

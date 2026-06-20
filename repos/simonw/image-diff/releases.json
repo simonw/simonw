@@ -1,0 +1,37 @@
+{
+  "description": "CLI tool for comparing images",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-09-19T19:42:35Z",
+      "published_day": "2022-09-19",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/image-diff/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-11T23:54:26Z",
+      "published_day": "2022-03-11",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/image-diff/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-11T23:42:09Z",
+      "published_day": "2022-03-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/image-diff/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-11T22:19:05Z",
+      "published_day": "2022-03-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/image-diff/releases/tag/0.1"
+    }
+  ],
+  "repo": "image-diff",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/image-diff"
+}

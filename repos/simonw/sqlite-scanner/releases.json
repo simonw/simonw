@@ -1,0 +1,30 @@
+{
+  "description": "Scan folders for SQLite database files",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-04T15:42:46Z",
+      "published_day": "2026-02-04",
+      "release": "v0.2.0",
+      "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.2.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-04T04:36:04Z",
+      "published_day": "2026-02-04",
+      "release": "v0.1.1",
+      "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-03T01:45:22Z",
+      "published_day": "2026-02-03",
+      "release": "v0.1.0",
+      "url": "https://github.com/simonw/sqlite-scanner/releases/tag/v0.1.0"
+    }
+  ],
+  "repo": "sqlite-scanner",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/sqlite-scanner"
+}

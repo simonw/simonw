@@ -1,0 +1,37 @@
+{
+  "description": "Datasette plugin for configuring permission checks using SQL queries",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-06-12T07:08:55Z",
+      "published_day": "2020-06-12",
+      "release": "0.3a",
+      "url": "https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-11T18:57:32Z",
+      "published_day": "2020-06-11",
+      "release": "0.2.1a",
+      "url": "https://github.com/simonw/datasette-permissions-sql/releases/tag/0.2.1a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-11T18:57:12Z",
+      "published_day": "2020-06-11",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-permissions-sql/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-11T18:56:40Z",
+      "published_day": "2020-06-11",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-permissions-sql/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-permissions-sql",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-permissions-sql"
+}

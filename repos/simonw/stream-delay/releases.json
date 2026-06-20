@@ -1,0 +1,16 @@
+{
+  "description": "Stream a file or stdin one line at a time with a delay",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-01-08T20:24:54Z",
+      "published_day": "2022-01-08",
+      "release": "0.1",
+      "url": "https://github.com/simonw/stream-delay/releases/tag/0.1"
+    }
+  ],
+  "repo": "stream-delay",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/stream-delay"
+}

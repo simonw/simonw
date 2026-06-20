@@ -1,0 +1,16 @@
+{
+  "description": "SwiftUI presentation software, every slide is a URL",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-24T23:59:12Z",
+      "published_day": "2026-02-24",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/present/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "present",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/present"
+}

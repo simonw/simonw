@@ -1,0 +1,30 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-06-16T04:02:40Z",
+      "published_day": "2026-06-16",
+      "release": "0.1.0a3",
+      "url": "https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-19T22:09:35Z",
+      "published_day": "2026-03-19",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-17T22:00:35Z",
+      "published_day": "2026-03-17",
+      "release": "0.1.0a1",
+      "url": "https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a1"
+    }
+  ],
+  "repo": "datasette-debug-gotham",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-debug-gotham"
+}

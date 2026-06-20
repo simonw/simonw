@@ -1,0 +1,8 @@
+{
+  "description": "A tiny proxy for serving and resizing images fetched from a private S3 bucket",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "s3-image-proxy",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/s3-image-proxy"
+}

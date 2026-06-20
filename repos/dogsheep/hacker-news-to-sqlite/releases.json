@@ -1,0 +1,44 @@
+{
+  "description": "Create a SQLite database containing data pulled from Hacker News",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-03-13T19:15:06Z",
+      "published_day": "2021-03-13",
+      "release": "0.4",
+      "url": "https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T22:41:16Z",
+      "published_day": "2020-03-21",
+      "release": "0.3.1",
+      "url": "https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T19:47:36Z",
+      "published_day": "2020-03-21",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T19:46:58Z",
+      "published_day": "2020-03-21",
+      "release": "0.2a",
+      "url": "https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T04:26:28Z",
+      "published_day": "2020-03-21",
+      "release": "0.1a",
+      "url": "https://github.com/dogsheep/hacker-news-to-sqlite/releases/tag/0.1a"
+    }
+  ],
+  "repo": "hacker-news-to-sqlite",
+  "total_releases": 5,
+  "url": "https://github.com/dogsheep/hacker-news-to-sqlite"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Integration of jCrop with the Django admin",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django_cropper",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django_cropper"
+}

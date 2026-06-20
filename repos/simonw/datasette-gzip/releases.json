@@ -1,0 +1,30 @@
+{
+  "description": "Add gzip compression to Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-09T04:04:18Z",
+      "published_day": "2026-04-09",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-gzip/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-28T16:06:51Z",
+      "published_day": "2022-04-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-gzip/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-27T17:27:49Z",
+      "published_day": "2022-04-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-gzip/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-gzip",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-gzip"
+}

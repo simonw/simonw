@@ -1,0 +1,8 @@
+{
+  "description": "A memcached backed rate limiting decorator for Django.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "ratelimitcache",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/ratelimitcache"
+}

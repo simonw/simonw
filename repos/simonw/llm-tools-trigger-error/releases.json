@@ -1,0 +1,16 @@
+{
+  "description": "Trigger an LLM tools error, useful for testing",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-06-01T23:23:34Z",
+      "published_day": "2025-06-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-tools-trigger-error",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-tools-trigger-error"
+}

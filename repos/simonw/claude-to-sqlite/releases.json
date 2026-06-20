@@ -1,0 +1,23 @@
+{
+  "description": "Convert a Claude.ai export to SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-10-21T03:04:56Z",
+      "published_day": "2024-10-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/claude-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-21T00:29:52Z",
+      "published_day": "2024-10-21",
+      "release": "",
+      "url": "https://github.com/simonw/claude-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "claude-to-sqlite",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/claude-to-sqlite"
+}

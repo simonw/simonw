@@ -1,0 +1,30 @@
+{
+  "description": "Maintain a FAISS index for specified Datasette tables",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-06-17T18:12:08Z",
+      "published_day": "2024-06-17",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-faiss/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-19T23:37:56Z",
+      "published_day": "2023-01-19",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-faiss/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-11T05:25:53Z",
+      "published_day": "2023-01-11",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-faiss/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-faiss",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-faiss"
+}

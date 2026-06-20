@@ -1,0 +1,8 @@
+{
+  "description": "Benchmarking Django using SQLite",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django_sqlite_benchmark",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django_sqlite_benchmark"
+}

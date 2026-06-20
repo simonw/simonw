@@ -1,0 +1,44 @@
+{
+  "description": "Utility for converting YAML files to SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-06-13T04:45:52Z",
+      "published_day": "2021-06-13",
+      "release": "1.0",
+      "url": "https://github.com/simonw/yaml-to-sqlite/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-07T21:12:55Z",
+      "published_day": "2020-12-07",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-29T20:07:05Z",
+      "published_day": "2019-11-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/yaml-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-08T06:46:02Z",
+      "published_day": "2019-11-08",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/yaml-to-sqlite/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-06-23T22:55:50Z",
+      "published_day": "2019-06-23",
+      "release": "0.2",
+      "url": "https://github.com/simonw/yaml-to-sqlite/releases/tag/0.2"
+    }
+  ],
+  "repo": "yaml-to-sqlite",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/yaml-to-sqlite"
+}

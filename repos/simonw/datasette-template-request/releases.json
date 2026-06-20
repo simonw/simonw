@@ -1,0 +1,16 @@
+{
+  "description": "Expose the Datasette request object to custom templates",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-09-23T17:29:37Z",
+      "published_day": "2021-09-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-template-request/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-template-request",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-template-request"
+}

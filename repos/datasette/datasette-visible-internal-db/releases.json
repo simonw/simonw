@@ -1,0 +1,37 @@
+{
+  "description": "Datasette plugin for making the internal database visible for debugging",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-26T03:39:42Z",
+      "published_day": "2026-01-26",
+      "release": "0.1.1a2",
+      "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T21:48:39Z",
+      "published_day": "2025-10-21",
+      "release": "0.1.1a1",
+      "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-30T22:49:10Z",
+      "published_day": "2023-08-30",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-30T22:42:27Z",
+      "published_day": "2023-08-30",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-visible-internal-db/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-visible-internal-db",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-visible-internal-db"
+}

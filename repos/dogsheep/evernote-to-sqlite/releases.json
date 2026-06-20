@@ -1,0 +1,44 @@
+{
+  "description": "Tools for converting Evernote content to SQLite",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-26T19:02:47Z",
+      "published_day": "2021-08-26",
+      "release": "0.3.2",
+      "url": "https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-11T22:40:40Z",
+      "published_day": "2021-02-11",
+      "release": "0.3.1",
+      "url": "https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-11T22:16:20Z",
+      "published_day": "2021-02-11",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-12T00:07:24Z",
+      "published_day": "2020-10-12",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-11T21:47:39Z",
+      "published_day": "2020-10-11",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "evernote-to-sqlite",
+  "total_releases": 5,
+  "url": "https://github.com/dogsheep/evernote-to-sqlite"
+}

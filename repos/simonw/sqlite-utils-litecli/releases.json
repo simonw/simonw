@@ -1,0 +1,23 @@
+{
+  "description": "Interactive shell for sqlite-utils using litecli",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-07-26T21:35:43Z",
+      "published_day": "2023-07-26",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-25T20:14:09Z",
+      "published_day": "2023-07-25",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-utils-litecli/releases/tag/0.1"
+    }
+  ],
+  "repo": "sqlite-utils-litecli",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/sqlite-utils-litecli"
+}

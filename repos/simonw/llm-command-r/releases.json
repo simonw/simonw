@@ -1,0 +1,37 @@
+{
+  "description": "Access the Cohere Command R family of models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-03-28T05:56:53Z",
+      "published_day": "2025-03-28",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/llm-command-r/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-13T20:23:42Z",
+      "published_day": "2025-03-13",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-command-r/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-04T16:13:44Z",
+      "published_day": "2024-04-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-command-r/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-04T14:31:37Z",
+      "published_day": "2024-04-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-command-r/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-command-r",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/llm-command-r"
+}

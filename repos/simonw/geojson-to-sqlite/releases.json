@@ -1,0 +1,86 @@
+{
+  "description": "CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-04-13T23:39:25Z",
+      "published_day": "2022-04-13",
+      "release": "1.1.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-13T05:00:09Z",
+      "published_day": "2022-04-13",
+      "release": "1.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-12T02:22:01Z",
+      "published_day": "2022-04-12",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-04T02:14:16Z",
+      "published_day": "2022-03-04",
+      "release": "1.0",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-20T19:15:44Z",
+      "published_day": "2021-05-20",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-17T00:14:27Z",
+      "published_day": "2021-05-17",
+      "release": "0.3",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-11T17:08:48Z",
+      "published_day": "2020-02-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-01T22:06:43Z",
+      "published_day": "2020-02-01",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-31T06:39:07Z",
+      "published_day": "2020-01-31",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-31T06:37:32Z",
+      "published_day": "2020-01-31",
+      "release": "0.1",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-31T01:34:54Z",
+      "published_day": "2020-01-31",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/geojson-to-sqlite/releases/tag/0.1a"
+    }
+  ],
+  "repo": "geojson-to-sqlite",
+  "total_releases": 11,
+  "url": "https://github.com/simonw/geojson-to-sqlite"
+}

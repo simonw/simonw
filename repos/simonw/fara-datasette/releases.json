@@ -1,0 +1,8 @@
+{
+  "description": "Create a Datasette instance of data from https://efile.fara.gov/ords/f?p=API:BULKDATA",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "fara-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/fara-datasette"
+}

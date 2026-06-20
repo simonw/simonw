@@ -1,0 +1,44 @@
+{
+  "description": "Explain and validate SQL queries as you type them into Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-02-28T16:55:58Z",
+      "published_day": "2024-02-28",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-28T16:35:44Z",
+      "published_day": "2024-02-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-24T03:57:18Z",
+      "published_day": "2023-04-24",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-04T19:10:06Z",
+      "published_day": "2023-04-04",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-02-09T02:06:24Z",
+      "published_day": "2023-02-09",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-explain",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-explain"
+}

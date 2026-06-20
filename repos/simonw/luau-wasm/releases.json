@@ -1,0 +1,16 @@
+{
+  "description": "Luau packaged as a Pyodide WebAssembly wheel",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-13T23:14:30Z",
+      "published_day": "2026-06-13",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/luau-wasm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "luau-wasm",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/luau-wasm"
+}

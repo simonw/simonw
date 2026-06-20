@@ -1,0 +1,8 @@
+{
+  "description": "Adds a simple SQL function for stripping XML-style tags",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-sql-strip-tags",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-sql-strip-tags"
+}

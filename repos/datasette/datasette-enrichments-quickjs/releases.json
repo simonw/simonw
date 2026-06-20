@@ -1,0 +1,30 @@
+{
+  "description": "Enrich data with a custom JavaScript function",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-05T22:07:16Z",
+      "published_day": "2024-04-05",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-09T14:56:16Z",
+      "published_day": "2024-03-09",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-09T17:30:07Z",
+      "published_day": "2024-02-09",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments-quickjs/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments-quickjs",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-enrichments-quickjs"
+}

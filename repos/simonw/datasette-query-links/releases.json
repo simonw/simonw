@@ -1,0 +1,30 @@
+{
+  "description": "Turn SELECT queries returned by a query into links to execute them",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-09T02:56:40Z",
+      "published_day": "2021-08-09",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-query-links/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-09T01:58:53Z",
+      "published_day": "2021-08-09",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-query-links/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-09T01:23:58Z",
+      "published_day": "2021-08-09",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-query-links/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-query-links",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-query-links"
+}

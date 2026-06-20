@@ -1,0 +1,16 @@
+{
+  "description": "Create a SQLite database containing your data from Google Calendar",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-05-21T16:45:51Z",
+      "published_day": "2022-05-21",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/google-calendar-to-sqlite/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "google-calendar-to-sqlite",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/google-calendar-to-sqlite"
+}

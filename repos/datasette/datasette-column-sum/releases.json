@@ -1,0 +1,23 @@
+{
+  "description": "Sum the values in numeric Datasette columns",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:07Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-column-sum/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-01T04:12:55Z",
+      "published_day": "2024-03-01",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-column-sum/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-column-sum",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-column-sum"
+}

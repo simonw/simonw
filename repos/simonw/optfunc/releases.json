@@ -1,0 +1,8 @@
+{
+  "description": "Syntactic sugar for creating Python command line scripts by introspecting a function definition",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "optfunc",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/optfunc"
+}

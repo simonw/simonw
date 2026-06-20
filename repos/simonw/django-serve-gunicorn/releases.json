@@ -1,0 +1,8 @@
+{
+  "description": "Management command to start a gunicorn server for a Django project",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-serve-gunicorn",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-serve-gunicorn"
+}

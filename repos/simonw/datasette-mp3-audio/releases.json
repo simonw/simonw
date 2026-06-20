@@ -1,0 +1,23 @@
+{
+  "description": "Turn .mp3 URLs into an audio player in the Datasette interface",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-20T23:14:56Z",
+      "published_day": "2022-08-20",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-mp3-audio/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-20T16:45:42Z",
+      "published_day": "2022-08-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-mp3-audio/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-mp3-audio",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-mp3-audio"
+}

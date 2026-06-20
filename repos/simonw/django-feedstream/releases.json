@@ -1,0 +1,8 @@
+{
+  "description": "Yet Another Django lifestream thingy - this one keeps templates for feed types in the database",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-feedstream",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-feedstream"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Block all access to specific path prefixes",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-25T05:03:45Z",
+      "published_day": "2021-02-25",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-block/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-02-25T04:52:07Z",
+      "published_day": "2021-02-25",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-block/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-block",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-block"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Functions for finding numbers using higher/lower",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-16T07:11:37Z",
+      "published_day": "2021-02-16",
+      "release": "0.1",
+      "url": "https://github.com/simonw/higher-lower/releases/tag/0.1"
+    }
+  ],
+  "repo": "higher-lower",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/higher-lower"
+}

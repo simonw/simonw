@@ -1,0 +1,30 @@
+{
+  "description": "Tool for posting JSON to an API, broken into pages",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-04-11T06:57:04Z",
+      "published_day": "2021-04-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/json-post/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-11T05:00:50Z",
+      "published_day": "2021-04-11",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/json-post/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-10T01:13:22Z",
+      "published_day": "2021-04-10",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/json-post/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "json-post",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/json-post"
+}

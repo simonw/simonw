@@ -1,0 +1,8 @@
+{
+  "description": "Backing up data from api.tidesandcurrents.noaa.gov",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "noaa-tidesandcurrents",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/noaa-tidesandcurrents"
+}

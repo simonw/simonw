@@ -1,0 +1,170 @@
+{
+  "description": "Datasette plugin for publishing data using Vercel",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-08-24T17:43:41Z",
+      "published_day": "2022-08-24",
+      "release": "0.14.2",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-23T02:58:36Z",
+      "published_day": "2022-07-23",
+      "release": "0.14.1",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-13T15:48:22Z",
+      "published_day": "2022-07-13",
+      "release": "0.14",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-20T02:01:52Z",
+      "published_day": "2022-03-20",
+      "release": "0.13",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-15T23:10:09Z",
+      "published_day": "2022-03-15",
+      "release": "0.12.1",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-22T04:49:23Z",
+      "published_day": "2021-11-22",
+      "release": "0.12",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-10-18T18:12:57Z",
+      "published_day": "2021-10-18",
+      "release": "0.11",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-25T18:38:42Z",
+      "published_day": "2021-07-25",
+      "release": "0.10",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-26T19:12:33Z",
+      "published_day": "2021-03-26",
+      "release": "0.9.3",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-20T21:47:32Z",
+      "published_day": "2021-03-20",
+      "release": "0.9.2",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-28T19:39:10Z",
+      "published_day": "2020-12-28",
+      "release": "0.9.1",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-12-14T04:03:06Z",
+      "published_day": "2020-12-14",
+      "release": "0.9",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-17T23:35:23Z",
+      "published_day": "2020-08-17",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-31T16:53:41Z",
+      "published_day": "2020-07-31",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-18T15:12:11Z",
+      "published_day": "2020-06-18",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-15T00:42:17Z",
+      "published_day": "2020-06-15",
+      "release": "0.5.2",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.5.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-05-07T03:01:51Z",
+      "published_day": "2020-05-07",
+      "release": "0.5.1",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-22T04:37:52Z",
+      "published_day": "2020-04-22",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-19T12:04:48Z",
+      "published_day": "2020-04-19",
+      "release": "0.4.1a",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.4.1a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-09T05:13:43Z",
+      "published_day": "2020-04-09",
+      "release": "0.4a",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.4a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-08T04:56:25Z",
+      "published_day": "2020-04-08",
+      "release": "0.3a",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.3a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-07T05:24:35Z",
+      "published_day": "2020-04-07",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-07T05:22:19Z",
+      "published_day": "2020-04-07",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-publish-vercel/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-publish-vercel",
+  "total_releases": 23,
+  "url": "https://github.com/simonw/datasette-publish-vercel"
+}

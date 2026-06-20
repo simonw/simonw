@@ -1,0 +1,8 @@
+{
+  "description": "Deploys Datasette with the latest version of every plugin",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "latest-datasette-with-all-plugins",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/latest-datasette-with-all-plugins"
+}

@@ -1,0 +1,58 @@
+{
+  "description": "Datasette plugin for configuring Sentry",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-11-21T19:22:42Z",
+      "published_day": "2023-11-21",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-06T22:31:29Z",
+      "published_day": "2022-10-06",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-14T23:00:36Z",
+      "published_day": "2022-08-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-14T20:55:21Z",
+      "published_day": "2022-08-14",
+      "release": "0.2a1",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-18T20:30:04Z",
+      "published_day": "2022-07-18",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-29T05:53:58Z",
+      "published_day": "2020-01-29",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-01-29T05:53:36Z",
+      "published_day": "2020-01-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-sentry/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sentry",
+  "total_releases": 7,
+  "url": "https://github.com/simonw/datasette-sentry"
+}

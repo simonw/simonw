@@ -1,0 +1,8 @@
+{
+  "description": "Scrape various open data directories to create an index of what's available out there",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "scrape-open-data",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/scrape-open-data"
+}

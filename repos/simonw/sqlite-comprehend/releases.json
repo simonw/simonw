@@ -1,0 +1,44 @@
+{
+  "description": "Tools for running data in a SQLite database through AWS Comprehend",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-07-12T14:21:43Z",
+      "published_day": "2022-07-12",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-11T19:33:28Z",
+      "published_day": "2022-07-11",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/sqlite-comprehend/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-11T19:13:02Z",
+      "published_day": "2022-07-11",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-comprehend/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-08T20:01:38Z",
+      "published_day": "2022-07-08",
+      "release": "0.1",
+      "url": "https://github.com/simonw/sqlite-comprehend/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-08T06:30:05Z",
+      "published_day": "2022-07-08",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/sqlite-comprehend/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "sqlite-comprehend",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/sqlite-comprehend"
+}

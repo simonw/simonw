@@ -1,0 +1,121 @@
+{
+  "description": "Import unstructured data (text and images) into structured tables",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T03:32:16Z",
+      "published_day": "2026-04-01",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-03T05:13:57Z",
+      "published_day": "2025-12-03",
+      "release": "0.2a1",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-26T16:50:47Z",
+      "published_day": "2025-11-26",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T02:00:00Z",
+      "published_day": "2025-11-11",
+      "release": "0.1a12",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:23Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a11",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-17T17:02:08Z",
+      "published_day": "2025-04-17",
+      "release": "0.1a10",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-16T04:49:49Z",
+      "published_day": "2025-04-16",
+      "release": "0.1a9",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-26T05:01:47Z",
+      "published_day": "2024-07-26",
+      "release": "0.1a8",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-05-15T04:30:57Z",
+      "published_day": "2024-05-15",
+      "release": "0.1a7",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-25T19:05:21Z",
+      "published_day": "2024-04-25",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-24T23:00:40Z",
+      "published_day": "2024-04-24",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-09T19:24:48Z",
+      "published_day": "2024-04-09",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-13T15:33:38Z",
+      "published_day": "2024-03-13",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-07T22:17:28Z",
+      "published_day": "2024-03-07",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-07T21:28:53Z",
+      "published_day": "2024-03-07",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-07T20:31:42Z",
+      "published_day": "2024-03-07",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-extract/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-extract",
+  "total_releases": 16,
+  "url": "https://github.com/datasette/datasette-extract"
+}

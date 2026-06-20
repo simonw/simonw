@@ -1,0 +1,16 @@
+{
+  "description": "Datasette as an OAuth provider",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-02-26T22:37:05Z",
+      "published_day": "2026-02-26",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-oauth/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-oauth",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-oauth"
+}

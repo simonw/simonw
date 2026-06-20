@@ -1,0 +1,65 @@
+{
+  "description": "Datasette plugin for inserting and updating data",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-07-22T17:52:23Z",
+      "published_day": "2022-07-22",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-05-16T18:45:09Z",
+      "published_day": "2022-05-16",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-31T21:43:14Z",
+      "published_day": "2020-07-31",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-25T20:31:51Z",
+      "published_day": "2020-07-25",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-21T16:25:15Z",
+      "published_day": "2020-07-21",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-20T00:09:18Z",
+      "published_day": "2020-07-20",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-19T19:09:54Z",
+      "published_day": "2020-07-19",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-17T23:23:56Z",
+      "published_day": "2020-07-17",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-insert/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-insert",
+  "total_releases": 8,
+  "url": "https://github.com/simonw/datasette-insert"
+}

@@ -1,0 +1,261 @@
+{
+  "description": "Django app for building dashboards using raw SQL queries",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-12-16T07:03:32Z",
+      "published_day": "2023-12-16",
+      "release": "1.2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-20T00:24:47Z",
+      "published_day": "2022-04-20",
+      "release": "1.1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-08T20:00:13Z",
+      "published_day": "2022-03-08",
+      "release": "1.0.2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-06T00:37:06Z",
+      "published_day": "2021-07-06",
+      "release": "1.0.1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/1.0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-01T03:58:28Z",
+      "published_day": "2021-07-01",
+      "release": "1.0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-06T19:12:45Z",
+      "published_day": "2021-06-06",
+      "release": "0.16",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-03T16:27:35Z",
+      "published_day": "2021-06-03",
+      "release": "0.15.1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.15.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-25T00:34:05Z",
+      "published_day": "2021-05-25",
+      "release": "0.15",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-16T20:24:32Z",
+      "published_day": "2021-05-16",
+      "release": "0.14",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-10T15:47:08Z",
+      "published_day": "2021-05-10",
+      "release": "0.13",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-09T06:40:54Z",
+      "published_day": "2021-05-09",
+      "release": "0.12.3",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.12.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-09T05:47:24Z",
+      "published_day": "2021-05-09",
+      "release": "0.12.2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.12.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-09T04:41:38Z",
+      "published_day": "2021-05-09",
+      "release": "0.12.1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.12.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-05-09T04:30:09Z",
+      "published_day": "2021-05-09",
+      "release": "0.12",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-26T18:50:46Z",
+      "published_day": "2021-04-26",
+      "release": "0.11a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-25T23:24:58Z",
+      "published_day": "2021-04-25",
+      "release": "0.10a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.10a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-25T23:08:38Z",
+      "published_day": "2021-04-25",
+      "release": "0.10a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.10a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-25T17:31:00Z",
+      "published_day": "2021-04-25",
+      "release": "0.9a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.9a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-25T17:05:06Z",
+      "published_day": "2021-04-25",
+      "release": "0.9a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.9a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-14T06:22:53Z",
+      "published_day": "2021-04-14",
+      "release": "0.8a2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.8a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-14T06:09:03Z",
+      "published_day": "2021-04-14",
+      "release": "0.8a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.8a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-14T05:55:20Z",
+      "published_day": "2021-04-14",
+      "release": "0.8a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.8a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-12T23:17:12Z",
+      "published_day": "2021-04-12",
+      "release": "0.7a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.7a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-04-09T04:44:11Z",
+      "published_day": "2021-04-09",
+      "release": "0.6a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.6a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-24T14:42:32Z",
+      "published_day": "2021-03-24",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-21T21:27:00Z",
+      "published_day": "2021-03-21",
+      "release": "0.4a2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-21T00:40:22Z",
+      "published_day": "2021-03-21",
+      "release": "0.4a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-19T06:50:27Z",
+      "published_day": "2021-03-19",
+      "release": "0.4a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-16T00:14:51Z",
+      "published_day": "2021-03-16",
+      "release": "0.3a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.3a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-15T04:47:46Z",
+      "published_day": "2021-03-15",
+      "release": "0.3a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-15T03:13:20Z",
+      "published_day": "2021-03-15",
+      "release": "0.2a2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.2a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-15T03:09:46Z",
+      "published_day": "2021-03-15",
+      "release": "0.2a1",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-15T01:20:22Z",
+      "published_day": "2021-03-15",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-13T05:50:05Z",
+      "published_day": "2021-03-13",
+      "release": "0.1a3",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-13T05:38:20Z",
+      "published_day": "2021-03-13",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-03-13T05:31:23Z",
+      "published_day": "2021-03-13",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/django-sql-dashboard/releases/tag/0.1a"
+    }
+  ],
+  "repo": "django-sql-dashboard",
+  "total_releases": 36,
+  "url": "https://github.com/simonw/django-sql-dashboard"
+}

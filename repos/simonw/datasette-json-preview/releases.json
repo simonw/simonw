@@ -1,0 +1,30 @@
+{
+  "description": "Preview of new JSON default format for Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-20T19:45:20Z",
+      "published_day": "2021-02-20",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-json-preview/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-20T04:53:37Z",
+      "published_day": "2020-10-20",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-json-preview/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-11T18:16:59Z",
+      "published_day": "2020-10-11",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-json-preview/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-json-preview",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-json-preview"
+}

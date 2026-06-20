@@ -1,0 +1,16 @@
+{
+  "description": "LLM fragments plugin to load a PDF as a sequence of images",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-18T20:31:53Z",
+      "published_day": "2025-05-18",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-pdf-to-images/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-pdf-to-images",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-pdf-to-images"
+}

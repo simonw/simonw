@@ -1,0 +1,23 @@
+{
+  "description": "pytest fixture finding an unused local port",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-10-22T21:52:38Z",
+      "published_day": "2025-10-22",
+      "release": "0.2",
+      "url": "https://github.com/simonw/pytest-unused-port/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T17:38:26Z",
+      "published_day": "2025-10-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/pytest-unused-port/releases/tag/0.1"
+    }
+  ],
+  "repo": "pytest-unused-port",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/pytest-unused-port"
+}

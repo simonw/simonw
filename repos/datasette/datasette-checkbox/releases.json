@@ -1,0 +1,44 @@
+{
+  "description": "Add interactive checkboxes to columns in Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-06T16:35:54Z",
+      "published_day": "2025-11-06",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-checkbox/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:19Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-checkbox/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-16T21:22:45Z",
+      "published_day": "2024-08-16",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-checkbox/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-16T20:55:11Z",
+      "published_day": "2024-08-16",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-checkbox/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-16T20:41:52Z",
+      "published_day": "2024-08-16",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-checkbox/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-checkbox",
+  "total_releases": 5,
+  "url": "https://github.com/datasette/datasette-checkbox"
+}

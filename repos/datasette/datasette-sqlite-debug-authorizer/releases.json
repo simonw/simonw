@@ -1,0 +1,23 @@
+{
+  "description": "Debug SQLite authorizer calls",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-05T00:43:50Z",
+      "published_day": "2024-03-05",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-20T03:33:13Z",
+      "published_day": "2023-09-20",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-sqlite-debug-authorizer/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-sqlite-debug-authorizer",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-sqlite-debug-authorizer"
+}

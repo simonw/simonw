@@ -1,0 +1,170 @@
+{
+  "description": "LLM access to models by Anthropic, including the Claude series",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-28T23:54:56Z",
+      "published_day": "2026-05-28",
+      "release": "0.25.1",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.25.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-16T20:37:12Z",
+      "published_day": "2026-04-16",
+      "release": "0.25",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.25"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-17T23:51:23Z",
+      "published_day": "2026-02-17",
+      "release": "0.24",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.24"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-25T05:20:15Z",
+      "published_day": "2025-11-25",
+      "release": "0.23",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.23"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-19T15:15:36Z",
+      "published_day": "2025-11-19",
+      "release": "0.22",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-29T16:48:38Z",
+      "published_day": "2025-10-29",
+      "release": "0.21.1",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.21.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-29T16:44:55Z",
+      "published_day": "2025-10-29",
+      "release": "0.21",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-15T17:59:15Z",
+      "published_day": "2025-10-15",
+      "release": "0.20",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-09-29T17:58:29Z",
+      "published_day": "2025-09-29",
+      "release": "0.19",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-08-05T17:17:25Z",
+      "published_day": "2025-08-05",
+      "release": "0.18",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:43:01Z",
+      "published_day": "2025-05-27",
+      "release": "0.17",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-24T15:17:07Z",
+      "published_day": "2025-05-24",
+      "release": "0.16a2",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.16a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-22T18:20:47Z",
+      "published_day": "2025-05-22",
+      "release": "0.16a1",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.16a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-22T18:08:11Z",
+      "published_day": "2025-05-22",
+      "release": "0.16",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-14T00:59:53Z",
+      "published_day": "2025-05-14",
+      "release": "0.16a0",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.16a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-01T00:59:34Z",
+      "published_day": "2025-03-01",
+      "release": "0.15.1",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.15.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-28T17:10:17Z",
+      "published_day": "2025-02-28",
+      "release": "0.15",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-27T01:29:31Z",
+      "published_day": "2025-02-27",
+      "release": "0.15a0",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.15a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-26T06:20:05Z",
+      "published_day": "2025-02-26",
+      "release": "0.14.1",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.14.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-25T08:09:23Z",
+      "published_day": "2025-02-25",
+      "release": "0.14",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-17T05:03:14Z",
+      "published_day": "2025-02-17",
+      "release": "0.13",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-31T18:29:52Z",
+      "published_day": "2025-01-31",
+      "release": "0.12",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-17T20:42:22Z",
+      "published_day": "2024-12-17",
+      "release": "0.11",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.11"
+    }
+  ],
+  "repo": "llm-anthropic",
+  "total_releases": 23,
+  "url": "https://github.com/simonw/llm-anthropic"
+}

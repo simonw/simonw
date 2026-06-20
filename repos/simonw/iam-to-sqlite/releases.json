@@ -1,0 +1,16 @@
+{
+  "description": "Load Amazon IAM data into a SQLite database",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-03-24T00:20:26Z",
+      "published_day": "2021-03-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/iam-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "iam-to-sqlite",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/iam-to-sqlite"
+}

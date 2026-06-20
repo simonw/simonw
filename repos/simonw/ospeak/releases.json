@@ -1,0 +1,30 @@
+{
+  "description": "CLI tool for running text through OpenAI Text to speech",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-12-13T06:12:18Z",
+      "published_day": "2023-12-13",
+      "release": "0.3",
+      "url": "https://github.com/simonw/ospeak/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-07T04:12:24Z",
+      "published_day": "2023-11-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/ospeak/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-07T03:48:46Z",
+      "published_day": "2023-11-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/ospeak/releases/tag/0.1"
+    }
+  ],
+  "repo": "ospeak",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/ospeak"
+}

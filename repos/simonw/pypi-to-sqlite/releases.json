@@ -1,0 +1,37 @@
+{
+  "description": "Load data about Python packages from PyPI into SQLite",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-06T06:16:31Z",
+      "published_day": "2024-03-06",
+      "release": "0.2.3",
+      "url": "https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-08T15:12:05Z",
+      "published_day": "2022-04-08",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-08T14:48:21Z",
+      "published_day": "2022-04-08",
+      "release": "0.2",
+      "url": "https://github.com/simonw/pypi-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-07T23:43:55Z",
+      "published_day": "2022-04-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/pypi-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "pypi-to-sqlite",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/pypi-to-sqlite"
+}

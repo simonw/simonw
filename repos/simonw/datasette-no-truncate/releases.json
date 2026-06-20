@@ -1,0 +1,16 @@
+{
+  "description": "Tiny Datasette plugin to disable text truncation in table displays",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-03-24T19:08:40Z",
+      "published_day": "2023-03-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-no-truncate/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-no-truncate",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-no-truncate"
+}

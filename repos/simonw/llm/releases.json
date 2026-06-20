@@ -1,0 +1,450 @@
+{
+  "description": "Access large language models from the command-line",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-09T22:27:03Z",
+      "published_day": "2026-06-09",
+      "release": "0.32a3",
+      "url": "https://github.com/simonw/llm/releases/tag/0.32a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-12T17:45:07Z",
+      "published_day": "2026-05-12",
+      "release": "0.32a2",
+      "url": "https://github.com/simonw/llm/releases/tag/0.32a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-29T23:52:50Z",
+      "published_day": "2026-04-29",
+      "release": "0.32a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.32a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-29T18:57:47Z",
+      "published_day": "2026-04-29",
+      "release": "0.32a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.32a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-24T23:35:07Z",
+      "published_day": "2026-04-24",
+      "release": "0.31",
+      "url": "https://github.com/simonw/llm/releases/tag/0.31"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-31T20:35:51Z",
+      "published_day": "2026-03-31",
+      "release": "0.30",
+      "url": "https://github.com/simonw/llm/releases/tag/0.30"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-03-17T19:24:10Z",
+      "published_day": "2026-03-17",
+      "release": "0.29",
+      "url": "https://github.com/simonw/llm/releases/tag/0.29"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-12-12T20:03:45Z",
+      "published_day": "2025-12-12",
+      "release": "0.28",
+      "url": "https://github.com/simonw/llm/releases/tag/0.28"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-08-12T05:15:53Z",
+      "published_day": "2025-08-12",
+      "release": "0.27.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.27.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-08-11T21:31:49Z",
+      "published_day": "2025-08-11",
+      "release": "0.27",
+      "url": "https://github.com/simonw/llm/releases/tag/0.27"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:34:28Z",
+      "published_day": "2025-05-27",
+      "release": "0.26",
+      "url": "https://github.com/simonw/llm/releases/tag/0.26"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-26T06:11:10Z",
+      "published_day": "2025-05-26",
+      "release": "0.26a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.26a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-14T00:39:04Z",
+      "published_day": "2025-05-14",
+      "release": "0.26a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.26a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-05T03:30:34Z",
+      "published_day": "2025-05-05",
+      "release": "0.25",
+      "url": "https://github.com/simonw/llm/releases/tag/0.25"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-11T00:28:47Z",
+      "published_day": "2025-04-11",
+      "release": "0.25a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.25a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-09T03:01:05Z",
+      "published_day": "2025-04-09",
+      "release": "0.24.2",
+      "url": "https://github.com/simonw/llm/releases/tag/0.24.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-08T20:41:10Z",
+      "published_day": "2025-04-08",
+      "release": "0.24.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.24.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T15:40:37Z",
+      "published_day": "2025-04-07",
+      "release": "0.24",
+      "url": "https://github.com/simonw/llm/releases/tag/0.24"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-04-07T00:43:34Z",
+      "published_day": "2025-04-07",
+      "release": "0.24a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.24a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-01T06:48:27Z",
+      "published_day": "2025-03-01",
+      "release": "0.24a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.24a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-28T16:57:33Z",
+      "published_day": "2025-02-28",
+      "release": "0.23",
+      "url": "https://github.com/simonw/llm/releases/tag/0.23"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-27T01:09:19Z",
+      "published_day": "2025-02-27",
+      "release": "0.23a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.23a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-17T04:37:43Z",
+      "published_day": "2025-02-17",
+      "release": "0.22",
+      "url": "https://github.com/simonw/llm/releases/tag/0.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-31T20:36:37Z",
+      "published_day": "2025-01-31",
+      "release": "0.21",
+      "url": "https://github.com/simonw/llm/releases/tag/0.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-23T04:47:07Z",
+      "published_day": "2025-01-23",
+      "release": "0.20",
+      "url": "https://github.com/simonw/llm/releases/tag/0.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-05T21:47:52Z",
+      "published_day": "2024-12-05",
+      "release": "0.19.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.19.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-01T23:59:40Z",
+      "published_day": "2024-12-01",
+      "release": "0.19",
+      "url": "https://github.com/simonw/llm/releases/tag/0.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-21T04:13:44Z",
+      "published_day": "2024-11-21",
+      "release": "0.19a2",
+      "url": "https://github.com/simonw/llm/releases/tag/0.19a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-20T05:28:37Z",
+      "published_day": "2024-11-20",
+      "release": "0.19a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.19a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-20T04:25:06Z",
+      "published_day": "2024-11-20",
+      "release": "0.19a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.19a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-17T20:33:18Z",
+      "published_day": "2024-11-17",
+      "release": "0.18",
+      "url": "https://github.com/simonw/llm/releases/tag/0.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-14T23:11:04Z",
+      "published_day": "2024-11-14",
+      "release": "0.18a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.18a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-14T01:56:16Z",
+      "published_day": "2024-11-14",
+      "release": "0.18a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.18a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-01T21:22:21Z",
+      "published_day": "2024-11-01",
+      "release": "0.17.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.17.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-29T02:39:10Z",
+      "published_day": "2024-10-29",
+      "release": "0.17",
+      "url": "https://github.com/simonw/llm/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-28T22:49:30Z",
+      "published_day": "2024-10-28",
+      "release": "0.17a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.17a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-12T23:20:48Z",
+      "published_day": "2024-09-12",
+      "release": "0.16",
+      "url": "https://github.com/simonw/llm/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-18T19:33:03Z",
+      "published_day": "2024-07-18",
+      "release": "0.15",
+      "url": "https://github.com/simonw/llm/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-05-13T20:40:08Z",
+      "published_day": "2024-05-13",
+      "release": "0.14",
+      "url": "https://github.com/simonw/llm/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-27T00:28:55Z",
+      "published_day": "2024-01-27",
+      "release": "0.13.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.13.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-26T22:34:39Z",
+      "published_day": "2024-01-26",
+      "release": "0.13",
+      "url": "https://github.com/simonw/llm/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-06T21:33:20Z",
+      "published_day": "2023-11-06",
+      "release": "0.12",
+      "url": "https://github.com/simonw/llm/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-06T20:08:12Z",
+      "published_day": "2023-11-06",
+      "release": "0.11.2",
+      "url": "https://github.com/simonw/llm/releases/tag/0.11.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-01T04:31:34Z",
+      "published_day": "2023-11-01",
+      "release": "0.11.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.11.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-19T06:35:34Z",
+      "published_day": "2023-09-19",
+      "release": "0.11",
+      "url": "https://github.com/simonw/llm/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-12T19:13:39Z",
+      "published_day": "2023-09-12",
+      "release": "0.10",
+      "url": "https://github.com/simonw/llm/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-12T06:00:39Z",
+      "published_day": "2023-09-12",
+      "release": "0.10a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.10a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-05T06:43:09Z",
+      "published_day": "2023-09-05",
+      "release": "0.10a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.10a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-04T02:40:54Z",
+      "published_day": "2023-09-04",
+      "release": "0.9",
+      "url": "https://github.com/simonw/llm/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-04T01:28:05Z",
+      "published_day": "2023-09-04",
+      "release": "0.9a1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.9a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-02T17:54:26Z",
+      "published_day": "2023-09-02",
+      "release": "0.9a0",
+      "url": "https://github.com/simonw/llm/releases/tag/0.9a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-01T03:35:01Z",
+      "published_day": "2023-09-01",
+      "release": "0.8.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.8.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-21T06:55:07Z",
+      "published_day": "2023-08-21",
+      "release": "0.8",
+      "url": "https://github.com/simonw/llm/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-19T21:08:59Z",
+      "published_day": "2023-08-19",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-12T16:41:07Z",
+      "published_day": "2023-08-12",
+      "release": "0.7",
+      "url": "https://github.com/simonw/llm/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-24T15:55:08Z",
+      "published_day": "2023-07-24",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-18T21:38:10Z",
+      "published_day": "2023-07-18",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-12T14:22:53Z",
+      "published_day": "2023-07-12",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-17T21:40:32Z",
+      "published_day": "2023-06-17",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-17T08:46:05Z",
+      "published_day": "2023-06-17",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-05-17T21:13:41Z",
+      "published_day": "2023-05-17",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-01T22:30:41Z",
+      "published_day": "2023-04-01",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-01T22:01:16Z",
+      "published_day": "2023-04-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm",
+  "total_releases": 63,
+  "url": "https://github.com/simonw/llm"
+}

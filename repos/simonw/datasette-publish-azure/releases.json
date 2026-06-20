@@ -1,0 +1,16 @@
+{
+  "description": "Publish Datasette instances to Azure Functions (in progress)",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-03-28T05:36:41Z",
+      "published_day": "2021-03-28",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-publish-azure",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-publish-azure"
+}

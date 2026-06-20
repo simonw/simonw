@@ -1,0 +1,8 @@
+{
+  "description": "Datasette running in your browser using WebAssembly and Pyodide",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-lite",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-lite"
+}

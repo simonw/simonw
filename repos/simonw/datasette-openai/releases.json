@@ -1,0 +1,37 @@
+{
+  "description": "SQL functions for calling OpenAI APIs",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-01-14T02:28:08Z",
+      "published_day": "2023-01-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-openai/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-12T18:16:14Z",
+      "published_day": "2023-01-12",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/datasette-openai/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-10T18:23:27Z",
+      "published_day": "2023-01-10",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-openai/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-01-03T19:17:48Z",
+      "published_day": "2023-01-03",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-openai/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-openai",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-openai"
+}

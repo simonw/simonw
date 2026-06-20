@@ -1,0 +1,8 @@
+{
+  "description": "Experimental replacement for Django's get_absolute_url() method.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-urls",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-urls"
+}

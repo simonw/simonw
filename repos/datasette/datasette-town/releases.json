@@ -1,0 +1,37 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-13T16:39:42Z",
+      "published_day": "2026-05-13",
+      "release": "0.0.1a4",
+      "url": "https://github.com/datasette/datasette-town/releases/tag/0.0.1a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-08T04:39:53Z",
+      "published_day": "2026-05-08",
+      "release": "0.0.1a3",
+      "url": "https://github.com/datasette/datasette-town/releases/tag/0.0.1a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T06:21:38Z",
+      "published_day": "2026-03-18",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-town/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T06:19:10Z",
+      "published_day": "2026-03-18",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-town/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-town",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-town"
+}

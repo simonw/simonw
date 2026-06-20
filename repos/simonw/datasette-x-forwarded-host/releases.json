@@ -1,0 +1,16 @@
+{
+  "description": "Treat the X-Forwarded-Host header as the Host header",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-08-12T20:40:18Z",
+      "published_day": "2021-08-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-x-forwarded-host/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-x-forwarded-host",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-x-forwarded-host"
+}

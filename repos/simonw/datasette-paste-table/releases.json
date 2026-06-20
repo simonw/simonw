@@ -1,0 +1,8 @@
+{
+  "description": "Create tables in Datasette by pasting in TSV",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-paste-table",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-paste-table"
+}

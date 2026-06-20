@@ -1,0 +1,37 @@
+{
+  "description": "Send alerts from datasette-alerts to Discord",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-04-09T00:22:32Z",
+      "published_day": "2026-04-09",
+      "release": "0.1.0a4",
+      "url": "https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-24T23:29:07Z",
+      "published_day": "2026-02-24",
+      "release": "0.1.0a3",
+      "url": "https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-02-24T23:23:38Z",
+      "published_day": "2026-02-24",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-08-19T23:03:23Z",
+      "published_day": "2025-08-19",
+      "release": "0.1.0a1",
+      "url": "https://github.com/datasette/datasette-alerts-discord/releases/tag/0.1.0a1"
+    }
+  ],
+  "repo": "datasette-alerts-discord",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-alerts-discord"
+}

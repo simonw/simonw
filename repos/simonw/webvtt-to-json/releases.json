@@ -1,0 +1,23 @@
+{
+  "description": "Convert WebVTT to JSON, optionally removing duplicate lines",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-09-25T00:43:35Z",
+      "published_day": "2022-09-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/webvtt-to-json/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-24T23:46:47Z",
+      "published_day": "2022-09-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/webvtt-to-json/releases/tag/0.1"
+    }
+  ],
+  "repo": "webvtt-to-json",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/webvtt-to-json"
+}

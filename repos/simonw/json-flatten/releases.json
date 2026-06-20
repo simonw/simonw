@@ -1,0 +1,30 @@
+{
+  "description": "Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-07T04:14:40Z",
+      "published_day": "2024-09-07",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/json-flatten/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-29T00:38:34Z",
+      "published_day": "2022-10-29",
+      "release": "0.3",
+      "url": "https://github.com/simonw/json-flatten/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-14T20:27:10Z",
+      "published_day": "2021-09-14",
+      "release": "0.2",
+      "url": "https://github.com/simonw/json-flatten/releases/tag/0.2"
+    }
+  ],
+  "repo": "json-flatten",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/json-flatten"
+}

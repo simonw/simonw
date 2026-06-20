@@ -1,0 +1,44 @@
+{
+  "description": "Plugin for LLM adding support for the GPT4All collection of models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-20T00:32:32Z",
+      "published_day": "2024-04-20",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-gpt4all/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-24T03:17:15Z",
+      "published_day": "2024-01-24",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-gpt4all/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-24T19:34:16Z",
+      "published_day": "2023-10-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-gpt4all/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-25T21:28:47Z",
+      "published_day": "2023-07-25",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-gpt4all/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-12T14:37:48Z",
+      "published_day": "2023-07-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-gpt4all/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-gpt4all",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/llm-gpt4all"
+}

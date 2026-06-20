@@ -1,0 +1,8 @@
+{
+  "description": "Demo of a minimial configuration to deploy content built by GitHub Actions to GitHub Pages",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "minimal-github-pages-from-actions",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/minimal-github-pages-from-actions"
+}

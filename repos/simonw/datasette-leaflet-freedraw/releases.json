@@ -1,0 +1,72 @@
+{
+  "description": "Draw polygons on maps in Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-02-03T20:24:38Z",
+      "published_day": "2022-02-03",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-14T02:04:12Z",
+      "published_day": "2022-01-14",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-25T19:23:59Z",
+      "published_day": "2021-01-25",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-25T19:05:34Z",
+      "published_day": "2021-01-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-24T06:46:58Z",
+      "published_day": "2021-01-24",
+      "release": "0.1.4",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-20T09:29:08Z",
+      "published_day": "2021-01-20",
+      "release": "0.1.3",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-20T01:26:17Z",
+      "published_day": "2021-01-20",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-20T01:20:20Z",
+      "published_day": "2021-01-20",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-01-20T00:59:30Z",
+      "published_day": "2021-01-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-leaflet-freedraw/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-leaflet-freedraw",
+  "total_releases": 9,
+  "url": "https://github.com/simonw/datasette-leaflet-freedraw"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Run transcriptions using the OpenAI Whisper API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-10-27T15:51:01Z",
+      "published_day": "2024-10-27",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-whisper-api/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-27T15:38:38Z",
+      "published_day": "2024-10-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-whisper-api/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-whisper-api",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-whisper-api"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Trigram tokenizer module for SQLite FTS5",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "sqlite-fts5-trigram",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/sqlite-fts5-trigram"
+}

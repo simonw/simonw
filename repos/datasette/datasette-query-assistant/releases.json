@@ -1,0 +1,51 @@
+{
+  "description": "Query databases and tables with AI assistance",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T01:32:43Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:26Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-01T19:18:25Z",
+      "published_day": "2025-05-01",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-16T20:53:20Z",
+      "published_day": "2024-04-16",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-16T19:42:16Z",
+      "published_day": "2024-04-16",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-16T17:04:23Z",
+      "published_day": "2024-04-16",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-query-assistant/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-query-assistant",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-query-assistant"
+}

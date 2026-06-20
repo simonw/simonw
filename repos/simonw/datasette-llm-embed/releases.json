@@ -1,0 +1,37 @@
+{
+  "description": "Datasette plugin adding a llm_embed(model_id, text) SQL function",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-10-08T17:42:55Z",
+      "published_day": "2023-10-08",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-llm-embed/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-08T04:31:34Z",
+      "published_day": "2023-10-08",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-llm-embed/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-10-08T01:36:59Z",
+      "published_day": "2023-10-08",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-08T21:50:46Z",
+      "published_day": "2023-09-08",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-llm-embed/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-llm-embed",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-llm-embed"
+}

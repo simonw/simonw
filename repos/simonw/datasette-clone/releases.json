@@ -1,0 +1,51 @@
+{
+  "description": "Create a local copy of database files from a Datasette instance",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-07-22T17:13:16Z",
+      "published_day": "2020-07-22",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-14T17:25:44Z",
+      "published_day": "2020-04-14",
+      "release": "0.4.1",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-14T17:20:58Z",
+      "published_day": "2020-04-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-14T01:29:54Z",
+      "published_day": "2020-04-14",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-13T23:16:13Z",
+      "published_day": "2020-04-13",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-13T23:09:05Z",
+      "published_day": "2020-04-13",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-clone/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-clone",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/datasette-clone"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Plugin for LLM adding a Markov chain generating model",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-07-12T14:38:02Z",
+      "published_day": "2023-07-12",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-markov/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-markov",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-markov"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "GitHub template repository for creating new Python Click CLI tools, using the simonw/click-app cookiecutter template",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "click-app-template-repository",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/click-app-template-repository"
+}

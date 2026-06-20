@@ -1,0 +1,30 @@
+{
+  "description": "Write and execute jq programs with the help of LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-10-27T04:37:21Z",
+      "published_day": "2024-10-27",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/llm-jq/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-27T03:55:06Z",
+      "published_day": "2024-10-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-jq/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-10-27T03:30:33Z",
+      "published_day": "2024-10-27",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-jq/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-jq",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-jq"
+}

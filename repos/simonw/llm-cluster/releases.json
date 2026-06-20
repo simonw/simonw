@@ -1,0 +1,23 @@
+{
+  "description": "LLM plugin for clustering embeddings",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-09-04T16:34:27Z",
+      "published_day": "2023-09-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-cluster/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-09-04T16:01:51Z",
+      "published_day": "2023-09-04",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-cluster/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-cluster",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-cluster"
+}

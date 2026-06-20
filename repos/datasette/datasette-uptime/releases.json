@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin showing uptime at /-/uptime",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-03-06T05:19:17Z",
+      "published_day": "2024-03-06",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-uptime/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-06T05:12:21Z",
+      "published_day": "2024-03-06",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-uptime/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-uptime",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-uptime"
+}

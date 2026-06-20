@@ -1,0 +1,16 @@
+{
+  "description": "Unsafe permissions for datasette-insert - allows all actions without authentication",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-07-31T21:46:27Z",
+      "published_day": "2020-07-31",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-insert-unsafe",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-insert-unsafe"
+}

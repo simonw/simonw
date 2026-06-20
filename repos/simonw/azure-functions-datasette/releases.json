@@ -1,0 +1,8 @@
+{
+  "description": "Example of running Datasette on Azure Functions",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "azure-functions-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/azure-functions-datasette"
+}

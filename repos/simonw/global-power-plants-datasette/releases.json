@@ -1,0 +1,8 @@
+{
+  "description": "Datasette showing global power plant data from https://github.com/wri/global-power-plant-database",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "global-power-plants-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/global-power-plants-datasette"
+}

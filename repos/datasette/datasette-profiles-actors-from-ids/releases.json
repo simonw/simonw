@@ -1,0 +1,16 @@
+{
+  "description": "Use datasette-profiles to return actors_from_ids",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-03-27T16:54:01Z",
+      "published_day": "2025-03-27",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-profiles-actors-from-ids/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-profiles-actors-from-ids",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-profiles-actors-from-ids"
+}

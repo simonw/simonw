@@ -1,0 +1,30 @@
+{
+  "description": "Log Datasette events to a database table",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T00:31:08Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-events-db/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:28Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-events-db/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-08T17:32:46Z",
+      "published_day": "2024-02-08",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-events-db/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-events-db",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-events-db"
+}

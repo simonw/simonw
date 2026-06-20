@@ -1,0 +1,8 @@
+{
+  "description": "Signing utilities for Django, to try out an API which is being proposed for inclusion in Django core.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "django-signed",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/django-signed"
+}

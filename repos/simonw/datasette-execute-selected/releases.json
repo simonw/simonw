@@ -1,0 +1,8 @@
+{
+  "description": "Execute selected fragments of a query",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-execute-selected",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-execute-selected"
+}

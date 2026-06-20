@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-07T16:53:41Z",
+      "published_day": "2026-05-07",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-auth-tailscale/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-auth-tailscale",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-auth-tailscale"
+}

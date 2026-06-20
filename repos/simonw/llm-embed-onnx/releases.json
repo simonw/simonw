@@ -1,0 +1,16 @@
+{
+  "description": "Run embedding models using ONNX",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-01-28T22:21:18Z",
+      "published_day": "2024-01-28",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-embed-onnx/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-embed-onnx",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-embed-onnx"
+}

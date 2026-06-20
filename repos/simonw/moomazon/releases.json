@@ -1,0 +1,8 @@
+{
+  "description": "App Engine app that generates moo cards from Amazon book covers.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "moomazon",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/moomazon"
+}

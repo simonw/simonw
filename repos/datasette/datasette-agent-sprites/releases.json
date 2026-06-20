@@ -1,0 +1,16 @@
+{
+  "description": "Datasette Agent tools for working with Fly Sprites",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-21T18:21:07Z",
+      "published_day": "2026-05-21",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-agent-sprites",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-agent-sprites"
+}

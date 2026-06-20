@@ -1,0 +1,16 @@
+{
+  "description": "A Datasette plugin that turns a Datasette instance into a ChatGPT plugin",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-03-24T14:32:12Z",
+      "published_day": "2023-03-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-chatgpt-plugin/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-chatgpt-plugin",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-chatgpt-plugin"
+}

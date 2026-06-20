@@ -1,0 +1,16 @@
+{
+  "description": "Set logging.DEBUG while running LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-04-23T04:00:28Z",
+      "published_day": "2025-04-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-logging-debug/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-logging-debug",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-logging-debug"
+}

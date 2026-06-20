@@ -1,0 +1,16 @@
+{
+  "description": "Load example SQL scripts into Datasette on startup",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-10-08T17:54:44Z",
+      "published_day": "2024-10-08",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-examples/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-examples",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-examples"
+}

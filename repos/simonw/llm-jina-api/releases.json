@@ -1,0 +1,16 @@
+{
+  "description": "Access Jina AI embeddings via their API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-20T06:23:52Z",
+      "published_day": "2024-09-20",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-jina-api/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-jina-api",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-jina-api"
+}

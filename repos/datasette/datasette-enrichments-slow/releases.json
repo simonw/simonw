@@ -1,0 +1,37 @@
+{
+  "description": "An enrichment on a slow loop to help debug progress bars",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-01-15T21:03:42Z",
+      "published_day": "2025-01-15",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-15T20:09:33Z",
+      "published_day": "2025-01-15",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-14T17:03:01Z",
+      "published_day": "2025-01-14",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-18T23:08:16Z",
+      "published_day": "2024-12-18",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-enrichments-slow",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-enrichments-slow"
+}

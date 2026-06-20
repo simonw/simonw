@@ -1,0 +1,100 @@
+{
+  "description": "Make selected Datasette databases and tables visible to the public",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-17T04:30:22Z",
+      "published_day": "2026-04-17",
+      "release": "0.4a1",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.4a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-01-06T16:44:15Z",
+      "published_day": "2026-01-06",
+      "release": "0.4a0",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-12T23:28:48Z",
+      "published_day": "2025-11-12",
+      "release": "0.3a5",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T20:44:28Z",
+      "published_day": "2025-10-21",
+      "release": "0.3a4",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-22T15:38:46Z",
+      "published_day": "2025-07-22",
+      "release": "0.3a3",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-03-20T17:03:54Z",
+      "published_day": "2025-03-20",
+      "release": "0.3a2",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-14T02:24:30Z",
+      "published_day": "2025-02-14",
+      "release": "0.3a1",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-02-06T23:10:42Z",
+      "published_day": "2025-02-06",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-09T20:27:15Z",
+      "published_day": "2024-04-09",
+      "release": "0.2.3",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-12-02T21:09:02Z",
+      "published_day": "2022-12-02",
+      "release": "0.2.2",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T06:15:36Z",
+      "published_day": "2022-11-18",
+      "release": "0.2.1",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-07T22:34:48Z",
+      "published_day": "2022-10-07",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-10-05T00:05:59Z",
+      "published_day": "2022-10-05",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-public/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-public",
+  "total_releases": 13,
+  "url": "https://github.com/datasette/datasette-public"
+}

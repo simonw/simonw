@@ -1,0 +1,23 @@
+{
+  "description": "Run prompts against LLMs hosted by lambdalabs.com",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-03-17T19:59:56Z",
+      "published_day": "2025-03-17",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-lambda-labs/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-04T17:54:54Z",
+      "published_day": "2024-11-04",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-lambda-labs/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-lambda-labs",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/llm-lambda-labs"
+}

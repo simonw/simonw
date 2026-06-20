@@ -1,0 +1,8 @@
+{
+  "description": "Run Llama 2 using MLX on macOS",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-mlx-llama",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-mlx-llama"
+}

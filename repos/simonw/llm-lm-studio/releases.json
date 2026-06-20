@@ -1,0 +1,8 @@
+{
+  "description": "LLM plugin for local models via LM Studio",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-lm-studio",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-lm-studio"
+}

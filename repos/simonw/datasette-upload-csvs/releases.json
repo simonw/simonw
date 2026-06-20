@@ -1,0 +1,128 @@
+{
+  "description": "Datasette plugin for uploading CSV files and converting them to database tables",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-10T19:08:50Z",
+      "published_day": "2025-11-10",
+      "release": "0.10a0",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.10a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-14T02:44:37Z",
+      "published_day": "2024-03-14",
+      "release": "0.9.1",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-30T06:20:11Z",
+      "published_day": "2024-01-30",
+      "release": "0.9",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-06-28T01:25:33Z",
+      "published_day": "2023-06-28",
+      "release": "0.8.3",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-08T20:15:33Z",
+      "published_day": "2022-09-08",
+      "release": "0.8.2",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-08T19:51:53Z",
+      "published_day": "2022-09-08",
+      "release": "0.8.1",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-08T17:07:41Z",
+      "published_day": "2022-09-08",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-03T20:59:48Z",
+      "published_day": "2022-07-03",
+      "release": "0.7.2",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-09T19:40:01Z",
+      "published_day": "2022-06-09",
+      "release": "0.7.1",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-03T15:30:55Z",
+      "published_day": "2022-06-03",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-06-07T16:41:25Z",
+      "published_day": "2021-06-07",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-10-31T22:45:20Z",
+      "published_day": "2020-10-31",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-08-15T19:27:40Z",
+      "published_day": "2020-08-15",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-03T04:06:31Z",
+      "published_day": "2020-03-03",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-26T07:01:29Z",
+      "published_day": "2020-02-26",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-11T06:54:22Z",
+      "published_day": "2020-02-11",
+      "release": "0.2a",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.2a"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-05T06:07:31Z",
+      "published_day": "2020-02-05",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-upload-csvs/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-upload-csvs",
+  "total_releases": 17,
+  "url": "https://github.com/simonw/datasette-upload-csvs"
+}

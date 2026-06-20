@@ -1,0 +1,8 @@
+{
+  "description": "Ultra simple API for geocoding a single string against various web services.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "geocoders",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/geocoders"
+}

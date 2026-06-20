@@ -1,0 +1,8 @@
+{
+  "description": "A mini-language for selecting a subset of a JSON document.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "jsonmask",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/jsonmask"
+}

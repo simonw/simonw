@@ -1,0 +1,8 @@
+{
+  "description": "Fetch data from a site's sitemap.xml into a SQLite table",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "sitemap-to-sqlite",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/sitemap-to-sqlite"
+}

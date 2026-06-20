@@ -1,0 +1,8 @@
+{
+  "description": "Python library for scraping data sources and creating readable deltas",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "delta-scraper",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/delta-scraper"
+}

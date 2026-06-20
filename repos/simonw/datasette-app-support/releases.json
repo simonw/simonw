@@ -1,0 +1,156 @@
+{
+  "description": "Part of https://github.com/simonw/datasette-app",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-02-17T02:42:46Z",
+      "published_day": "2023-02-17",
+      "release": "0.11.8",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-02-17T02:12:16Z",
+      "published_day": "2023-02-17",
+      "release": "0.11.7",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-12T19:30:50Z",
+      "published_day": "2022-07-12",
+      "release": "0.11.6",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-13T20:14:10Z",
+      "published_day": "2021-09-13",
+      "release": "0.11.5",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-13T19:00:20Z",
+      "published_day": "2021-09-13",
+      "release": "0.11.4",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-13T00:40:00Z",
+      "published_day": "2021-09-13",
+      "release": "0.11.3",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-12T23:51:54Z",
+      "published_day": "2021-09-12",
+      "release": "0.11.2",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-12T23:40:43Z",
+      "published_day": "2021-09-12",
+      "release": "0.11.1",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-12T21:59:30Z",
+      "published_day": "2021-09-12",
+      "release": "0.11",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-12T20:21:35Z",
+      "published_day": "2021-09-12",
+      "release": "0.10",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-11T23:07:47Z",
+      "published_day": "2021-09-11",
+      "release": "0.9",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-11T00:17:28Z",
+      "published_day": "2021-09-11",
+      "release": "0.8",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-10T17:08:06Z",
+      "published_day": "2021-09-10",
+      "release": "0.7",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-07T21:57:39Z",
+      "published_day": "2021-09-07",
+      "release": "0.6",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-07T20:27:04Z",
+      "published_day": "2021-09-07",
+      "release": "0.5",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-04T01:49:41Z",
+      "published_day": "2021-09-04",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-03T23:37:40Z",
+      "published_day": "2021-09-03",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-02T18:38:13Z",
+      "published_day": "2021-09-02",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-31T22:40:24Z",
+      "published_day": "2021-08-31",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-31T22:35:21Z",
+      "published_day": "2021-08-31",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-31T22:24:51Z",
+      "published_day": "2021-08-31",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-app-support/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-app-support",
+  "total_releases": 21,
+  "url": "https://github.com/simonw/datasette-app-support"
+}

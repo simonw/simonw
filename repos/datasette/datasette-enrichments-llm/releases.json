@@ -1,0 +1,51 @@
+{
+  "description": "Enrich data by prompting LLMs",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T22:00:34Z",
+      "published_day": "2026-04-01",
+      "release": "0.2a1",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T03:28:44Z",
+      "published_day": "2026-04-01",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-11-25T22:56:44Z",
+      "published_day": "2025-11-25",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T01:39:12Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:55:06Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-05T23:38:43Z",
+      "published_day": "2024-12-05",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments-llm",
+  "total_releases": 6,
+  "url": "https://github.com/datasette/datasette-enrichments-llm"
+}

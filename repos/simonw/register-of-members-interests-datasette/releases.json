@@ -1,0 +1,8 @@
+{
+  "description": "Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "register-of-members-interests-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/register-of-members-interests-datasette"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Datasette plugin for configuring arbitrary ASGI middleware",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-configure-asgi",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-configure-asgi"
+}

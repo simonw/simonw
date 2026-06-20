@@ -1,0 +1,205 @@
+{
+  "description": "Save data from Twitter to a SQLite database",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-09-21T17:41:05Z",
+      "published_day": "2021-09-21",
+      "release": "0.22",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.22"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-08-20T00:14:30Z",
+      "published_day": "2021-08-20",
+      "release": "0.21.4",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-23T14:57:11Z",
+      "published_day": "2020-07-23",
+      "release": "0.21.3",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-18T22:43:20Z",
+      "published_day": "2020-07-18",
+      "release": "0.21.2",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-30T18:21:46Z",
+      "published_day": "2020-04-30",
+      "release": "0.21.1",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-17T23:46:51Z",
+      "published_day": "2020-04-17",
+      "release": "0.21",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-01T04:33:35Z",
+      "published_day": "2020-04-01",
+      "release": "0.20.1",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.20.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-04-01T04:18:53Z",
+      "published_day": "2020-04-01",
+      "release": "0.20",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.20"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-20T23:16:53Z",
+      "published_day": "2020-03-20",
+      "release": "0.19",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.19"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-20T20:19:42Z",
+      "published_day": "2020-03-20",
+      "release": "0.18",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.18"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-20T19:23:40Z",
+      "published_day": "2020-03-20",
+      "release": "0.17",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-02-07T07:44:53Z",
+      "published_day": "2020-02-07",
+      "release": "0.16",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-09T20:13:07Z",
+      "published_day": "2019-11-09",
+      "release": "0.15",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-11-04T05:33:56Z",
+      "published_day": "2019-11-04",
+      "release": "0.14",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-30T02:22:30Z",
+      "published_day": "2019-10-30",
+      "release": "0.13",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-17T18:00:28Z",
+      "published_day": "2019-10-17",
+      "release": "0.12",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-16T22:31:51Z",
+      "published_day": "2019-10-16",
+      "release": "0.11.1",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.11.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-16T19:38:42Z",
+      "published_day": "2019-10-16",
+      "release": "0.11",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-15T18:56:09Z",
+      "published_day": "2019-10-15",
+      "release": "0.10",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-11T16:57:25Z",
+      "published_day": "2019-10-11",
+      "release": "0.9",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-11T06:46:52Z",
+      "published_day": "2019-10-11",
+      "release": "0.8",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-07T00:33:28Z",
+      "published_day": "2019-10-07",
+      "release": "0.7",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-10-06T04:52:18Z",
+      "published_day": "2019-10-06",
+      "release": "0.6",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-10T17:39:47Z",
+      "published_day": "2019-09-10",
+      "release": "0.5",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-09T22:43:05Z",
+      "published_day": "2019-09-09",
+      "release": "0.4",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-04T22:11:01Z",
+      "published_day": "2019-09-04",
+      "release": "0.3",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-04T22:09:46Z",
+      "published_day": "2019-09-04",
+      "release": "0.2",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-09-04T22:08:18Z",
+      "published_day": "2019-09-04",
+      "release": "Alpha release",
+      "url": "https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.1a"
+    }
+  ],
+  "repo": "twitter-to-sqlite",
+  "total_releases": 28,
+  "url": "https://github.com/dogsheep/twitter-to-sqlite"
+}

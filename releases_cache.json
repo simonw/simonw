@@ -111,16 +111,16 @@
         "url": "https://github.com/simonw/asgi-cors/releases/tag/1.0"
       },
       {
-        "published_at": "2019-05-07T15:49:47Z",
-        "published_day": "2019-05-07",
-        "release": "0.3",
-        "url": "https://github.com/simonw/asgi-cors/releases/tag/0.3"
-      },
-      {
         "published_at": "2019-05-07T15:50:56Z",
         "published_day": "2019-05-07",
         "release": "0.2",
         "url": "https://github.com/simonw/asgi-cors/releases/tag/0.2"
+      },
+      {
+        "published_at": "2019-05-07T15:49:47Z",
+        "published_day": "2019-05-07",
+        "release": "0.3",
+        "url": "https://github.com/simonw/asgi-cors/releases/tag/0.3"
       }
     ],
     "repo": "asgi-cors",

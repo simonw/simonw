@@ -1,0 +1,156 @@
+{
+  "description": "Tools for running enrichments against data stored in Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-06T00:10:36Z",
+      "published_day": "2025-11-06",
+      "release": "0.6a0",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-05T14:53:26Z",
+      "published_day": "2025-05-05",
+      "release": "0.5.1",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.5.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-15T20:56:35Z",
+      "published_day": "2025-01-15",
+      "release": "0.5",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-15T19:25:11Z",
+      "published_day": "2025-01-15",
+      "release": "0.5a1",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.5a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-01-14T18:46:00Z",
+      "published_day": "2025-01-14",
+      "release": "0.5a0",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-03T17:31:22Z",
+      "published_day": "2024-09-03",
+      "release": "0.4.3",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.4.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-27T22:44:08Z",
+      "published_day": "2024-04-27",
+      "release": "0.4.2",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.4.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-27T22:04:30Z",
+      "published_day": "2024-04-27",
+      "release": "0.4.1",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.4.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-27T06:03:23Z",
+      "published_day": "2024-04-27",
+      "release": "0.4",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-09T20:06:23Z",
+      "published_day": "2024-04-09",
+      "release": "0.3.2",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-19T02:34:05Z",
+      "published_day": "2024-03-19",
+      "release": "0.3.1",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-17T21:35:56Z",
+      "published_day": "2024-03-17",
+      "release": "0.3",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-29T19:15:32Z",
+      "published_day": "2023-11-29",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-29T19:09:11Z",
+      "published_day": "2023-11-29",
+      "release": "0.1a7",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-28T19:17:21Z",
+      "published_day": "2023-11-28",
+      "release": "0.1a6",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-28T00:23:44Z",
+      "published_day": "2023-11-28",
+      "release": "0.1a5",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-20T05:02:02Z",
+      "published_day": "2023-11-20",
+      "release": "0.1a4",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-17T05:06:47Z",
+      "published_day": "2023-11-17",
+      "release": "0.1a3",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-16T20:40:44Z",
+      "published_day": "2023-11-16",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-16T17:38:55Z",
+      "published_day": "2023-11-16",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-16T17:24:15Z",
+      "published_day": "2023-11-16",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-enrichments",
+  "total_releases": 21,
+  "url": "https://github.com/datasette/datasette-enrichments"
+}

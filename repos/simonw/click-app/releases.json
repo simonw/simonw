@@ -1,0 +1,8 @@
+{
+  "description": "Cookiecutter template for creating new Click command-line tools",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "click-app",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/click-app"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Plugin for configuring periodic limits on LLM usage in Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-05-21T21:04:59Z",
+      "published_day": "2026-05-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-05-15T00:42:09Z",
+      "published_day": "2026-05-15",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-llm-limits",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-llm-limits"
+}

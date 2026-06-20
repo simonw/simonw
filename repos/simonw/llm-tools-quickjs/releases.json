@@ -1,0 +1,37 @@
+{
+  "description": "JavaScript execution as a tool for LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:36:57Z",
+      "published_day": "2025-05-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T16:53:47Z",
+      "published_day": "2025-05-27",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T05:23:53Z",
+      "published_day": "2025-05-27",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-17T13:25:52Z",
+      "published_day": "2025-05-17",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-tools-quickjs",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/llm-tools-quickjs"
+}

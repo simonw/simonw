@@ -1,0 +1,30 @@
+{
+  "description": "Create a SQL view from a query",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T01:54:18Z",
+      "published_day": "2025-11-11",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-create-view/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T21:40:05Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-create-view/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-07T04:26:31Z",
+      "published_day": "2024-03-07",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-create-view/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-create-view",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-create-view"
+}

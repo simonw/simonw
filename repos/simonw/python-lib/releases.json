@@ -1,0 +1,8 @@
+{
+  "description": "Opinionated cookiecutter template for creating a new Python library",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "python-lib",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/python-lib"
+}

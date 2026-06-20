@@ -1,0 +1,8 @@
+{
+  "description": "cookiecutter template for setting up Sphinx docs with Markdown support",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "docs",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/docs"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Microsoft edit packaged as a Docker container to run on a Mac",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "alpine-edit",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/alpine-edit"
+}

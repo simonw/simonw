@@ -1,0 +1,142 @@
+{
+  "description": "A tool for creating credentials for accessing S3 buckets",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-12-16T23:01:53Z",
+      "published_day": "2025-12-16",
+      "release": "0.17",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.17"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-05T05:45:18Z",
+      "published_day": "2024-04-05",
+      "release": "0.16.1",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.16.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-05T05:38:06Z",
+      "published_day": "2024-04-05",
+      "release": "0.16",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-30T22:09:30Z",
+      "published_day": "2023-04-30",
+      "release": "0.15",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.15"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-09-15T23:43:10Z",
+      "published_day": "2022-09-15",
+      "release": "0.14",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.14"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-12T18:21:02Z",
+      "published_day": "2022-08-12",
+      "release": "0.13",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.13"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-08-01T19:50:53Z",
+      "published_day": "2022-08-01",
+      "release": "0.12.1",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.12.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-06-30T20:02:53Z",
+      "published_day": "2022-06-30",
+      "release": "0.12",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.12"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-05-01T22:36:13Z",
+      "published_day": "2022-05-01",
+      "release": "0.11",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.11"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-25T22:57:53Z",
+      "published_day": "2022-01-25",
+      "release": "0.10",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.10"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-01-18T02:11:37Z",
+      "published_day": "2022-01-18",
+      "release": "0.9",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.9"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-07T07:00:07Z",
+      "published_day": "2021-12-07",
+      "release": "0.8",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.8"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-30T19:49:54Z",
+      "published_day": "2021-11-30",
+      "release": "0.7",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-18T20:31:44Z",
+      "published_day": "2021-11-18",
+      "release": "0.6",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-11T03:41:14Z",
+      "published_day": "2021-11-11",
+      "release": "0.5",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-04T05:04:00Z",
+      "published_day": "2021-11-04",
+      "release": "0.4",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-03T05:20:13Z",
+      "published_day": "2021-11-03",
+      "release": "0.3",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-03T02:32:45Z",
+      "published_day": "2021-11-03",
+      "release": "0.2",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-03T02:17:42Z",
+      "published_day": "2021-11-03",
+      "release": "0.1",
+      "url": "https://github.com/simonw/s3-credentials/releases/tag/0.1"
+    }
+  ],
+  "repo": "s3-credentials",
+  "total_releases": 19,
+  "url": "https://github.com/simonw/s3-credentials"
+}

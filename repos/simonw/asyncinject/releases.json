@@ -1,0 +1,79 @@
+{
+  "description": "Run async workflows using pytest-fixtures-style dependency injection",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-11T06:28:09Z",
+      "published_day": "2026-06-11",
+      "release": "0.7",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.7"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-09T03:19:17Z",
+      "published_day": "2025-10-09",
+      "release": "0.6.1",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.6.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-04-14T01:22:18Z",
+      "published_day": "2023-04-14",
+      "release": "0.6",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-22T18:48:06Z",
+      "published_day": "2022-04-22",
+      "release": "0.5",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-18T22:47:16Z",
+      "published_day": "2022-04-18",
+      "release": "0.4",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-04-16T23:51:40Z",
+      "published_day": "2022-04-16",
+      "release": "0.3",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-21T17:18:07Z",
+      "published_day": "2021-12-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-12-03T18:48:33Z",
+      "published_day": "2021-12-03",
+      "release": "0.2a1",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-17T03:54:13Z",
+      "published_day": "2021-11-17",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-17T01:36:27Z",
+      "published_day": "2021-11-17",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/asyncinject/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "asyncinject",
+  "total_releases": 10,
+  "url": "https://github.com/simonw/asyncinject"
+}

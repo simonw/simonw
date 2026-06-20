@@ -1,0 +1,8 @@
+{
+  "description": "A Datasette instance for pldb.com",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "pldb-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/pldb-datasette"
+}

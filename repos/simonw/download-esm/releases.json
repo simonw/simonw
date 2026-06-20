@@ -1,0 +1,16 @@
+{
+  "description": "Download ESM modules from npm and jsdelivr",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-05-02T02:05:35Z",
+      "published_day": "2023-05-02",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/download-esm/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "download-esm",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/download-esm"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Python script for updating GitHub Actions workflows",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-17T20:26:18Z",
+      "published_day": "2025-11-17",
+      "release": "0.2",
+      "url": "https://github.com/simonw/update-workflows/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-17T17:53:21Z",
+      "published_day": "2025-11-17",
+      "release": "0.1",
+      "url": "https://github.com/simonw/update-workflows/releases/tag/0.1"
+    }
+  ],
+  "repo": "update-workflows",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/update-workflows"
+}

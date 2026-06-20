@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-25T15:47:05Z",
+      "published_day": "2026-05-25",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-agent-actor-memory/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-agent-actor-memory",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-agent-actor-memory"
+}

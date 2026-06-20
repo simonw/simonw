@@ -1,0 +1,23 @@
+{
+  "description": "Plugin adding backup options to Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-09-07T02:27:30Z",
+      "published_day": "2020-09-07",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-backup/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-06T07:23:00Z",
+      "published_day": "2020-09-06",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-backup/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-backup",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-backup"
+}

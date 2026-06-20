@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin that authenticates users using Auth0",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-03-28T03:04:52Z",
+      "published_day": "2022-03-28",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-auth0/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-03-26T21:21:04Z",
+      "published_day": "2022-03-26",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-auth0/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-auth0",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-auth0"
+}

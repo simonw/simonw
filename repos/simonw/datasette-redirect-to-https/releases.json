@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin that redirects all non-https requests to https",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-07-04T01:02:25Z",
+      "published_day": "2022-07-04",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-11-20T23:26:59Z",
+      "published_day": "2021-11-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-redirect-to-https/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-redirect-to-https",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-redirect-to-https"
+}

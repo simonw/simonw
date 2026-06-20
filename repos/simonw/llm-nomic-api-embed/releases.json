@@ -1,0 +1,30 @@
+{
+  "description": "Create embeddings for LLM using the Nomic API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-11-21T23:05:37Z",
+      "published_day": "2024-11-21",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-11-21T21:32:46Z",
+      "published_day": "2024-11-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-30T21:45:32Z",
+      "published_day": "2024-03-30",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-nomic-api-embed/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-nomic-api-embed",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-nomic-api-embed"
+}

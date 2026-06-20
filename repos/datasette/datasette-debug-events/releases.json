@@ -1,0 +1,30 @@
+{
+  "description": "Print Datasette events to standard error",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T00:00:53Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-debug-events/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:54:18Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-debug-events/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-03T19:59:56Z",
+      "published_day": "2024-09-03",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-debug-events/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-debug-events",
+  "total_releases": 3,
+  "url": "https://github.com/datasette/datasette-debug-events"
+}

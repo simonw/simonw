@@ -1,0 +1,44 @@
+{
+  "description": "The Datasette macOS application",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-02-27T18:40:35Z",
+      "published_day": "2023-02-27",
+      "release": "0.2.3",
+      "url": "https://github.com/simonw/datasette-app/releases/tag/0.2.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-07-13T01:08:17Z",
+      "published_day": "2022-07-13",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-app/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-13T23:20:03Z",
+      "published_day": "2021-09-13",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-app/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-13T00:54:52Z",
+      "published_day": "2021-09-13",
+      "release": "0.2.0",
+      "url": "https://github.com/simonw/datasette-app/releases/tag/0.2.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-09-08T02:40:09Z",
+      "published_day": "2021-09-08",
+      "release": "Datasette Desktop 0.1.0",
+      "url": "https://github.com/simonw/datasette-app/releases/tag/0.1.0"
+    }
+  ],
+  "repo": "datasette-app",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-app"
+}

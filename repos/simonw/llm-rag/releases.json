@@ -1,0 +1,8 @@
+{
+  "description": "Answer questions against collections stored in LLM using Retrieval Augmented Generation",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-rag",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-rag"
+}

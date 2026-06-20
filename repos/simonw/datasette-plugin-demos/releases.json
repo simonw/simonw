@@ -1,0 +1,16 @@
+{
+  "description": "Some examples plugins for Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-07-14T04:12:32Z",
+      "published_day": "2020-07-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4"
+    }
+  ],
+  "repo": "datasette-plugin-demos",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-plugin-demos"
+}

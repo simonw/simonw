@@ -1,0 +1,8 @@
+{
+  "description": "Experimental SQL plugin for Datasette",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "datasette-sql-scraper",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/datasette-sql-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "Track usage of LLM tokens in a SQLite table",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-04-01T03:24:03Z",
+      "published_day": "2026-04-01",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-llm-usage/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-08T01:41:13Z",
+      "published_day": "2025-11-08",
+      "release": "0.1a2",
+      "url": "https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:55:46Z",
+      "published_day": "2025-10-21",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-02T20:39:28Z",
+      "published_day": "2024-12-02",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-llm-usage",
+  "total_releases": 4,
+  "url": "https://github.com/datasette/datasette-llm-usage"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Scrape https://sfpublicworks.org/tree-removal-notifications daily",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "sfpublicworks-tree-removal-notifications",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/sfpublicworks-tree-removal-notifications"
+}

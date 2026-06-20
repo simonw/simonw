@@ -1,0 +1,8 @@
+{
+  "description": "Deploys a Datasette instance of COVID-19 data from Johns Hopkins CSSE and the New York Times",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "covid-19-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/covid-19-datasette"
+}

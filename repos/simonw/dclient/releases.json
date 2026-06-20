@@ -1,0 +1,79 @@
+{
+  "description": "A client CLI utility for Datasette instances",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-03-07T15:15:46Z",
+      "published_day": "2026-03-07",
+      "release": "0.5a3",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.5a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-27T05:56:05Z",
+      "published_day": "2026-02-27",
+      "release": "0.5a2",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.5a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-26T23:26:29Z",
+      "published_day": "2026-02-26",
+      "release": "0.5a1",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.5a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-02-26T23:06:20Z",
+      "published_day": "2026-02-26",
+      "release": "0.5a0",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-03-08T16:10:24Z",
+      "published_day": "2024-03-08",
+      "release": "0.4",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-02-25T19:37:06Z",
+      "published_day": "2024-02-25",
+      "release": "0.3",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-07-24T23:26:08Z",
+      "published_day": "2023-07-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-22T05:39:23Z",
+      "published_day": "2022-11-22",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-22T03:01:49Z",
+      "published_day": "2022-11-22",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2022-11-22T02:17:59Z",
+      "published_day": "2022-11-22",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/dclient/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "dclient",
+  "total_releases": 10,
+  "url": "https://github.com/simonw/dclient"
+}

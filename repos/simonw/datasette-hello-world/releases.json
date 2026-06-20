@@ -1,0 +1,23 @@
+{
+  "description": "The hello world of Datasette plugins",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-11-14T04:58:36Z",
+      "published_day": "2021-11-14",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-hello-world/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-10-21T00:12:21Z",
+      "published_day": "2021-10-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-hello-world/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-hello-world",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-hello-world"
+}

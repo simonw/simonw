@@ -1,0 +1,30 @@
+{
+  "description": "Expose Datasette instances to LLM as a tool",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T20:39:18Z",
+      "published_day": "2025-05-27",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-tools-datasette/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-27T18:49:32Z",
+      "published_day": "2025-05-27",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-05-26T16:00:21Z",
+      "published_day": "2025-05-26",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-tools-datasette/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-tools-datasette",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/llm-tools-datasette"
+}

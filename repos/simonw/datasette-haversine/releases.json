@@ -1,0 +1,23 @@
+{
+  "description": "Datasette plugin that adds a custom SQL function for haversine distances",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-12-29T18:04:33Z",
+      "published_day": "2023-12-29",
+      "release": "0.2.1",
+      "url": "https://github.com/simonw/datasette-haversine/releases/tag/0.2.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2021-07-28T20:14:24Z",
+      "published_day": "2021-07-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-haversine/releases/tag/0.2"
+    }
+  ],
+  "repo": "datasette-haversine",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-haversine"
+}

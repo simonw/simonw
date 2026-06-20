@@ -1,0 +1,23 @@
+{
+  "description": "Utilities to help run Datasette on Glitch",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-07-01T22:49:22Z",
+      "published_day": "2020-07-01",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-glitch/releases/tag/0.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-06-28T15:43:19Z",
+      "published_day": "2020-06-28",
+      "release": "0.1a",
+      "url": "https://github.com/simonw/datasette-glitch/releases/tag/0.1a"
+    }
+  ],
+  "repo": "datasette-glitch",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-glitch"
+}

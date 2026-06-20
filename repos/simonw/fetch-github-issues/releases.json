@@ -1,0 +1,30 @@
+{
+  "description": "Fetch all GitHub issues for a repository",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-07-29T17:56:13Z",
+      "published_day": "2024-07-29",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-29T17:34:24Z",
+      "published_day": "2024-07-29",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/fetch-github-issues/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-07-29T05:49:24Z",
+      "published_day": "2024-07-29",
+      "release": "0.1",
+      "url": "https://github.com/simonw/fetch-github-issues/releases/tag/0.1"
+    }
+  ],
+  "repo": "fetch-github-issues",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/fetch-github-issues"
+}

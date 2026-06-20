@@ -1,0 +1,93 @@
+{
+  "description": "Advanced permission management for Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-06-18T19:03:13Z",
+      "published_day": "2026-06-18",
+      "release": "0.6a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.6a0"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-06-10T16:43:04Z",
+      "published_day": "2026-06-10",
+      "release": "0.5a1",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.5a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-11-04T16:08:12Z",
+      "published_day": "2025-11-04",
+      "release": "0.5a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.5a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:49:24Z",
+      "published_day": "2025-10-21",
+      "release": "0.4a5",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-10T16:17:00Z",
+      "published_day": "2024-09-10",
+      "release": "0.4a4",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-10T15:40:01Z",
+      "published_day": "2024-09-10",
+      "release": "0.4a3",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-01T21:50:25Z",
+      "published_day": "2024-09-01",
+      "release": "0.4a2",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-01T21:39:24Z",
+      "published_day": "2024-09-01",
+      "release": "0.4a1",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-01T19:47:51Z",
+      "published_day": "2024-09-01",
+      "release": "0.4a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-01T04:12:20Z",
+      "published_day": "2024-09-01",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-31T16:42:49Z",
+      "published_day": "2024-08-31",
+      "release": "0.2a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-08-30T18:11:01Z",
+      "published_day": "2024-08-30",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-acl/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-acl",
+  "total_releases": 12,
+  "url": "https://github.com/datasette/datasette-acl"
+}

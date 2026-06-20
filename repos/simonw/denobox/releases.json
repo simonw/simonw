@@ -1,0 +1,30 @@
+{
+  "description": "Run JavaScript code and WASM in a Deno sandbox",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-01-10T20:43:11Z",
+      "published_day": "2026-01-10",
+      "release": "0.1a2",
+      "url": "https://github.com/simonw/denobox/releases/tag/0.1a2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-01-10T16:03:22Z",
+      "published_day": "2026-01-10",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/denobox/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-01-10T15:42:06Z",
+      "published_day": "2026-01-10",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/denobox/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "denobox",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/denobox"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Demo for https://github.com/simonw/click-app",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-06-22T23:19:26Z",
+      "published_day": "2020-06-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/click-app-template-demo/releases/tag/0.1"
+    }
+  ],
+  "repo": "click-app-template-demo",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/click-app-template-demo"
+}

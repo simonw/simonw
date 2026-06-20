@@ -1,0 +1,8 @@
+{
+  "description": "Use Datasette to explore LAION improved_aesthetics_6plus training data used by Stable DIffusion",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "laion-aesthetic-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/laion-aesthetic-datasette"
+}

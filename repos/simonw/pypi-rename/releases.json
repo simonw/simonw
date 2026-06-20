@@ -1,0 +1,8 @@
+{
+  "description": "Cookiecutter template for creating renamed PyPI packages",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "pypi-rename",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/pypi-rename"
+}

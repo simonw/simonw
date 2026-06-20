@@ -1,0 +1,16 @@
+{
+  "description": "A tiny Python library for generating public IDs from integers",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-09-07T01:38:46Z",
+      "published_day": "2021-09-07",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/pids/releases/tag/0.1.2"
+    }
+  ],
+  "repo": "pids",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/pids"
+}

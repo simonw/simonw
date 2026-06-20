@@ -1,0 +1,16 @@
+{
+  "description": "Add preview hovercards to links in Datasette",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-12-02T17:14:11Z",
+      "published_day": "2021-12-02",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-hovercards/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-hovercards",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/datasette-hovercards"
+}

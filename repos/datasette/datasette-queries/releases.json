@@ -1,0 +1,58 @@
+{
+  "description": "Save SQL queries in Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-11-11T02:07:19Z",
+      "published_day": "2025-11-11",
+      "release": "0.1.3a0",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-10-21T00:57:07Z",
+      "published_day": "2025-10-21",
+      "release": "0.1.2a1",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1.2a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-22T19:11:19Z",
+      "published_day": "2025-07-22",
+      "release": "0.1.2",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-22T16:15:46Z",
+      "published_day": "2025-07-22",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-07-22T01:59:23Z",
+      "published_day": "2025-07-22",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2025-05-01T15:11:58Z",
+      "published_day": "2025-05-01",
+      "release": "0.1a1",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-12-03T23:54:18Z",
+      "published_day": "2024-12-03",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-queries/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-queries",
+  "total_releases": 7,
+  "url": "https://github.com/datasette/datasette-queries"
+}

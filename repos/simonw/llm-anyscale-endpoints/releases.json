@@ -1,0 +1,51 @@
+{
+  "description": "LLM plugin for models hosted by Anyscale Endpoints",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-04-21T23:35:09Z",
+      "published_day": "2024-04-21",
+      "release": "0.6",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.6"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-04-17T22:55:24Z",
+      "published_day": "2024-04-17",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-12-14T04:55:31Z",
+      "published_day": "2023-12-14",
+      "release": "0.4",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.4"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-11-03T05:24:28Z",
+      "published_day": "2023-11-03",
+      "release": "0.3",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-25T11:24:19Z",
+      "published_day": "2023-08-25",
+      "release": "0.2",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-08-23T20:40:54Z",
+      "published_day": "2023-08-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-anyscale-endpoints/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-anyscale-endpoints",
+  "total_releases": 6,
+  "url": "https://github.com/simonw/llm-anyscale-endpoints"
+}

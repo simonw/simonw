@@ -1,0 +1,23 @@
+{
+  "description": "Show a specific Datasette table on the homepage",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-01-31T18:50:48Z",
+      "published_day": "2024-01-31",
+      "release": "0.2",
+      "url": "https://github.com/datasette/datasette-homepage-table/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-01-31T04:33:42Z",
+      "published_day": "2024-01-31",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-homepage-table/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-homepage-table",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-homepage-table"
+}

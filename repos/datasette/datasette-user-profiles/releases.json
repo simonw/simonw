@@ -1,0 +1,65 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-06-16T03:34:12Z",
+      "published_day": "2026-06-16",
+      "release": "0.1.0a8",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a8"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-06-16T00:26:45Z",
+      "published_day": "2026-06-16",
+      "release": "0.1.0a7",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a7"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-05-12T23:58:55Z",
+      "published_day": "2026-05-12",
+      "release": "0.1.0a6",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a6"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-17T06:10:10Z",
+      "published_day": "2026-04-17",
+      "release": "0.1.0a5",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-17T01:09:09Z",
+      "published_day": "2026-04-17",
+      "release": "0.1.0a4",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a4"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-04-17T00:48:41Z",
+      "published_day": "2026-04-17",
+      "release": "0.1.0a3",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a3"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T05:51:19Z",
+      "published_day": "2026-03-18",
+      "release": "0.1.0a2",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a2"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-03-18T05:48:23Z",
+      "published_day": "2026-03-18",
+      "release": "0.1.0a1",
+      "url": "https://github.com/datasette/datasette-user-profiles/releases/tag/0.1.0a1"
+    }
+  ],
+  "repo": "datasette-user-profiles",
+  "total_releases": 8,
+  "url": "https://github.com/datasette/datasette-user-profiles"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Python class for reading and writing data to a GitHub repository",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2021-02-24T18:34:49Z",
+      "published_day": "2021-02-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/github-contents/releases/tag/0.2"
+    }
+  ],
+  "repo": "github-contents",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/github-contents"
+}

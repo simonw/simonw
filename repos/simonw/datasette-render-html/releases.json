@@ -1,0 +1,37 @@
+{
+  "description": "Plugin for selectively rendering the HTML is specific columns",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-03-09T02:46:43Z",
+      "published_day": "2023-03-09",
+      "release": "1.0",
+      "url": "https://github.com/simonw/datasette-render-html/releases/tag/1.0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T22:05:55Z",
+      "published_day": "2020-03-21",
+      "release": "0.1.2",
+      "url": "https://github.com/simonw/datasette-render-html/releases/tag/0.1.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-03-21T22:00:21Z",
+      "published_day": "2020-03-21",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-render-html/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2019-04-30T01:59:32Z",
+      "published_day": "2019-04-30",
+      "release": "",
+      "url": "https://github.com/simonw/datasette-render-html/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-render-html",
+  "total_releases": 4,
+  "url": "https://github.com/simonw/datasette-render-html"
+}

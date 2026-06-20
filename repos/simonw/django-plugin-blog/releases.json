@@ -1,0 +1,23 @@
+{
+  "description": "A blog for Django as a DJP plugin.",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-24T14:38:23Z",
+      "published_day": "2024-09-24",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/django-plugin-blog/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2024-09-23T19:13:06Z",
+      "published_day": "2024-09-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/django-plugin-blog/releases/tag/0.1"
+    }
+  ],
+  "repo": "django-plugin-blog",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/django-plugin-blog"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "An App Engine JSONP web service for retrieving the time in different timezones.",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "json-time",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/json-time"
+}

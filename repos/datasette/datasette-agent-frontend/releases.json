@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-05-20T00:55:59Z",
+      "published_day": "2026-05-20",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-agent-frontend/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-agent-frontend",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-agent-frontend"
+}

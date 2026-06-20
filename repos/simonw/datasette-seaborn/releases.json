@@ -1,0 +1,30 @@
+{
+  "description": "Statistical visualizations for Datasette using Seaborn",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2020-12-07T01:39:12Z",
+      "published_day": "2020-12-07",
+      "release": "0.2a0",
+      "url": "https://github.com/simonw/datasette-seaborn/releases/tag/0.2a0"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-11T17:01:17Z",
+      "published_day": "2020-09-11",
+      "release": "0.1a1",
+      "url": "https://github.com/simonw/datasette-seaborn/releases/tag/0.1a1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-11T15:03:26Z",
+      "published_day": "2020-09-11",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/datasette-seaborn/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-seaborn",
+  "total_releases": 3,
+  "url": "https://github.com/simonw/datasette-seaborn"
+}

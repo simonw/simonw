@@ -1,0 +1,23 @@
+{
+  "description": "Load demo DBs when Datasette starts",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2025-08-14T20:22:07Z",
+      "published_day": "2025-08-14",
+      "release": "0.1.1",
+      "url": "https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2025-08-14T18:57:49Z",
+      "published_day": "2025-08-14",
+      "release": "0.1",
+      "url": "https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-demo-dbs",
+  "total_releases": 2,
+  "url": "https://github.com/datasette/datasette-demo-dbs"
+}

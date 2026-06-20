@@ -1,0 +1,16 @@
+{
+  "description": "Export Apple Notes to SQLite",
+  "owner": "dogsheep",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-03-09T05:12:12Z",
+      "published_day": "2023-03-09",
+      "release": "0.1",
+      "url": "https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1"
+    }
+  ],
+  "repo": "apple-notes-to-sqlite",
+  "total_releases": 1,
+  "url": "https://github.com/dogsheep/apple-notes-to-sqlite"
+}

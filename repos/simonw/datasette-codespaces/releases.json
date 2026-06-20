@@ -1,0 +1,23 @@
+{
+  "description": "Conveniences for running Datasette on GitHub Codespaces",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2023-02-23T23:50:40Z",
+      "published_day": "2023-02-23",
+      "release": "0.1.1",
+      "url": "https://github.com/simonw/datasette-codespaces/releases/tag/0.1.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2023-02-22T18:59:05Z",
+      "published_day": "2023-02-22",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-codespaces/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-codespaces",
+  "total_releases": 2,
+  "url": "https://github.com/simonw/datasette-codespaces"
+}

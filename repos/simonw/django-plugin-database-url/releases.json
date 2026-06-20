@@ -1,0 +1,16 @@
+{
+  "description": "Django plugin for reading the DATABASE_URL environment variable",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2024-09-24T12:02:04Z",
+      "published_day": "2024-09-24",
+      "release": "0.1",
+      "url": "https://github.com/simonw/django-plugin-database-url/releases/tag/0.1"
+    }
+  ],
+  "repo": "django-plugin-database-url",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/django-plugin-database-url"
+}

@@ -1,0 +1,44 @@
+{
+  "description": "Datasette plugin for outputting tables in formats suitable for copy and paste",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2022-11-18T06:10:59Z",
+      "published_day": "2022-11-18",
+      "release": "0.3.2",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.3.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-11-14T21:45:10Z",
+      "published_day": "2020-11-14",
+      "release": "0.3.1",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.3.1"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-09-14T22:17:41Z",
+      "published_day": "2020-09-14",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-21T21:52:57Z",
+      "published_day": "2020-07-21",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2020-07-21T19:06:04Z",
+      "published_day": "2020-07-21",
+      "release": "0.1",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.1"
+    }
+  ],
+  "repo": "datasette-copyable",
+  "total_releases": 5,
+  "url": "https://github.com/simonw/datasette-copyable"
+}
