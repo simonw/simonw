@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,203<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,204<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - ([120 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-06-21
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([12 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
 <br />Advanced permission management for Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - ([166 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-16
@@ -169,8 +171,6 @@ Listing <!-- releases_count starts -->2,203<!-- releases_count ends --> releases
 <br />Configure redirects for a Datasette instance
 * **[llm-templates-fabric](https://github.com/simonw/llm-templates-fabric)**: [0.2.1](https://github.com/simonw/llm-templates-fabric/releases/tag/0.2.1) - ([4 releases total](https://github.com/simonw/llm-templates-fabric/releases)) - 2025-11-26
 <br />Load LLM templates from Fabric
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39](https://github.com/simonw/sqlite-utils/releases/tag/3.39) - ([119 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2025-11-24
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-demo-for-llm-accountant](https://github.com/datasette/datasette-demo-for-llm-accountant)**: [0.1a0](https://github.com/datasette/datasette-demo-for-llm-accountant/releases/tag/0.1a0) - 2025-11-18
 <br />Demo app for datasette-llm-accountant
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17

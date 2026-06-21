@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - 2026-06-21
+
 [datasette-acl 0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - 2026-06-18
 
 [datasette 1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - 2026-06-16
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [luau-wasm 0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
 
 [asyncinject 0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - 2026-06-11
-
-[llm 0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - 2026-06-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/) - 2026-06-21
+
 [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - 2026-06-18
 
 [GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/) - 2026-06-17
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) - 2026-06-11
 
 [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/) - 2026-06-09
-
-[Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) - 2026-06-06
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

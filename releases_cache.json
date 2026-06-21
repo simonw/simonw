@@ -14637,6 +14637,12 @@
     "description": "Python CLI utility and library for manipulating SQLite databases",
     "releases": [
       {
+        "published_at": "2026-06-21T23:30:04Z",
+        "published_day": "2026-06-21",
+        "release": "4.0rc1",
+        "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1"
+      },
+      {
         "published_at": "2025-11-24T18:42:29Z",
         "published_day": "2025-11-24",
         "release": "3.39",
@@ -15353,7 +15359,7 @@
     ],
     "repo": "sqlite-utils",
     "repo_url": "https://github.com/simonw/sqlite-utils",
-    "total_releases": 119
+    "total_releases": 120
   },
   "sqlite-utils-ask": {
     "description": "Ask questions of your data with LLM assistance",
