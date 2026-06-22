@@ -30,20 +30,30 @@ The element renders a compact **share-icon button**; clicking it opens a modal
 fetched lazily on first open, so a page can carry many share buttons cheaply.
 
 Once open, the dialog shows "people with access" (avatars, role dropdowns,
-remove buttons), a "General access" section, and an add-box that searches
-people (profiles) and groups (acl). Each action is its own fetch — grant /
-update / revoke — matching Google Docs' incremental behaviour. Actors who
-cannot manage the resource (`can_manage: false`) get a read-only roster: roles
-as tags, no add-box, no remove buttons.
+remove buttons) and a "General access" section. The **last row of the roster is
+an inline add-row**: one unified box searches people (profiles) *and* groups
+(acl) together, stages your picks as pills, then a role dropdown + **Add**
+confirm them — all in place, no separate add panel. Each action is its own fetch
+— grant / update / revoke — matching Google Docs' incremental behaviour. Actors
+who cannot manage the resource (`can_manage: false`) get a read-only roster:
+roles as tags, no add-row, no remove buttons.
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/people-search.png" alt="The add-box open, searching people as you type, showing avatar results"></td>
-<td width="50%"><img src="docs/screenshots/public.png" alt="The General access control set to 'Anyone signed in' with a Viewer role"></td>
+<td width="50%"><img src="docs/screenshots/search-unified.png" alt="The inline add-row's search open, results split into People and Groups sub-sections"></td>
+<td width="50%"><img src="docs/screenshots/people-selected.png" alt="A searched person staged as a removable pill inside the add-row, with a role dropdown and Add button, before confirming"></td>
 </tr>
 <tr>
-<td align="center"><em>Search people as you type (profiles)</em></td>
+<td align="center"><em>One search, people <strong>and</strong> groups together</em></td>
+<td align="center"><em>Picks staged inline with a role, before hitting Add</em></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/screenshots/public.png" alt="The General access control set to 'Anyone signed in' with a Viewer role"></td>
+<td width="50%"></td>
+</tr>
+<tr>
 <td align="center"><em>General access for public audiences</em></td>
+<td align="center"></td>
 </tr>
 </table>
 
@@ -150,7 +160,7 @@ unchanged, wiring events with `addEventListener`.
 ```sh
 just frontend-install   # one-time npm install
 just frontend           # production build (writes static/gen + manifest.json)
-just dev                # datasette + the sample-docs demo at :5171
+just dev                # datasette + the sample-resources demo at :5171
 
 # Or with Vite HMR:
 just frontend-dev       # terminal 1: vite dev server (port 5180)
@@ -159,9 +169,9 @@ just dev-with-hmr       # terminal 2: datasette pointed at the dev server
 
 `just dev` loads a throwaway demo plugin (`tests/sample_plugins`, with templates
 in `tests/templates`) plus datasette-debug-gotham / datasette-user-profiles /
-datasette-debug-bar. Visit <http://localhost:5171/sample-docs>, switch
-characters with the debug bar (Clark owns doc 1), and exercise the dialog — see
-`CLAUDE.md` for the full demo walkthrough.
+datasette-debug-bar. Visit <http://localhost:5171/sample-resources>, switch
+characters with the debug bar (start as Clark — he manages one of every type),
+and exercise the dialog — see `CLAUDE.md` for the full demo walkthrough.
 
 Built assets (`datasette_acl_share/static/`, `manifest.json`) are gitignored and
 produced by the build.
