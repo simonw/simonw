@@ -4,6 +4,20 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-06-22T20:22:33Z",
+      "published_day": "2026-06-22",
+      "release": "0.0.1a6",
+      "url": "https://github.com/datasette/datasette-acl-share/releases/tag/0.0.1a6"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-06-22T19:49:25Z",
+      "published_day": "2026-06-22",
+      "release": "0.0.1a5",
+      "url": "https://github.com/datasette/datasette-acl-share/releases/tag/0.0.1a5"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-06-18T21:08:05Z",
       "published_day": "2026-06-18",
       "release": "0.0.1a4",
@@ -25,6 +39,6 @@
     }
   ],
   "repo": "datasette-acl-share",
-  "total_releases": 3,
+  "total_releases": 5,
   "url": "https://github.com/datasette/datasette-acl-share"
 }
