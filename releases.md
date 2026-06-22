@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,204<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,205<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - ([120 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-06-21
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([12 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
+* **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([13 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
 <br />Advanced permission management for Datasette
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - ([166 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-16
 <br />An open source multi-tool for exploring and publishing data
