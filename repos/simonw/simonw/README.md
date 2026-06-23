@@ -4,11 +4,11 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - 2026-06-23
+
 [sqlite-utils 4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - 2026-06-21
 
 [datasette-acl 0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - 2026-06-18
-
-[datasette 1.0a34](https://github.com/simonw/datasette/releases/tag/1.0a34) - 2026-06-16
 
 [datasette-tailscale 0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
 
