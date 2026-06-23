@@ -38,6 +38,14 @@ confirm them — all in place, no separate add panel. Each action is its own fet
 who cannot manage the resource (`can_manage: false`) get a read-only roster:
 roles as tags, no add-row, no remove buttons.
 
+**General access** lists each public audience as its own row with its own role
+and a remove button — so a resource can be, say, Editor for *Anyone signed in*
+and Viewer for *Anyone signed out* at once. Its add-row offers the two
+non-overlapping audiences (`authenticated`, `anonymous`); adding one takes an
+explicit confirm (exposing a resource publicly is the one risky action), while
+role changes and removes apply instantly. A pre-existing `everyone` ("Anyone")
+grant still renders as a removable row.
+
 <table>
 <tr>
 <td width="50%"><img src="docs/screenshots/search-unified.png" alt="The inline add-row's search open, results split into People and Groups sub-sections"></td>
@@ -48,11 +56,11 @@ roles as tags, no add-row, no remove buttons.
 <td align="center"><em>Picks staged inline with a role, before hitting Add</em></td>
 </tr>
 <tr>
-<td width="50%"><img src="docs/screenshots/public.png" alt="The General access control set to 'Anyone signed in' with a Viewer role"></td>
+<td width="50%"><img src="docs/screenshots/public.png" alt="The General access section with an 'Anyone' row at Viewer plus a remove button, and an add-row offering 'Anyone signed in' with a role and Add button"></td>
 <td width="50%"></td>
 </tr>
 <tr>
-<td align="center"><em>General access for public audiences</em></td>
+<td align="center"><em>General access: a row per public audience, each with its own role</em></td>
 <td align="center"></td>
 </tr>
 </table>
