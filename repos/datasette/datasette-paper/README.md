@@ -8,6 +8,32 @@
 Collaborative document editor for Datasette. ProseMirror frontend, SQLite-backed
 storage in Datasette's internal database, real-time collaboration over SSE.
 
+<p align="center"><img src="docs/screenshots/editor.png" alt="The paper editor: a rich-text document with headings, a table and a task list, a formatting toolbar, and a header showing the author, edit time and number of users online." width="800"></p>
+
+Rich text with **tables** and **task lists**, **wiki-style links** between papers,
+**images** (paste, drag-and-drop, or insert from the toolbar), and **per-paper
+sharing**:
+
+<table>
+<tr>
+<td><img src="docs/screenshots/tables.png" alt="A table in the editor with the floating action bar for adding/removing rows and columns and naming the table for the API."></td>
+<td><img src="docs/screenshots/tasks.png" alt="A task list with checkboxes; completed items are struck through."></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/wiki-links.png" alt="Typing [[ opens an autocomplete popup listing other papers to link to."></td>
+<td><img src="docs/screenshots/share.png" alt="The share dialog showing people with access and their roles, plus general link access."></td>
+</tr>
+</table>
+
+Insert an image by pasting, dropping a file, or using the toolbar's image
+button — which offers a paste area or a file upload with a live preview:
+
+<p align="center"><img src="docs/screenshots/image-dialog-chosen.png" alt="The insert-image dialog with the Upload tab active, showing a preview of the chosen image, an alt-text field, and an enabled Insert button." width="440"></p>
+
+And a paper index listing everyone's papers with author and last-edited time:
+
+<p align="center"><img src="docs/screenshots/index.png" alt="The paper index: a table of papers with name, creator and updated time, plus tabs for Active / Archive / Trash / Templates." width="800"></p>
+
 ## Installation
 
 Install in the same environment as Datasette:
@@ -93,7 +119,14 @@ npm install --prefix frontend
 just frontend          # build the bundle
 just dev               # run datasette with the plugin + permissions granted
 just dev-with-hmr      # vite dev server + watchexec restart
+just shots             # regenerate docs/screenshots/*.png (used in this README)
 ```
+
+`just shots` is self-contained: it builds the bundle, boots a throwaway
+Datasette with seeded papers, drives Playwright to capture each surface, and
+tears the server down. The PNGs are committed, so re-run and commit when the UI
+changes (the diff shows what changed). Pass shot names to regenerate a subset,
+e.g. `just shots editor tables`.
 
 Run the test layers:
 
