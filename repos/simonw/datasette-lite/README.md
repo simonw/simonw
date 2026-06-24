@@ -75,7 +75,7 @@ This also works with JSON documents where one of the keys is a list of objects, 
   ]
 }
 ```
-In this case it will search for the first key that contains a list of objects.
+In this case it will search for the key that contains the most objects.
 
 If a document is a JSON object where every value is a JSON object, like this:
 

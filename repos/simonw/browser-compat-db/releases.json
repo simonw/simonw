@@ -1,0 +1,8 @@
+{
+  "description": "A SQLite copy of mdn/browser-compat-data",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "browser-compat-db",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/browser-compat-db"
+}

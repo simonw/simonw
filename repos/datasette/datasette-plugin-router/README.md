@@ -51,3 +51,20 @@ def register_routes():
     return router.routes()
 
 ```
+
+## Request body validation errors
+
+If a `Body()`-injected request body fails Pydantic validation — including an empty
+body or malformed JSON — the router returns a **400** instead of a 500:
+
+```json
+{
+  "error": "id: Input should be a valid integer, unable to parse string as an integer",
+  "errors": [{"type": "int_parsing", "loc": ["id"], "msg": "..."}]
+}
+```
+
+- `error` joins each field error as `"<loc>: <msg>"` (just `<msg>` when there is no
+  location, e.g. malformed JSON) with `"; "`.
+- `errors` is `ValidationError.errors()` minus the `url`/`ctx`/`input` fields.
+- Messages are Pydantic's `msg` verbatim, so custom validator messages pass through.
