@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-export-database 0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - 2026-06-25
+
 [datasette 1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - 2026-06-23
 
 [sqlite-utils 4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - 2026-06-21
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-agent 0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - 2026-06-15
 
 [luau-wasm 0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
-
-[asyncinject 0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - 2026-06-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
