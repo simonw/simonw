@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,206<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,207<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - ([7 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-06-25
+<br />Export a copy of a mutable SQLite database on demand
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - ([167 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-23
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - ([120 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-06-21
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->2,206<!-- releases_count ends --> releases
 <br />LLM plugin for models hosted by OpenRouter
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
-* **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a1](https://github.com/datasette/datasette-export-database/releases/tag/0.3a1) - ([6 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-04-15
-<br />Export a copy of a mutable SQLite database on demand
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
 <br />Find all currently running Datasette instances and list their ports
 * **[datasette-gzip](https://github.com/simonw/datasette-gzip)**: [0.3](https://github.com/simonw/datasette-gzip/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-gzip/releases)) - 2026-04-09
