@@ -34,6 +34,17 @@ And a paper index listing everyone's papers with author and last-edited time:
 
 <p align="center"><img src="docs/screenshots/index.png" alt="The paper index: a table of papers with name, creator and updated time, plus tabs for Active / Archive / Trash / Templates." width="800"></p>
 
+Drop inline **`#tags`** anywhere in a paper's body — type `#` for an
+autocomplete of existing tags. Clicking a tag opens a results page listing
+every paper whose body mentions it:
+
+<table>
+<tr>
+<td><img src="docs/screenshots/inline-tags.png" alt="Inline #tag pills in a paper's body, distinct from the document-level metadata tags."></td>
+<td><img src="docs/screenshots/tag-page.png" alt="The tag results page: every paper whose body contains #roadmap, each with a mention count."></td>
+</tr>
+</table>
+
 ## Installation
 
 Install in the same environment as Datasette:
