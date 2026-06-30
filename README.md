@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[shot-scraper 1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - 2026-06-30
+
 [datasette-export-database 0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - 2026-06-25
 
 [datasette 1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - 2026-06-23
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-apps 0.1a3](https://github.com/datasette/datasette-apps/releases/tag/0.1a3) - 2026-06-15
 
 [datasette-agent 0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - 2026-06-15
-
-[luau-wasm 0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

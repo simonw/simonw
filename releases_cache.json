@@ -13894,8 +13894,14 @@
     "total_releases": 6
   },
   "shot-scraper": {
-    "description": "A command-line utility for taking automated screenshots of websites",
+    "description": "A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript",
     "releases": [
+      {
+        "published_at": "2026-06-30T15:10:14Z",
+        "published_day": "2026-06-30",
+        "release": "1.10",
+        "url": "https://github.com/simonw/shot-scraper/releases/tag/1.10"
+      },
       {
         "published_at": "2026-02-01T19:02:50Z",
         "published_day": "2026-02-01",
@@ -14109,7 +14115,7 @@
     ],
     "repo": "shot-scraper",
     "repo_url": "https://github.com/simonw/shot-scraper",
-    "total_releases": 35
+    "total_releases": 36
   },
   "showboat": {
     "description": "Create executable documents that demonstrate an agent's work",

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,207<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,208<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - ([36 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-06-30
+<br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - ([7 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-06-25
 <br />Export a copy of a mutable SQLite database on demand
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - ([167 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-23
@@ -137,8 +139,6 @@ Listing <!-- releases_count starts -->2,207<!-- releases_count ends --> releases
 <br />Datasette plugin for scanning for SQLite files
 * **[go-to-wheel](https://github.com/simonw/go-to-wheel)**: [0.2](https://github.com/simonw/go-to-wheel/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/go-to-wheel/releases)) - 2026-02-04
 <br />Wrap Go binaries in Python wheels
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.9.1](https://github.com/simonw/shot-scraper/releases/tag/1.9.1) - ([35 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-02-01
-<br />A command-line utility for taking automated screenshots of websites
 * **[sqlite-ast](https://github.com/simonw/sqlite-ast)**: [0.1a0](https://github.com/simonw/sqlite-ast/releases/tag/0.1a0) - 2026-01-30
 <br />Python library for parsing SQLite SELECT queries into an AST
 * **[tiny-haversine](https://github.com/simonw/tiny-haversine)**: [0.1.1](https://github.com/simonw/tiny-haversine/releases/tag/0.1.1) - ([2 releases total](https://github.com/simonw/tiny-haversine/releases)) - 2026-01-30
