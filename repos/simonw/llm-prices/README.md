@@ -15,7 +15,7 @@ The pricing data is available as JSON at the following URLs:
 An object containing:
 
 - `updated_at`: Date when the pricing data was last updated (ISO 8601 format)
-- `prices`: Array of objects representing the current pricing for each model
+- `prices`: Array of objects representing the pricing effective on the day the JSON is built
 
 Each price object contains:
 
@@ -62,8 +62,8 @@ An object containing:
 
 Each price object contains the same fields as current prices plus:
 
-- `from_date`: Start date for this pricing (ISO 8601 format, or `null` for current prices). This date is inclusive.
-- `to_date`: End date for this pricing (ISO 8601 format, or `null` for current prices). This date is exclusive - the price was valid up to but not including this date.
+- `from_date`: Start date for this pricing (ISO 8601 format, or `null` for an initial price with no explicit start date). This date is inclusive.
+- `to_date`: End date for this pricing (ISO 8601 format, or `null` for an open-ended price). This date is exclusive - the price was valid up to but not including this date.
 
 Example:
 
@@ -132,7 +132,7 @@ Each vendor file has the following structure:
     - `output`: Price per million output tokens (in USD)
     - `input_cached`: Price per million cached input tokens (in USD), or `null` if the model does not offer cached token pricing
     - `from_date`: Start date for this pricing (ISO 8601 format, or `null` for current/initial prices)
-    - `to_date`: End date for this pricing (ISO 8601 format, or `null` for current prices)
+    - `to_date`: End date for this pricing (ISO 8601 format, or `null` for an open-ended price)
 
 ### Price history
 
@@ -144,7 +144,7 @@ When a model's price changes, add a new entry to the `price_history` array:
 
 - `from_date`: Inclusive start date (price is effective starting from this date)
 - `to_date`: Exclusive end date (price is effective up to but NOT including this date)
-- `null` dates: `from_date: null` means "from the beginning", `to_date: null` means "current price"
+- `null` dates: `from_date: null` means "from the beginning", `to_date: null` means the price continues indefinitely
 
 ### Building the JSON files
 
