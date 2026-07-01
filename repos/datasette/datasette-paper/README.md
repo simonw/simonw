@@ -23,6 +23,10 @@ sharing**:
 <td><img src="docs/screenshots/wiki-links.png" alt="Typing [[ opens an autocomplete popup listing other papers to link to."></td>
 <td><img src="docs/screenshots/share.png" alt="The share dialog showing people with access and their roles, plus general link access."></td>
 </tr>
+<tr>
+<td><img src="docs/screenshots/link-edit.png" alt="Hovering a link while editing reveals a tooltip with Edit, Open and Copy; Edit opens a small dialog with Text and URL fields to rewrite the link."></td>
+<td></td>
+</tr>
 </table>
 
 Insert an image by pasting, dropping a file, or using the toolbar's image
