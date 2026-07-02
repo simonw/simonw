@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,208<!-- releases_count ends --> releases across <!-- project_count starts -->389<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,209<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
+<br />A coding agent built on LLM
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - ([36 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-06-30
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - ([7 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-06-25

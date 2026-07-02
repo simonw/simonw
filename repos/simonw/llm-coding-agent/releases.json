@@ -1,0 +1,16 @@
+{
+  "description": "A coding agent built on LLM",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-07-02T19:33:12Z",
+      "published_day": "2026-07-02",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-coding-agent",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-coding-agent"
+}
