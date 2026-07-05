@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,209<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,210<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc2](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc2) - ([121 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-05
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 <br />A coding agent built on LLM
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - ([36 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-06-30
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,209<!-- releases_count ends --> releases
 <br />Export a copy of a mutable SQLite database on demand
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - ([167 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-23
 <br />An open source multi-tool for exploring and publishing data
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - ([120 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-06-21
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([13 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
 <br />Advanced permission management for Datasette
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
