@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 4.0rc2](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc2) - 2026-07-05
+
 [llm-coding-agent 0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 
 [shot-scraper 1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - 2026-06-30
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-export-database 0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - 2026-06-25
 
 [datasette 1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - 2026-06-23
-
-[sqlite-utils 4.0rc1](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1) - 2026-06-21
 
 [datasette-acl 0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - 2026-06-18
 
@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[sqlite-utils 4.0rc2, mostly written by Claude Fable](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) - 2026-07-05
+
 [Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/) - 2026-06-30
 
 [Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/) - 2026-06-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - 2026-06-18
 
 [GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/) - 2026-06-17
-
-[Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/) - 2026-06-13
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
