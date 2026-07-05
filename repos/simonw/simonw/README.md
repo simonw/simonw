@@ -25,7 +25,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-[sqlite-utils 4.0rc2, mostly written by Claude Fable](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) - 2026-07-05
+[sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) - 2026-07-05
 
 [Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/) - 2026-06-30
 
