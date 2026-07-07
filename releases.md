@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,211<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,212<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc3](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc3) - ([122 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-06
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc4](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4) - ([123 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-07
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 <br />A coding agent built on LLM
