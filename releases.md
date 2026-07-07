@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,215<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,216<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a36](https://github.com/simonw/datasette/releases/tag/1.0a36) - ([168 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-07
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0](https://github.com/simonw/sqlite-utils/releases/tag/4.0) - ([124 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-07
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,215<!-- releases_count ends --> releases
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - ([7 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-06-25
 <br />Export a copy of a mutable SQLite database on demand
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a35](https://github.com/simonw/datasette/releases/tag/1.0a35) - ([167 releases total](https://github.com/simonw/datasette/releases)) - 2026-06-23
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([13 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
 <br />Advanced permission management for Datasette
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
