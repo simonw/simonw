@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,212<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,215<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0rc4](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4) - ([123 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-07
+* **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
+<br />A simple database migration system for SQLite, based on sqlite-utils
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0](https://github.com/simonw/sqlite-utils/releases/tag/4.0) - ([124 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-07
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 <br />A coding agent built on LLM
@@ -467,8 +469,6 @@ Listing <!-- releases_count starts -->2,212<!-- releases_count ends --> releases
 <br />Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays
 * **[datasette-sentry](https://github.com/simonw/datasette-sentry)**: [0.4](https://github.com/simonw/datasette-sentry/releases/tag/0.4) - ([7 releases total](https://github.com/simonw/datasette-sentry/releases)) - 2023-11-21
 <br />Datasette plugin for configuring Sentry
-* **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.1b0](https://github.com/simonw/sqlite-migrate/releases/tag/0.1b0) - ([4 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2023-10-27
-<br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-python](https://github.com/simonw/llm-python)**: [0.1](https://github.com/simonw/llm-python/releases/tag/0.1) - 2023-10-27
 <br />"llm python" is a command to run a Python interpreter in the LLM virtual environment
 * **[llm-embed-jina](https://github.com/simonw/llm-embed-jina)**: [0.1.2](https://github.com/simonw/llm-embed-jina/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/llm-embed-jina/releases)) - 2023-10-26

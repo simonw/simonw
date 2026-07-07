@@ -4,6 +4,20 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-07-07T16:33:55Z",
+      "published_day": "2026-07-07",
+      "release": "0.2",
+      "url": "https://github.com/simonw/sqlite-migrate/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-07-05T20:08:01Z",
+      "published_day": "2026-07-05",
+      "release": "0.1b1",
+      "url": "https://github.com/simonw/sqlite-migrate/releases/tag/0.1b1"
+    },
+    {
+      "author": "simonw",
       "published_at": "2023-10-27T23:46:36Z",
       "published_day": "2023-10-27",
       "release": "0.1b0",
@@ -32,6 +46,6 @@
     }
   ],
   "repo": "sqlite-migrate",
-  "total_releases": 4,
+  "total_releases": 6,
   "url": "https://github.com/simonw/sqlite-migrate"
 }

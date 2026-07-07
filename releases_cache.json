@@ -14543,6 +14543,18 @@
     "description": "A simple database migration system for SQLite, based on sqlite-utils",
     "releases": [
       {
+        "published_at": "2026-07-07T16:33:55Z",
+        "published_day": "2026-07-07",
+        "release": "0.2",
+        "url": "https://github.com/simonw/sqlite-migrate/releases/tag/0.2"
+      },
+      {
+        "published_at": "2026-07-05T20:08:01Z",
+        "published_day": "2026-07-05",
+        "release": "0.1b1",
+        "url": "https://github.com/simonw/sqlite-migrate/releases/tag/0.1b1"
+      },
+      {
         "published_at": "2023-10-27T23:46:36Z",
         "published_day": "2023-10-27",
         "release": "0.1b0",
@@ -14569,7 +14581,7 @@
     ],
     "repo": "sqlite-migrate",
     "repo_url": "https://github.com/simonw/sqlite-migrate",
-    "total_releases": 4
+    "total_releases": 6
   },
   "sqlite-scanner": {
     "description": "Scan folders for SQLite database files",
@@ -14668,6 +14680,12 @@
   "sqlite-utils": {
     "description": "Python CLI utility and library for manipulating SQLite databases",
     "releases": [
+      {
+        "published_at": "2026-07-07T15:42:43Z",
+        "published_day": "2026-07-07",
+        "release": "4.0",
+        "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.0"
+      },
       {
         "published_at": "2026-07-07T05:36:15Z",
         "published_day": "2026-07-07",
@@ -15409,7 +15427,7 @@
     ],
     "repo": "sqlite-utils",
     "repo_url": "https://github.com/simonw/sqlite-utils",
-    "total_releases": 123
+    "total_releases": 124
   },
   "sqlite-utils-ask": {
     "description": "Ask questions of your data with LLM assistance",

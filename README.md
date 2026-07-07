@@ -4,7 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 4.0rc4](https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4) - 2026-07-07
+[sqlite-migrate 0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - 2026-07-07
+
+[sqlite-utils 4.0](https://github.com/simonw/sqlite-utils/releases/tag/4.0) - 2026-07-07
 
 [llm-coding-agent 0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-acl 0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - 2026-06-18
 
 [datasette-tailscale 0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
-
-[datasette-apps 0.1a3](https://github.com/datasette/datasette-apps/releases/tag/0.1a3) - 2026-06-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
