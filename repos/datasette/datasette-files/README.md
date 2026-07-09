@@ -484,6 +484,63 @@ When `/-/files/{file_id}/thumbnail` is requested, datasette-files will:
 
 The same generation path is also attempted eagerly after uploads complete, so generators can populate the cache before the first thumbnail request.
 
+### Thumbnail resource safety
+
+Thumbnail work has limits separate from the upload size limit. The defaults are
+designed to be safe on small instances, including machines with 256 MB of RAM:
+
+```yaml
+plugins:
+  datasette-files:
+    thumbnail_max_source_bytes: 10485760       # 10 MB
+    thumbnail_max_pixels: 12000000             # 12 megapixels
+    thumbnail_concurrency: 1
+    thumbnail_timeout_seconds: 10
+    thumbnail_process_memory_limit_bytes: 134217728  # 128 MB
+    thumbnail_eager: true
+    sources:
+      my-files:
+        storage: filesystem
+        config:
+          root: /data/uploads
+```
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `thumbnail_max_source_bytes` | 10 MB | Skip generation before reading a larger source file |
+| `thumbnail_max_pixels` | 12,000,000 | Built-in generator only: reject raster images whose decoded width × height is larger |
+| `thumbnail_concurrency` | 1 | Maximum number of files being read and rendered concurrently |
+| `thumbnail_timeout_seconds` | 10 | Per-generator timeout, including the built-in worker |
+| `thumbnail_process_memory_limit_bytes` | 128 MB | Built-in generator only: address-space limit for the Pillow subprocess on Linux |
+| `thumbnail_eager` | `true` | Generate after upload; set to `false` to wait for the first request |
+
+The byte limit, concurrency limit and timeout apply to every generator. The
+pixel limit, process isolation and memory limit are properties of the built-in
+Pillow generator: it always runs in a separate process, and on Linux that
+process also receives the configured operating-system memory limit (other
+platforms still get process isolation but not the address-space limit).
+
+Third-party thumbnail generators run in the Datasette process and receive the
+full file bytes; the pixel and memory settings above do not constrain them.
+Generator plugins that decode untrusted formats should implement their own
+equivalent safeguards, such as subprocess isolation and decompression-bomb
+checks.
+
+Files that exceed a limit, time out, or fail generation receive the normal SVG
+file-type icon. The outcome is cached so repeated page views do not repeat unsafe
+or expensive work. Successful and failed entries share a policy cache key; changing
+resource settings or a generator version invalidates them automatically.
+
+Policy decisions (file too large, unsupported type, over the pixel limit) stay
+cached until the policy changes. Failures that may be transient — storage read
+errors, generator crashes, and timeouts — are retried automatically after a
+five-minute cooldown.
+
+The byte limit is checked against recorded metadata and enforced by a bounded
+storage read. The built-in filesystem backend implements a genuinely bounded
+read. Third-party storage backends should override `read_file_limited()` to get
+the same guarantee when their metadata cannot be trusted.
+
 ### The `ThumbnailGenerator` base class
 
 Import the base class and result dataclass from `datasette_files.base`:
@@ -497,6 +554,7 @@ Implement these methods:
 ```python
 class ThumbnailGenerator(ABC):
     name: str
+    version: str = "1"
 
     async def can_generate(self, content_type: str, filename: str) -> bool:
         ...
@@ -524,8 +582,15 @@ class ThumbnailResult:
 ```
 
 - `name`: Short identifier stored alongside generated thumbnails in the cache table
+- `version`: Cache version for the generator. Increment this when output logic changes
 - `can_generate(content_type, filename)`: Return `True` if this generator can handle the file
 - `generate(file_bytes, content_type, filename, max_width, max_height)`: Return a `ThumbnailResult` or `None`
+
+`generate()` may also raise `ThumbnailGenerationError(reason)` to record why
+generation failed. Pass `skipped=True` when the failure is a policy decision
+(for example a file over one of your own limits) that should stay cached until
+the thumbnail policy changes; without it the failure is retried after the
+cooldown described above.
 
 ### Example: PDF thumbnail generator
 
@@ -652,6 +717,22 @@ async def get_file_metadata(self, path: str) -> Optional[FileMetadata]:
 async def read_file(self, path: str) -> bytes:
     # Read and return the file content
     ...
+```
+
+**`read_file_limited(path, max_bytes)`** — Return content only if it fits within
+`max_bytes`, raising `FileTooLarge` otherwise. Thumbnail generation uses this
+method. The compatibility implementation checks metadata before `read_file()`,
+but backends should override it with a bounded range or streaming read so incorrect
+metadata can never cause an unbounded allocation.
+
+```python
+from datasette_files.base import FileTooLarge
+
+async def read_file_limited(self, path: str, max_bytes: int) -> bytes:
+    content = await self.read_at_most(path, max_bytes + 1)
+    if len(content) > max_bytes:
+        raise FileTooLarge()
+    return content
 ```
 
 #### Optional methods
@@ -846,6 +927,10 @@ The built-in `FilesystemStorage` stores files on the local filesystem. It suppor
 |-----|----------|-------------|
 | `root` | Yes | Absolute path to the directory where files are stored |
 | `max_file_size` | No | Maximum upload size in bytes (defaults to 100 MB) |
+
+Note: earlier releases silently ignored a configured `max_file_size` and always
+applied the 100 MB default. The option is now enforced — uploads larger than a
+configured limit are rejected.
 
 **Capabilities:**
 
