@@ -10773,6 +10773,12 @@
     "description": "Access large language models from the command-line",
     "releases": [
       {
+        "published_at": "2026-07-09T16:06:15Z",
+        "published_day": "2026-07-09",
+        "release": "0.31.1",
+        "url": "https://github.com/simonw/llm/releases/tag/0.31.1"
+      },
+      {
         "published_at": "2026-06-09T22:27:03Z",
         "published_day": "2026-06-09",
         "release": "0.32a3",
@@ -11153,7 +11159,7 @@
     ],
     "repo": "llm",
     "repo_url": "https://github.com/simonw/llm",
-    "total_releases": 63
+    "total_releases": 64
   },
   "llm-all-models-async": {
     "description": "Register async versions of models from LLM plugins that only provide a sync version",
@@ -12399,6 +12405,20 @@
     ],
     "repo": "llm-markov",
     "repo_url": "https://github.com/simonw/llm-markov",
+    "total_releases": 1
+  },
+  "llm-meta-ai": {
+    "description": "LLM plugin for the Meta AI API",
+    "releases": [
+      {
+        "published_at": "2026-07-09T16:12:20Z",
+        "published_day": "2026-07-09",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-meta-ai/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-meta-ai",
+    "repo_url": "https://github.com/simonw/llm-meta-ai",
     "total_releases": 1
   },
   "llm-minimax": {

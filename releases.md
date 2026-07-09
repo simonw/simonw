@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,216<!-- releases_count ends --> releases across <!-- project_count starts -->390<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,218<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
+<br />LLM plugin for the Meta AI API
+* **[llm](https://github.com/simonw/llm)**: [0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - ([64 releases total](https://github.com/simonw/llm/releases)) - 2026-07-09
+<br />Access large language models from the command-line
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a36](https://github.com/simonw/datasette/releases/tag/1.0a36) - ([168 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-07
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
@@ -27,8 +31,6 @@ Listing <!-- releases_count starts -->2,216<!-- releases_count ends --> releases
 <br />Luau packaged as a Pyodide WebAssembly wheel
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
 <br />Run async workflows using pytest-fixtures-style dependency injection
-* **[llm](https://github.com/simonw/llm)**: [0.32a3](https://github.com/simonw/llm/releases/tag/0.32a3) - ([63 releases total](https://github.com/simonw/llm/releases)) - 2026-06-09
-<br />Access large language models from the command-line
 * **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
 <br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06

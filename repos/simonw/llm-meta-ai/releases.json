@@ -1,0 +1,16 @@
+{
+  "description": "LLM plugin for the Meta AI API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-07-09T16:12:20Z",
+      "published_day": "2026-07-09",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-meta-ai/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-meta-ai",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-meta-ai"
+}
