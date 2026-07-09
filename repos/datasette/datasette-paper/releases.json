@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-07-09T21:28:30Z",
+      "published_day": "2026-07-09",
+      "release": "0.0.2a9",
+      "url": "https://github.com/datasette/datasette-paper/releases/tag/0.0.2a9"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-07-08T20:56:24Z",
       "published_day": "2026-07-08",
       "release": "0.0.2a8",
@@ -158,6 +165,6 @@
     }
   ],
   "repo": "datasette-paper",
-  "total_releases": 22,
+  "total_releases": 23,
   "url": "https://github.com/datasette/datasette-paper"
 }
