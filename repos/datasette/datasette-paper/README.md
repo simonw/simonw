@@ -8,7 +8,7 @@
 Collaborative document editor for Datasette. ProseMirror frontend, SQLite-backed
 storage in Datasette's internal database, real-time collaboration over SSE.
 
-<p align="center"><img src="docs/screenshots/editor.png" alt="The paper editor: a rich-text document with headings, a table and a task list, a formatting toolbar, and a header showing the author, edit time and number of users online." width="800"></p>
+<p align="center"><picture><source srcset="docs/screenshots/editor.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/editor.png" alt="The paper editor: a rich-text document with headings, a table and a task list, a formatting toolbar, and a header showing the author, edit time and number of users online." width="800"></picture></p>
 
 Rich text with **tables** and **task lists**, **wiki-style links** between papers,
 **images** (paste, drag-and-drop, or insert from the toolbar), and **per-paper
@@ -16,15 +16,15 @@ sharing**:
 
 <table>
 <tr>
-<td><img src="docs/screenshots/tables.png" alt="A table in the editor with the floating action bar for adding/removing rows and columns and naming the table for the API."></td>
-<td><img src="docs/screenshots/tasks.png" alt="A task list with checkboxes; completed items are struck through."></td>
+<td><picture><source srcset="docs/screenshots/tables.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/tables.png" alt="A table in the editor with the floating action bar for adding/removing rows and columns and naming the table for the API."></picture></td>
+<td><picture><source srcset="docs/screenshots/tasks.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/tasks.png" alt="A task list with checkboxes; completed items are struck through."></picture></td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/wiki-links.png" alt="Typing [[ opens an autocomplete popup listing other papers to link to."></td>
-<td><img src="docs/screenshots/share.png" alt="The share dialog showing people with access and their roles, plus general link access."></td>
+<td><picture><source srcset="docs/screenshots/wiki-links.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/wiki-links.png" alt="Typing [[ opens an autocomplete popup listing other papers to link to."></picture></td>
+<td><picture><source srcset="docs/screenshots/share.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/share.png" alt="The share dialog showing people with access and their roles, plus general link access."></picture></td>
 </tr>
 <tr>
-<td><img src="docs/screenshots/link-edit.png" alt="Hovering a link while editing reveals a tooltip with Edit, Open and Copy; Edit opens a small dialog with Text and URL fields to rewrite the link."></td>
+<td><picture><source srcset="docs/screenshots/link-edit.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/link-edit.png" alt="Hovering a link while editing reveals a tooltip with Edit, Open and Copy; Edit opens a small dialog with Text and URL fields to rewrite the link."></picture></td>
 <td></td>
 </tr>
 </table>
@@ -32,11 +32,11 @@ sharing**:
 Insert an image by pasting, dropping a file, or using the toolbar's image
 button — which offers a paste area or a file upload with a live preview:
 
-<p align="center"><img src="docs/screenshots/image-dialog-chosen.png" alt="The insert-image dialog with the Upload tab active, showing a preview of the chosen image, an alt-text field, and an enabled Insert button." width="440"></p>
+<p align="center"><picture><source srcset="docs/screenshots/image-dialog-chosen.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/image-dialog-chosen.png" alt="The insert-image dialog with the Upload tab active, showing a preview of the chosen image, an alt-text field, and an enabled Insert button." width="440"></picture></p>
 
 And a paper index listing everyone's papers with author and last-edited time:
 
-<p align="center"><img src="docs/screenshots/index.png" alt="The paper index: a table of papers with name, creator and updated time, plus tabs for Active / Archive / Trash / Templates." width="800"></p>
+<p align="center"><picture><source srcset="docs/screenshots/index.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/index.png" alt="The paper index: a table of papers with name, creator and updated time, plus tabs for Active / Archive / Trash / Templates." width="800"></picture></p>
 
 Drop inline **`#tags`** anywhere in a paper's body — type `#` for an
 autocomplete of existing tags. Clicking a tag opens a results page listing
@@ -44,8 +44,8 @@ every paper whose body mentions it:
 
 <table>
 <tr>
-<td><img src="docs/screenshots/inline-tags.png" alt="Inline #tag pills in a paper's body, distinct from the document-level metadata tags."></td>
-<td><img src="docs/screenshots/tag-page.png" alt="The tag results page: every paper whose body contains #roadmap, each with a mention count."></td>
+<td><picture><source srcset="docs/screenshots/inline-tags.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/inline-tags.png" alt="Inline #tag pills in a paper's body, distinct from the document-level metadata tags."></picture></td>
+<td><picture><source srcset="docs/screenshots/tag-page.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/tag-page.png" alt="The tag results page: every paper whose body contains #roadmap, each with a mention count."></picture></td>
 </tr>
 </table>
 
