@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-07-10T18:06:42Z",
+      "published_day": "2026-07-10",
+      "release": "0.0.1a2",
+      "url": "https://github.com/datasette/datasette-accounts/releases/tag/0.0.1a2"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-07-08T15:28:25Z",
       "published_day": "2026-07-08",
       "release": "0.0.1a1",
@@ -11,6 +18,6 @@
     }
   ],
   "repo": "datasette-accounts",
-  "total_releases": 1,
+  "total_releases": 2,
   "url": "https://github.com/datasette/datasette-accounts"
 }
