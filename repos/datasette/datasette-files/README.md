@@ -229,7 +229,7 @@ Get file metadata as JSON at `/-/files/{file_id}.json`.
 
 Visit `/-/files/search` to search across all files you have permission to browse. The search page supports full-text search over filenames, content types, and custom search text.
 
-The search endpoint is also available as JSON at `/-/files/search.json?q=query&source=source-slug`.
+The search endpoint is also available as JSON at `/-/files/search.json?q=query&source=source-slug`. Results use Datasette-style keyset pagination: pass the response's `next` value back as the `_next` query parameter.
 
 Each file has an editable `search_text` field (requires `files-edit` permission) that is included in the full-text search index. This can be used to add descriptions, tags, or transcriptions to make files more discoverable.
 
@@ -281,7 +281,7 @@ Once a column is assigned the `file` type, store a `df-...` ID returned from the
 | `GET` | `/-/files` | Files index page (HTML) |
 | `GET` | `/-/files/source/{source_slug}` | Source file listing page, with upload UI if allowed (HTML) |
 | `GET` | `/-/files/search` | Search files (HTML) |
-| `GET` | `/-/files/search.json?q=&source=` | Search files (JSON) |
+| `GET` | `/-/files/search.json?q=&source=&_next=` | Search files with keyset pagination (JSON) |
 | `GET` | `/-/files/sources.json` | List configured sources |
 | `GET` | `/-/files/batch.json?id=df-...&id=df-...` | Bulk file metadata |
 | `GET` | `/-/files/upload/{source_slug}` | Dedicated upload page (HTML) |
