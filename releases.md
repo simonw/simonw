@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,218<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,219<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1) - ([125 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-11
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
 <br />LLM plugin for the Meta AI API
 * **[llm](https://github.com/simonw/llm)**: [0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - ([64 releases total](https://github.com/simonw/llm/releases)) - 2026-07-09
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,218<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
 <br />A simple database migration system for SQLite, based on sqlite-utils
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.0](https://github.com/simonw/sqlite-utils/releases/tag/4.0) - ([124 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-07
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 <br />A coding agent built on LLM
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - ([36 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-06-30

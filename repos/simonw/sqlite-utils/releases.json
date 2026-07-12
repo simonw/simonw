@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-07-11T23:50:20Z",
+      "published_day": "2026-07-11",
+      "release": "4.1",
+      "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.1"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-07-07T15:42:43Z",
       "published_day": "2026-07-07",
       "release": "4.0",
@@ -872,6 +879,6 @@
     }
   ],
   "repo": "sqlite-utils",
-  "total_releases": 124,
+  "total_releases": 125,
   "url": "https://github.com/simonw/sqlite-utils"
 }
