@@ -4,6 +4,20 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-07-12T19:16:28Z",
+      "published_day": "2026-07-12",
+      "release": "0.0.1a6",
+      "url": "https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a6"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-07-12T19:07:47Z",
+      "published_day": "2026-07-12",
+      "release": "0.0.1a5",
+      "url": "https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a5"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-06-24T21:29:36Z",
       "published_day": "2026-06-24",
       "release": "0.0.1a4",
@@ -32,6 +46,6 @@
     }
   ],
   "repo": "datasette-plugin-router",
-  "total_releases": 4,
+  "total_releases": 6,
   "url": "https://github.com/datasette/datasette-plugin-router"
 }
