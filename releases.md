@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,219<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,220<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1) - ([125 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-11
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1.1) - ([126 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-12
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
 <br />LLM plugin for the Meta AI API
