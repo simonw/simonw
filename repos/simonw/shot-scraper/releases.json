@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-07-12T23:46:52Z",
+      "published_day": "2026-07-12",
+      "release": "1.11",
+      "url": "https://github.com/simonw/shot-scraper/releases/tag/1.11"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-06-30T15:10:14Z",
       "published_day": "2026-06-30",
       "release": "1.10",
@@ -256,6 +263,6 @@
     }
   ],
   "repo": "shot-scraper",
-  "total_releases": 36,
+  "total_releases": 37,
   "url": "https://github.com/simonw/shot-scraper"
 }

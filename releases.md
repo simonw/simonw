@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,220<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,221<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - ([37 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-07-12
+<br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1.1) - ([126 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-12
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2,220<!-- releases_count ends --> releases
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
 <br />A coding agent built on LLM
-* **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.10](https://github.com/simonw/shot-scraper/releases/tag/1.10) - ([36 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-06-30
-<br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[datasette-export-database](https://github.com/datasette/datasette-export-database)**: [0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - ([7 releases total](https://github.com/datasette/datasette-export-database/releases)) - 2026-06-25
 <br />Export a copy of a mutable SQLite database on demand
 * **[datasette-acl](https://github.com/datasette/datasette-acl)**: [0.6a0](https://github.com/datasette/datasette-acl/releases/tag/0.6a0) - ([13 releases total](https://github.com/datasette/datasette-acl/releases)) - 2026-06-18
