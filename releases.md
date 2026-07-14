@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,221<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,222<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a37](https://github.com/simonw/datasette/releases/tag/1.0a37) - ([169 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-14
+<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - ([37 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-07-12
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1.1) - ([126 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-12
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,221<!-- releases_count ends --> releases
 <br />LLM plugin for the Meta AI API
 * **[llm](https://github.com/simonw/llm)**: [0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - ([64 releases total](https://github.com/simonw/llm/releases)) - 2026-07-09
 <br />Access large language models from the command-line
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a36](https://github.com/simonw/datasette/releases/tag/1.0a36) - ([168 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-07
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02

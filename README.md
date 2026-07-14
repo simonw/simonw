@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette 1.0a37](https://github.com/simonw/datasette/releases/tag/1.0a37) - 2026-07-14
+
 [shot-scraper 1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - 2026-07-12
 
 [sqlite-utils 4.1.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1.1) - 2026-07-12
@@ -11,8 +13,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-meta-ai 0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
 
 [llm 0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - 2026-07-09
-
-[datasette 1.0a36](https://github.com/simonw/datasette/releases/tag/1.0a36) - 2026-07-07
 
 [sqlite-migrate 0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - 2026-07-07
 
