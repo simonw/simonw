@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using uvx in GitHub Actions in a cache-friendly way](https://til.simonwillison.net/github-actions/uvx-github-actions-cache) - 2026-07-14
+
 [Cloudflare CAPTCHA on at least one ampersand](https://til.simonwillison.net/cloudflare/captcha-on-at-least-one-ampersand) - 2026-06-16
 
 [Setting a custom price for a model in AgentsView](https://til.simonwillison.net/llms/agentsview-custom-model-price) - 2026-06-09
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [SQL functions in Google Sheets to fetch data from Datasette](https://til.simonwillison.net/google-sheets/datasette-sql) - 2026-04-20
 
 [Running OpenClaw in Docker](https://til.simonwillison.net/llms/openclaw-docker) - 2026-02-01
-
-[Cloudflare response header transform rules](https://til.simonwillison.net/cloudflare/response-header-transform-rule) - 2026-01-23
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
