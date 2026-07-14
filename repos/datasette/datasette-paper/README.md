@@ -38,6 +38,20 @@ And a paper index listing everyone's papers with author and last-edited time:
 
 <p align="center"><picture><source srcset="docs/screenshots/index.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/index.png" alt="The paper index: a table of papers with name, creator and updated time, plus tabs for Active / Archive / Trash / Templates." width="800"></picture></p>
 
+The **link graph** turns those `[[wiki links]]` into an interactive map of the
+workspace — force-directed and zoomable, with nodes colored by tag / state /
+kind (the legend doubles as a filter), sized by connections or recency, and a
+metadata panel for the selected paper. Every paper also gets a doc-centred ego
+view from its sidebar: just that paper's neighbourhood, sliceable to an
+adjustable link depth:
+
+<table>
+<tr>
+<td><picture><source srcset="docs/screenshots/link-graph.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/link-graph.png" alt="The link graph modal: a force-directed graph of papers colored by tag with a legend filter, search, and a metadata panel showing the selected paper's kind, state, links and tags."></picture></td>
+<td><img src="docs/screenshots/link-graph-ego.png" alt="The doc-centred ego view: the focus paper ringed at the centre of its depth-1 neighbourhood, with a Depth selector to widen the slice."></td>
+</tr>
+</table>
+
 Drop inline **`#tags`** anywhere in a paper's body — type `#` for an
 autocomplete of existing tags. Clicking a tag opens a results page listing
 every paper whose body mentions it:
