@@ -1,0 +1,8 @@
+{
+  "description": "Tracking which Datasette plugins are ready for Datasette 1.0",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "ready-for-datasette",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/ready-for-datasette"
+}
