@@ -106,6 +106,18 @@ The owner is whoever created the paper (`created_by`, captured from the
 actor cookie at create time). Only the owner can change visibility or
 mutate shares.
 
+## Profile integration
+
+When [datasette-user-profiles](https://github.com/datasette/datasette-user-profiles)
+is installed, each person's profile page grows a **Papers** section (registered
+via its `datasette_user_profile_sections` hook). It lists the papers that actor
+created plus the ones they've recently edited, newest activity first, each
+badged Created / Edited. The list is filtered to the papers the *viewer* is
+allowed to see — a paper you can't open never shows up on someone else's
+profile. The section is populated from `GET /-/paper/api/profile/<actor>/docs`.
+
+<p align="center"><img src="docs/screenshots/profile-papers.png" alt="A user-profiles profile page with a Papers section listing the papers that actor created or recently edited, each badged Created or Created · edited with a relative time." width="800"></p>
+
 ## Papers as data
 
 Paper data lives in Datasette's internal database under tables prefixed
