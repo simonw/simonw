@@ -1985,6 +1985,12 @@
     "description": null,
     "releases": [
       {
+        "published_at": "2026-07-14T23:05:22Z",
+        "published_day": "2026-07-14",
+        "release": "0.0.1a11",
+        "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11"
+      },
+      {
         "published_at": "2025-11-08T01:19:19Z",
         "published_day": "2025-11-08",
         "release": "0.0.1a6",
@@ -1999,11 +2005,17 @@
     ],
     "repo": "datasette-alerts",
     "repo_url": "https://github.com/datasette/datasette-alerts",
-    "total_releases": 8
+    "total_releases": 9
   },
   "datasette-allow-permissions-debug": {
     "description": "Always allow access to /-/permissions, for debugging",
     "releases": [
+      {
+        "published_at": "2026-07-14T23:15:26Z",
+        "published_day": "2026-07-14",
+        "release": "0.2a1",
+        "url": "https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1"
+      },
       {
         "published_at": "2025-11-04T03:15:52Z",
         "published_day": "2025-11-04",
@@ -2019,7 +2031,7 @@
     ],
     "repo": "datasette-allow-permissions-debug",
     "repo_url": "https://github.com/simonw/datasette-allow-permissions-debug",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-app": {
     "description": "The Datasette macOS application",

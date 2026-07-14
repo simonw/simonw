@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-allow-permissions-debug 0.2a1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1) - 2026-07-14
+
+[datasette-alerts 0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - 2026-07-14
+
 [datasette 1.0a37](https://github.com/simonw/datasette/releases/tag/1.0a37) - 2026-07-14
 
 [shot-scraper 1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - 2026-07-12
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm 0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - 2026-07-09
 
 [sqlite-migrate 0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - 2026-07-07
-
-[llm-coding-agent 0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
-
-[datasette-export-database 0.3a2](https://github.com/datasette/datasette-export-database/releases/tag/0.3a2) - 2026-06-25
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

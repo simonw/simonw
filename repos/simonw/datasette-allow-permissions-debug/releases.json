@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-07-14T23:15:26Z",
+      "published_day": "2026-07-14",
+      "release": "0.2a1",
+      "url": "https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1"
+    },
+    {
+      "author": "simonw",
       "published_at": "2025-11-04T03:15:52Z",
       "published_day": "2025-11-04",
       "release": "0.2a0",
@@ -18,6 +25,6 @@
     }
   ],
   "repo": "datasette-allow-permissions-debug",
-  "total_releases": 2,
+  "total_releases": 3,
   "url": "https://github.com/simonw/datasette-allow-permissions-debug"
 }

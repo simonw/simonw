@@ -3,6 +3,13 @@
   "owner": "datasette",
   "releases": [
     {
+      "author": "simonw",
+      "published_at": "2026-07-14T23:05:22Z",
+      "published_day": "2026-07-14",
+      "release": "0.0.1a11",
+      "url": "https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11"
+    },
+    {
       "author": "asg017",
       "published_at": "2026-05-13T15:20:27Z",
       "published_day": "2026-05-13",
@@ -60,6 +67,6 @@
     }
   ],
   "repo": "datasette-alerts",
-  "total_releases": 8,
+  "total_releases": 9,
   "url": "https://github.com/datasette/datasette-alerts"
 }

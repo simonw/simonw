@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,222<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,224<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2026-07-14
+<br />Always allow access to /-/permissions, for debugging
+* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - ([9 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-07-14
+<br />None
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a37](https://github.com/simonw/datasette/releases/tag/1.0a37) - ([169 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-14
 <br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - ([37 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-07-12
@@ -211,8 +215,6 @@ Listing <!-- releases_count starts -->2,222<!-- releases_count ends --> releases
 <br />Query databases and tables with AI assistance
 * **[datasette-load](https://github.com/datasette/datasette-load)**: [0.1a5](https://github.com/datasette/datasette-load/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-load/releases)) - 2025-11-08
 <br />API and UI for bulk loading data into Datasette from a URL
-* **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a6](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a6) - ([8 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2025-11-08
-<br />None
 * **[datasette-profiles](https://github.com/datasette/datasette-profiles)**: [0.1a5](https://github.com/datasette/datasette-profiles/releases/tag/0.1a5) - ([6 releases total](https://github.com/datasette/datasette-profiles/releases)) - 2025-11-08
 <br />None
 * **[datasette-events-db](https://github.com/datasette/datasette-events-db)**: [0.1a2](https://github.com/datasette/datasette-events-db/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-events-db/releases)) - 2025-11-08
@@ -229,8 +231,6 @@ Listing <!-- releases_count starts -->2,222<!-- releases_count ends --> releases
 <br />Add interactive checkboxes to columns in Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
 <br />Tools for running enrichments against data stored in Datasette
-* **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a0](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2025-11-04
-<br />Always allow access to /-/permissions, for debugging
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04
 <br />Tools for tailing your database
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03

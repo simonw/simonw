@@ -69,11 +69,15 @@ do.
 
 The `Test plugins` workflow runs on a schedule and can also
 be started manually with `workflow_dispatch`, and runs on pushes to `main`. It
-selects at most five released package/version and Datasette-alpha combinations
-that have not reached a terminal result. New plugin releases take priority,
-followed by plugins that have never been tested and plugins that need testing
-against a new Datasette alpha. Infrastructure failures are retried after a
-six-hour cooldown.
+selects five released package/version and Datasette-alpha combinations by
+default, with a configurable maximum of ten, that have not reached a terminal
+result. New plugin releases take priority, followed by plugins that have never
+been tested and plugins that need testing against a new Datasette alpha.
+Infrastructure failures are retried after a six-hour cooldown.
+
+Manual runs also accept up to ten comma-separated plugin names. When provided,
+that list replaces backlog selection and reruns those exact plugins using their
+current PyPI releases, even if they already have results.
 
 Each selected combination runs independently. A final serialized job downloads
 their artifacts, merges each immutable run into `results/`, rebuilds the latest
