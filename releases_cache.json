@@ -2817,6 +2817,12 @@
     "description": "Plugin adding backup options to Datasette",
     "releases": [
       {
+        "published_at": "2026-07-15T20:16:30Z",
+        "published_day": "2026-07-15",
+        "release": "0.1.1",
+        "url": "https://github.com/simonw/datasette-backup/releases/tag/0.1.1"
+      },
+      {
         "published_at": "2020-09-07T02:27:30Z",
         "published_day": "2020-09-07",
         "release": "0.1",
@@ -2831,7 +2837,7 @@
     ],
     "repo": "datasette-backup",
     "repo_url": "https://github.com/simonw/datasette-backup",
-    "total_releases": 2
+    "total_releases": 3
   },
   "datasette-basemap": {
     "description": "A basemap for Datasette and datasette-leaflet",

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,226<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,227<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15
+<br />Plugin adding backup options to Datasette
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2026-07-14
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a4](https://github.com/datasette/datasette-apps/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-07-14
@@ -739,8 +741,6 @@ Listing <!-- releases_count starts -->2,226<!-- releases_count ends --> releases
 <br />Create a SQLite database containing your observation history from iNaturalist
 * **[datasette-dns](https://github.com/simonw/datasette-dns)**: [0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/datasette-dns/releases)) - 2020-09-10
 <br />Custom SQL function for making DNS lookups
-* **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - ([2 releases total](https://github.com/simonw/datasette-backup/releases)) - 2020-09-07
-<br />Plugin adding backup options to Datasette
 * **[sqlite-dump](https://github.com/simonw/sqlite-dump)**: [0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/sqlite-dump/releases)) - 2020-09-07
 <br />An improved version of .iterdump() for sqlite3
 * **[datasette-insert-unsafe](https://github.com/simonw/datasette-insert-unsafe)**: [0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
