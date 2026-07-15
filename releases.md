@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,224<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,226<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2026-07-14
+<br />Datasette plugin that blocks robots and crawlers using robots.txt
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a4](https://github.com/datasette/datasette-apps/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-07-14
+<br />Apps that live inside Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2026-07-14
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - ([9 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-07-14
@@ -27,8 +31,6 @@ Listing <!-- releases_count starts -->2,224<!-- releases_count ends --> releases
 <br />Advanced permission management for Datasette
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
 <br />Run a Datasette instance on a Tailscale network
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a3](https://github.com/datasette/datasette-apps/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-06-15
-<br />Apps that live inside Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-15
 <br />An LLM-powered agent for Datasette
 * **[luau-wasm](https://github.com/simonw/luau-wasm)**: [0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
@@ -591,8 +593,6 @@ Listing <!-- releases_count starts -->2,224<!-- releases_count ends --> releases
 <br />Turn any URLs ending in .jpg/.png/.gif into img tags with width 200
 * **[datasette-sitemap](https://github.com/simonw/datasette-sitemap)**: [1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - ([3 releases total](https://github.com/simonw/datasette-sitemap/releases)) - 2022-08-30
 <br />Generate sitemap.xml for Datasette sites
-* **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2022-08-30
-<br />Datasette plugin that blocks robots and crawlers using robots.txt
 * **[datasette-multiline-links](https://github.com/simonw/datasette-multiline-links)**: [0.1](https://github.com/simonw/datasette-multiline-links/releases/tag/0.1) - 2022-08-24
 <br />Make multiple newline separated URLs clickable in Datasette
 * **[datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel)**: [0.14.2](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.14.2) - ([23 releases total](https://github.com/simonw/datasette-publish-vercel/releases)) - 2022-08-24

@@ -2209,6 +2209,12 @@
     "description": "Apps that live inside Datasette",
     "releases": [
       {
+        "published_at": "2026-07-14T23:44:56Z",
+        "published_day": "2026-07-14",
+        "release": "0.1a4",
+        "url": "https://github.com/datasette/datasette-apps/releases/tag/0.1a4"
+      },
+      {
         "published_at": "2026-06-15T20:25:07Z",
         "published_day": "2026-06-15",
         "release": "0.1a3",
@@ -2235,7 +2241,7 @@
     ],
     "repo": "datasette-apps",
     "repo_url": "https://github.com/datasette/datasette-apps",
-    "total_releases": 4
+    "total_releases": 5
   },
   "datasette-atom": {
     "description": "Datasette plugin that adds a .atom output format",
@@ -2883,6 +2889,12 @@
     "description": "Datasette plugin that blocks robots and crawlers using robots.txt",
     "releases": [
       {
+        "published_at": "2026-07-14T23:55:07Z",
+        "published_day": "2026-07-14",
+        "release": "1.1.1",
+        "url": "https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1"
+      },
+      {
         "published_at": "2022-08-30T16:25:38Z",
         "published_day": "2022-08-30",
         "release": "1.1",
@@ -2921,7 +2933,7 @@
     ],
     "repo": "datasette-block-robots",
     "repo_url": "https://github.com/simonw/datasette-block-robots",
-    "total_releases": 6
+    "total_releases": 7
   },
   "datasette-bplist": {
     "description": "Datasette plugin for working with Apple's binary plist format",

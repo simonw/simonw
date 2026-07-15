@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-07-14T23:55:07Z",
+      "published_day": "2026-07-14",
+      "release": "1.1.1",
+      "url": "https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1"
+    },
+    {
+      "author": "simonw",
       "published_at": "2022-08-30T16:25:38Z",
       "published_day": "2022-08-30",
       "release": "1.1",
@@ -46,6 +53,6 @@
     }
   ],
   "repo": "datasette-block-robots",
-  "total_releases": 6,
+  "total_releases": 7,
   "url": "https://github.com/simonw/datasette-block-robots"
 }

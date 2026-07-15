@@ -77,7 +77,10 @@ Infrastructure failures are retried after a six-hour cooldown.
 
 Manual runs also accept up to ten comma-separated plugin names. When provided,
 that list replaces backlog selection and reruns those exact plugins using their
-current PyPI releases, even if they already have results.
+current PyPI releases, even if they already have results. Named runs refresh
+those packages from PyPI first and commit the exact refreshed `plugins.json`
+records alongside the results. A newly released plugin can be added without a
+full owner scan when its PyPI metadata links to its GitHub repository.
 
 Each selected combination runs independently. A final serialized job downloads
 their artifacts, merges each immutable run into `results/`, rebuilds the latest

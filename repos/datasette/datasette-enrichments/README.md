@@ -18,21 +18,13 @@ Documentation for this plugin lives at **[enrichments.datasette.io](https://enri
 
 ## Development
 
-To set up this plugin locally, first checkout the code. Then create a new virtual environment:
+To set up this plugin locally, first checkout the code. You can confirm it is available like this:
 ```bash
 cd datasette-enrichments
-python3 -mvenv venv
-source venv/bin/activate
-```
-Or if you are using `pipenv`:
-```bash
-pipenv shell
-```
-Now install the dependencies and test dependencies:
-```bash
-pip install -e '.[test]'
+# Confirm the plugin is visible
+uv run datasette plugins
 ```
 To run the tests:
 ```bash
-pytest
+uv run pytest
 ```
