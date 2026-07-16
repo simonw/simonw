@@ -63,6 +63,20 @@ every paper whose body mentions it:
 </tr>
 </table>
 
+Drop an inline **date** anywhere — type `/date` (or press `Cmd/Ctrl-;`) for
+today, or `/today` / `/tomorrow` / `/yesterday`. Each renders a compact calendar
+chip that round-trips through markdown and can carry a time + timezone (shown in
+each reader's own zone). A date inside an unchecked task tints **overdue** (red)
+or **due today** (amber); checking the box clears it. Click a chip to edit it in
+plain language (`next fri 3pm`, `7/20`) and pick a display format:
+
+<table>
+<tr>
+<td><picture><source srcset="docs/screenshots/date.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/date.png" alt="Inline date chips: a neutral date in prose, and in a task list a red overdue date, an amber due-today date, and a struck-through completed task whose date is neutral."></picture></td>
+<td><img src="docs/screenshots/date-format-picker.png" alt="The date chip's edit popup: a natural-language input with a live preview, and a labelled radio list of display formats (Default, ISO, Medium, Long, Weekday, Short) each showing its own rendered example, plus a custom strftime field." width="300"></td>
+</tr>
+</table>
+
 ## Installation
 
 Install in the same environment as Datasette:
