@@ -146,6 +146,29 @@ profile. The section is populated from `GET /-/paper/api/profile/<actor>/docs`.
 
 <p align="center"><img src="docs/screenshots/profile-papers.png" alt="A user-profiles profile page with a Papers section listing the papers that actor created or recently edited, each badged Created or Created · edited with a relative time." width="800"></p>
 
+The same integration adds a **TODOs** section listing that person's open assigned
+tasks (see [Task assignment](#task-assignment) below), viewer-filtered the same way.
+
+## Task assignment
+
+A `@mention` inside a task item **assigns** it to that person; a `date` atom
+inside the item is its **due date**. It's pure interpretation of the document —
+no task ids, no assignment records, no extra editor UI. Assignment inherits down
+a task's subtree (a sub-task with no mention of its own takes the parent's
+assignee), and the first date atom wins as the due date.
+
+The dedicated **`/-/paper/todos`** page collects a person's assigned tasks across
+every paper the viewer can see, bucketed by due date in the viewer's timezone —
+Overdue / Today / This week / Later / No due date — with a status toggle for open
+/ done / all. It's read-only: each row links into its paper, where you check the
+box. Both this page and the profile TODOs section are fed by
+`GET /-/paper/api/profile/<actor>/todos`, viewer-filtered so you only ever see
+tasks in papers you're allowed to open.
+
+<p align="center"><picture><source srcset="docs/screenshots/todos.dark.png" media="(prefers-color-scheme: dark)"><img src="docs/screenshots/todos.png" alt="The /-/paper/todos page: a person's assigned tasks grouped into Overdue, Today, This week, Later and No due date, each row showing a checkbox, task text, assignee chips, a due-date chip tinted red (overdue) or amber (today), a section breadcrumb and the paper it lives in." width="800"></picture></p>
+
+<p align="center"><img src="docs/screenshots/profile-todos.png" alt="The TODOs section on a user-profiles profile page: the person's open assigned tasks, each with a checkbox, assignee chips, a due-date chip and the paper it lives in, plus an 'All TODOs' link to the full page." width="800"></p>
+
 ## Papers as data
 
 Paper data lives in Datasette's internal database under tables prefixed
