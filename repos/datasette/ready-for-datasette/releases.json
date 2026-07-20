@@ -1,8 +1,16 @@
 {
   "description": "Tracking which Datasette plugins are ready for Datasette 1.0",
   "owner": "datasette",
-  "releases": [],
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-07-20T20:43:42Z",
+      "published_day": "2026-07-20",
+      "release": "0.1",
+      "url": "https://github.com/datasette/ready-for-datasette/releases/tag/0.1"
+    }
+  ],
   "repo": "ready-for-datasette",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/datasette/ready-for-datasette"
 }

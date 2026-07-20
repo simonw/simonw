@@ -13663,6 +13663,20 @@
     "repo_url": "https://github.com/simonw/pytest-unused-port",
     "total_releases": 2
   },
+  "ready-for-datasette": {
+    "description": "Tracking which Datasette plugins are ready for Datasette 1.0",
+    "releases": [
+      {
+        "published_at": "2026-07-20T20:43:42Z",
+        "published_day": "2026-07-20",
+        "release": "0.1",
+        "url": "https://github.com/datasette/ready-for-datasette/releases/tag/0.1"
+      }
+    ],
+    "repo": "ready-for-datasette",
+    "repo_url": "https://github.com/datasette/ready-for-datasette",
+    "total_releases": 1
+  },
   "research-llm-apis": {
     "description": "Research into the HTTP APIs from various LLM providers.",
     "releases": [

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,227<!-- releases_count ends --> releases across <!-- project_count starts -->391<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,228<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
+<br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15
 <br />Plugin adding backup options to Datasette
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2026-07-14

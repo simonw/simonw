@@ -1,5 +1,60 @@
 # ready-for-datasette
 
+[![PyPI](https://img.shields.io/pypi/v/ready-for-datasette.svg)](https://pypi.org/project/ready-for-datasette/)
+[![Changelog](https://img.shields.io/github/v/release/datasette/ready-for-datasette?include_prereleases&label=changelog)](https://github.com/datasette/ready-for-datasette/releases)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/datasette/ready-for-datasette/blob/main/LICENSE)
+
+Check whether a Datasette plugin is ready to publish and works with Datasette
+1.0.
+
+## Installation
+
+Install this tool using `uv`:
+
+```bash
+uv tool install ready-for-datasette
+```
+
+You can also run it without installing it first using `uvx`.
+
+## Usage
+
+Run this from inside a Datasette plugin repository:
+
+```bash
+ready-for-datasette
+```
+
+Or pass the path to a plugin repository:
+
+```bash
+ready-for-datasette path/to/plugin
+```
+
+The command checks the plugin's packaging metadata, GitHub Actions test matrix,
+action versions and trusted publishing configuration. It performs a clean
+build, inspects the wheel and source distribution, and runs the tests included
+in the source distribution against Datasette 1.0 alpha and the latest stable
+Datasette release.
+
+Use `--verbose` to show output from successful build and test commands.
+
+To run a plugin's working-tree tests with Datasette 1.0a37 and the dependencies
+from its `dependency-groups.dev`, use:
+
+```bash
+ready-for-datasette test path/to/plugin
+```
+
+The equivalent one-off commands, without installing the tool first, are:
+
+```bash
+uvx ready-for-datasette path/to/plugin
+uvx ready-for-datasette test path/to/plugin
+```
+
+## Datasette 1.0 plugin tracker
+
 Tracking which Datasette plugins are ready for Datasette 1.0 stable.
 
 https://lite.datasette.io/?json=https%3A%2F%2Fdatasette.github.io%2Fready-for-datasette%2Fplugins.json#/data/plugins
