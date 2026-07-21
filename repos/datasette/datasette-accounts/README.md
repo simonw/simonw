@@ -93,7 +93,7 @@ create your first admin account, then restart without `--root`.
 - Users log in at **`/-/login`** and manage their own password at **`/-/account`**.
 - Admins manage accounts at **`/-/admin/users`**.
 - The Datasette menu gains **Log in** / **Log out** / **Your account** entries,
-  and an **Accounts** link for admins.
+  and an **Admin** link for admins.
 
 ## Managing accounts from the shell
 
@@ -131,11 +131,11 @@ logs.
 
 ## Messages
 
-Admins can write optional help text at **`/-/admin/messages`** — a sign-in prompt
+Admins can write optional help text under **`/-/admin/config`** — a sign-in prompt
 shown on the homepage to signed-out visitors, and a help/contact note shown below
 the login form. Blank hides a message. Bodies are admin-authored HTML rendered
 verbatim, so you can include links and `mailto:` contacts (only admins can edit
-them).
+them). The same page holds the self-registration toggle.
 
 ## Configuration
 
