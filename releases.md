@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,228<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,229<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - ([127 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-26
+<br />Python CLI utility and library for manipulating SQLite databases
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
 <br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->2,228<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - ([37 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-07-12
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.1.1](https://github.com/simonw/sqlite-utils/releases/tag/4.1.1) - ([126 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-12
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
 <br />LLM plugin for the Meta AI API
 * **[llm](https://github.com/simonw/llm)**: [0.31.1](https://github.com/simonw/llm/releases/tag/0.31.1) - ([64 releases total](https://github.com/simonw/llm/releases)) - 2026-07-09
