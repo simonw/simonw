@@ -1,0 +1,8 @@
+{
+  "description": "Run prompts through Apple Foundation models on macOS",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-apple-foundation",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-apple-foundation"
+}
