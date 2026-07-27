@@ -69,6 +69,10 @@ entry points, and writes `plugins.json`.
 uv run --no-project python update_plugins.py
 ```
 
+Packages listed in `skip-these.txt` are excluded from plugin discovery, test
+matrix selection (including manual runs), and the published report. Use one
+normalized PyPI package name per line; blank lines and `#` comments are ignored.
+
 Each record includes the ETag and SHA-256 of the repository's `pyproject.toml`
 or `setup.py`. The ETag enables conditional raw GitHub requests, and an
 unchanged SHA-256 reuses the PyPI version already in `plugins.json`, avoiding an
