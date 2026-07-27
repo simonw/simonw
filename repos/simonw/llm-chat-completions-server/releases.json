@@ -1,0 +1,8 @@
+{
+  "description": "LLM plugin to serve an OpenAI Chat Completions API endpoint",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "llm-chat-completions-server",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/llm-chat-completions-server"
+}
