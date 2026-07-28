@@ -13293,6 +13293,26 @@
     "repo_url": "https://github.com/simonw/mbox-to-sqlite",
     "total_releases": 1
   },
+  "mcp-explorer": {
+    "description": "CLI tool for exploring an MCP server",
+    "releases": [
+      {
+        "published_at": "2026-07-28T18:32:33Z",
+        "published_day": "2026-07-28",
+        "release": "0.2",
+        "url": "https://github.com/simonw/mcp-explorer/releases/tag/0.2"
+      },
+      {
+        "published_at": "2026-07-28T17:56:57Z",
+        "published_day": "2026-07-28",
+        "release": "0.1",
+        "url": "https://github.com/simonw/mcp-explorer/releases/tag/0.1"
+      }
+    ],
+    "repo": "mcp-explorer",
+    "repo_url": "https://github.com/simonw/mcp-explorer",
+    "total_releases": 2
+  },
   "micro-javascript": {
     "description": "Python port of MicroQuickJS",
     "releases": [

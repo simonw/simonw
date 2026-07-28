@@ -1,8 +1,23 @@
 {
   "description": "CLI tool for exploring an MCP server",
   "owner": "simonw",
-  "releases": [],
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-07-28T18:32:33Z",
+      "published_day": "2026-07-28",
+      "release": "0.2",
+      "url": "https://github.com/simonw/mcp-explorer/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
+      "published_at": "2026-07-28T17:56:57Z",
+      "published_day": "2026-07-28",
+      "release": "0.1",
+      "url": "https://github.com/simonw/mcp-explorer/releases/tag/0.1"
+    }
+  ],
   "repo": "mcp-explorer",
-  "total_releases": 0,
+  "total_releases": 2,
   "url": "https://github.com/simonw/mcp-explorer"
 }

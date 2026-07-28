@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,229<!-- releases_count ends --> releases across <!-- project_count starts -->392<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,231<!-- releases_count ends --> releases across <!-- project_count starts -->393<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.2](https://github.com/simonw/mcp-explorer/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-28
+<br />CLI tool for exploring an MCP server
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - ([127 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-26
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
