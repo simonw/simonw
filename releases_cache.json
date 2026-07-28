@@ -6161,6 +6161,20 @@
     "repo_url": "https://github.com/simonw/datasette-mask-columns",
     "total_releases": 4
   },
+  "datasette-mcp": {
+    "description": "Adds a /-/mcp MCP server to any Datasette instance",
+    "releases": [
+      {
+        "published_at": "2026-07-28T18:57:28Z",
+        "published_day": "2026-07-28",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-mcp/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-mcp",
+    "repo_url": "https://github.com/datasette/datasette-mcp",
+    "total_releases": 1
+  },
   "datasette-media": {
     "description": "Datasette plugin for serving media based on a SQL query",
     "releases": [

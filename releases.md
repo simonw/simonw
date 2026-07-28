@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,231<!-- releases_count ends --> releases across <!-- project_count starts -->393<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,232<!-- releases_count ends --> releases across <!-- project_count starts -->394<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.1a0](https://github.com/datasette/datasette-mcp/releases/tag/0.1a0) - 2026-07-28
+<br />Adds a /-/mcp MCP server to any Datasette instance
 * **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.2](https://github.com/simonw/mcp-explorer/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-28
 <br />CLI tool for exploring an MCP server
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - ([127 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-26

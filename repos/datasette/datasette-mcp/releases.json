@@ -1,0 +1,16 @@
+{
+  "description": "Adds a /-/mcp MCP server to any Datasette instance",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-07-28T18:57:28Z",
+      "published_day": "2026-07-28",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-mcp/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-mcp",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-mcp"
+}
