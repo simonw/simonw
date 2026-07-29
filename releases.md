@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,232<!-- releases_count ends --> releases across <!-- project_count starts -->394<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,234<!-- releases_count ends --> releases across <!-- project_count starts -->395<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent-modeler](https://github.com/datasette/datasette-agent-modeler)**: [0.1a0](https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0) - 2026-07-29
+<br />Datasette agent plugin adding tools for creating 3D models
+* **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-29
+<br />CLI tool for exploring an MCP server
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.1a0](https://github.com/datasette/datasette-mcp/releases/tag/0.1a0) - 2026-07-28
 <br />Adds a /-/mcp MCP server to any Datasette instance
-* **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.2](https://github.com/simonw/mcp-explorer/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-28
-<br />CLI tool for exploring an MCP server
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - ([127 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-26
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20

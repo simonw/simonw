@@ -1953,6 +1953,20 @@
     "repo_url": "https://github.com/datasette/datasette-agent-micropython",
     "total_releases": 1
   },
+  "datasette-agent-modeler": {
+    "description": "Datasette agent plugin adding tools for creating 3D models",
+    "releases": [
+      {
+        "published_at": "2026-07-29T02:47:05Z",
+        "published_day": "2026-07-29",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-agent-modeler",
+    "repo_url": "https://github.com/datasette/datasette-agent-modeler",
+    "total_releases": 1
+  },
   "datasette-agent-openai-imagegen": {
     "description": "Generate images in Datasette Agent",
     "releases": [
@@ -13311,6 +13325,12 @@
     "description": "CLI tool for exploring an MCP server",
     "releases": [
       {
+        "published_at": "2026-07-29T02:14:15Z",
+        "published_day": "2026-07-29",
+        "release": "0.3",
+        "url": "https://github.com/simonw/mcp-explorer/releases/tag/0.3"
+      },
+      {
         "published_at": "2026-07-28T18:32:33Z",
         "published_day": "2026-07-28",
         "release": "0.2",
@@ -13325,7 +13345,7 @@
     ],
     "repo": "mcp-explorer",
     "repo_url": "https://github.com/simonw/mcp-explorer",
-    "total_releases": 2
+    "total_releases": 3
   },
   "micro-javascript": {
     "description": "Python port of MicroQuickJS",
