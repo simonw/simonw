@@ -1,0 +1,16 @@
+{
+  "description": null,
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-07-29T16:49:47Z",
+      "published_day": "2026-07-29",
+      "release": "0.0.1a1",
+      "url": "https://github.com/datasette/datasette-client-ts/releases/tag/0.0.1a1"
+    }
+  ],
+  "repo": "datasette-client-ts",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-client-ts"
+}
