@@ -4,6 +4,34 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-07-29T19:22:52Z",
+      "published_day": "2026-07-29",
+      "release": "0.0.1-a7",
+      "url": "https://github.com/datasette/datasette-client-ts/releases/tag/0.0.1-a7"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-07-29T19:21:35Z",
+      "published_day": "2026-07-29",
+      "release": "0.0.1-a6",
+      "url": "https://github.com/datasette/datasette-client-ts/releases/tag/0.0.1-a6"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-07-29T19:13:41Z",
+      "published_day": "2026-07-29",
+      "release": "0.0.1-a5",
+      "url": "https://github.com/datasette/datasette-client-ts/releases/tag/0.0.1-a5"
+    },
+    {
+      "author": "asg017",
+      "published_at": "2026-07-29T19:01:22Z",
+      "published_day": "2026-07-29",
+      "release": "0.0.1-a2",
+      "url": "https://github.com/datasette/datasette-client-ts/releases/tag/0.0.1-a2"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-07-29T16:49:47Z",
       "published_day": "2026-07-29",
       "release": "0.0.1a1",
@@ -11,6 +39,6 @@
     }
   ],
   "repo": "datasette-client-ts",
-  "total_releases": 1,
+  "total_releases": 5,
   "url": "https://github.com/datasette/datasette-client-ts"
 }

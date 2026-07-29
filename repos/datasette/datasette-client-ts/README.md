@@ -1,13 +1,17 @@
-# datasette-client
+# @datasette/client
 
 A small TypeScript `fetch()` wrapper for the [Datasette](https://datasette.io/) 1.0 JSON API.
 No deps, pure ESM, should world in browser/node/deno/bun etc.
 
 > [!WARNING]
-> Not released yet!
+> Alpha — expect breaking changes.
+
+```sh
+npm install @datasette/client
+```
 
 ```ts
-import { DatasetteClient } from "datasette-client";
+import { DatasetteClient } from "@datasette/client";
 const client = new DatasetteClient({
   baseUrl: "https://example.com/", // default "/" (same-origin, browser)
   token: "dstok_...",              // optional, sent as Authorization: Bearer
@@ -52,7 +56,7 @@ npm run docs           # TypeDoc API reference into docs/ (git-ignored)
 `npm run build` emits both the module build (`dist/index.js`, used by the
 package `exports`) and `dist/datasette-client.min.js` — a dependency-free
 single-file ESM bundle (~12 KB, with sourcemap) for `<script type="module">`
-or CDN use, also reachable as the `datasette-client/bundle` export.
+or CDN use, also reachable as the `@datasette/client/bundle` export.
 
 
 Deeper documentation lives in [`wiki/`](wiki/Home.md): the
