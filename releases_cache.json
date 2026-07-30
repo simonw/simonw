@@ -10837,6 +10837,12 @@
     "description": "Access large language models from the command-line",
     "releases": [
       {
+        "published_at": "2026-07-30T15:30:20Z",
+        "published_day": "2026-07-30",
+        "release": "0.32rc1",
+        "url": "https://github.com/simonw/llm/releases/tag/0.32rc1"
+      },
+      {
         "published_at": "2026-07-09T16:06:15Z",
         "published_day": "2026-07-09",
         "release": "0.31.1",
@@ -11223,7 +11229,7 @@
     ],
     "repo": "llm",
     "repo_url": "https://github.com/simonw/llm",
-    "total_releases": 64
+    "total_releases": 65
   },
   "llm-all-models-async": {
     "description": "Register async versions of models from LLM plugins that only provide a sync version",
@@ -11472,6 +11478,20 @@
     "repo": "llm-bedrock",
     "repo_url": "https://github.com/simonw/llm-bedrock",
     "total_releases": 6
+  },
+  "llm-chat-completions-server": {
+    "description": "LLM plugin to serve an OpenAI Chat Completions API endpoint",
+    "releases": [
+      {
+        "published_at": "2026-07-30T15:43:16Z",
+        "published_day": "2026-07-30",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-chat-completions-server",
+    "repo_url": "https://github.com/simonw/llm-chat-completions-server",
+    "total_releases": 1
   },
   "llm-claude-3": {
     "description": "LLM plugin for interacting with the Claude 3 family of models",

@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-chat-completions-server 0.1a0](https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0) - 2026-07-30
+
+[llm 0.32rc1](https://github.com/simonw/llm/releases/tag/0.32rc1) - 2026-07-30
+
 [datasette-agent-modeler 0.1a0](https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0) - 2026-07-29
 
 [mcp-explorer 0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - 2026-07-29
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [ready-for-datasette 0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
 
 [datasette-backup 0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - 2026-07-15
-
-[datasette-block-robots 1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - 2026-07-14
-
-[datasette-apps 0.1a4](https://github.com/datasette/datasette-apps/releases/tag/0.1a4) - 2026-07-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
