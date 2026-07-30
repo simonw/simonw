@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,236<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,237<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.32rc2](https://github.com/simonw/llm/releases/tag/0.32rc2) - ([66 releases total](https://github.com/simonw/llm/releases)) - 2026-07-30
+<br />Access large language models from the command-line
 * **[llm-chat-completions-server](https://github.com/simonw/llm-chat-completions-server)**: [0.1a0](https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0) - 2026-07-30
 <br />LLM plugin to serve an OpenAI Chat Completions API endpoint
-* **[llm](https://github.com/simonw/llm)**: [0.32rc1](https://github.com/simonw/llm/releases/tag/0.32rc1) - ([65 releases total](https://github.com/simonw/llm/releases)) - 2026-07-30
-<br />Access large language models from the command-line
 * **[datasette-agent-modeler](https://github.com/datasette/datasette-agent-modeler)**: [0.1a0](https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0) - 2026-07-29
 <br />Datasette agent plugin adding tools for creating 3D models
 * **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-29
