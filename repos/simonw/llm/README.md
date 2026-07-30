@@ -69,6 +69,20 @@ Or with [uv](https://docs.astral.sh/uv/guides/tools/)
 uv tool install llm
 ```
 
+Use LLM to run prompts or start chats against an arbitrary OpenAI-compatible Chat Completions endpoint, such as [LM Studio](https://lmstudio.ai). With `uvx`, you can do this without installing LLM first:
+
+```bash
+uvx llm openai endpoint http://localhost:1234/v1 \
+  -m google/gemma-4-12b \
+  "What is the capital of France?"
+
+uvx llm openai endpoint http://localhost:1234/v1 \
+  -m google/gemma-4-12b \
+  --chat
+```
+
+Add `--key your-api-key` if the endpoint requires authentication. See [Run against an endpoint without configuring it](https://llm.datasette.io/en/stable/other-models.html#openai-endpoint) for more options.
+
 If you have an [OpenAI API key](https://platform.openai.com/api-keys) key you can run this:
 
 ```bash
@@ -182,6 +196,8 @@ See also [the llm tag](https://simonwillison.net/tags/llm/) on my blog.
 * [Other models](https://llm.datasette.io/en/stable/other-models.html)
   * [Installing and using a local model](https://llm.datasette.io/en/stable/other-models.html#installing-and-using-a-local-model)
   * [OpenAI-compatible models](https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models)
+    * [Run against an endpoint without configuring it](https://llm.datasette.io/en/stable/other-models.html#run-against-an-endpoint-without-configuring-it)
+    * [Configure an OpenAI-compatible model](https://llm.datasette.io/en/stable/other-models.html#configure-an-openai-compatible-model)
     * [Extra HTTP headers](https://llm.datasette.io/en/stable/other-models.html#extra-http-headers)
 * [Tools](https://llm.datasette.io/en/stable/tools.html)
   * [How tools work](https://llm.datasette.io/en/stable/tools.html#how-tools-work)
