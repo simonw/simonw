@@ -12509,6 +12509,20 @@
     "repo_url": "https://github.com/simonw/llm-markov",
     "total_releases": 1
   },
+  "llm-mcp-client": {
+    "description": "Access tools from MCP servers as LLM tools",
+    "releases": [
+      {
+        "published_at": "2026-07-31T23:03:47Z",
+        "published_day": "2026-07-31",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-mcp-client",
+    "repo_url": "https://github.com/simonw/llm-mcp-client",
+    "total_releases": 1
+  },
   "llm-meta-ai": {
     "description": "LLM plugin for the Meta AI API",
     "releases": [

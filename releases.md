@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,239<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,240<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mcp-client](https://github.com/simonw/llm-mcp-client)**: [0.1a0](https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0) - 2026-07-31
+<br />Access tools from MCP servers as LLM tools
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.4a0](https://github.com/datasette/datasette-agent/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-07-31
 <br />An LLM-powered agent for Datasette
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-07-30
