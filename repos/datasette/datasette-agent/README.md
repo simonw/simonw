@@ -193,6 +193,87 @@ The `context` object also exposes `context.actor`, `context.conversation_id`, `c
 
 In contexts with no human watching - for example background agents, or CLI chat when terminal input is unavailable - `ask_user()` raises `QuestionsNotSupported`, which surfaces to the model as a tool error so it can proceed without input. Tools that only declare `datasette` and `actor` are unaffected by all of this.
 
+### Running work in the user's browser from a tool
+
+Some tools need code to run in the user's browser - screenshotting a rendered page, executing JavaScript against a live DOM, measuring layout. **Browser tasks** are the primitive for this: a tool hands the user's browser a unit of work, the agent turn suspends, and the tool receives the result when the browser posts it back - even if that takes minutes, a page reload or a server restart.
+
+Declare a `context` parameter on your handler and call `await context.browser_task(...)`:
+
+```python
+import json
+
+
+async def measure_page(datasette, actor, context, url):
+    outcome = await context.browser_task(
+        html=BROWSER_HARNESS_HTML,
+        payload={"url": url, "token": make_capability_token(url)},
+        label="Measuring {} in your browser".format(url),
+        timeout_ms=30_000,
+    )
+    if not outcome["ok"]:
+        return json.dumps({"error": outcome["error"], "outcome": outcome["outcome"]})
+    return json.dumps({"measurements": outcome["result"]})
+```
+
+The four arguments:
+
+- `html` - **trusted, server-authored HTML** rendered into the chat page. Unlike question `html=`, its `<script>` elements execute; this is the sanctioned script-execution path. Never interpolate model output or user input into it unescaped.
+- `payload` - optional JSON handed to the executing page **exactly once**, through a one-shot claim (see below). Put per-run secrets here - tokens, capability URLs - never in `html`, because `html` is persisted for audit.
+- `label` - human-visible status line shown next to a spinner (falls back to "Working in your browser…").
+- `timeout_ms` - server-enforced deadline for the whole task, capped at 10 minutes.
+
+The return value is the envelope the page posted - `{"ok": True, "result": ...}` or `{"ok": False, "error": {...}}` - plus an `"outcome"` key:
+
+- `"completed"` - the page posted a result (which may itself report `ok: False`, e.g. a script error)
+- `"expired"` - the deadline passed with no completion (crashed or closed tab)
+- `"cancelled"` - the user clicked the **Skip this step** button that renders alongside every task
+
+Failures come back as data, never exceptions, because your tool re-executes from the top on resume and handles them as ordinary results. The same replay model as `ask_user()` applies: when no result exists yet, `browser_task()` suspends the turn; on resume the tool function re-runs from the top and finished tasks return their stored envelopes immediately. Call `browser_task()` **before** performing side effects. Results are size-capped at 512 KB - tools with bigger appetites should store the data themselves and post a summary.
+
+#### Writing the task HTML
+
+Task HTML must claim the task to receive its payload, do its work, then complete. It talks to the runtime through the public `window.datasetteAgent` API - never by fetching endpoints by hand or reaching into the chat page's markup:
+
+```python
+BROWSER_HARNESS_HTML = """
+<div hidden>
+<script type="module">
+const taskId = "__DATASETTE_TASK_ID__";
+const claimed = await window.datasetteAgent.claimTask(taskId);
+if (claimed.ok) {
+  // claimed.payload is the payload= object; claimed.timeoutMs the deadline
+  try {
+    const result = await doTheWork(claimed.payload);
+    await window.datasetteAgent.completeTask(taskId, {ok: true, result});
+  } catch (err) {
+    await window.datasetteAgent.completeTask(taskId, {
+      ok: false, error: {message: String(err)},
+    });
+  }
+}
+// claimed.ok === false: another tab already claimed it, or the task is
+// finished - render nothing, do nothing.
+</script>
+</div>
+"""
+```
+
+The literal string `__DATASETTE_TASK_ID__` anywhere in your `html` is substituted with the real task id at render time. (Classic, non-module scripts can alternatively find it structurally via `document.currentScript.closest("[data-task-id]").dataset.taskId` - module scripts should use the placeholder, since `document.currentScript` is `null` inside them.)
+
+The API:
+
+- `claimTask(taskId)` - atomically claims the task and resolves `{ok: true, payload, timeoutMs}` **exactly once per task, ever**. Any later or concurrent claim - a duplicate tab, a reloaded page re-rendering conversation history - resolves `{ok: false, state}` and the caller should stand down. This claim gate is what makes script-bearing HTML safe to re-render: execution happens at most once no matter how many times the markup appears.
+- `completeTask(taskId, envelope)` - posts `{ok, result?, error?}`. First write wins. The suspended turn resumes immediately and its events stream into the transcript on the same connection.
+- `cancelTask(taskId)` - equivalent to the user clicking Skip.
+
+Once a task leaves the pending state its HTML is torn down and never rendered again - reloading the conversation shows an inert one-line record instead. Keep task HTML hermetic: render, execute, complete, tear down. A tool that needs several rounds of browser work should issue several `browser_task()` calls in sequence.
+
+#### Capability detection and testing
+
+`context.supports_browser_tasks` is `True` in the web chat and `False` for background agents and CLI chat, where calling `browser_task()` raises `BrowserTasksNotSupported` - surfaced to the model as a tool error, like `QuestionsNotSupported`. Check the flag first if your tool has a browserless fallback.
+
+For tests, pass a `browser_task_callback` when constructing the `ToolContext` (or through `make_llm_tools()`): it receives `{tool_name, html, payload, label, timeout_ms}` and returns the envelope directly, synchronously or as a coroutine, without touching the database or any browser. Envelopes returned this way are normalized with `outcome: "completed"` exactly like real completions, so your tool cannot tell the executors apart.
+
 ## Rendering custom HTML from tools
 
 Tool plugins can render rich HTML inline in the chat UI by returning a JSON object with an `_html` key. The HTML is rendered directly in the conversation. The remaining keys are returned to the LLM as the tool result, with any key whose name starts with `_` removed first.

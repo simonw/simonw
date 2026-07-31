@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,238<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,239<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.4a0](https://github.com/datasette/datasette-agent/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-07-31
+<br />An LLM-powered agent for Datasette
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-07-30
 <br />Plugin for configuring periodic limits on LLM usage in Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32rc2](https://github.com/simonw/llm/releases/tag/0.32rc2) - ([66 releases total](https://github.com/simonw/llm/releases)) - 2026-07-30
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->2,238<!-- releases_count ends --> releases
 <br />Advanced permission management for Datasette
 * **[datasette-tailscale](https://github.com/datasette/datasette-tailscale)**: [0.1a0](https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0) - 2026-06-16
 <br />Run a Datasette instance on a Tailscale network
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.3a0](https://github.com/datasette/datasette-agent/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-06-15
-<br />An LLM-powered agent for Datasette
 * **[luau-wasm](https://github.com/simonw/luau-wasm)**: [0.1a0](https://github.com/simonw/luau-wasm/releases/tag/0.1a0) - 2026-06-13
 <br />Luau packaged as a Pyodide WebAssembly wheel
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
