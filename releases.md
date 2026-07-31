@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,237<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,238<!-- releases_count ends --> releases across <!-- project_count starts -->396<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-07-30
+<br />Plugin for configuring periodic limits on LLM usage in Datasette
 * **[llm](https://github.com/simonw/llm)**: [0.32rc2](https://github.com/simonw/llm/releases/tag/0.32rc2) - ([66 releases total](https://github.com/simonw/llm/releases)) - 2026-07-30
 <br />Access large language models from the command-line
 * **[llm-chat-completions-server](https://github.com/simonw/llm-chat-completions-server)**: [0.1a0](https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0) - 2026-07-30
@@ -59,8 +61,6 @@ Listing <!-- releases_count starts -->2,237<!-- releases_count ends --> releases
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
 <br />Add a fixtures test database to Datasette
-* **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a1](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-05-21
-<br />Plugin for configuring periodic limits on LLM usage in Datasette
 * **[datasette-agent-sprites](https://github.com/datasette/datasette-agent-sprites)**: [0.1a0](https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0) - 2026-05-21
 <br />Datasette Agent tools for working with Fly Sprites
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-21
