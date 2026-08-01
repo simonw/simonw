@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,240<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,241<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
+<br />Apps that live inside Datasette
 * **[llm-mcp-client](https://github.com/simonw/llm-mcp-client)**: [0.1a0](https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0) - 2026-07-31
 <br />Access tools from MCP servers as LLM tools
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.4a0](https://github.com/datasette/datasette-agent/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-07-31
@@ -27,8 +29,6 @@ Listing <!-- releases_count starts -->2,240<!-- releases_count ends --> releases
 <br />Plugin adding backup options to Datasette
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2026-07-14
 <br />Datasette plugin that blocks robots and crawlers using robots.txt
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.1a4](https://github.com/datasette/datasette-apps/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-07-14
-<br />Apps that live inside Datasette
 * **[datasette-allow-permissions-debug](https://github.com/simonw/datasette-allow-permissions-debug)**: [0.2a1](https://github.com/simonw/datasette-allow-permissions-debug/releases/tag/0.2a1) - ([3 releases total](https://github.com/simonw/datasette-allow-permissions-debug/releases)) - 2026-07-14
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - ([9 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-07-14
