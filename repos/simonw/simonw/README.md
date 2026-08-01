@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-mcp-client 0.1a0](https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0) - 2026-07-31
+
 [datasette-agent 0.4a0](https://github.com/datasette/datasette-agent/releases/tag/0.4a0) - 2026-07-31
 
 [datasette-llm-limits 0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - 2026-07-30
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [mcp-explorer 0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - 2026-07-29
 
 [datasette-mcp 0.1a0](https://github.com/datasette/datasette-mcp/releases/tag/0.1a0) - 2026-07-28
-
-[sqlite-utils 3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - 2026-07-26
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) - 2026-07-31
+
 [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/) - 2026-07-22
 
 [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/) - 2026-07-21
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/) - 2026-07-09
 
 [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/) - 2026-07-07
-
-[sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) - 2026-07-05
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
