@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,241<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,242<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[condense-json](https://github.com/simonw/condense-json)**: [1.0](https://github.com/simonw/condense-json/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-02
+<br />Python function for condensing JSON using replacement strings
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
 <br />Apps that live inside Datasette
 * **[llm-mcp-client](https://github.com/simonw/llm-mcp-client)**: [0.1a0](https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0) - 2026-07-31
@@ -289,8 +291,6 @@ Listing <!-- releases_count starts -->2,241<!-- releases_count ends --> releases
 <br />Make simple_eval available as an LLM tool
 * **[datasette-chronicle](https://github.com/datasette/datasette-chronicle)**: [0.3](https://github.com/datasette/datasette-chronicle/releases/tag/0.3) - ([4 releases total](https://github.com/datasette/datasette-chronicle/releases)) - 2025-05-13
 <br />Enable sqlite-chronicle against tables in Datasette
-* **[condense-json](https://github.com/simonw/condense-json)**: [0.1.3](https://github.com/simonw/condense-json/releases/tag/0.1.3) - ([4 releases total](https://github.com/simonw/condense-json/releases)) - 2025-05-13
-<br />Python function for condensing JSON using replacement strings
 * **[llm-fragments-github](https://github.com/simonw/llm-fragments-github)**: [0.4](https://github.com/simonw/llm-fragments-github/releases/tag/0.4) - ([5 releases total](https://github.com/simonw/llm-fragments-github/releases)) - 2025-05-12
 <br />Load GitHub repository contents as LLM fragments
 * **[llm-fragments-reader](https://github.com/simonw/llm-fragments-reader)**: [0.1](https://github.com/simonw/llm-fragments-reader/releases/tag/0.1) - 2025-05-08

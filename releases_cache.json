@@ -533,6 +533,12 @@
     "description": "Python function for condensing JSON using replacement strings",
     "releases": [
       {
+        "published_at": "2026-08-02T22:19:59Z",
+        "published_day": "2026-08-02",
+        "release": "1.0",
+        "url": "https://github.com/simonw/condense-json/releases/tag/1.0"
+      },
+      {
         "published_at": "2025-05-13T17:08:57Z",
         "published_day": "2025-05-13",
         "release": "0.1.3",
@@ -559,7 +565,7 @@
     ],
     "repo": "condense-json",
     "repo_url": "https://github.com/simonw/condense-json",
-    "total_releases": 4
+    "total_releases": 5
   },
   "conditional-get": {
     "description": "CLI tool for fetching data using HTTP conditional get",
