@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,242<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,243<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[condense-json](https://github.com/simonw/condense-json)**: [1.0](https://github.com/simonw/condense-json/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-02
+* **[condense-json](https://github.com/simonw/condense-json)**: [1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-03
 <br />Python function for condensing JSON using replacement strings
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
 <br />Apps that live inside Datasette

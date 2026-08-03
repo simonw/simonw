@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[condense-json 1.0](https://github.com/simonw/condense-json/releases/tag/1.0) - 2026-08-02
+[condense-json 1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - 2026-08-03
 
 [datasette-apps 0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - 2026-08-01
 
