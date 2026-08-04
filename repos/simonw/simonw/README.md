@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.26](https://github.com/simonw/llm-anthropic/releases/tag/0.26) - 2026-08-04
+
 [llm 0.32](https://github.com/simonw/llm/releases/tag/0.32) - 2026-08-04
 
 [condense-json 1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - 2026-08-03
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-llm-limits 0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - 2026-07-30
 
 [llm-chat-completions-server 0.1a0](https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0) - 2026-07-30
-
-[datasette-agent-modeler 0.1a0](https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0) - 2026-07-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
