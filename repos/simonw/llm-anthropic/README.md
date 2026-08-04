@@ -45,22 +45,22 @@ Run `llm models` to list the models, and `llm models --options` to include a lis
 Run prompts like this:
 ```bash
 llm -m claude-opus-5 'Fun facts about walruses'
-llm -m claude-sonnet-4.6 'Fun facts about pelicans'
+llm -m claude-sonnet-5 'Fun facts about pelicans'
 llm -m claude-haiku-4.5 'Fun facts about cormorants'
 ```
 Image attachments are supported too:
 ```bash
-llm -m claude-sonnet-4.6 'describe this image' -a https://static.simonwillison.net/static/2024/pelicans.jpg
+llm -m claude-sonnet-5 'describe this image' -a https://static.simonwillison.net/static/2024/pelicans.jpg
 llm -m claude-haiku-4.5 'extract text' -a page.png
 ```
 The Claude 3.5 and 4 models can handle PDF files:
 ```bash
-llm -m claude-sonnet-4.6 'extract text' -a page.pdf
+llm -m claude-sonnet-5 'extract text' -a page.pdf
 ```
 Anthropic's models support [schemas](https://llm.datasette.io/en/stable/schemas.html). Here's how to use Claude 4 Sonnet to invent a dog:
 
 ```bash
-llm -m claude-sonnet-4.6 --schema 'name,age int,bio: one sentence' 'invent a surprising dog'
+llm -m claude-sonnet-5 --schema 'name,age int,bio: one sentence' 'invent a surprising dog'
 ```
 Example output:
 ```json
@@ -71,24 +71,43 @@ Example output:
 }
 ```
 
-Newer models support web search for real-time information:
+## Web search
+
+Newer models support Anthropic's [web search tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool) for real-time information, using the `-T WebSearch` server-side tool:
+
 ```bash
-llm -m claude-3.5-sonnet -o web_search 1 'What is the current weather in San Francisco?'
+llm -m claude-sonnet-5 -T WebSearch 'What is the current weather in San Francisco?'
 ```
+The tool accepts optional configuration:
+
+```bash
+llm -m claude-sonnet-5 \
+  -T 'WebSearch(max_uses=2, user_location={"city": "London", "country": "GB"})' \
+  'Recent headlines'
+```
+Available arguments:
+
+- `max_uses`: maximum number of searches per request
+- `allowed_domains` / `blocked_domains`: lists of domains to allow or block (cannot be combined)
+- `user_location`: dictionary with optional `city`, `region`, `country` and `timezone` keys to localize results
+
+Note that `user_location` affects the *results* of searches from the web search tool, but location information is not made directly available to the model.
+
+On Claude 4.6 and later models this uses the `web_search_20260318` tool version with dynamic filtering; older models use the basic `web_search_20250305` version.
 
 ## Web fetch
 
 Models that support web search can also use Anthropic's [web fetch tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool) to retrieve the full content of a URL, using the `-T WebFetch` server-side tool:
 
 ```bash
-llm -m claude-sonnet-4.6 -T WebFetch 'Fetch https://www.example.com/ and quote its first heading'
+llm -m claude-sonnet-5 -T WebFetch 'Fetch https://www.example.com/ and quote its first heading'
 ```
 For security reasons Claude can only fetch URLs that already appear in the conversation - provided by you or returned by a previous web search or fetch.
 
 The tool accepts optional configuration:
 
 ```bash
-llm -m claude-sonnet-4.6 \
+llm -m claude-sonnet-5 \
   -T 'WebFetch(max_uses=2, max_content_tokens=20000)' \
   'Summarize https://www.example.com/'
 ```
@@ -108,12 +127,67 @@ From Python, pass an instance of the `WebFetch` class in `tools=`:
 import llm
 from llm_anthropic import WebFetch
 
-model = llm.get_model("claude-sonnet-4.6")
+model = llm.get_model("claude-sonnet-5")
 response = model.prompt(
     "Fetch https://www.example.com/ and quote its first heading",
     tools=[WebFetch(max_uses=1)],
 )
 print(response.text())
+```
+
+## MCP connector
+
+Models that support web search can also call tools on remote [MCP servers](https://platform.claude.com/docs/en/agents-and-tools/mcp-connector) using the `AnthropicMCP` server-side tool. Anthropic connects to the server from their own infrastructure - it must be reachable over HTTPS:
+
+```bash
+llm -m claude-sonnet-5 \
+  -T 'AnthropicMCP(url="https://mcp.deepwiki.com/mcp", name="deepwiki")' \
+  'Use the deepwiki tools to say what simonw/llm does, one sentence'
+```
+Available arguments:
+
+- `url`: the HTTPS URL of the remote MCP server (required)
+- `name`: an identifier for the server - defaults to the URL's hostname
+- `authorization_token`: OAuth bearer token, for servers that require authentication
+- `allowed_tools`: optional list of tool names - if provided, only those tools are enabled
+
+```bash
+llm -m claude-sonnet-5 \
+  -T 'AnthropicMCP(url="https://mcp.deepwiki.com/mcp", name="deepwiki", allowed_tools=["ask_question"])' \
+  'What does simonw/llm do?'
+```
+
+You can pass multiple `MCP` tools to connect to more than one server in the same request. Only MCP tool calls are supported - not MCP resources or prompts.
+
+From Python, pass an instance of the `AnthropicMCP` class in `tools=`:
+
+```python
+import llm
+from llm_anthropic import AnthropicMCP
+
+model = llm.get_model("claude-sonnet-5")
+response = model.prompt(
+    "Use the deepwiki tools to say what simonw/llm does, one sentence",
+    tools=[AnthropicMCP(url="https://mcp.deepwiki.com/mcp", name="deepwiki")],
+)
+print(response.text())
+```
+
+This feature uses Anthropic's `mcp-client-2025-11-20` beta.
+
+## Code execution
+
+Claude 4.5 and later models support Anthropic's [code execution tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool), which runs Python and bash in a sandboxed server-side container. Use the `-T CodeExecution` server-side tool:
+
+```bash
+llm -m claude-sonnet-4.6 -T CodeExecution \
+  'Compute the sha256 hex digest of the string "pelican"'
+```
+Each response that runs code reports a container ID in its `response_json`, visible with `llm logs --json`. Pass that ID back to reuse the container's files and state in a later prompt (containers expire after a period of inactivity):
+
+```bash
+llm -m claude-sonnet-4.6 -T 'CodeExecution(container="container_011CPd...")' \
+  'Read /tmp/results.csv and summarize it'
 ```
 
 ## Fast mode
@@ -241,26 +315,6 @@ cog.out("".join(output))
 
     Use fast mode for lower latency responses: https://platform.claude.com/docs/en/build-with-claude/fast-mode
 
-- **web_search**: `boolean`
-
-    Enable web search capabilities
-
-- **web_search_max_uses**: `int`
-
-    Maximum number of web searches to perform per request
-
-- **web_search_allowed_domains**: `array`
-
-    List of domains to restrict web searches to
-
-- **web_search_blocked_domains**: `array`
-
-    List of domains to exclude from web searches
-
-- **web_search_location**: `dict`
-
-    User location for localizing search results (dict with city, region, country, timezone)
-
 - **thinking**: `boolean`
 
     Enable thinking mode
@@ -282,7 +336,7 @@ cog.out("".join(output))
 The `prefill` option can be used to set the first part of the response. To increase the chance of returning JSON, set that to `{`:
 
 ```bash
-llm -m claude-sonnet-4.6 'Fun data about pelicans' \
+llm -m claude-sonnet-5 'Fun data about pelicans' \
   -o prefill '{'
 ```
 If you do not want the prefill token to be echoed in the response, set `hide_prefill` to `true`:
@@ -297,13 +351,13 @@ This example sets `` ``` `` as the stop sequence, so the response will be a Pyth
 
 To pass a single stop sequence, send a string:
 ```bash
-llm -m claude-sonnet-4.6 'Fun facts about pelicans' \
+llm -m claude-sonnet-5 'Fun facts about pelicans' \
   -o stop-sequences "beak"
 ```
 For multiple stop sequences, pass a JSON array:
 
 ```bash
-llm -m claude-sonnet-4.6 'Fun facts about pelicans' \
+llm -m claude-sonnet-5 'Fun facts about pelicans' \
   -o stop-sequences '["beak", "feathers"]'
 ```
 
@@ -311,7 +365,7 @@ When using the Python API, pass a string or an array of strings:
 
 ```python
 response = llm.query(
-    model="claude-sonnet-4.6",
+    model="claude-sonnet-5",
     query="Fun facts about pelicans",
     stop_sequences=["beak", "feathers"],
 )
