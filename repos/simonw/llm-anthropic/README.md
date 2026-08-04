@@ -76,6 +76,46 @@ Newer models support web search for real-time information:
 llm -m claude-3.5-sonnet -o web_search 1 'What is the current weather in San Francisco?'
 ```
 
+## Web fetch
+
+Models that support web search can also use Anthropic's [web fetch tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool) to retrieve the full content of a URL, using the `-T WebFetch` server-side tool:
+
+```bash
+llm -m claude-sonnet-4.6 -T WebFetch 'Fetch https://www.example.com/ and quote its first heading'
+```
+For security reasons Claude can only fetch URLs that already appear in the conversation - provided by you or returned by a previous web search or fetch.
+
+The tool accepts optional configuration:
+
+```bash
+llm -m claude-sonnet-4.6 \
+  -T 'WebFetch(max_uses=2, max_content_tokens=20000)' \
+  'Summarize https://www.example.com/'
+```
+Available arguments:
+
+- `max_uses`: maximum number of fetches per request
+- `allowed_domains` / `blocked_domains`: lists of domains to allow or block (cannot be combined)
+- `citations`: set to `True` to enable citations for fetched content
+- `max_content_tokens`: approximate cap on fetched content included in the context
+- `use_cache`: set to `False` to bypass Anthropic's fetch cache (Claude 4.6 and later models only)
+
+On Claude 4.6 and later models this uses the `web_fetch_20260318` tool version with [dynamic filtering](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool#dynamic-filtering); older models use the basic `web_fetch_20250910` version.
+
+From Python, pass an instance of the `WebFetch` class in `tools=`:
+
+```python
+import llm
+from llm_anthropic import WebFetch
+
+model = llm.get_model("claude-sonnet-4.6")
+response = model.prompt(
+    "Fetch https://www.example.com/ and quote its first heading",
+    tools=[WebFetch(max_uses=1)],
+)
+print(response.text())
+```
+
 ## Fast mode
 
 Some models support [fast mode](https://platform.claude.com/docs/en/build-with-claude/fast-mode) for lower latency responses. Enable it with the `-o fast 1` option:
