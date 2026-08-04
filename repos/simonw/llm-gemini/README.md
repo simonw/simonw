@@ -75,6 +75,8 @@ for line in lines:
     )
 cog.out("\n".join(to_output))
 ]]] -->
+- `gemini/gemini-3.5-flash-lite`
+- `gemini/gemini-3.6-flash`
 - `gemini/gemini-3.5-flash`
 - `gemini/gemini-3.1-flash-lite`
 - `gemini/gemma-4-31b-it`
@@ -201,6 +203,10 @@ To run a prompt with Google search enabled, use `-o google_search 1`:
 llm -m gemini-2.0-flash -o google_search 1 \
   'What happened in Ireland today?'
 ```
+
+Grounding sources and Google Search suggestions are appended to the response as
+terminal hyperlinks. Use `-o grounding_links 0` to omit them or
+`-o format_links 0` to display plain URLs instead of OSC 8 hyperlinks.
 
 Use `llm logs -c --json` after running a prompt to see the full JSON response, which includes [additional information](https://github.com/simonw/llm-gemini/pull/29#issuecomment-2606201877) about grounded results.
 

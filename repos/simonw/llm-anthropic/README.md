@@ -220,27 +220,27 @@ model = ClaudeMessages(
 print(model.prompt("Fun facts about pangolins", key="eyJh..."))
 ```
 
-## Extended reasoning with Claude 3.7 Sonnet and higher
+## Extended thinking
 
-Claude 3.7 introduced [extended thinking](https://www.anthropic.com/news/visible-extended-thinking) mode, where Claude can expend extra effort thinking through the prompt before producing a response.
+Anthropic models can spend [thinking tokens](https://platform.claude.com/docs/en/build-with-claude/extended-thinking) reasoning through a prompt before producing their response. LLM streams that reasoning to standard error as it arrives - pass `-R/--hide-reasoning` to hide it. The reasoning is also logged, available as the `reasoning` field in `llm logs --json`.
 
-Use the `-o thinking 1` option to enable this feature:
+**Claude 5 models think by default.** Tune how hard they think with the `thinking_effort` option - one of `low`, `medium`, `high`, `xhigh` or `max`:
 
 ```bash
-llm -m claude-3.7-sonnet -o thinking 1 'Write a convincing speech to congress about the need to protect the California Brown Pelican'
+llm -m claude-opus-5 -o thinking_effort max 'Design a fair algorithm for splitting rent between roommates with different sized rooms'
 ```
-The chain of thought is not currently visible while using LLM, but it is logged to the database and can be viewed using this command:
+Sonnet 5 and Opus 5 can have thinking turned off entirely with `-o thinking 0`. Fable 5 always thinks - disabling it raises an error.
+
+**Claude 4.6 and older models do not think unless asked.** Enable thinking with `-o thinking 1`:
+
 ```bash
-llm logs -c --json
+llm -m claude-sonnet-4.6 -o thinking 1 'Write a convincing speech to congress about the need to protect the California Brown Pelican'
 ```
-Or in combination with `jq`:
-```bash
-llm logs --json -c | jq '.[0].response_json.content[0].thinking' -r
-```
-By default up to 1024 tokens can be used for thinking. You can increase this budget with the `thinking_budget` option:
-```bash
-llm -m claude-3.7-sonnet -o thinking_budget 32000 'Write a long speech about pelicans in French'
-```
+Claude 4.6 models (and Opus 4.5) also support `thinking_effort`, which implies `thinking 1`. Older models than that use a fixed 1,024 token thinking budget.
+
+When `-R/--hide-reasoning` is set this plugin also passes `display: omitted` to the Anthropic API, which leaves the thinking trace out of the response entirely - it will not appear in your logs, though thinking tokens are still billed.
+
+The `thinking_budget`, `thinking_display` and `thinking_adaptive` options were removed in llm-anthropic 0.26 - install `llm-anthropic==0.25` if you need them for older models.
 
 ## Model options
 
@@ -317,19 +317,7 @@ cog.out("".join(output))
 
 - **thinking**: `boolean`
 
-    Enable thinking mode
-
-- **thinking_budget**: `int`
-
-    Number of tokens to budget for thinking
-
-- **thinking_display**: `boolean`
-
-    Request summarized thinking output (available in --json logs)
-
-- **thinking_adaptive**: `boolean`
-
-    Force adaptive thinking mode (sends thinking={"type": "adaptive"})
+    Enable thinking mode. Claude 5 models think by default - set to false to disable thinking on models that allow it
 
 <!-- [[[end]]] -->
 

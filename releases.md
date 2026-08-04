@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,244<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,245<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.26](https://github.com/simonw/llm-anthropic/releases/tag/0.26) - ([24 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-04
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.32](https://github.com/simonw/llm/releases/tag/0.32) - ([67 releases total](https://github.com/simonw/llm/releases)) - 2026-08-04
 <br />Access large language models from the command-line
 * **[condense-json](https://github.com/simonw/condense-json)**: [1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-03
@@ -61,8 +63,6 @@ Listing <!-- releases_count starts -->2,244<!-- releases_count ends --> releases
 <br />Python library for running a MicroPython sandbox using WebAssembly
 * **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
 <br />MicroPython in a WASM sandbox as a tool for Datasette Agent
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.25.1](https://github.com/simonw/llm-anthropic/releases/tag/0.25.1) - ([23 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-05-28
-<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
 <br />Add a fixtures test database to Datasette
 * **[datasette-agent-sprites](https://github.com/datasette/datasette-agent-sprites)**: [0.1a0](https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0) - 2026-05-21
