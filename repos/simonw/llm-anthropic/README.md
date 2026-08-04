@@ -44,7 +44,7 @@ Run `llm models` to list the models, and `llm models --options` to include a lis
 
 Run prompts like this:
 ```bash
-llm -m claude-opus-4.8 'Fun facts about walruses'
+llm -m claude-opus-5 'Fun facts about walruses'
 llm -m claude-sonnet-4.6 'Fun facts about pelicans'
 llm -m claude-haiku-4.5 'Fun facts about cormorants'
 ```
@@ -80,7 +80,7 @@ llm -m claude-3.5-sonnet -o web_search 1 'What is the current weather in San Fra
 
 Some models support [fast mode](https://platform.claude.com/docs/en/build-with-claude/fast-mode) for lower latency responses. Enable it with the `-o fast 1` option:
 ```bash
-llm -m claude-opus-4.8 -o fast 1 'Fun facts about walruses'
+llm -m claude-opus-5 -o fast 1 'Fun facts about walruses'
 ```
 
 ## Usage from Python

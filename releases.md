@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,243<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,244<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.32](https://github.com/simonw/llm/releases/tag/0.32) - ([67 releases total](https://github.com/simonw/llm/releases)) - 2026-08-04
+<br />Access large language models from the command-line
 * **[condense-json](https://github.com/simonw/condense-json)**: [1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-03
 <br />Python function for condensing JSON using replacement strings
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,243<!-- releases_count ends --> releases
 <br />An LLM-powered agent for Datasette
 * **[datasette-llm-limits](https://github.com/datasette/datasette-llm-limits)**: [0.1a2](https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-llm-limits/releases)) - 2026-07-30
 <br />Plugin for configuring periodic limits on LLM usage in Datasette
-* **[llm](https://github.com/simonw/llm)**: [0.32rc2](https://github.com/simonw/llm/releases/tag/0.32rc2) - ([66 releases total](https://github.com/simonw/llm/releases)) - 2026-07-30
-<br />Access large language models from the command-line
 * **[llm-chat-completions-server](https://github.com/simonw/llm-chat-completions-server)**: [0.1a0](https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0) - 2026-07-30
 <br />LLM plugin to serve an OpenAI Chat Completions API endpoint
 * **[datasette-agent-modeler](https://github.com/datasette/datasette-agent-modeler)**: [0.1a0](https://github.com/datasette/datasette-agent-modeler/releases/tag/0.1a0) - 2026-07-29
