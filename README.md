@@ -25,6 +25,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+[New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/) - 2026-08-04
+
 [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) - 2026-07-31
 
 [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/) - 2026-07-22
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) - 2026-07-16
 
 [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/) - 2026-07-09
-
-[sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/) - 2026-07-07
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

@@ -37,9 +37,9 @@ llm models list
 ```
 You should see a list that looks something like this:
 ```
-OpenRouter: openrouter/openai/gpt-3.5-turbo
-OpenRouter: openrouter/anthropic/claude-sonnet-4
-OpenRouter: openrouter/meta-llama/llama-2-70b-chat
+OpenRouter: openrouter/qwen/qwen3.8-max
+OpenRouter: openrouter/anthropic/claude-sonnet-5
+OpenRouter: openrouter/meta/muse-spark-1.1
 ...
 ```
 The list of models from OpenRouter is cached for an hour. You can force a refresh using this command:
@@ -49,11 +49,14 @@ llm openrouter refresh
 
 To run a prompt against a model, pass its full model ID to the `-m` option, like this:
 ```bash
-llm -m openrouter/anthropic/claude-sonnet-4 "Five spooky names for a pet tarantula"
+llm -m openrouter/anthropic/claude-sonnet-5 "Five spooky names for a pet tarantula"
 ```
+Models use OpenRouter's Responses API by default. You can temporarily use the
+older Chat Completions API for a prompt with `-o chat_completions 1`.
+
 You can set a shorter alias for a model using the `llm aliases` command like so:
 ```bash
-llm aliases set claude openrouter/anthropic/claude-sonnet-4
+llm aliases set claude openrouter/anthropic/claude-sonnet-5
 ```
 Now you can prompt Claude using:
 ```bash
@@ -62,7 +65,7 @@ cat llm_openrouter.py | llm -m claude -s 'write some pytest tests for this'
 
 Images are supported too, for some models:
 ```bash
-llm -m openrouter/anthropic/claude-3.5-sonnet 'describe this image' -a https://static.simonwillison.net/static/2024/pelicans.jpg
+llm -m openrouter/anthropic/claude-sonnet-5 'describe this image' -a https://static.simonwillison.net/static/2024/pelicans.jpg
 llm -m openrouter/anthropic/claude-3-haiku 'extract text' -a page.png
 ```
 
@@ -82,7 +85,7 @@ And look for models that list these attachment types:
 You can feed these models images as URLs or file paths, for example:
 
 ```bash
-llm -m openrouter/google/gemini-flash-1.5 'describe image' \
+llm -m openrouter/google/gemini-2.5-flash 'describe image' \
   -a https://static.simonwillison.net/static/2025/two-pelicans.jpg
 ```
 
@@ -95,7 +98,7 @@ Some of the models provided by OpenRouter are compatible with this feature, see 
 `llm-openrouter` currently enables schema support for the models in that list. Models have varying levels of quality in their schema support, so test carefully rather than assuming all models will correctly work the same.
 
 ```bash
-llm -m openrouter/google/gemini-flash-1.5 'invent 3 cool capybaras' \
+llm -m openrouter/google/gemini-2.5-flash 'invent 3 cool capybaras' \
   --schema-multi 'name,bio'
 ```
 Output:
@@ -123,7 +126,7 @@ Output:
 Most OpenRouter models support [tool calls](https://llm.datasette.io/en/stable/tools.html). You can try that out like so:
 
 ```bash
-llm -m openrouter/openai/gpt-5 \
+llm -m openrouter/openai/gpt-5.6-luna \
   -T llm_version -T llm_time \
   "What version of LLM and what time is it?" \
   --tools-debug
@@ -131,7 +134,7 @@ llm -m openrouter/openai/gpt-5 \
 Example output:
 ```
 Tool call: llm_version({})
-  0.27.1
+  0.32
 
 
 Tool call: llm_time({})
@@ -144,7 +147,7 @@ Tool call: llm_time({})
     "is_dst": true
   }
 
-LLM version: 0.27.1
+LLM version: 0.32
 Current time: 2025-09-20 16:35:53 PDT (2025-09-20 23:35:53 UTC)
 ```
 
@@ -152,14 +155,15 @@ Current time: 2025-09-20 16:35:53 PDT (2025-09-20 23:35:53 UTC)
 
 Some OpenRouter models such as [GPT-5](https://openrouter.ai/openai/gpt-5) support options for controlling reasoning:
 
-- `-o reasoning_effort low|medium|high` - control reasoning effort
+- `-o reasoning_effort none|minimal|low|medium|high|xhigh|max` - control
+  reasoning effort (supported values vary by model)
 - `-o reasoning_max_tokens 2048` - an alternative way of specifying effort for some models
 - `-o reasoning_enabled true` - use this to enable reasoning without setting an effort via one of the other two options
 
 For example:
 
 ```bash
-llm -m openrouter/openai/gpt-5 \
+llm -m openrouter/openai/gpt-5.4-mini \
    'prove dogs exist' \
    -o reasoning_effort high
 ```
@@ -176,16 +180,56 @@ llm -m openrouter/meta-llama/llama-3.1-8b-instruct hi \
 ```
 This specifies that you would like only providers that [support fp8 quantization](https://openrouter.ai/docs/features/provider-routing#example-requesting-fp8-quantization) for that model.
 
-### Incorporating search results from Exa
+### Web search
 
-OpenRouter have [a partnership](https://openrouter.ai/docs/features/web-search) with [Exa](https://exa.ai/) where prompts through _any_ supported model can be augmented with relevant search results from the Exa index - a form of RAG.
+OpenRouter can give supported models access to web search using its
+[`openrouter:web_search` server tool](https://openrouter.ai/docs/guides/features/server-tools/web-search).
 
-Enable this feature using the `-o online 1` option:
+Configure it as an LLM server-side tool using `-T`:
 
 ```bash
-llm -m openrouter/mistralai/mistral-small -o online 1 'key events on march 1st 2025'
+llm -m openrouter/openai/gpt-5.2 \
+  -T 'WebSearch(max_results=3)' \
+  'key events on march 1st 2025'
 ```
-Consult the OpenRouter documentation for [current pricing](https://openrouter.ai/docs/features/web-search#pricing).
+The `WebSearch` tool also accepts OpenRouter's `engine`, `max_uses`,
+`max_total_results`, `search_context_size`, `max_characters`, `user_location`,
+`allowed_domains` and `excluded_domains` options. The model decides when and
+whether to search.
+
+Consult the OpenRouter documentation for current configuration options and
+pricing.
+
+### Web fetch
+
+Use OpenRouter's
+[`openrouter:web_fetch` server tool](https://openrouter.ai/docs/guides/features/server-tools/web-fetch)
+to fetch and extract the contents of a specific URL:
+
+```bash
+llm -m openrouter/openai/gpt-5.2 \
+  -T 'WebFetch(max_uses=1)' \
+  'Fetch https://example.com and report its heading'
+```
+
+`WebFetch` accepts `engine`, `max_uses`, `max_content_tokens`,
+`allowed_domains` and `blocked_domains` options.
+
+### Shell
+
+Use OpenRouter's
+[`openrouter:shell` server tool](https://openrouter.ai/docs/guides/features/server-tools/shell)
+to run commands in a hosted sandbox:
+
+```bash
+llm -m openrouter/openai/gpt-5.2 \
+  -T 'Shell(engine="openrouter")' \
+  'Run: printf "llm-openrouter-shell-ok\\n"'
+```
+
+`Shell` accepts `engine`, `environment` and `sleep_after_seconds` options.
+Commands run in an isolated container hosted by OpenRouter, not on your local
+machine.
 
 ### Listing models
 
