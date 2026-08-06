@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-08-06T23:07:47Z",
+      "published_day": "2026-08-06",
+      "release": "0.4a13",
+      "url": "https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-02-26T04:05:59Z",
       "published_day": "2026-02-26",
       "release": "0.4a12",
@@ -144,6 +151,6 @@
     }
   ],
   "repo": "datasette-auth-tokens",
-  "total_releases": 20,
+  "total_releases": 21,
   "url": "https://github.com/simonw/datasette-auth-tokens"
 }
