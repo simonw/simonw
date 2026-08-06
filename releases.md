@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,245<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,247<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a38](https://github.com/simonw/datasette/releases/tag/1.0a38) - ([171 releases total](https://github.com/simonw/datasette/releases)) - 2026-08-06
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.26](https://github.com/simonw/llm-anthropic/releases/tag/0.26) - ([24 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-04
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.32](https://github.com/simonw/llm/releases/tag/0.32) - ([67 releases total](https://github.com/simonw/llm/releases)) - 2026-08-04
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->2,245<!-- releases_count ends --> releases
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - ([9 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-07-14
 <br />None
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a37](https://github.com/simonw/datasette/releases/tag/1.0a37) - ([169 releases total](https://github.com/simonw/datasette/releases)) - 2026-07-14
-<br />An open source multi-tool for exploring and publishing data
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.11](https://github.com/simonw/shot-scraper/releases/tag/1.11) - ([37 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-07-12
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
