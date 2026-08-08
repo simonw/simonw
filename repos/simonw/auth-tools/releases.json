@@ -1,0 +1,8 @@
+{
+  "description": "Tools that need authentication or API tokens of some sort",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "auth-tools",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/auth-tools"
+}
