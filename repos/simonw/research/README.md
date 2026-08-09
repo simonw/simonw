@@ -15,9 +15,6 @@ import subprocess
 import pathlib
 from datetime import datetime, timezone
 
-# Model to use for generating summaries
-MODEL = "github/gpt-4.1"
-
 # Get all subdirectories with their first README commit dates
 research_dir = pathlib.Path.cwd()
 subdirs_with_dates = []
@@ -108,7 +105,7 @@ for dirname, commit_date in subdirs_with_dates:
         # Generate new summary using llm command
         prompt = """Summarize this research project concisely. Write just 1 paragraph (3-5 sentences) followed by an optional short bullet list if there are key findings. Vary your opening - don't start with "This report" or "This research". Include 1-2 links to key tools/projects. Be specific but brief. No emoji."""
         result = subprocess.run(
-            ['llm', '-m', MODEL, '-s', prompt],
+            ['llm', '-s', prompt],
             stdin=open(readme_path),
             capture_output=True,
             text=True,
@@ -181,7 +178,11 @@ for dirname, _ in subdirs_with_dates:
             readme_path.write_text('\n'.join(new_lines))
 
 ]]]-->
-## 93 research projects
+## 95 research projects
+
+### [SQLite compressed text-history prototypes](https://github.com/simonw/research/tree/main/sqlite-text-history-prototype#readme) (2026-08-09 22:05)
+
+SQLite compressed text-history prototypes compare `WholeBlobHistoryStore`, which rewrites one compressed historical blob per edit, with `ChunkedHistoryStore`, which seals compressed chunks to improve scaling for long histories. Both preserve prior text and timestamps, skip unchanged replacements by default, and serialize writers with `BEGIN IMMEDIATE` for atomic updates. Benchmarks found Zstandard generally smaller and faster than zlib, while chunking avoids the increasingly expensive rewrites of the monolithic strategy; detailed results are in [`REPORT.md`](REPORT.md). The project includes tests, benchmarks, entropy experiments, and Datasette-ready demo databases, with Zstandard support via Python, the [`zstandard` package](https://python-zstandard.readthedocs.io/), or `libzstd`.
 
 ### [Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://github.com/simonw/research/tree/main/dspy-datasette-agent-prompts#readme) (2026-07-02 18:25)
 
@@ -206,6 +207,13 @@ Determining the source `table.column` for each result column in arbitrary SQLite
 - The standard library alone can suffice via clever ctypes usage, including handling in-memory databases.
 - EXPLAIN-based approaches are best-effort and may falter on compound queries (like UNION).
 - Authorizer methods over-report for output mapping but are valuable for access control.
+
+### [Projects That Compiled WASM Wheels for Pyodide](https://github.com/simonw/research/tree/main/pyodide-wasm-wheel-projects#readme) (2026-06-13 22:01)
+
+A repository scan identified four projects that genuinely compiled and packaged Python wheels for Pyodide/WebAssembly: [cmarkgfm-in-pyodide](../cmarkgfm-in-pyodide/README.md), [cysqlite-wasm-wheel](../cysqlite-wasm-wheel/README.md), `monty-wasm-pyodide`, and `syntaqlite-python-extension`. Their builds used Python C API/C sources, Cython and SQLite, Rust/PyO3 with maturin, or cross-compiled Rust/C libraries, producing wheels ranging from about 91 KB to 4.2 MB. Three target Emscripten 3.1.46 with Python 3.11/3.12, while `monty-wasm-pyodide` targets the newer Emscripten 4.0.9 and Python 3.13 environment. The scan, reproducible via `scan_pyodide_wheels.py`, excluded projects that only vendored or downloaded wheels, built standalone WASM binaries, or produced native wheels.
+
+- Confirmed artifacts: `cmarkgfm`, `cysqlite`, `pydantic_monty`, and `syntaqlite`.
+- Compatibility should be re-tested, especially for the older `cmarkgfm` artifact and its mixed Pyodide version documentation.
 
 ### [Running untrusted queries: Datasette/SQLite vs psycopg/PostgreSQL](https://github.com/simonw/research/tree/main/postgresql-time-limits-readonly#readme) (2026-06-11 04:17)
 
@@ -1177,11 +1185,7 @@ The script automatically:
 - Gets the first commit date that touched each folder's `README.md` and sorts by date, newest first
 - For each folder, checks if a `_summary.md` file exists
 - If the summary exists, it uses the cached version
-- If not, it generates a new summary using `llm -m <!--[[[cog
-print(MODEL, end='')
-]]]-->
-github/gpt-4.1
-<!--[[[end]]]-->` with a prompt that creates engaging descriptions with bullets and links
+- If not, it generates a new summary using `llm`'s default model with a prompt that creates engaging descriptions with bullets and links
 - Creates markdown links to each project folder on GitHub
 - New summaries are saved to `_summary.md` to avoid regenerating them on every run
 

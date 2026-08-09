@@ -112,6 +112,10 @@ Copy the URL to the `.db` file and either paste it into the "Load SQLite DB by U
 
     https://lite.datasette.io/?url=https://latest.datasette.io/fixtures.db
 
+Pass `url` more than once to load multiple databases. Each database uses its filename as its name; repeated filenames are suffixed with `_2`, `_3`, and so on:
+
+    https://lite.datasette.io/?url=https://example.com/data.db&url=https://other.example.com/data.db
+
 Some examples to try out:
 
 - [Global Power Plants](https://lite.datasette.io/?url=https://global-power-plants.datasettes.com/global-power-plants.db) - 33,000 power plants around the world
