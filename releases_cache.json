@@ -9009,6 +9009,12 @@
     "description": "Upload SQLite database files to Datasette",
     "releases": [
       {
+        "published_at": "2026-08-11T20:35:13Z",
+        "published_day": "2026-08-11",
+        "release": "0.5a0",
+        "url": "https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0"
+      },
+      {
         "published_at": "2025-11-10T21:11:58Z",
         "published_day": "2025-11-10",
         "release": "0.4a0",
@@ -9059,7 +9065,7 @@
     ],
     "repo": "datasette-upload-dbs",
     "repo_url": "https://github.com/simonw/datasette-upload-dbs",
-    "total_releases": 8
+    "total_releases": 9
   },
   "datasette-uptime": {
     "description": "Datasette plugin showing uptime at /-/uptime",
