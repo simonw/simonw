@@ -6919,7 +6919,7 @@
     ],
     "repo": "datasette-public",
     "repo_url": "https://github.com/datasette/datasette-public",
-    "total_releases": 13
+    "total_releases": 14
   },
   "datasette-publish-azure": {
     "description": "Publish Datasette instances to Azure Functions (in progress)",

@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,248<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,249<!-- releases_count ends --> releases across <!-- project_count starts -->397<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a13](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13) - ([21 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-08-06
@@ -91,7 +91,7 @@ Listing <!-- releases_count starts -->2,248<!-- releases_count ends --> releases
 <br />Access OpenAI models via an existing Codex subscription
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-04-20
 <br />LLM plugin for models hosted by OpenRouter
-* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([13 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
+* **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([14 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
 <br />Find all currently running Datasette instances and list their ports
