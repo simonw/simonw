@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-upload-dbs 0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - 2026-08-11
+
 [datasette-auth-tokens 0.4a13](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13) - 2026-08-06
 
 [datasette 1.0a38](https://github.com/simonw/datasette/releases/tag/1.0a38) - 2026-08-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-apps 0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - 2026-08-01
 
 [llm-mcp-client 0.1a0](https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0) - 2026-07-31
-
-[datasette-agent 0.4a0](https://github.com/datasette/datasette-agent/releases/tag/0.4a0) - 2026-07-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
