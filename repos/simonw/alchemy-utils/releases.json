@@ -1,0 +1,16 @@
+{
+  "description": "Cross-database sqlite-utils built on SQLAlchemy",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-08-12T19:51:30Z",
+      "published_day": "2026-08-12",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/alchemy-utils/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "alchemy-utils",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/alchemy-utils"
+}
