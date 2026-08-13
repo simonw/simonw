@@ -129,6 +129,9 @@ recorded in shell history.
 the corresponding single-record or `*_all()` API. The default input is a JSON
 object or array. Use `--nl`, `--csv`, or `--tsv` for other formats; `-` reads
 standard input, and those formats are also detected from file extensions.
+CSV and TSV inputs are streamed in batches of 100 records; use `--batch-size`
+to tune the batch size. `--alter` scans all records first so it can add every
+missing column before writing.
 
 ```bash
 echo '{"id": 1, "name": "Ada"}' \

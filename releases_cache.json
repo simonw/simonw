@@ -71,6 +71,12 @@
     "description": "Cross-database sqlite-utils built on SQLAlchemy",
     "releases": [
       {
+        "published_at": "2026-08-13T03:03:17Z",
+        "published_day": "2026-08-13",
+        "release": "0.1a1",
+        "url": "https://github.com/simonw/alchemy-utils/releases/tag/0.1a1"
+      },
+      {
         "published_at": "2026-08-12T19:51:30Z",
         "published_day": "2026-08-12",
         "release": "0.1a0",
@@ -79,7 +85,7 @@
     ],
     "repo": "alchemy-utils",
     "repo_url": "https://github.com/simonw/alchemy-utils",
-    "total_releases": 1
+    "total_releases": 2
   },
   "apple-notes-to-sqlite": {
     "description": "Export Apple Notes to SQLite",

@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,251<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,252<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a0](https://github.com/simonw/alchemy-utils/releases/tag/0.1a0) - 2026-08-12
+* **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/alchemy-utils/releases)) - 2026-08-13
 <br />Cross-database sqlite-utils built on SQLAlchemy
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2026-08-11
 <br />Upload SQLite database files to Datasette

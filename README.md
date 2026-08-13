@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[alchemy-utils 0.1a0](https://github.com/simonw/alchemy-utils/releases/tag/0.1a0) - 2026-08-12
+[alchemy-utils 0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - 2026-08-13
 
 [datasette-upload-dbs 0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - 2026-08-11
 
