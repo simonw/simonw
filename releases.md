@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,252<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,254<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2](https://github.com/simonw/sqlite-utils/releases/tag/4.2) - ([128 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
+<br />Python CLI utility and library for manipulating SQLite databases
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - ([54 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-08-13
+<br />LLM plugin to access Google's Gemini family of models
 * **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/alchemy-utils/releases)) - 2026-08-13
 <br />Cross-database sqlite-utils built on SQLAlchemy
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2026-08-11
@@ -33,8 +37,6 @@ Listing <!-- releases_count starts -->2,252<!-- releases_count ends --> releases
 <br />CLI tool for exploring an MCP server
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.1a0](https://github.com/datasette/datasette-mcp/releases/tag/0.1a0) - 2026-07-28
 <br />Adds a /-/mcp MCP server to any Datasette instance
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [3.39.1](https://github.com/simonw/sqlite-utils/releases/tag/3.39.1) - ([127 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-07-26
-<br />Python CLI utility and library for manipulating SQLite databases
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
 <br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->2,252<!-- releases_count ends --> releases
 <br />Datasette Agent tools for working with Fly Sprites
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-21
 <br />Observable Plot charts for Datasette Agent
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.32](https://github.com/simonw/llm-gemini/releases/tag/0.32) - ([53 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-05-19
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
 <br />LLM accounting for Datasette
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-19

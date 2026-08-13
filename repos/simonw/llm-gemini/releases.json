@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-08-13T19:37:34Z",
+      "published_day": "2026-08-13",
+      "release": "0.33",
+      "url": "https://github.com/simonw/llm-gemini/releases/tag/0.33"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-05-19T23:46:27Z",
       "published_day": "2026-05-19",
       "release": "0.32",
@@ -375,6 +382,6 @@
     }
   ],
   "repo": "llm-gemini",
-  "total_releases": 53,
+  "total_releases": 54,
   "url": "https://github.com/simonw/llm-gemini"
 }

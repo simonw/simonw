@@ -12015,6 +12015,12 @@
     "description": "LLM plugin to access Google's Gemini family of models",
     "releases": [
       {
+        "published_at": "2026-08-13T19:37:34Z",
+        "published_day": "2026-08-13",
+        "release": "0.33",
+        "url": "https://github.com/simonw/llm-gemini/releases/tag/0.33"
+      },
+      {
         "published_at": "2026-05-19T23:46:27Z",
         "published_day": "2026-05-19",
         "release": "0.32",
@@ -12335,7 +12341,7 @@
     ],
     "repo": "llm-gemini",
     "repo_url": "https://github.com/simonw/llm-gemini",
-    "total_releases": 53
+    "total_releases": 54
   },
   "llm-gguf": {
     "description": "Run models distributed as GGUF files using LLM",
@@ -14943,6 +14949,12 @@
     "description": "Python CLI utility and library for manipulating SQLite databases",
     "releases": [
       {
+        "published_at": "2026-08-13T20:11:29Z",
+        "published_day": "2026-08-13",
+        "release": "4.2",
+        "url": "https://github.com/simonw/sqlite-utils/releases/tag/4.2"
+      },
+      {
         "published_at": "2026-07-26T04:38:46Z",
         "published_day": "2026-07-26",
         "release": "3.39.1",
@@ -15707,7 +15719,7 @@
     ],
     "repo": "sqlite-utils",
     "repo_url": "https://github.com/simonw/sqlite-utils",
-    "total_releases": 127
+    "total_releases": 128
   },
   "sqlite-utils-ask": {
     "description": "Ask questions of your data with LLM assistance",

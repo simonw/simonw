@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[sqlite-utils 4.2](https://github.com/simonw/sqlite-utils/releases/tag/4.2) - 2026-08-13
+
+[llm-gemini 0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - 2026-08-13
+
 [alchemy-utils 0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - 2026-08-13
 
 [datasette-upload-dbs 0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - 2026-08-11
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-anthropic 0.26](https://github.com/simonw/llm-anthropic/releases/tag/0.26) - 2026-08-04
 
 [llm 0.32](https://github.com/simonw/llm/releases/tag/0.32) - 2026-08-04
-
-[condense-json 1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - 2026-08-03
-
-[datasette-apps 0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - 2026-08-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
