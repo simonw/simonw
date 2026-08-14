@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[sqlite-utils 4.2](https://github.com/simonw/sqlite-utils/releases/tag/4.2) - 2026-08-13
+[sqlite-utils 4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - 2026-08-13
 
 [llm-gemini 0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - 2026-08-13
 
