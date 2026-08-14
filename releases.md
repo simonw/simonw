@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,254<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,255<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2](https://github.com/simonw/sqlite-utils/releases/tag/4.2) - ([128 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
+* **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - ([54 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-08-13
 <br />LLM plugin to access Google's Gemini family of models
