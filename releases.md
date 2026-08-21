@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,256<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,257<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.32.1](https://github.com/simonw/llm/releases/tag/0.32.1) - ([68 releases total](https://github.com/simonw/llm/releases)) - 2026-08-21
+<br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-08-21
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->2,256<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.26](https://github.com/simonw/llm-anthropic/releases/tag/0.26) - ([24 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-04
 <br />LLM access to models by Anthropic, including the Claude series
-* **[llm](https://github.com/simonw/llm)**: [0.32](https://github.com/simonw/llm/releases/tag/0.32) - ([67 releases total](https://github.com/simonw/llm/releases)) - 2026-08-04
-<br />Access large language models from the command-line
 * **[condense-json](https://github.com/simonw/condense-json)**: [1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-03
 <br />Python function for condensing JSON using replacement strings
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
