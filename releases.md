@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,255<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,256<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-08-21
+<br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - ([54 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-08-13
@@ -93,8 +95,6 @@ Listing <!-- releases_count starts -->2,255<!-- releases_count ends --> releases
 <br />Debug plugin for LLM providing an echo model
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <br />Access OpenAI models via an existing Codex subscription
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.6](https://github.com/simonw/llm-openrouter/releases/tag/0.6) - ([7 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-04-20
-<br />LLM plugin for models hosted by OpenRouter
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([14 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
 <br />Make selected Datasette databases and tables visible to the public
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-04-15
