@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,257<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,258<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.32.1](https://github.com/simonw/llm/releases/tag/0.32.1) - ([68 releases total](https://github.com/simonw/llm/releases)) - 2026-08-21
+* **[llm](https://github.com/simonw/llm)**: [0.33](https://github.com/simonw/llm/releases/tag/0.33) - ([69 releases total](https://github.com/simonw/llm/releases)) - 2026-08-22
 <br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-08-21
 <br />LLM plugin for models hosted by OpenRouter
