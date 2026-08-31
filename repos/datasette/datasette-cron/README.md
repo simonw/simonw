@@ -11,6 +11,8 @@ Plugins can register handler functions, then create tasks that run on a
 schedule. Tasks persist across restarts, support cron expressions and intervals,
 and record execution history.
 
+<img src="docs/screenshots/index.png" width="800" alt="The cron task list showing four scheduled tasks — an hourly import with a red error status dot, a nightly report on a cron schedule with an America/New_York timezone, a five-minute feed refresh and a disabled weekly digest — each with its handler, schedule, next-run countdown and Run now / Enabled buttons, with the registered handler names listed underneath">
+
 ## Installation
 
 ```bash
@@ -52,7 +54,8 @@ def startup(datasette):
    `datasette._cron_scheduler` and collects handlers from all plugins via the
    `cron_register_handlers` hook
 2. **First request**: The scheduler loop starts (via `asgi_wrapper`), ticking
-   every ~1 second
+   every ~1 second — no HTTP traffic means no task runs (see
+   [Operational notes](#operational-notes))
 3. **Each tick**: Queries `datasette_cron_tasks` for tasks where
    `next_run_at <= now` and `enabled = 1`
 4. **Execution**: Looks up the handler function, calls it with
@@ -139,8 +142,7 @@ schedule={"rrule": "FREQ=WEEKLY;BYDAY=MO"}
 ```python
 await scheduler.remove_task("my-task")
 await scheduler.trigger_task("my-task")       # run immediately
-await scheduler.enable_task("my-task")
-await scheduler.disable_task("my-task")
+await scheduler.set_enabled("my-task", False) # disable (True to enable)
 await scheduler.update_task("my-task", schedule={"interval": 10})
 ```
 
@@ -185,7 +187,7 @@ for run in runs:
 | `task_name`     | `str`         | Which task this run belongs to         |
 | `started_at`    | `str`         | ISO timestamp                          |
 | `finished_at`   | `str \| None` | ISO timestamp                          |
-| `status`        | `str`         | `"running"`, `"success"`, or `"error"` |
+| `status`        | `str`         | `"running"`, `"success"`, `"error"`, or `"abandoned"` |
 | `error_message` | `str \| None` | Error details on failure               |
 | `attempt`       | `int`         | Retry attempt number                   |
 | `duration_ms`   | `int \| None` | Execution time in milliseconds         |
@@ -208,13 +210,72 @@ Stored in Datasette's internal database:
 
 **`datasette_cron_tasks`** — task definitions and scheduling state
 
-**`datasette_cron_runs`** — execution history with timing, status, and errors
+**`datasette_cron_runs`** — execution history with timing, status, and errors.
+Only the most recent 100 runs per task are kept (`RUNS_RETAIN_PER_TASK` in
+`datasette_cron/internal_db.py`); older rows are pruned automatically whenever
+a new run starts. Runs left in `"running"` state by a crashed process are
+marked `"abandoned"` on the next startup.
+
+Each task's detail page at `/-/cron/<name>` shows this history — statuses,
+durations, retry attempts and error messages:
+
+<img src="docs/screenshots/detail.png" width="800" alt="The task detail page for a flaky hourly import: cards for handler, schedule, next run and last run (red error dot), and a run history table with three ConnectionError rows for retry attempts 1 to 3, a success that recovered on attempt 2 after a TimeoutError, per-run durations, and an abandoned run from a crashed process">
+
+## Deployment
+
+> [!WARNING]
+> **Run datasette-cron as a single process.** Each worker process spins up
+> its own scheduler and independently fires due tasks — there is no leader
+> election or row-level claim yet. Running under `uvicorn --workers N`,
+> `gunicorn -w N`, or any multi-process container will cause every task to
+> fire N times per scheduled slot.
+>
+> Stick to one worker per deployment (`uvicorn --workers 1`, which is also
+> the default for `datasette serve`). Multi-worker safety is tracked as
+> future work.
+
+### Operational notes
+
+- **The scheduler starts on the first HTTP request.** The loop is started
+  lazily via `asgi_wrapper`, after all startup hooks have completed. A
+  Datasette instance that never receives traffic runs no tasks. If your
+  deployment can sit idle (e.g. behind a scale-to-zero proxy), arrange for
+  a periodic health-check request to keep the scheduler alive.
+- **Execution is at-least-once — write idempotent handlers.** A task's run
+  is spawned *before* its `next_run_at` is advanced, so a crash in that
+  window re-runs the task on restart. Overlap policies (`skip`/`cancel`)
+  are also per-process and in-memory: they do not survive restarts and do
+  not coordinate across processes. Handlers should tolerate being invoked
+  twice for the same scheduled slot.
+- **Scheduling is best-effort, not real-time.** `next_run_at` is recomputed
+  from the wall-clock time the scheduler observes the task as due, plus a
+  small jitter, so intervals mean "at least N seconds between scheduled
+  starts" rather than exact phase-locked boundaries.
 
 ## Development
 
 ```bash
-just dev           # start dev server
-just test          # run tests
-just format        # format code (backend + frontend)
-just check         # lint + type check (backend + frontend)
+just dev                  # start dev server
+just test                 # run tests
+just format               # format code (backend + frontend)
+just check                # lint + type check (backend + frontend)
+just types                # regenerate frontend types from Python sources
+just types-check-fresh    # CI hook: fail if generated types are stale
+just shots                # regenerate the committed doc screenshots
 ```
+
+`frontend/api.d.ts` and `frontend/src/page_data/*` are generated from the
+Python route definitions and Pydantic page-data models. They're committed
+so a fresh clone can build the frontend without first installing the
+Python toolchain; CI runs `just types-check-fresh` to catch drift.
+
+### Screenshots
+
+The screenshots in this README are committed under `docs/screenshots/` and
+regenerated with `just shots` (or `just shots index` for a subset). The
+harness is self-contained: it boots a throwaway Datasette on port 8492,
+seeds deterministic demo tasks and run history via a dev-only plugin in
+`frontend/scripts/shot-plugins/`, drives headless Chromium, and tears
+everything down. One-time setup: `npx playwright install chromium` (after
+`npm install` in `frontend/`). If a change affects the UI, re-run
+`just shots` and commit the updated PNGs.
