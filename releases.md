@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,259<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,260<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
+<br />Adds a /-/mcp MCP server to any Datasette instance
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.27](https://github.com/simonw/llm-anthropic/releases/tag/0.27) - ([25 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-24
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.33](https://github.com/simonw/llm/releases/tag/0.33) - ([69 releases total](https://github.com/simonw/llm/releases)) - 2026-08-22
@@ -37,8 +39,6 @@ Listing <!-- releases_count starts -->2,259<!-- releases_count ends --> releases
 <br />Datasette agent plugin adding tools for creating 3D models
 * **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-29
 <br />CLI tool for exploring an MCP server
-* **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.1a0](https://github.com/datasette/datasette-mcp/releases/tag/0.1a0) - 2026-07-28
-<br />Adds a /-/mcp MCP server to any Datasette instance
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
 <br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15

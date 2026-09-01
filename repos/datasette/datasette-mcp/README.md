@@ -29,7 +29,7 @@ default:
 - `get_database_schema` returns the complete SQL schema for a database,
   including tables, indexes, views, and triggers.
 - `execute_sql` executes one read-only SQL statement and returns structured
-  columns, rows, and a truncation indicator.
+  columns, column-keyed row objects, and a truncation indicator.
 
 Datasette database visibility and `execute-sql` permissions are enforced for
 every tool call. SQL uses the same `validate_sql_select()` and read-only
