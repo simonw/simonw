@@ -243,7 +243,7 @@ llm -m claude-sonnet-4.6 -o thinking 1 'Write a convincing speech to congress ab
 ```
 Claude 4.6 models (and Opus 4.5) also support `thinking_effort`, which implies `thinking 1`. Older models than that use a fixed 1,024 token thinking budget.
 
-When `-R/--hide-reasoning` is set this plugin also passes `display: omitted` to the Anthropic API, which leaves the thinking trace out of the response entirely - it will not appear in your logs, though thinking tokens are still billed.
+Claude 4.7 and later models leave the thinking trace out of the response by default, so this plugin asks the API for `display: summarized` whenever thinking is on. When `-R/--hide-reasoning` is set it passes `display: omitted` instead, which leaves the thinking trace out of the response entirely - it will not appear in your logs, though thinking tokens are still billed.
 
 The `thinking_budget`, `thinking_display` and `thinking_adaptive` options were removed in llm-anthropic 0.26 - install `llm-anthropic==0.25` if you need them for older models.
 
