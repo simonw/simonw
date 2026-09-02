@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,261<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,262<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.28](https://github.com/simonw/llm-anthropic/releases/tag/0.28) - ([26 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-02
+<br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - ([55 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-09-02
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
 <br />Adds a /-/mcp MCP server to any Datasette instance
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.27](https://github.com/simonw/llm-anthropic/releases/tag/0.27) - ([25 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-24
-<br />LLM access to models by Anthropic, including the Claude series
 * **[llm](https://github.com/simonw/llm)**: [0.33](https://github.com/simonw/llm/releases/tag/0.33) - ([69 releases total](https://github.com/simonw/llm/releases)) - 2026-08-22
 <br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-08-21

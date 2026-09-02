@@ -234,7 +234,7 @@ Anthropic models can spend [thinking tokens](https://platform.claude.com/docs/en
 ```bash
 llm -m claude-opus-5 -o thinking_effort max 'Design a fair algorithm for splitting rent between roommates with different sized rooms'
 ```
-Sonnet 5 and Opus 5 can have thinking turned off entirely with `-o thinking 0`. Fable 5 always thinks - disabling it raises an error.
+Sonnet 5 and Opus 5 can have thinking turned off entirely with `-o thinking 0`. Fable models always think - disabling it raises an error.
 
 **Claude 4.6 and older models do not think unless asked.** Enable thinking with `-o thinking 1`:
 
@@ -246,6 +246,21 @@ Claude 4.6 models (and Opus 4.5) also support `thinking_effort`, which implies `
 Claude 4.7 and later models leave the thinking trace out of the response by default, so this plugin asks the API for `display: summarized` whenever thinking is on. When `-R/--hide-reasoning` is set it passes `display: omitted` instead, which leaves the thinking trace out of the response entirely - it will not appear in your logs, though thinking tokens are still billed.
 
 The `thinking_budget`, `thinking_display` and `thinking_adaptive` options were removed in llm-anthropic 0.26 - install `llm-anthropic==0.25` if you need them for older models.
+
+## Refusals
+
+Claude Opus 5 and the Fable models run [safety classifiers](https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback) that can decline a request. The API reports this as a successful response with `stop_reason: "refusal"` and empty content, so this plugin raises a `llm_anthropic.ClaudeRefusal` exception (a subclass of `llm.ModelError`) instead of returning an empty string. The exception message includes the category and explanation from the API, and the exception object exposes them as `.category` and `.explanation`:
+
+```python
+import llm
+from llm_anthropic import ClaudeRefusal
+
+model = llm.get_model("claude-fable-5.1")
+try:
+    print(model.prompt("...").text())
+except ClaudeRefusal as ex:
+    print(ex.category, ex.explanation)
+```
 
 ## Model options
 
