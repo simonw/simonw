@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,260<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,261<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - ([55 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-09-02
+<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
 <br />Adds a /-/mcp MCP server to any Datasette instance
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.27](https://github.com/simonw/llm-anthropic/releases/tag/0.27) - ([25 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-08-24
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->2,260<!-- releases_count ends --> releases
 <br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
 <br />Python CLI utility and library for manipulating SQLite databases
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - ([54 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-08-13
-<br />LLM plugin to access Google's Gemini family of models
 * **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/alchemy-utils/releases)) - 2026-08-13
 <br />Cross-database sqlite-utils built on SQLAlchemy
 * **[datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs)**: [0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/datasette-upload-dbs/releases)) - 2026-08-11
