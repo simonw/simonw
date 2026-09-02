@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - 2026-09-02
+
 [datasette-mcp 0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - 2026-09-01
 
 [llm-anthropic 0.27](https://github.com/simonw/llm-anthropic/releases/tag/0.27) - 2026-08-24
@@ -13,8 +15,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-openrouter 0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - 2026-08-21
 
 [sqlite-utils 4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - 2026-08-13
-
-[llm-gemini 0.33](https://github.com/simonw/llm-gemini/releases/tag/0.33) - 2026-08-13
 
 [alchemy-utils 0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - 2026-08-13
 
