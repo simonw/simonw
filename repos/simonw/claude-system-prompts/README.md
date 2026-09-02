@@ -4,8 +4,6 @@
 
 Anthropic publishes the system prompts used by claude.ai and the Claude mobile apps at [platform.claude.com](https://platform.claude.com/docs/en/release-notes/system-prompts/overview), one page per model, with a dated section for every revision. This repository turns those pages into files in [`prompts/`](prompts/) with a git history: **every published revision is a commit dated the day Anthropic says it went live**, so `git log`, `git diff`, and GitHub's history views show how the prompts have changed over time. Each change also gets a short LLM-written summary of what is new.
 
-[Transcript from building this repo](https://gisthost.github.io/?f1399e27b6a832f0e790b696af812c9b/index.html) using Claude Fable 5.1.
-
 ## Latest changes
 
 The most recent change to each model family, summarized from the diff by `gpt-5.6-luna`. [CHANGELOG.md](CHANGELOG.md) has every change, and the [Atom feed](https://simonw.github.io/claude-system-prompts/feed.atom) delivers new ones.
