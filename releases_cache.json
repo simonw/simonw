@@ -13005,6 +13005,12 @@
     "description": "LLM plugin for models hosted by OpenRouter",
     "releases": [
       {
+        "published_at": "2026-09-02T20:23:26Z",
+        "published_day": "2026-09-02",
+        "release": "0.7.1",
+        "url": "https://github.com/simonw/llm-openrouter/releases/tag/0.7.1"
+      },
+      {
         "published_at": "2026-08-21T16:58:19Z",
         "published_day": "2026-08-21",
         "release": "0.7",
@@ -13055,7 +13061,7 @@
     ],
     "repo": "llm-openrouter",
     "repo_url": "https://github.com/simonw/llm-openrouter",
-    "total_releases": 8
+    "total_releases": 9
   },
   "llm-palm": {
     "description": "Plugin for LLM adding support for Google's PaLM 2 model",

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,263<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,264<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
+<br />LLM plugin for models hosted by OpenRouter
 * **[llm](https://github.com/simonw/llm)**: [0.34](https://github.com/simonw/llm/releases/tag/0.34) - ([70 releases total](https://github.com/simonw/llm/releases)) - 2026-09-02
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.28](https://github.com/simonw/llm-anthropic/releases/tag/0.28) - ([26 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-02
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,263<!-- releases_count ends --> releases
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
 <br />Adds a /-/mcp MCP server to any Datasette instance
-* **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7](https://github.com/simonw/llm-openrouter/releases/tag/0.7) - ([8 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-08-21
-<br />LLM plugin for models hosted by OpenRouter
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/alchemy-utils/releases)) - 2026-08-13
