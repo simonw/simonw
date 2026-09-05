@@ -4,7 +4,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 Search these TILs at https://til.simonwillison.net/
 
-<!-- count starts -->581<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
+<!-- count starts -->582<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
 
 <!-- index starts -->
 ## github-actions
@@ -804,6 +804,7 @@ Search these TILs at https://til.simonwillison.net/
 * [Using LLM in the shebang line of a script](https://github.com/simonw/til/blob/main/llms/llm-shebang.md) - 2026-05-11
 * [Setting a custom price for a model in AgentsView](https://github.com/simonw/til/blob/main/llms/agentsview-custom-model-price.md) - 2026-06-09
 * [Adding a custom MCP server to Claude and ChatGPT](https://github.com/simonw/til/blob/main/llms/mcp-in-claude-and-chatgpt.md) - 2026-07-28
+* [Using Blender with coding agents on macOS](https://github.com/simonw/til/blob/main/llms/blender-coding-agents-macos.md) - 2026-09-05
 
 ## ab
 
