@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using Blender with coding agents on macOS](https://til.simonwillison.net/llms/blender-coding-agents-macos) - 2026-09-05
+
 [Adding a custom MCP server to Claude and ChatGPT](https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt) - 2026-07-29
 
 [Using uvx in GitHub Actions in a cache-friendly way](https://til.simonwillison.net/github-actions/uvx-github-actions-cache) - 2026-07-14
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Setting a custom price for a model in AgentsView](https://til.simonwillison.net/llms/agentsview-custom-model-price) - 2026-06-09
 
 [Using LLM in the shebang line of a script](https://til.simonwillison.net/llms/llm-shebang) - 2026-05-11
-
-[SQL functions in Google Sheets to fetch data from Datasette](https://til.simonwillison.net/google-sheets/datasette-sql) - 2026-04-20
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
