@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,264<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,265<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.35](https://github.com/simonw/llm/releases/tag/0.35) - ([71 releases total](https://github.com/simonw/llm/releases)) - 2026-09-07
+<br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
 <br />LLM plugin for models hosted by OpenRouter
-* **[llm](https://github.com/simonw/llm)**: [0.34](https://github.com/simonw/llm/releases/tag/0.34) - ([70 releases total](https://github.com/simonw/llm/releases)) - 2026-09-02
-<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.28](https://github.com/simonw/llm-anthropic/releases/tag/0.28) - ([26 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-02
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - ([55 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-09-02

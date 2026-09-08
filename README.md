@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-openrouter 0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - 2026-09-02
+[llm 0.35](https://github.com/simonw/llm/releases/tag/0.35) - 2026-09-07
 
-[llm 0.34](https://github.com/simonw/llm/releases/tag/0.34) - 2026-09-02
+[llm-openrouter 0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - 2026-09-02
 
 [llm-anthropic 0.28](https://github.com/simonw/llm-anthropic/releases/tag/0.28) - 2026-09-02
 
