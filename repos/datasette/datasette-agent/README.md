@@ -27,6 +27,28 @@ plugins:
     default_model: gpt-5.4-mini
 ```
 
+### Choosing a model
+
+When more than one model is available, the new-chat form on `/-/agent` (and the "Start a new agent chat" section on other Datasette pages) shows a model picker. The choice is made when a conversation starts and is pinned for that conversation's whole life - later messages keep using the same model even if the configured default changes, and the model cannot be switched mid-conversation. Start a new chat to use a different model. The conversation page shows the model it is using next to the title.
+
+The list comes from datasette-llm's model list for the `agent` purpose: models whose API key is available, minus any excluded by datasette-llm's allowlist and blocklist configuration, and minus any that cannot call tools (the agent needs tool calling). The configured default is preselected. To offer a specific set of models for the agent, configure the purpose in `datasette.yml`:
+
+```yaml
+plugins:
+  datasette-llm:
+    purposes:
+      agent:
+        model: gpt-5.5
+        models:
+        - gpt-5.5
+        - gpt-5.4-mini
+        - claude-sonnet-5
+```
+
+Here `model` is the default for the agent and `models` is the allowlist offered in the picker. Without a `purposes.agent` section the picker offers every tool-capable model that datasette-llm considers available, with `default_model` preselected.
+
+The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agent/api/conversations` accepts an optional `{"model": "..."}` to pin a model when creating a conversation programmatically. Background agents and explorer reports always use the default model.
+
 The "Explore with AI agent" entries that appear in the database and table action menus launch a background agent that explores the selected database or table and writes a report. Reports live under `/-/agent/explore/`.
 
 Visit `/-/agent/background` to launch background agents directly. Each one is given a goal and runs toward it without further input. The listing includes a Stop button for cancelling agents that are still running.
@@ -36,6 +58,23 @@ Visit `/-/agent/background` to launch background agents directly. Each one is gi
 The agent has a built-in `save_query` tool that saves SQL it has written as a [Datasette stored query](https://docs.datasette.io/en/latest/sql_queries.html). The query can be read-only or write SQL - Datasette analyzes it to decide which, and named `:parameters` become form fields on the saved query page.
 
 Saving always requires human approval: the agent shows you the full SQL plus the proposed name, database and visibility, and nothing is stored until you click Yes. Validation and persistence run through Datasette's own `/-/queries/analyze` and `/-/queries/store` endpoints as the requesting actor, so the actor needs `execute-sql` and `store-query` on the target database (plus the relevant row permissions for write queries) - the same rules as the query creation web UI. Saved queries default to private.
+
+### SQL parameters
+
+The `sql_query` tool accepts optional named parameters as an array of name/value entries:
+
+```json
+{
+  "database": "demo",
+  "sql": "select * from items where name = :name and qty >= :qty",
+  "params": [
+    {"name": "name", "value": "apple"},
+    {"name": "qty", "value": 3}
+  ]
+}
+```
+
+Parameter names omit the placeholder prefix and must be unique. Values can be strings, numbers, booleans or null. Each statement in `execute_write_sql` accepts the same `params` format. Both tools also accept parameter dictionaries, preserving compatibility with saved write-tool calls.
 
 ### Executing write SQL
 
