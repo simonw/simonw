@@ -1,0 +1,8 @@
+{
+  "description": "Python web app to help rewrite your commit messages",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "commit-rewriter",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/commit-rewriter"
+}
