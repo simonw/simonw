@@ -16,12 +16,6 @@ The optional positional folder defaults to `.`:
 uv run commit-rewriter
 ```
 
-To run from another directory while using this project's dependencies:
-
-```sh
-uv run --project /path/to/commit-rewriter commit-rewriter /path/to/repository
-```
-
 Or install the CLI as a uv tool and use it from any repository:
 
 ```sh
