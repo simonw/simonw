@@ -6977,6 +6977,12 @@
     "description": "Datasette plugin for publishing data using Fly",
     "releases": [
       {
+        "published_at": "2026-09-11T02:58:52Z",
+        "published_day": "2026-09-11",
+        "release": "1.4",
+        "url": "https://github.com/simonw/datasette-publish-fly/releases/tag/1.4"
+      },
+      {
         "published_at": "2023-08-21T18:59:10Z",
         "published_day": "2023-08-21",
         "release": "1.3.1",
@@ -7039,7 +7045,7 @@
     ],
     "repo": "datasette-publish-fly",
     "repo_url": "https://github.com/simonw/datasette-publish-fly",
-    "total_releases": 10
+    "total_releases": 11
   },
   "datasette-publish-vercel": {
     "description": "Datasette plugin for publishing data using Vercel",

@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-publish-fly 1.4](https://github.com/simonw/datasette-publish-fly/releases/tag/1.4) - 2026-09-11
+
 [github-to-sqlite 2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - 2026-09-11
 
 [datasette 0.65.4](https://github.com/simonw/datasette/releases/tag/0.65.4) - 2026-09-11
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-gemini 0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - 2026-09-02
 
 [datasette-mcp 0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - 2026-09-01
-
-[sqlite-utils 4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - 2026-08-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

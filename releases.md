@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,268<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,269<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.4](https://github.com/simonw/datasette-publish-fly/releases/tag/1.4) - ([11 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2026-09-11
+<br />Datasette plugin for publishing data using Fly
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - ([24 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2026-09-11
 <br />Save data from GitHub to a SQLite database
 * **[datasette](https://github.com/simonw/datasette)**: [0.65.4](https://github.com/simonw/datasette/releases/tag/0.65.4) - ([173 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-11
@@ -515,8 +517,6 @@ Listing <!-- releases_count starts -->2,268<!-- releases_count ends --> releases
 <br />Datasette plugin adding SQL functions for fuzzy text matching powered by Jellyfish
 * **[datasette-debug-permissions](https://github.com/datasette/datasette-debug-permissions)**: [0.2](https://github.com/datasette/datasette-debug-permissions/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-debug-permissions/releases)) - 2023-08-24
 <br />A Datasette plugin that outputs debug information about permission checks
-* **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.3.1](https://github.com/simonw/datasette-publish-fly/releases/tag/1.3.1) - ([10 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2023-08-21
-<br />Datasette plugin for publishing data using Fly
 * **[sqlite-utils-fast-fks](https://github.com/simonw/sqlite-utils-fast-fks)**: [0.1](https://github.com/simonw/sqlite-utils-fast-fks/releases/tag/0.1) - 2023-08-18
 <br />Fast foreign key addition for sqlite-utils
 * **[llm-mlc](https://github.com/simonw/llm-mlc)**: [0.5](https://github.com/simonw/llm-mlc/releases/tag/0.5) - ([5 releases total](https://github.com/simonw/llm-mlc/releases)) - 2023-08-15
