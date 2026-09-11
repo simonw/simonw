@@ -789,6 +789,18 @@
     "description": "An open source multi-tool for exploring and publishing data",
     "releases": [
       {
+        "published_at": "2026-09-11T00:06:55Z",
+        "published_day": "2026-09-11",
+        "release": "0.65.4",
+        "url": "https://github.com/simonw/datasette/releases/tag/0.65.4"
+      },
+      {
+        "published_at": "2026-09-11T00:05:54Z",
+        "published_day": "2026-09-11",
+        "release": "1.0a39",
+        "url": "https://github.com/simonw/datasette/releases/tag/1.0a39"
+      },
+      {
         "published_at": "2026-08-06T18:24:34Z",
         "published_day": "2026-08-06",
         "release": "1.0a38",
@@ -1817,7 +1829,7 @@
     ],
     "repo": "datasette",
     "repo_url": "https://github.com/simonw/datasette",
-    "total_releases": 171
+    "total_releases": 173
   },
   "datasette-acl": {
     "description": "Advanced permission management for Datasette",
@@ -10433,6 +10445,12 @@
     "description": "Save data from GitHub to a SQLite database",
     "releases": [
       {
+        "published_at": "2026-09-11T00:28:39Z",
+        "published_day": "2026-09-11",
+        "release": "2.9.1",
+        "url": "https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1"
+      },
+      {
         "published_at": "2023-12-10T21:42:08Z",
         "published_day": "2023-12-10",
         "release": "2.9",
@@ -10573,7 +10591,7 @@
     ],
     "repo": "github-to-sqlite",
     "repo_url": "https://github.com/dogsheep/github-to-sqlite",
-    "total_releases": 23
+    "total_releases": 24
   },
   "go-to-wheel": {
     "description": "Wrap Go binaries in Python wheels",

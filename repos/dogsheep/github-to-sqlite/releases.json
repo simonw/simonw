@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-09-11T00:28:39Z",
+      "published_day": "2026-09-11",
+      "release": "2.9.1",
+      "url": "https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1"
+    },
+    {
+      "author": "simonw",
       "published_at": "2023-12-10T21:42:08Z",
       "published_day": "2023-12-10",
       "release": "2.9",
@@ -165,6 +172,6 @@
     }
   ],
   "repo": "github-to-sqlite",
-  "total_releases": 23,
+  "total_releases": 24,
   "url": "https://github.com/dogsheep/github-to-sqlite"
 }

@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,265<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,268<!-- releases_count ends --> releases across <!-- project_count starts -->398<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - ([24 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2026-09-11
+<br />Save data from GitHub to a SQLite database
+* **[datasette](https://github.com/simonw/datasette)**: [0.65.4](https://github.com/simonw/datasette/releases/tag/0.65.4) - ([173 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-11
+<br />An open source multi-tool for exploring and publishing data
 * **[llm](https://github.com/simonw/llm)**: [0.35](https://github.com/simonw/llm/releases/tag/0.35) - ([71 releases total](https://github.com/simonw/llm/releases)) - 2026-09-07
 <br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
@@ -21,8 +25,6 @@ Listing <!-- releases_count starts -->2,265<!-- releases_count ends --> releases
 <br />Upload SQLite database files to Datasette
 * **[datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens)**: [0.4a13](https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13) - ([21 releases total](https://github.com/simonw/datasette-auth-tokens/releases)) - 2026-08-06
 <br />Datasette plugin for authenticating access using API tokens
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a38](https://github.com/simonw/datasette/releases/tag/1.0a38) - ([171 releases total](https://github.com/simonw/datasette/releases)) - 2026-08-06
-<br />An open source multi-tool for exploring and publishing data
 * **[condense-json](https://github.com/simonw/condense-json)**: [1.1](https://github.com/simonw/condense-json/releases/tag/1.1) - ([6 releases total](https://github.com/simonw/condense-json/releases)) - 2026-08-03
 <br />Python function for condensing JSON using replacement strings
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.2a0](https://github.com/datasette/datasette-apps/releases/tag/0.2a0) - ([6 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-08-01
@@ -475,8 +477,6 @@ Listing <!-- releases_count starts -->2,265<!-- releases_count ends --> releases
 <br />Django app for building dashboards using raw SQL queries
 * **[ospeak](https://github.com/simonw/ospeak)**: [0.3](https://github.com/simonw/ospeak/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ospeak/releases)) - 2023-12-13
 <br />CLI tool for running text through OpenAI Text to speech
-* **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9) - ([23 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2023-12-10
-<br />Save data from GitHub to a SQLite database
 * **[llm-llama-cpp](https://github.com/simonw/llm-llama-cpp)**: [0.3](https://github.com/simonw/llm-llama-cpp/releases/tag/0.3) - ([4 releases total](https://github.com/simonw/llm-llama-cpp/releases)) - 2023-12-09
 <br />LLM plugin for running models using llama.cpp
 * **[datasette-enrichments-jinja](https://github.com/datasette/datasette-enrichments-jinja)**: [0.1](https://github.com/datasette/datasette-enrichments-jinja/releases/tag/0.1) - ([3 releases total](https://github.com/datasette/datasette-enrichments-jinja/releases)) - 2023-12-06
