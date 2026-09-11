@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[github-to-sqlite 2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - 2026-09-11
+
+[datasette 0.65.4](https://github.com/simonw/datasette/releases/tag/0.65.4) - 2026-09-11
+
 [llm 0.35](https://github.com/simonw/llm/releases/tag/0.35) - 2026-09-07
 
 [llm-openrouter 0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - 2026-09-02
@@ -15,16 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-mcp 0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - 2026-09-01
 
 [sqlite-utils 4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - 2026-08-13
-
-[alchemy-utils 0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - 2026-08-13
-
-[datasette-upload-dbs 0.5a0](https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0) - 2026-08-11
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Some thoughts on the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) - 2026-09-08
+
 [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) - 2026-09-04
 
 [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) - 2026-09-04
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) - 2026-09-01
 
 [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) - 2026-08-30
-
-[Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) - 2026-08-19
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
