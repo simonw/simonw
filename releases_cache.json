@@ -549,6 +549,20 @@
     "repo_url": "https://github.com/simonw/click-app-template-demo",
     "total_releases": 1
   },
+  "commit-rewriter": {
+    "description": "Python web app to help rewrite your commit messages",
+    "releases": [
+      {
+        "published_at": "2026-09-14T00:28:10Z",
+        "published_day": "2026-09-14",
+        "release": "0.1",
+        "url": "https://github.com/simonw/commit-rewriter/releases/tag/0.1"
+      }
+    ],
+    "repo": "commit-rewriter",
+    "repo_url": "https://github.com/simonw/commit-rewriter",
+    "total_releases": 1
+  },
   "condense-json": {
     "description": "Python function for condensing JSON using replacement strings",
     "releases": [
@@ -14257,6 +14271,12 @@
     "description": "A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript",
     "releases": [
       {
+        "published_at": "2026-09-13T23:58:14Z",
+        "published_day": "2026-09-13",
+        "release": "1.12",
+        "url": "https://github.com/simonw/shot-scraper/releases/tag/1.12"
+      },
+      {
         "published_at": "2026-07-12T23:46:52Z",
         "published_day": "2026-07-12",
         "release": "1.11",
@@ -14481,7 +14501,7 @@
     ],
     "repo": "shot-scraper",
     "repo_url": "https://github.com/simonw/shot-scraper",
-    "total_releases": 37
+    "total_releases": 38
   },
   "showboat": {
     "description": "Create executable documents that demonstrate an agent's work",

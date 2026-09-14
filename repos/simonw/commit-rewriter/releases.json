@@ -1,8 +1,16 @@
 {
   "description": "Python web app to help rewrite your commit messages",
   "owner": "simonw",
-  "releases": [],
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-09-14T00:28:10Z",
+      "published_day": "2026-09-14",
+      "release": "0.1",
+      "url": "https://github.com/simonw/commit-rewriter/releases/tag/0.1"
+    }
+  ],
   "repo": "commit-rewriter",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/simonw/commit-rewriter"
 }
