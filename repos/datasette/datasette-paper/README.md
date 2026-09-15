@@ -89,11 +89,11 @@ datasette install datasette-paper
 
 ```bash
 datasette --internal papers.db \
-  -s permissions.datasette-paper-list true \
-  -s permissions.datasette-paper-create true \
-  -s permissions.datasette-paper-view true \
-  -s permissions.datasette-paper-edit true
+  -s permissions.datasette-paper-create true
 ```
+
+Viewing and editing are granted per paper through the share dialog, not
+globally — see [Permissions](#permissions).
 
 No user database is required — papers live in Datasette's internal database.
 
@@ -104,35 +104,33 @@ this, so you don't lose your papers to a forgotten flag.
 
 ## Permissions
 
-Four actions gate access. The view/edit actions are per-paper; list/create
-are global.
+One global action, set in Datasette config, plus three per-paper actions
+resolved by [datasette-acl](https://github.com/datasette/datasette-acl)
+grants. See [`docs/PERMISSIONS.md`](docs/PERMISSIONS.md) for the full model.
 
-| Action | Scope | Gates |
+| Action | Scope | Resolved by |
 |---|---|---|
-| `datasette-paper-list` | global | The paper index page and the list endpoint. |
-| `datasette-paper-create` | global (also-requires `list`) | Creating new papers. |
-| `datasette-paper-view` | per-paper (`PaperResource`) | Reading a specific paper (bootstrap, SSE, document, tasks). |
-| `datasette-paper-edit` | per-paper (`PaperResource`, also-requires `view`) | Modifying a specific paper (events, presence, rename, snapshot, share). |
+| `datasette-paper-create` | global | Datasette config (`-s permissions.*` / `permissions:` block) |
+| `paper-view` | per-paper (`PaperDocResource`) | datasette-acl grants |
+| `paper-edit` | per-paper (also-requires `paper-view`) | datasette-acl grants, denied while the paper is `locked` |
+| `paper-manage` | per-paper (also-requires `paper-view`) | datasette-acl grants (the Manager role) |
 
-The plugin registers a `permission_resources_sql` hook that resolves
-per-paper view/edit grants from the `_datasette_paper_doc.created_by`
-column (owners) and the `_datasette_paper_share` table (explicit grants
-+ link-visibility levels).
+Listing is ungated: the index and list endpoints return only the papers the
+actor can view. Don't grant the per-paper actions globally in config — that
+bypasses sharing and lets every actor read and edit every paper.
 
 ## Sharing
 
-Each paper has one of three visibility levels:
+Whoever creates a paper is its owner and gets a **Manager** grant on it
+automatically. The share dialog grants people one of three cumulative roles:
 
-- `private` — only the owner and explicitly-shared actors can access.
-- `link-view` — any authenticated actor with the link can view.
-- `link-edit` — any authenticated actor with the link can view and edit.
+- **Viewer** — can view the paper.
+- **Editor** — can view and edit it.
+- **Manager** — can also manage sharing, lock, archive, and template it.
 
-Plus per-actor share rows that grant a specific actor a `viewer` or
-`editor` role on a single paper.
-
-The owner is whoever created the paper (`created_by`, captured from the
-actor cookie at create time). Only the owner can change visibility or
-mutate shares.
+A **general access** row grants a role to everyone signed in, in place of
+naming individuals. Access changes apply immediately, including to anyone
+with the paper open — a revoked collaborator's live connection is dropped.
 
 ## Profile integration
 
@@ -174,17 +172,23 @@ tasks in papers you're allowed to open.
 Paper data lives in Datasette's internal database under tables prefixed
 with `_datasette_paper_`:
 
-- `_datasette_paper_doc` — one row per paper (id, name, visibility, created_by).
+- `_datasette_paper_doc` — one row per paper (id, name, state, kind,
+  created_by, locked).
 - `_datasette_paper_step` — append-only log of ProseMirror steps.
 - `_datasette_paper_snapshot` — periodic full-document snapshots.
-- `_datasette_paper_share` — per-actor view/edit grants.
+- `_datasette_paper_link` — the `[[wikilink]]` graph between papers.
+- `_datasette_paper_doc_tag` / `_datasette_paper_inline_tag` — document tags
+  and the index of inline `#tag` atoms.
+- `_datasette_paper_doc_activity` — per-paper, per-person last-edited rollup.
+- `_datasette_paper_task_assignment` — index of assigned tasks for TODOs.
+
+Sharing grants live in datasette-acl's own tables.
 
 ## Wire protocol
 
 JSON API rooted at `/-/paper/api/...` — no per-database segment. List/create
-docs, bootstrap a paper, post step batches, stream updates over SSE, manage
-shares, render markdown / extract tasks. See `CLAUDE.md` for the full
-endpoint table.
+docs, bootstrap a paper, post step batches, stream updates over SSE, render
+markdown / extract tasks. Route handlers live in `datasette_paper/routes/`.
 
 ## Frontend stack
 
