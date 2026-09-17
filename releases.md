@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,271<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,273<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a40](https://github.com/simonw/datasette/releases/tag/1.0a40) - ([175 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-16
+<br />An open source multi-tool for exploring and publishing data
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.1](https://github.com/simonw/commit-rewriter/releases/tag/0.1) - 2026-09-14
 <br />Python web app to help rewrite your commit messages
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.12](https://github.com/simonw/shot-scraper/releases/tag/1.12) - ([38 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-09-13
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->2,271<!-- releases_count ends --> releases
 <br />Datasette plugin for publishing data using Fly
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - ([24 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2026-09-11
 <br />Save data from GitHub to a SQLite database
-* **[datasette](https://github.com/simonw/datasette)**: [0.65.4](https://github.com/simonw/datasette/releases/tag/0.65.4) - ([173 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-11
-<br />An open source multi-tool for exploring and publishing data
 * **[llm](https://github.com/simonw/llm)**: [0.35](https://github.com/simonw/llm/releases/tag/0.35) - ([71 releases total](https://github.com/simonw/llm/releases)) - 2026-09-07
 <br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
