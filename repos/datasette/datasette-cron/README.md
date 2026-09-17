@@ -53,9 +53,10 @@ def startup(datasette):
 1. **Startup**: datasette-cron creates a `Scheduler` at
    `datasette._cron_scheduler` and collects handlers from all plugins via the
    `cron_register_handlers` hook
-2. **First request**: The scheduler loop starts (via `asgi_wrapper`), ticking
-   every ~1 second — no HTTP traffic means no task runs (see
-   [Operational notes](#operational-notes))
+2. **Boot**: Once every plugin's `startup` hook has completed, Datasette
+   launches the scheduler loop (registered via `datasette.add_background_task`)
+   as a supervised background task, ticking every ~1 second — no HTTP
+   traffic required
 3. **Each tick**: Queries `datasette_cron_tasks` for tasks where
    `next_run_at <= now` and `enabled = 1`
 4. **Execution**: Looks up the handler function, calls it with
@@ -236,11 +237,6 @@ durations, retry attempts and error messages:
 
 ### Operational notes
 
-- **The scheduler starts on the first HTTP request.** The loop is started
-  lazily via `asgi_wrapper`, after all startup hooks have completed. A
-  Datasette instance that never receives traffic runs no tasks. If your
-  deployment can sit idle (e.g. behind a scale-to-zero proxy), arrange for
-  a periodic health-check request to keep the scheduler alive.
 - **Execution is at-least-once — write idempotent handlers.** A task's run
   is spawned *before* its `next_run_at` is advanced, so a crash in that
   window re-runs the task on restart. Overlap policies (`skip`/`cancel`)
