@@ -45,7 +45,7 @@ Now you can start Datasette like this, passing in the secrets as environment var
 
 Note that hard-coding secrets in `metadata.json` is a bad idea as they will be visible to anyone who can navigate to `/-/metadata`. Instead, we use Datasette's mechanism for [adding secret plugin configuration options](https://docs.datasette.io/en/stable/plugins.html#secret-configuration-values).
 
-By default anonymous users will still be able to interact with Datasette. If you wish all users to have to sign in with a GitHub account first, add this to your ``metadata.json``:
+By default anonymous users will still be able to interact with Datasette. If you wish all users to have to sign in with a GitHub account first, add this to your Datasette configuration:
 
 ```json
 {
@@ -59,6 +59,21 @@ By default anonymous users will still be able to interact with Datasette. If you
     }
 }
 ```
+
+By default, signing in creates a cookie that stays valid for **30 days**. Set `login_max_age` to a positive integer number of seconds to change that login duration. For 24 hours, use 24 * 60 * 60 = 86400:
+
+```json
+{
+    "plugins": {
+        "datasette-auth-github": {
+            "client_id": {"$env": "GITHUB_CLIENT_ID"},
+            "client_secret": {"$env": "GITHUB_CLIENT_SECRET"},
+            "login_max_age": 86400
+        }
+    }
+}
+```
+
 ## The authenticated actor
 
 Visit `/-/actor` when signed in to see the shape of the authenticated actor. It should look something like this:
@@ -159,7 +174,7 @@ If your organization is [arranged into teams](https://help.github.com/en/article
 
 A user's organization and team memberships are checked once, when they first sign in. Those teams and organizations are then persisted in the user's signed `ds_actor` cookie.
 
-This means that if a user is removed from an organization or team but still has a Datasette cookie, they will still be able to access that Datasette instance.
+This means that if a user is removed from an organization or team but still has a valid Datasette cookie, they will still be able to access that Datasette instance until the cookie expires or is invalidated. The default expiration is 30 days after sign-in.
 
 You can remedy this by rotating the `DATASETTE_SECRET` environment variable any time you make changes to your GitHub organization members.
 

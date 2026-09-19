@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,273<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,274<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - ([27 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2026-09-19
+<br />Datasette plugin that authenticates users against GitHub
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a40](https://github.com/simonw/datasette/releases/tag/1.0a40) - ([175 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-16
 <br />An open source multi-tool for exploring and publishing data
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.1](https://github.com/simonw/commit-rewriter/releases/tag/0.1) - 2026-09-14
@@ -213,8 +215,6 @@ Listing <!-- releases_count starts -->2,273<!-- releases_count ends --> releases
 <br />Demo app for datasette-llm-accountant
 * **[update-workflows](https://github.com/simonw/update-workflows)**: [0.2](https://github.com/simonw/update-workflows/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/update-workflows/releases)) - 2025-11-17
 <br />Python script for updating GitHub Actions workflows
-* **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [0.14](https://github.com/simonw/datasette-auth-github/releases/tag/0.14) - ([26 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2025-11-16
-<br />Datasette plugin that authenticates users against GitHub
 * **[datasette-ripgrep](https://github.com/simonw/datasette-ripgrep)**: [0.9a0](https://github.com/simonw/datasette-ripgrep/releases/tag/0.9a0) - ([16 releases total](https://github.com/simonw/datasette-ripgrep/releases)) - 2025-11-11
 <br />Web interface for searching your code using ripgrep, built as a Datasette plugin
 * **[datasette-queries](https://github.com/datasette/datasette-queries)**: [0.1.3a0](https://github.com/datasette/datasette-queries/releases/tag/0.1.3a0) - ([7 releases total](https://github.com/datasette/datasette-queries/releases)) - 2025-11-11
