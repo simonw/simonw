@@ -9,6 +9,8 @@ A local web UI for setting keys used by [LLM](https://llm.datasette.io/).
 
 This plugin is particularly useful if you are running a coding agent on a remote machine and want to set some API keys without pasting them into the agent context.
 
+See [this blog post](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) for screenshots and details.
+
 ## Installation
 
 Install this plugin in the same environment as [LLM](https://llm.datasette.io/).
