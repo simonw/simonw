@@ -27,17 +27,8 @@ You can see this plugin in action on [datasette.simonwillison.net](https://datas
 
 ## Development
 
-To set up this plugin locally, first checkout the code. Then create a new virtual environment:
+To set up this plugin locally, first checkout the code. Then run the tests using [uv](https://docs.astral.sh/uv/):
 ```bash
 cd datasette-explain
-python3 -m venv venv
-source venv/bin/activate
-```
-Now install the dependencies and test dependencies:
-```bash
-pip install -e '.[test]'
-```
-To run the tests:
-```bash
-pytest
+uv run pytest
 ```

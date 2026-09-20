@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,274<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,275<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.2](https://github.com/simonw/datasette-explain/releases/tag/0.2.2) - ([6 releases total](https://github.com/simonw/datasette-explain/releases)) - 2026-09-20
+<br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - ([27 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2026-09-19
 <br />Datasette plugin that authenticates users against GitHub
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a40](https://github.com/simonw/datasette/releases/tag/1.0a40) - ([175 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-16
@@ -455,8 +457,6 @@ Listing <!-- releases_count starts -->2,274<!-- releases_count ends --> releases
 <br />Datasette plugin to expose selected environment variables at /-/env for debugging
 * **[datasette-schema-versions](https://github.com/simonw/datasette-schema-versions)**: [0.3](https://github.com/simonw/datasette-schema-versions/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/datasette-schema-versions/releases)) - 2024-03-01
 <br />Datasette plugin that shows the schema version of every attached database
-* **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.1](https://github.com/simonw/datasette-explain/releases/tag/0.2.1) - ([5 releases total](https://github.com/simonw/datasette-explain/releases)) - 2024-02-28
-<br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-unsafe-actor-debug](https://github.com/datasette/datasette-unsafe-actor-debug)**: [0.2](https://github.com/datasette/datasette-unsafe-actor-debug/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-unsafe-actor-debug/releases)) - 2024-02-18
 <br />Debug plugin that lets you imitate any actor
 * **[datasette-enrichments-opencage](https://github.com/datasette/datasette-enrichments-opencage)**: [0.1.1](https://github.com/datasette/datasette-enrichments-opencage/releases/tag/0.1.1) - ([4 releases total](https://github.com/datasette/datasette-enrichments-opencage/releases)) - 2024-02-16

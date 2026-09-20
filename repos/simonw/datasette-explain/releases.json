@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-09-20T00:22:04Z",
+      "published_day": "2026-09-20",
+      "release": "0.2.2",
+      "url": "https://github.com/simonw/datasette-explain/releases/tag/0.2.2"
+    },
+    {
+      "author": "simonw",
       "published_at": "2024-02-28T16:55:58Z",
       "published_day": "2024-02-28",
       "release": "0.2.1",
@@ -39,6 +46,6 @@
     }
   ],
   "repo": "datasette-explain",
-  "total_releases": 5,
+  "total_releases": 6,
   "url": "https://github.com/simonw/datasette-explain"
 }

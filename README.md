@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-explain 0.2.2](https://github.com/simonw/datasette-explain/releases/tag/0.2.2) - 2026-09-20
+
 [datasette-auth-github 1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - 2026-09-19
 
 [datasette 1.0a40](https://github.com/simonw/datasette/releases/tag/1.0a40) - 2026-09-16
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [github-to-sqlite 2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - 2026-09-11
 
 [llm 0.35](https://github.com/simonw/llm/releases/tag/0.35) - 2026-09-07
-
-[llm-openrouter 0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - 2026-09-02
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
