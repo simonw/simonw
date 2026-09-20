@@ -1,0 +1,16 @@
+{
+  "description": "LLM web UI for setting keys",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-09-20T19:22:19Z",
+      "published_day": "2026-09-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-keys-ui/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-keys-ui",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-keys-ui"
+}

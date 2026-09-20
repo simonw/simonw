@@ -12585,6 +12585,20 @@
     "repo_url": "https://github.com/simonw/llm-jq",
     "total_releases": 3
   },
+  "llm-keys-ui": {
+    "description": "LLM web UI for setting keys",
+    "releases": [
+      {
+        "published_at": "2026-09-20T19:22:19Z",
+        "published_day": "2026-09-20",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-keys-ui/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-keys-ui",
+    "repo_url": "https://github.com/simonw/llm-keys-ui",
+    "total_releases": 1
+  },
   "llm-lambda-labs": {
     "description": "Run prompts against LLMs hosted by lambdalabs.com",
     "releases": [

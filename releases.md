@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,275<!-- releases_count ends --> releases across <!-- project_count starts -->399<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,276<!-- releases_count ends --> releases across <!-- project_count starts -->400<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-keys-ui](https://github.com/simonw/llm-keys-ui)**: [0.1](https://github.com/simonw/llm-keys-ui/releases/tag/0.1) - 2026-09-20
+<br />LLM web UI for setting keys
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.2](https://github.com/simonw/datasette-explain/releases/tag/0.2.2) - ([6 releases total](https://github.com/simonw/datasette-explain/releases)) - 2026-09-20
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - ([27 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2026-09-19
