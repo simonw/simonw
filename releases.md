@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,276<!-- releases_count ends --> releases across <!-- project_count starts -->400<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,277<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-typesafe](https://github.com/simonw/llm-typesafe)**: [0.1a0](https://github.com/simonw/llm-typesafe/releases/tag/0.1a0) - 2026-09-22
+<br />LLM plugin for accessing Jev and other TypeSafe AI models
 * **[llm-keys-ui](https://github.com/simonw/llm-keys-ui)**: [0.1](https://github.com/simonw/llm-keys-ui/releases/tag/0.1) - 2026-09-20
 <br />LLM web UI for setting keys
 * **[datasette-explain](https://github.com/simonw/datasette-explain)**: [0.2.2](https://github.com/simonw/datasette-explain/releases/tag/0.2.2) - ([6 releases total](https://github.com/simonw/datasette-explain/releases)) - 2026-09-20

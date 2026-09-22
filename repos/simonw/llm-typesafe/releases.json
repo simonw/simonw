@@ -1,0 +1,16 @@
+{
+  "description": "LLM plugin for accessing Jev and other TypeSafe AI models",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-09-22T15:54:16Z",
+      "published_day": "2026-09-22",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/llm-typesafe/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "llm-typesafe",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-typesafe"
+}

@@ -13507,6 +13507,20 @@
     "repo_url": "https://github.com/simonw/llm-tools-trigger-error",
     "total_releases": 1
   },
+  "llm-typesafe": {
+    "description": "LLM plugin for accessing Jev and other TypeSafe AI models",
+    "releases": [
+      {
+        "published_at": "2026-09-22T15:54:16Z",
+        "published_day": "2026-09-22",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-typesafe/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-typesafe",
+    "repo_url": "https://github.com/simonw/llm-typesafe",
+    "total_releases": 1
+  },
   "llm-video-frames": {
     "description": "LLM fragment plugin to turn a video into images of different frames",
     "releases": [
