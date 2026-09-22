@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,278<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,279<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.36](https://github.com/simonw/llm/releases/tag/0.36) - ([72 releases total](https://github.com/simonw/llm/releases)) - 2026-09-22
+<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.29](https://github.com/simonw/llm-anthropic/releases/tag/0.29) - ([27 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-22
 <br />LLM access to models by Anthropic, including the Claude series
 * **[llm-typesafe](https://github.com/simonw/llm-typesafe)**: [0.1a0](https://github.com/simonw/llm-typesafe/releases/tag/0.1a0) - 2026-09-22
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->2,278<!-- releases_count ends --> releases
 <br />Datasette plugin for publishing data using Fly
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)**: [2.9.1](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1) - ([24 releases total](https://github.com/dogsheep/github-to-sqlite/releases)) - 2026-09-11
 <br />Save data from GitHub to a SQLite database
-* **[llm](https://github.com/simonw/llm)**: [0.35](https://github.com/simonw/llm/releases/tag/0.35) - ([71 releases total](https://github.com/simonw/llm/releases)) - 2026-09-07
-<br />Access large language models from the command-line
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
 <br />LLM plugin for models hosted by OpenRouter
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - ([55 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-09-02

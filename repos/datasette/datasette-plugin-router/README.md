@@ -14,6 +14,13 @@ Datasette plugins that have a lot of [custom API endpoints](https://docs.dataset
 - `register_routes()` compatability
 - export to OpenAPI schema for codegen'ing clients
 
+## Supported Datasette versions
+
+Requires Datasette 1.0a36 or later. That release adds a `max_post_body_bytes`
+setting (default 2MB, returning a **413** on oversize requests), which caps
+the `Body()` request-body reads this router does, and switches CSRF
+protection to Origin/`Sec-Fetch-Site` checks so JSON `fetch()` requests work
+without a token.
 
 Sample usage:
 
