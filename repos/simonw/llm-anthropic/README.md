@@ -26,6 +26,18 @@ You can also set the key in the environment variable `ANTHROPIC_API_KEY`
 
 Run `llm models` to list the models, and `llm models --options` to include a list of their options.
 
+To see the models currently available to your API key directly from the [Anthropic models API](https://docs.anthropic.com/en/api/models-list), run:
+```bash
+llm anthropic models
+```
+Example output:
+```
+claude-opus-5-5: Claude Opus 5.5 (created 2026-09-21)
+claude-fable-5-1: Claude Fable 5.1 (created 2026-08-28)
+claude-sonnet-5: Claude Sonnet 5 (created 2026-06-29)
+```
+Add `--json` to see the full JSON returned by the API, including details of each model's capabilities. Use `--key` to pass a different API key.
+
 Run prompts like this:
 ```bash
 llm -m claude-opus-5.5 'Fun facts about walruses'
