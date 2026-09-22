@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-09-22T17:14:55Z",
+      "published_day": "2026-09-22",
+      "release": "0.29",
+      "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.29"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-09-02T17:59:32Z",
       "published_day": "2026-09-02",
       "release": "0.28",
@@ -186,6 +193,6 @@
     }
   ],
   "repo": "llm-anthropic",
-  "total_releases": 26,
+  "total_releases": 27,
   "url": "https://github.com/simonw/llm-anthropic"
 }

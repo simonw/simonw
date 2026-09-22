@@ -11427,6 +11427,12 @@
     "description": "LLM access to models by Anthropic, including the Claude series",
     "releases": [
       {
+        "published_at": "2026-09-22T17:14:55Z",
+        "published_day": "2026-09-22",
+        "release": "0.29",
+        "url": "https://github.com/simonw/llm-anthropic/releases/tag/0.29"
+      },
+      {
         "published_at": "2026-09-02T17:59:32Z",
         "published_day": "2026-09-02",
         "release": "0.28",
@@ -11585,7 +11591,7 @@
     ],
     "repo": "llm-anthropic",
     "repo_url": "https://github.com/simonw/llm-anthropic",
-    "total_releases": 26
+    "total_releases": 27
   },
   "llm-anyscale-endpoints": {
     "description": "LLM plugin for models hosted by Anyscale Endpoints",
