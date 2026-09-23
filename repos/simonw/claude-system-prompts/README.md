@@ -10,6 +10,16 @@ Anthropic publishes the system prompts used by claude.ai and the Claude mobile a
 
 The most recent change to each model family, summarized from the diff by `gpt-5.6-luna`. [CHANGELOG.md](CHANGELOG.md) has every change, and the [Atom feed](https://simonw.github.io/claude-system-prompts/feed.atom) delivers new ones.
 
+### Opus 5 → Opus 5.5 on Sep 22, 2026
+
+- Claude now refuses reproducing text and visual works, including known characters in generated drawings, and must offer unrelated originals without explaining how to close the gap.
+- It adds illegal-drug guidance: provide overdose and interaction information, but refuse dosing, timing, administration, or combination protocols and direct people to harm-reduction sources.
+- Borderline requests now get one question about actual potential harm before proceeding, replacing automatic refusal or questions about the person’s motives or certainty.
+- Child-safety guidance adds pattern-level education and forbids explaining detection mechanics, while dropping the explicit self-sexualization rule requiring continued refusals afterward.
+- The prompt removes the Fable-to-Opus safeguards-routing notice and broad “defaults to helping” stance, while also softening explicit crisis-prioritization and diagnostic disclaimers.
+
+[Diff](https://github.com/simonw/claude-system-prompts/commit/81436d252b4d0c0e408932f53c71c4d6e810f026) · [prompt](prompts/claude-opus.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md)
+
 ### Fable 5 → Fable 5.1 on Sep 1, 2026
 
 - Claude now refuses reproduction of protected visual works and recognizable characters, including code-generated art, while offering genuinely unrelated originals.
@@ -19,16 +29,6 @@ The most recent change to each model family, summarized from the diff by `gpt-5.
 - Claude need not apologize to unnecessarily rude users or become submissive, replacing the prior warning-and-end-conversation procedure.
 
 [Diff](https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b) · [prompt](prompts/claude-fable.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md)
-
-### Opus 4.8 → Opus 5 on Jul 24, 2026
-
-- Adds explicit Fable-to-Opus safeguards routing, noting harmless requests may be caught “in less than 5% of sessions,” and mandates factual handling of the export-control suspension.
-- Drops tool-discovery rules requiring `tool_search` and pre-file `SKILL.md` viewing, and removes the instruction not to attribute behavior to the system prompt.
-- In crisis or distress, Claude now prioritizes wellbeing over task completion; it also drops explicit anti-overreliance rules such as never asking users to keep talking.
-- Replaces extensive anti-formatting rules with permission to use lists when helpful, while dropping restrictions on emojis and pet names.
-- Unless it suspects a minor, Claude now assumes the person is a capable adult and treats them as such.
-
-[Diff](https://github.com/simonw/claude-system-prompts/commit/26d66c827d2e847bf0b302207481576a4ba39fa0) · [prompt](prompts/claude-opus.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md)
 
 ### Sonnet 4.5 → Sonnet 4.6 on Feb 17, 2026
 
@@ -62,8 +62,8 @@ Alongside it:
 
 Each link is the commit history of one family file. Every commit's diff is the change from the previous prompt in that family, including across model generations.
 
+- [Opus](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md) — Claude Opus 3 → Claude Opus 5.5
 - [Fable](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md) — Claude Fable 5 → Claude Fable 5.1
-- [Opus](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md) — Claude Opus 3 → Claude Opus 5
 - [Sonnet](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet.md) — Claude Sonnet 3.5 → Claude Sonnet 4.6
 - [Haiku](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md) — Claude Haiku 3 → Claude Haiku 4.5
 
@@ -73,6 +73,7 @@ Newest first. Each revision is committed one file at a time, so every **what cha
 
 | Model | Published | Prompt | What changed |
 | --- | --- | --- | --- |
+| Claude Opus 5.5 | 2026-09-22 | [claude-opus-5-5.md](prompts/claude-opus-5-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus-5-5.md)) | [vs previous Opus](https://github.com/simonw/claude-system-prompts/commit/81436d252b4d0c0e408932f53c71c4d6e810f026) ([summary](_summary/81436d252b4d0c0e408932f53c71c4d6e810f026.md)) |
 | Claude Fable 5.1 | 2026-09-01 | [claude-fable-5-1.md](prompts/claude-fable-5-1.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable-5-1.md)) | [vs previous Fable](https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b) ([summary](_summary/837a418b5888207b1b11b27d2f5471970da6f99b.md)) |
 | Claude Opus 5 | 2026-07-24 | [claude-opus-5.md](prompts/claude-opus-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus-5.md)) | [vs previous Opus](https://github.com/simonw/claude-system-prompts/commit/26d66c827d2e847bf0b302207481576a4ba39fa0) ([summary](_summary/26d66c827d2e847bf0b302207481576a4ba39fa0.md)) |
 | Claude Fable 5 | 2026-06-09 | [claude-fable-5.md](prompts/claude-fable-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable-5.md)) | first Fable prompt ([commit](https://github.com/simonw/claude-system-prompts/commit/0fd7b3316ec3d7da93789351689fea6d5807a6be)) |
