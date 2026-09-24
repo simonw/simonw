@@ -193,6 +193,26 @@ Some models support [fast mode](https://platform.claude.com/docs/en/build-with-c
 llm -m claude-opus-5 -o fast 1 'Fun facts about walruses'
 ```
 
+## Counting tokens
+
+The `llm anthropic count` command uses the [Anthropic token counting API](https://platform.claude.com/docs/en/build-with-claude/token-counting) to count the input tokens for a prompt, without running it:
+```bash
+llm anthropic count 'Fun facts about walruses' -m claude-opus-5
+```
+It outputs the number of tokens:
+```
+15
+```
+The command accepts the same options as `llm prompt`, so the count reflects the exact request that would be sent. That includes system prompts, attachments, fragments, templates, tools, schemas, model options and previous messages in a conversation:
+```bash
+cat code.py | llm anthropic count -m claude-sonnet-5 -s 'Review this code'
+llm anthropic count -m claude-opus-5 'Describe this' -a pelican.jpg
+llm anthropic count -m claude-opus-5 --schema 'name, age int' 'Invent a dog'
+llm anthropic count -m claude-opus-5 -T llm_time -o thinking_effort high 'What time is it?'
+llm anthropic count -c 'Tell me more'
+```
+Nothing is logged to the database when counting tokens.
+
 ## Usage from Python
 
 Python code can access the models like this:
@@ -203,6 +223,26 @@ model = llm.get_model("claude-haiku-4.5")
 print(model.prompt("Fun facts about chipmunks"))
 ```
 Consult [LLM's Python API documentation](https://llm.datasette.io/en/stable/python-api.html) for more details.
+
+To count the input tokens for a prompt without running it, call `model.count_tokens()`. It accepts the same arguments as `model.prompt()` and returns an integer:
+```python
+model = llm.get_model("claude-opus-5")
+count = model.count_tokens(
+    "Describe this image",
+    system="Be concise",
+    attachments=[
+        llm.Attachment(url="https://static.simonwillison.net/static/2024/pelicans.jpg")
+    ],
+    thinking_effort="high",
+)
+```
+Pass `conversation=` to include the previous messages from a conversation:
+```python
+conversation = model.conversation()
+conversation.prompt("Fun facts about pelicans").text()
+count = model.count_tokens("Tell me more", conversation=conversation)
+```
+For async models, use `await model.count_tokens(...)`.
 
 You can also import the model classes directly, which is useful if you want to point the `base_url` at a different Anthropic-compatible endpoint:
 ```python
@@ -358,7 +398,7 @@ Claude 5 models no longer accept sampling parameters - setting `temperature`, `t
 The `prefill` option can be used to set the first part of the response. To increase the chance of returning JSON, set that to `{`:
 
 ```bash
-llm -m claude-sonnet-5 'Fun data about pelicans' \
+llm -m claude-haiku-4.5 'Fun data about pelicans as JSON' \
   -o prefill '{'
 ```
 If you do not want the prefill token to be echoed in the response, set `hide_prefill` to `true`:
@@ -374,23 +414,13 @@ This example sets `` ``` `` as the stop sequence, so the response will be a Pyth
 To pass a single stop sequence, send a string:
 ```bash
 llm -m claude-sonnet-5 'Fun facts about pelicans' \
-  -o stop-sequences "beak"
+  -o stop_sequences "beak"
 ```
 For multiple stop sequences, pass a JSON array:
 
 ```bash
 llm -m claude-sonnet-5 'Fun facts about pelicans' \
-  -o stop-sequences '["beak", "feathers"]'
-```
-
-When using the Python API, pass a string or an array of strings:
-
-```python
-response = llm.query(
-    model="claude-sonnet-5",
-    query="Fun facts about pelicans",
-    stop_sequences=["beak", "feathers"],
-)
+  -o stop_sequences '["beak", "feathers"]'
 ```
 
 ## Development
