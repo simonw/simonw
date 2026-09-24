@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,279<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,280<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a41](https://github.com/simonw/datasette/releases/tag/1.0a41) - ([176 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-24
+<br />An open source multi-tool for exploring and publishing data
 * **[llm](https://github.com/simonw/llm)**: [0.36](https://github.com/simonw/llm/releases/tag/0.36) - ([72 releases total](https://github.com/simonw/llm/releases)) - 2026-09-22
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.29](https://github.com/simonw/llm-anthropic/releases/tag/0.29) - ([27 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-22
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->2,279<!-- releases_count ends --> releases
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - ([27 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2026-09-19
 <br />Datasette plugin that authenticates users against GitHub
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a40](https://github.com/simonw/datasette/releases/tag/1.0a40) - ([175 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-16
-<br />An open source multi-tool for exploring and publishing data
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.1](https://github.com/simonw/commit-rewriter/releases/tag/0.1) - 2026-09-14
 <br />Python web app to help rewrite your commit messages
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.12](https://github.com/simonw/shot-scraper/releases/tag/1.12) - ([38 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-09-13
