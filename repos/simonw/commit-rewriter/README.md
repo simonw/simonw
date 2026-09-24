@@ -14,6 +14,12 @@ uvx commit-rewriter /path/to/repository
 ```
 Or omit the path if the repository is your current working directory.
 
+By default, the app edits the latest 100 commits reachable from the local branch checked out when the server starts. Use `--branch` to select a different local branch:
+
+```bash
+uvx commit-rewriter /path/to/repository --branch my-feature
+```
+
 Defaults to running on `http://127.0.0.1:8000` - use `-p/--port 8002` to run on a different port.
 
 Edit multiple commit messages using the web UI. When you apply them the tool will first create a branch to back up the repository prior to making the changes.

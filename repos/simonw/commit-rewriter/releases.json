@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-09-24T20:06:53Z",
+      "published_day": "2026-09-24",
+      "release": "0.2",
+      "url": "https://github.com/simonw/commit-rewriter/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-09-14T00:35:46Z",
       "published_day": "2026-09-14",
       "release": "0.1",
@@ -11,6 +18,6 @@
     }
   ],
   "repo": "commit-rewriter",
-  "total_releases": 1,
+  "total_releases": 2,
   "url": "https://github.com/simonw/commit-rewriter"
 }

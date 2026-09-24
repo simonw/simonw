@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,280<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,281<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.2](https://github.com/simonw/commit-rewriter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/commit-rewriter/releases)) - 2026-09-24
+<br />Python web app to help rewrite your commit messages
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a41](https://github.com/simonw/datasette/releases/tag/1.0a41) - ([176 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-24
 <br />An open source multi-tool for exploring and publishing data
 * **[llm](https://github.com/simonw/llm)**: [0.36](https://github.com/simonw/llm/releases/tag/0.36) - ([72 releases total](https://github.com/simonw/llm/releases)) - 2026-09-22
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,280<!-- releases_count ends --> releases
 <br />Explain and validate SQL queries as you type them into Datasette
 * **[datasette-auth-github](https://github.com/simonw/datasette-auth-github)**: [1.0](https://github.com/simonw/datasette-auth-github/releases/tag/1.0) - ([27 releases total](https://github.com/simonw/datasette-auth-github/releases)) - 2026-09-19
 <br />Datasette plugin that authenticates users against GitHub
-* **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.1](https://github.com/simonw/commit-rewriter/releases/tag/0.1) - 2026-09-14
-<br />Python web app to help rewrite your commit messages
 * **[shot-scraper](https://github.com/simonw/shot-scraper)**: [1.12](https://github.com/simonw/shot-scraper/releases/tag/1.12) - ([38 releases total](https://github.com/simonw/shot-scraper/releases)) - 2026-09-13
 <br />A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 * **[datasette-publish-fly](https://github.com/simonw/datasette-publish-fly)**: [1.4](https://github.com/simonw/datasette-publish-fly/releases/tag/1.4) - ([11 releases total](https://github.com/simonw/datasette-publish-fly/releases)) - 2026-09-11
