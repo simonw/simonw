@@ -1,8 +1,16 @@
 {
   "description": null,
   "owner": "datasette",
-  "releases": [],
+  "releases": [
+    {
+      "author": "asg017",
+      "published_at": "2026-09-25T05:55:08Z",
+      "published_day": "2026-09-25",
+      "release": "0.1.0a1",
+      "url": "https://github.com/datasette/datasette-otel-viewer/releases/tag/0.1.0a1"
+    }
+  ],
   "repo": "datasette-otel-viewer",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/datasette/datasette-otel-viewer"
 }
