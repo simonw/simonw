@@ -374,7 +374,7 @@ def most_recent_releases(cache):
 
 def fetch_tils():
     sql = """
-        select path, replace(title, '_', '\_') as title, url, topic, slug, created_utc
+        select path, replace(title, '_', '\\_') as title, url, topic, slug, created_utc
         from til order by created_utc desc limit 6
     """.strip()
     return httpx.get(
