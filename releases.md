@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,282<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,283<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pwasm](https://github.com/simonw/pwasm)**: [0.2a0](https://github.com/simonw/pwasm/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/pwasm/releases)) - 2026-10-01
+<br />A WebAssembly engine in pure Python
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.30](https://github.com/simonw/llm-anthropic/releases/tag/0.30) - ([28 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-28
 <br />LLM access to models by Anthropic, including the Claude series
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.2](https://github.com/simonw/commit-rewriter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/commit-rewriter/releases)) - 2026-09-24
@@ -199,8 +201,6 @@ Listing <!-- releases_count starts -->2,282<!-- releases_count ends --> releases
 <br />A conformance suite for HTTP multipart form data
 * **[datasette-scale-to-zero](https://github.com/simonw/datasette-scale-to-zero)**: [0.3.2](https://github.com/simonw/datasette-scale-to-zero/releases/tag/0.3.2) - ([7 releases total](https://github.com/simonw/datasette-scale-to-zero/releases)) - 2026-01-19
 <br />Quit Datasette if it has not received traffic for a specified time period
-* **[pwasm](https://github.com/simonw/pwasm)**: [0.1a0](https://github.com/simonw/pwasm/releases/tag/0.1a0) - 2026-01-10
-<br />A WebAssembly engine in pure Python
 * **[denobox](https://github.com/simonw/denobox)**: [0.1a2](https://github.com/simonw/denobox/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/denobox/releases)) - 2026-01-10
 <br />Run JavaScript code and WASM in a Deno sandbox
 * **[datasette-transactions](https://github.com/datasette/datasette-transactions)**: [0.1a0](https://github.com/datasette/datasette-transactions/releases/tag/0.1a0) - 2026-01-10

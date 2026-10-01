@@ -13967,6 +13967,12 @@
     "description": "A WebAssembly engine in pure Python",
     "releases": [
       {
+        "published_at": "2026-10-01T17:10:31Z",
+        "published_day": "2026-10-01",
+        "release": "0.2a0",
+        "url": "https://github.com/simonw/pwasm/releases/tag/0.2a0"
+      },
+      {
         "published_at": "2026-01-10T21:48:53Z",
         "published_day": "2026-01-10",
         "release": "0.1a0",
@@ -13975,7 +13981,7 @@
     ],
     "repo": "pwasm",
     "repo_url": "https://github.com/simonw/pwasm",
-    "total_releases": 1
+    "total_releases": 2
   },
   "pypi-to-sqlite": {
     "description": "Load data about Python packages from PyPI into SQLite",
