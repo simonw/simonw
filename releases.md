@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,283<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,284<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.11a0](https://github.com/simonw/datasette-atom/releases/tag/0.11a0) - ([14 releases total](https://github.com/simonw/datasette-atom/releases)) - 2026-10-06
+<br />Datasette plugin that adds a .atom output format
 * **[pwasm](https://github.com/simonw/pwasm)**: [0.2a0](https://github.com/simonw/pwasm/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/pwasm/releases)) - 2026-10-01
 <br />A WebAssembly engine in pure Python
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.30](https://github.com/simonw/llm-anthropic/releases/tag/0.30) - ([28 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-28
@@ -123,8 +125,6 @@ Listing <!-- releases_count starts -->2,283<!-- releases_count ends --> releases
 <br />Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile
 * **[datasette-graphql](https://github.com/simonw/datasette-graphql)**: [3.0a1](https://github.com/simonw/datasette-graphql/releases/tag/3.0a1) - ([40 releases total](https://github.com/simonw/datasette-graphql/releases)) - 2026-04-08
 <br />Datasette plugin providing an automatic GraphQL API for your SQLite databases
-* **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.10a0](https://github.com/simonw/datasette-atom/releases/tag/0.10a0) - ([13 releases total](https://github.com/simonw/datasette-atom/releases)) - 2026-04-08
-<br />Datasette plugin that adds a .atom output format
 * **[dogsheep-beta](https://github.com/dogsheep/dogsheep-beta)**: [0.11](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.11) - ([21 releases total](https://github.com/dogsheep/dogsheep-beta/releases)) - 2026-04-08
 <br />Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 * **[datasette-template-sql](https://github.com/simonw/datasette-template-sql)**: [1.0.3](https://github.com/simonw/datasette-template-sql/releases/tag/1.0.3) - ([5 releases total](https://github.com/simonw/datasette-template-sql/releases)) - 2026-04-08

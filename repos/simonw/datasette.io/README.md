@@ -16,7 +16,9 @@ More background:
 
 ## Development
 
-Check out this repository, create a virtual environment and run `pip install -r requirements.txt` for the dependencies.
+Dependencies are managed with [uv](https://docs.astral.sh/uv/). Check out this repository and install them like this:
+
+    uv sync
 
 If you don't want to build the database files from scratch, run this to download them:
 
@@ -28,14 +30,21 @@ To build the database files used by the site you will first need to set an envir
 
 Now you can build the databases like this:
 
-    scripts/build.sh
+    uv run scripts/build.sh
 
 Then to run the tests (which check that certain pages do not return errors):
 
-    scripts/test.sh
+    uv run pytest
+    uv run scripts/test.sh
 
 To see the site in your browser:
 
-    datasette .
+    ./dev-server.sh
 
-This will run a server at `http://localhost:8001/`
+This will run a server at `http://localhost:9008/`, restarting when plugins or configuration change.
+
+### Blog posts
+
+Blog posts live as Markdown files in `blog-content/`. After adding or editing one, rebuild the `blog_posts` table in `content.db` with:
+
+    ./build-blog.sh

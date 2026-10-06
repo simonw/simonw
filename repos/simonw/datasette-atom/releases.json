@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-10-06T17:35:39Z",
+      "published_day": "2026-10-06",
+      "release": "0.11a0",
+      "url": "https://github.com/simonw/datasette-atom/releases/tag/0.11a0"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-04-08T18:02:43Z",
       "published_day": "2026-04-08",
       "release": "0.10a0",
@@ -95,6 +102,6 @@
     }
   ],
   "repo": "datasette-atom",
-  "total_releases": 13,
+  "total_releases": 14,
   "url": "https://github.com/simonw/datasette-atom"
 }
