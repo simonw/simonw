@@ -13049,6 +13049,20 @@
     "repo_url": "https://github.com/simonw/llm-nomic-api-embed",
     "total_releases": 3
   },
+  "llm-openai-decisions": {
+    "description": "LLM plugin for the OpenAI Decisions API",
+    "releases": [
+      {
+        "published_at": "2026-10-06T23:04:13Z",
+        "published_day": "2026-10-06",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "llm-openai-decisions",
+    "repo_url": "https://github.com/simonw/llm-openai-decisions",
+    "total_releases": 1
+  },
   "llm-openai-plugin": {
     "description": "OpenAI plugin for LLM",
     "releases": [

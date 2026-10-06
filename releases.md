@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,285<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,286<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-openai-decisions](https://github.com/simonw/llm-openai-decisions)**: [0.1a0](https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0) - 2026-10-06
+<br />LLM plugin for the OpenAI Decisions API
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.16](https://github.com/simonw/llm-mistral/releases/tag/0.16) - ([19 releases total](https://github.com/simonw/llm-mistral/releases)) - 2026-10-06
 <br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.11a0](https://github.com/simonw/datasette-atom/releases/tag/0.11a0) - ([14 releases total](https://github.com/simonw/datasette-atom/releases)) - 2026-10-06
