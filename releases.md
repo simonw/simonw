@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,284<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,285<!-- releases_count ends --> releases across <!-- project_count starts -->401<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.16](https://github.com/simonw/llm-mistral/releases/tag/0.16) - ([19 releases total](https://github.com/simonw/llm-mistral/releases)) - 2026-10-06
+<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[datasette-atom](https://github.com/simonw/datasette-atom)**: [0.11a0](https://github.com/simonw/datasette-atom/releases/tag/0.11a0) - ([14 releases total](https://github.com/simonw/datasette-atom/releases)) - 2026-10-06
 <br />Datasette plugin that adds a .atom output format
 * **[pwasm](https://github.com/simonw/pwasm)**: [0.2a0](https://github.com/simonw/pwasm/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/pwasm/releases)) - 2026-10-01
@@ -285,8 +287,6 @@ Listing <!-- releases_count starts -->2,284<!-- releases_count ends --> releases
 <br />OpenAI plugin for LLM
 * **[datasette-demo-dbs](https://github.com/datasette/datasette-demo-dbs)**: [0.1.1](https://github.com/datasette/datasette-demo-dbs/releases/tag/0.1.1) - ([2 releases total](https://github.com/datasette/datasette-demo-dbs/releases)) - 2025-08-14
 <br />Load demo DBs when Datasette starts
-* **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.15](https://github.com/simonw/llm-mistral/releases/tag/0.15) - ([18 releases total](https://github.com/simonw/llm-mistral/releases)) - 2025-07-16
-<br />LLM plugin providing access to Mistral models using the Mistral API
 * **[llm-tools-docker](https://github.com/simonw/llm-tools-docker)**: [0.1a0](https://github.com/simonw/llm-tools-docker/releases/tag/0.1a0) - 2025-06-14
 <br />Grant LLM access to a Docker container for running commands
 * **[llm-tools-trigger-error](https://github.com/simonw/llm-tools-trigger-error)**: [0.1](https://github.com/simonw/llm-tools-trigger-error/releases/tag/0.1) - 2025-06-01

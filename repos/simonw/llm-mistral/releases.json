@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-10-06T21:32:34Z",
+      "published_day": "2026-10-06",
+      "release": "0.16",
+      "url": "https://github.com/simonw/llm-mistral/releases/tag/0.16"
+    },
+    {
+      "author": "simonw",
       "published_at": "2025-07-16T20:32:41Z",
       "published_day": "2025-07-16",
       "release": "0.15",
@@ -130,6 +137,6 @@
     }
   ],
   "repo": "llm-mistral",
-  "total_releases": 18,
+  "total_releases": 19,
   "url": "https://github.com/simonw/llm-mistral"
 }
