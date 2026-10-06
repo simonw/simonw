@@ -42,6 +42,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 ### TIL
 <!-- tils starts -->
+[Using Parseable with Datasette for OpenTelemetry traces](https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry) - 2026-10-06
+
 [Using Blender with coding agents on macOS](https://til.simonwillison.net/llms/blender-coding-agents-macos) - 2026-09-05
 
 [Adding a custom MCP server to Claude and ChatGPT](https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt) - 2026-07-29
@@ -51,8 +53,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Cloudflare CAPTCHA on at least one ampersand](https://til.simonwillison.net/cloudflare/captcha-on-at-least-one-ampersand) - 2026-06-16
 
 [Setting a custom price for a model in AgentsView](https://til.simonwillison.net/llms/agentsview-custom-model-price) - 2026-06-09
-
-[Using LLM in the shebang line of a script](https://til.simonwillison.net/llms/llm-shebang) - 2026-05-11
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
