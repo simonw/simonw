@@ -64,7 +64,7 @@ You can pass filenames instead of URLs.
 
 ## Audio
 
-The Voxtral models - `voxtral-small` and `voxtral-mini` - are capable of accepting audio input. This currently only works for URLs to MP3 files hosted online:
+The Voxtral models - `voxtral-small` and `voxtral-mini` - are capable of accepting audio input. You can pass either a local MP3 file or a URL to one:
 
 ```bash
 llm -m voxtral-small \
@@ -98,14 +98,33 @@ Output:
 }
 ```
 
+## Reasoning
+
+For models that support reasoning, set the effort using `-o reasoning_effort`:
+
+```bash
+llm -m magistral-small 'What is the next number in 2, 6, 12, 20?' -o reasoning_effort high
+```
+
+The [Mistral API](https://docs.mistral.ai/openapi.yaml) defines `none`, `minimal`, `low`, `medium`, `high` and `xhigh`. Supported levels depend on the model. If you omit this option, the model's default applies.
+
+When streaming (the default), reasoning text is displayed on stderr, separate from the answer on stdout. Use `-R` or `--hide-reasoning` to hide it:
+
+```bash
+llm -m magistral-small 'Solve this puzzle...' -o reasoning_effort high -R
+```
+
+Hiding reasoning only changes its display; use `-o reasoning_effort none` to disable reasoning on models that support that level. LLM's CLI also prints only the answer with `--no-stream`. In Python, `response.text()` returns only the answer, while `response.messages()` includes `ReasoningPart` objects. Reasoning blocks and their signatures are preserved when continuing a conversation, with both streaming and non-streaming responses and with the synchronous and asynchronous APIs.
+
 ## Model options
 
-All three models accept the following options, using `-o name value` syntax:
+Options are passed using `-o name value` syntax. Availability depends on the model:
 
+- `-o reasoning_effort high`: Reasoning effort: `none`, `minimal`, `low`, `medium`, `high` or `xhigh`.
 - `-o temperature 0.7`: The sampling temperature, between 0 and 1. Higher increases randomness, lower values are more focused and deterministic.
 - `-o top_p 0.1`: 0.1 means consider only tokens in the top 10% probability mass. Use this or temperature but not both.
 - `-o max_tokens 20`: Maximum number of tokens to generate in the completion.
-- `-o safe_mode 1`: Turns on [safe mode](https://docs.mistral.ai/platform/guardrailing/), which adds a system prompt to add guardrails to the model output.
+- `-o safe_prompt 1`: Injects Mistral's safety prompt before the conversation. This replaces the removed `safe_mode` option; update existing commands to use `safe_prompt`.
 - `-o random_seed 123`: Set an integer random seed to generate deterministic results.
 - `-o prefix 'Prefix here`: Set a prefix that will be used for the start of the response. Try `{` to encourage JSON or `GlaDOS: ` to encourage a roleplay from a specific character.
 
