@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-10-07T20:57:19Z",
+      "published_day": "2026-10-07",
+      "release": "0.0.1a24",
+      "url": "https://github.com/datasette/datasette-libfec/releases/tag/0.0.1a24"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-10-01T00:36:36Z",
       "published_day": "2026-10-01",
       "release": "0.0.1a23",
@@ -158,6 +165,6 @@
     }
   ],
   "repo": "datasette-libfec",
-  "total_releases": 22,
+  "total_releases": 23,
   "url": "https://github.com/datasette/datasette-libfec"
 }
