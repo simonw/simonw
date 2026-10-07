@@ -1,0 +1,8 @@
+{
+  "description": "Datasette plugin for storing Google credentials and handing tokens to other plugins",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "datasette-google-credentials",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/datasette-google-credentials"
+}
