@@ -10,6 +10,16 @@ Anthropic publishes the system prompts used by claude.ai and the Claude mobile a
 
 The most recent change to each model family, summarized from the diff by `gpt-5.6-luna`. [CHANGELOG.md](CHANGELOG.md) has every change, and the [Atom feed](https://simonw.github.io/claude-system-prompts/feed.atom) delivers new ones.
 
+### Haiku 4.5 → Haiku 5.5 on Oct 7, 2026
+
+- Claude now checks memory and relevant files for questions about the person, and saves lasting personal information before the turn ends.
+- Safety rules expand to cumulative weapon-design requests, illegal-drug production guidance, child-sexualization trajectories, and persistent refusals after harmful requests.
+- Self-harm policy becomes stricter, banning suicide notes, lethality details, replacement techniques, eating-disorder numbers, and disengagement from crisis support.
+- A new child-medicine protocol requires checking official labels, age or weight, and deferring to clinicians rather than guessing doses from memory.
+- Product guidance newly describes Anthropic’s Mythos tier, Project Glasswing, export-control suspension and restoration, Claude Tag, and remote app access.
+
+[Diff](https://github.com/simonw/claude-system-prompts/commit/b9fcbeea5532a925d293566d7e82420177f91aba) · [prompt](prompts/claude-haiku.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md)
+
 ### Sonnet 5 → Sonnet 5.5 on Sep 28, 2026
 
 - Most detailed child-safety constraints were removed, including rules against sexual content involving minors, unsafe reframing, and explaining refusal boundaries.
@@ -40,12 +50,6 @@ The most recent change to each model family, summarized from the diff by `gpt-5.
 
 [Diff](https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b) · [prompt](prompts/claude-fable.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md)
 
-### Haiku 4.5 (Nov 19, 2025) → Haiku 4.5 (Jan 18, 2026)
-
-- Claude may proactively tell users about customizable settings and features when useful, including web search, memory, preferences, and writing styles.
-
-[Diff](https://github.com/simonw/claude-system-prompts/commit/5af9089640e454255b8a76fb0167d2a405e1e71c) · [prompt](prompts/claude-haiku.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md)
-
 ## Files
 
 Everything lives in [`prompts/`](prompts/):
@@ -63,10 +67,10 @@ Alongside it:
 
 Each link is the commit history of one family file. Every commit's diff is the change from the previous prompt in that family, including across model generations.
 
+- [Haiku](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md) — Claude Haiku 3 → Claude Haiku 5.5
 - [Sonnet](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet.md) — Claude Sonnet 3.5 → Claude Sonnet 5.5
 - [Opus](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md) — Claude Opus 3 → Claude Opus 5.5
 - [Fable](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md) — Claude Fable 5 → Claude Fable 5.1
-- [Haiku](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md) — Claude Haiku 3 → Claude Haiku 4.5
 
 ## Latest prompt for each model
 
@@ -74,6 +78,7 @@ Newest first. Each revision is committed one file at a time, so every **what cha
 
 | Model | Published | Prompt | What changed |
 | --- | --- | --- | --- |
+| Claude Haiku 5.5 | 2026-10-07 | [claude-haiku-5-5.md](prompts/claude-haiku-5-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku-5-5.md)) | [vs previous Haiku](https://github.com/simonw/claude-system-prompts/commit/b9fcbeea5532a925d293566d7e82420177f91aba) ([summary](_summary/b9fcbeea5532a925d293566d7e82420177f91aba.md)) |
 | Claude Sonnet 5.5 | 2026-09-28 | [claude-sonnet-5-5.md](prompts/claude-sonnet-5-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet-5-5.md)) | [vs previous Sonnet](https://github.com/simonw/claude-system-prompts/commit/f8bcc6c4a8a5a59beeda597ec7734f38c71f5696) ([summary](_summary/f8bcc6c4a8a5a59beeda597ec7734f38c71f5696.md)) |
 | Claude Opus 5.5 | 2026-09-22 | [claude-opus-5-5.md](prompts/claude-opus-5-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus-5-5.md)) | [vs previous Opus](https://github.com/simonw/claude-system-prompts/commit/81436d252b4d0c0e408932f53c71c4d6e810f026) ([summary](_summary/81436d252b4d0c0e408932f53c71c4d6e810f026.md)) |
 | Claude Fable 5.1 | 2026-09-01 | [claude-fable-5-1.md](prompts/claude-fable-5-1.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable-5-1.md)) | [vs previous Fable](https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b) ([summary](_summary/837a418b5888207b1b11b27d2f5471970da6f99b.md)) |
