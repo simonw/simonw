@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[ttok 0.4](https://github.com/simonw/ttok/releases/tag/0.4) - 2026-10-08
+[ttok 1.0](https://github.com/simonw/ttok/releases/tag/1.0) - 2026-10-09
 
 [llm-openai-decisions 0.1a0](https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0) - 2026-10-06
 
