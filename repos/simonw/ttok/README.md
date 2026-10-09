@@ -9,7 +9,7 @@ Count and truncate text based on tokens
 
 ## Background
 
-Large language models such as GPT-3.5 and GPT-4 work in terms of tokens.
+Large language models such as GPT-5 work in terms of tokens.
 
 This tool can count tokens, using OpenAI's [tiktoken](https://github.com/openai/tiktoken) library.
 
@@ -23,9 +23,17 @@ Install this tool using `pip`:
 ```bash
 pip install ttok
 ```
+Or `uv`:
+```bash
+uv tool install ttok
+```
 Or using Homebrew:
 ```bash
 brew install simonw/llm/ttok
+```
+You can also run the tool without first installing it using `uvx`:
+```bash
+uvx ttok --help
 ```
 
 ## Counting tokens
@@ -47,17 +55,25 @@ echo -n "Hello world" | ttok
 ```
 Here the `echo -n` option prevents echo from adding a newline - without that you would get a token count of 3.
 
+To read text directly from a file, use `-i` or `--input`:
+
+```bash
+ttok -i input.txt
+```
+
 To pipe in text and then append extra tokens from arguments, use the `-i -` option:
 
 ```bash
 echo -n "Hello world" | ttok more text -i -
 ```
 ```
-6
+4
 ```
 ## Different models
 
-By default, the tokenizer model for GPT-3.5 and GPT-4 is used.
+By default, the tokenizer model for GPT-5 (`o200k_base`) is used.
+
+This default changed in ttok 1.0. To use the previous GPT-3.5 and GPT-4 tokenizer (`cl100k_base`), add `--model gpt-3.5-turbo`. Token counts, truncation results and token IDs can differ between tokenizers, so use the same model when encoding and decoding tokens.
 
 To use the model for GPT-2 and GPT-3, add `--model gpt2`:
 
@@ -67,7 +83,7 @@ ttok boo Hello there this is -m gpt2
 ```
 6
 ```
-Compared to GPT-3.5:
+Compared to the default GPT-5 tokenizer:
 ```bash
 ttok boo Hello there this is
 ```
@@ -78,7 +94,7 @@ Further model options are [documented here](https://github.com/openai/openai-coo
 
 ## Truncating text
 
-Use the `-t 10` or `--truncate 10` option to truncate text to a specified number of tokens:
+Use the `-t 3` or `--truncate 3` option to truncate text to three tokens:
 
 ```bash
 ttok This is too many tokens -t 3
@@ -95,12 +111,12 @@ The `--encode` option can be used to view the integer token IDs for the incoming
 ttok Hello world --encode
 ```
 ```
-9906 1917
+13225 2375
 ```
 The `--decode` method reverses this process:
 
 ```bash
-ttok 9906 1917 --decode
+ttok 13225 2375 --decode
 ```
 ```
 Hello world
@@ -114,11 +130,22 @@ ttok Hello world --encode --tokens
 [b'Hello', b' world']
 ```
 
+## Special tokens
+
+By default, special token strings such as `<|endoftext|>` cause an error. Use `--allow-special` to recognize them as special tokens when counting, truncating or encoding text:
+
+```bash
+ttok '<|endoftext|>' --allow-special
+```
+```
+1
+```
+
 ## Available models
 
-This is the full list of available models and their corresponding encodings. Model names are valid for the `-m/--model` option.
+These are the exact model names and their corresponding encodings recognized by `tiktoken`. Model names are valid for the `-m/--model` option.
 
-Run `ttok --list-models` to see the models supported by your installed version of `tiktoken`.
+Run `ttok --list-models` to see the model names and prefixes supported by your installed version of `tiktoken`.
 
 <!-- [[[cog
 import cog
@@ -175,6 +202,35 @@ cog.out("\n".join(output))
 - `gpt-2` (`gpt2`)
 <!-- [[[end]]] -->
 
+### Model name prefixes
+
+The following prefixes are also recognized. The `*` stands for any suffix: for example, `gpt-5-mini` matches the GPT-5 prefix. Use the complete model name with `-m`. Exact names are checked first, then prefixes in the order listed. Prefix matching selects a tokenizer but does not verify that a model exists.
+
+<!-- [[[cog
+output = []
+for key, value in tiktoken.model.MODEL_PREFIX_TO_ENCODING.items():
+    output.append("- `{}*` (`{}`)".format(key, value))
+cog.out("\n".join(output))
+]]] -->
+- `o1-*` (`o200k_base`)
+- `o3-*` (`o200k_base`)
+- `o4-mini-*` (`o200k_base`)
+- `gpt-5*` (`o200k_base`)
+- `gpt-4.5-*` (`o200k_base`)
+- `gpt-4.1-*` (`o200k_base`)
+- `chatgpt-4o-*` (`o200k_base`)
+- `gpt-4o-*` (`o200k_base`)
+- `gpt-4-*` (`cl100k_base`)
+- `gpt-3.5-turbo-*` (`cl100k_base`)
+- `gpt-35-turbo-*` (`cl100k_base`)
+- `gpt-oss-*` (`o200k_harmony`)
+- `ft:gpt-4o*` (`o200k_base`)
+- `ft:gpt-4*` (`cl100k_base`)
+- `ft:gpt-3.5-turbo*` (`cl100k_base`)
+- `ft:davinci-002*` (`cl100k_base`)
+- `ft:babbage-002*` (`cl100k_base`)
+<!-- [[[end]]] -->
+
 ## ttok --help
 
 <!-- [[[cog
@@ -214,7 +270,7 @@ Usage: ttok [OPTIONS] [PROMPT]...
 
   To convert tokens back to text:
 
-      ttok 9906 1917 --decode
+      ttok 13225 2375 --decode
 
   To see the details of the tokens:
 
@@ -224,7 +280,7 @@ Usage: ttok [OPTIONS] [PROMPT]...
 
       [b'hello', b' world']
 
-  To list the available models:
+  To list model names and prefixes:
 
       ttok --list-models
 
@@ -232,12 +288,12 @@ Options:
   --version               Show the version and exit.
   -i, --input FILENAME
   -t, --truncate INTEGER  Truncate to this many tokens
-  -m, --model TEXT        Which model to use
+  -m, --model TEXT        Which model to use  [default: gpt-5]
   --encode                Output token integers
   --decode                Convert token integers to text
   --tokens                Output full tokens
   --allow-special         Do not error on special tokens
-  --list-models           List available models and exit
+  --list-models           List model names and prefixes and exit
   --help                  Show this message and exit.
 
 ```
@@ -251,22 +307,25 @@ python -m ttok --help
 
 ## Development
 
-To contribute to this tool, first checkout the code. Then create a new virtual environment:
+To contribute to this tool, first checkout the code. Run the tests with `uv run pytest`:
 
 ```bash
 cd ttok
-python -m venv venv
-source venv/bin/activate
+uv run pytest
+```
+To run your development copy of the tool:
+```bash
+uv run ttok --help
 ```
 
-Now install the dependencies and test dependencies:
+The model names, prefixes and `--help` output in this README are generated using Cog. To regenerate them after making changes:
 
 ```bash
-pip install -e '.[test]'
+uv run cog -r README.md
 ```
 
-To run the tests:
+To check that the generated sections are up to date, as CI does:
 
 ```bash
-pytest
+uv run cog --check README.md
 ```

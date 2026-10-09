@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,287<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,288<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[ttok](https://github.com/simonw/ttok)**: [0.4](https://github.com/simonw/ttok/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/ttok/releases)) - 2026-10-08
+* **[ttok](https://github.com/simonw/ttok)**: [1.0](https://github.com/simonw/ttok/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/ttok/releases)) - 2026-10-09
 <br />Count and truncate text based on tokens
 * **[llm-openai-decisions](https://github.com/simonw/llm-openai-decisions)**: [0.1a0](https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0) - 2026-10-06
 <br />LLM plugin for the OpenAI Decisions API
