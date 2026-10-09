@@ -16459,6 +16459,12 @@
     "description": "Count and truncate text based on tokens",
     "releases": [
       {
+        "published_at": "2026-10-08T23:34:28Z",
+        "published_day": "2026-10-08",
+        "release": "0.4",
+        "url": "https://github.com/simonw/ttok/releases/tag/0.4"
+      },
+      {
         "published_at": "2024-05-02T23:37:54Z",
         "published_day": "2024-05-02",
         "release": "0.3",
@@ -16479,7 +16485,7 @@
     ],
     "repo": "ttok",
     "repo_url": "https://github.com/simonw/ttok",
-    "total_releases": 3
+    "total_releases": 4
   },
   "tweet-images": {
     "description": "Send tweets with images from the command line",

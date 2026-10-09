@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,286<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,287<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ttok](https://github.com/simonw/ttok)**: [0.4](https://github.com/simonw/ttok/releases/tag/0.4) - ([4 releases total](https://github.com/simonw/ttok/releases)) - 2026-10-08
+<br />Count and truncate text based on tokens
 * **[llm-openai-decisions](https://github.com/simonw/llm-openai-decisions)**: [0.1a0](https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0) - 2026-10-06
 <br />LLM plugin for the OpenAI Decisions API
 * **[llm-mistral](https://github.com/simonw/llm-mistral)**: [0.16](https://github.com/simonw/llm-mistral/releases/tag/0.16) - ([19 releases total](https://github.com/simonw/llm-mistral/releases)) - 2026-10-06
@@ -413,8 +415,6 @@ Listing <!-- releases_count starts -->2,286<!-- releases_count ends --> releases
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
 <br />Datasette enrichment for analyzing row data using OpenAI's GPT models
-* **[ttok](https://github.com/simonw/ttok)**: [0.3](https://github.com/simonw/ttok/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/ttok/releases)) - 2024-05-02
-<br />Count and truncate text based on tokens
 * **[datasette-test](https://github.com/datasette/datasette-test)**: [0.3.2](https://github.com/datasette/datasette-test/releases/tag/0.3.2) - ([6 releases total](https://github.com/datasette/datasette-test/releases)) - 2024-04-26
 <br />Utilities to help write tests for Datasette plugins and applications
 * **[datasette-test-plugin](https://github.com/datasette/datasette-test-plugin)**: [0.1](https://github.com/datasette/datasette-test-plugin/releases/tag/0.1) - 2024-04-26
