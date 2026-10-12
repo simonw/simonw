@@ -6721,6 +6721,12 @@
     "description": "Find all currently running Datasette instances and list their ports",
     "releases": [
       {
+        "published_at": "2026-10-12T04:57:07Z",
+        "published_day": "2026-10-12",
+        "release": "0.4",
+        "url": "https://github.com/datasette/datasette-ports/releases/tag/0.4"
+      },
+      {
         "published_at": "2026-04-15T02:50:57Z",
         "published_day": "2026-04-15",
         "release": "0.3",
@@ -6741,7 +6747,7 @@
     ],
     "repo": "datasette-ports",
     "repo_url": "https://github.com/datasette/datasette-ports",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-pretty-json": {
     "description": "Datasette plugin that pretty-prints any column values that are valid JSON objects or arrays",

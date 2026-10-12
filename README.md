@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-ports 0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - 2026-10-12
+
 [ttok 1.0](https://github.com/simonw/ttok/releases/tag/1.0) - 2026-10-09
 
 [llm-openai-decisions 0.1a0](https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0) - 2026-10-06
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-anthropic 0.30](https://github.com/simonw/llm-anthropic/releases/tag/0.30) - 2026-09-28
 
 [commit-rewriter 0.2](https://github.com/simonw/commit-rewriter/releases/tag/0.2) - 2026-09-24
-
-[datasette 1.0a41](https://github.com/simonw/datasette/releases/tag/1.0a41) - 2026-09-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
