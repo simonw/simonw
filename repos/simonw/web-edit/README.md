@@ -37,6 +37,8 @@ uvx web-edit ~/sites/mysite
 
 Defaults to `127.0.0.1:9000`. Use `-p/--port` for a different port and `-h/--host` for a different IP, including a Tailscale address. There is no authentication; use on a trusted local network or over Tailscale.
 
+To protect against [DNS rebinding attacks](https://tailscale.com/docs/reference/best-practices/security#prevent-dns-rebinding-attacks), only the listening address and localhost are accepted automatically. Add `-a my-machine.example.ts.net` or `--allowed-host my-machine.example.ts.net` for another hostname or IP; repeat the option for multiple hosts. When listening on `0.0.0.0` or `::`, explicitly allow the addresses or names clients will use.
+
 ## Features
 
 - Browse folders with inline previews of images smaller than 2 MB.
@@ -48,8 +50,7 @@ Defaults to `127.0.0.1:9000`. Use `-p/--port` for a different port and `-h/--hos
 ## Development
 
 ```bash
-uv sync --extra test
-uv run web-edit .
+uv run web-edit --help
 uv run pytest
 ```
 

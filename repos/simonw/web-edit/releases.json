@@ -1,8 +1,16 @@
 {
   "description": "Web app for editing files in a folder",
   "owner": "simonw",
-  "releases": [],
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-10-12T15:54:36Z",
+      "published_day": "2026-10-12",
+      "release": "0.1a0",
+      "url": "https://github.com/simonw/web-edit/releases/tag/0.1a0"
+    }
+  ],
   "repo": "web-edit",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/simonw/web-edit"
 }

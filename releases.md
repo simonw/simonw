@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,289<!-- releases_count ends --> releases across <!-- project_count starts -->402<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,290<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[web-edit](https://github.com/simonw/web-edit)**: [0.1a0](https://github.com/simonw/web-edit/releases/tag/0.1a0) - 2026-10-12
+<br />Web app for editing files in a folder
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-10-12
 <br />Find all currently running Datasette instances and list their ports
 * **[ttok](https://github.com/simonw/ttok)**: [1.0](https://github.com/simonw/ttok/releases/tag/1.0) - ([5 releases total](https://github.com/simonw/ttok/releases)) - 2026-10-09

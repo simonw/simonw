@@ -16721,6 +16721,20 @@
     "repo_url": "https://github.com/simonw/update-workflows",
     "total_releases": 2
   },
+  "web-edit": {
+    "description": "Web app for editing files in a folder",
+    "releases": [
+      {
+        "published_at": "2026-10-12T15:54:36Z",
+        "published_day": "2026-10-12",
+        "release": "0.1a0",
+        "url": "https://github.com/simonw/web-edit/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "web-edit",
+    "repo_url": "https://github.com/simonw/web-edit",
+    "total_releases": 1
+  },
   "webvtt-to-json": {
     "description": "Convert WebVTT to JSON, optionally removing duplicate lines",
     "releases": [
