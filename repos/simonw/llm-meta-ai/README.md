@@ -46,7 +46,7 @@ llm meta-ai refresh
 
 ### Reasoning
 
-These are reasoning models: they think before they answer, and the reasoning tokens count towards your output token budget - they are reported in the `completion_tokens_details.reasoning_tokens` key in `llm logs --json`. Control how much the model reasons with the `reasoning_effort` option, one of `none`, `minimal`, `low`, `medium`, `high` or `xhigh` (not every model supports every value):
+These are reasoning models: they think before they answer, and the reasoning tokens count towards your output token budget - they are reported in the `completion_tokens_details.reasoning_tokens` key in `llm logs --json`. Control how much the model reasons with the `reasoning_effort` option, one of `none`, `minimal`, `low`, `medium`, `high`, `xhigh` or `max` (not every model supports every value):
 
 ```bash
 llm -m meta-ai/muse-spark-1.1 'What is the capital of France?' -o reasoning_effort low
