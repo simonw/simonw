@@ -36,18 +36,18 @@ Or as a standalone command:
 ```bash
 datasette-ports
 ```
-This uses `lsof` to find all Python processes listening on TCP ports, then probes each one to check if it is a Datasette instance. For each instance found it displays the URL, Datasette version, attached databases and installed plugins.
+This uses `lsof` to find all Python processes listening on TCP ports, then probes each one to check if it is a Datasette instance. For each instance found it displays the URL, Datasette version, process ID, attached databases and installed plugins.
 
 Example output:
 ```
-http://127.0.0.1:8007/ - v1.0a26
+http://127.0.0.1:8007/ - v1.0a26 - PID: 42373
   Directory: /Users/simon/dev/blog
   Databases:
     simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db
   Plugins:
     datasette-llm
     datasette-secrets
-http://127.0.0.1:8001/ - v1.0a26
+http://127.0.0.1:8001/ - v1.0a26 - PID: 42374
   Directory: /Users/simon/dev/creatures
   Databases:
     creatures: /tmp/creatures.db
@@ -55,10 +55,10 @@ http://127.0.0.1:8001/ - v1.0a26
     datasette-extract
     datasette-llm
     datasette-secrets
-http://127.0.0.1:8900/ - v0.65.2
+http://127.0.0.1:8900/ - v0.65.2 - PID: 12345
   Databases:
     logs: /Users/simon/Library/Application Support/io.datasette.llm/logs.db
-http://0.0.0.0:8014/ - v1.0a26
+http://0.0.0.0:8014/ - v1.0a26 - PID: 42375
   Directory: /Users/simon/dev/datasette
   Databases:
     content: /Users/simon/dev/datasette/content.db
