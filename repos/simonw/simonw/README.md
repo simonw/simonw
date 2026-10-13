@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-gemini 0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - 2026-10-13
+
 [web-edit 0.1a1](https://github.com/simonw/web-edit/releases/tag/0.1a1) - 2026-10-13
 
 [llm-meta-ai 0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - 2026-10-12
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-mistral 0.16](https://github.com/simonw/llm-mistral/releases/tag/0.16) - 2026-10-06
 
 [datasette-atom 0.11a0](https://github.com/simonw/datasette-atom/releases/tag/0.11a0) - 2026-10-06
-
-[pwasm 0.2a0](https://github.com/simonw/pwasm/releases/tag/0.2a0) - 2026-10-01
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
