@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-meta-ai 0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - 2026-10-12
+[web-edit 0.1a1](https://github.com/simonw/web-edit/releases/tag/0.1a1) - 2026-10-13
 
-[web-edit 0.1a0](https://github.com/simonw/web-edit/releases/tag/0.1a0) - 2026-10-12
+[llm-meta-ai 0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - 2026-10-12
 
 [datasette-ports 0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - 2026-10-12
 
