@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,290<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,291<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-meta-ai/releases)) - 2026-10-12
+<br />LLM plugin for the Meta AI API
 * **[web-edit](https://github.com/simonw/web-edit)**: [0.1a0](https://github.com/simonw/web-edit/releases/tag/0.1a0) - 2026-10-12
 <br />Web app for editing files in a folder
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-10-12
@@ -79,8 +81,6 @@ Listing <!-- releases_count starts -->2,290<!-- releases_count ends --> releases
 <br />Always allow access to /-/permissions, for debugging
 * **[datasette-alerts](https://github.com/datasette/datasette-alerts)**: [0.0.1a11](https://github.com/datasette/datasette-alerts/releases/tag/0.0.1a11) - ([9 releases total](https://github.com/datasette/datasette-alerts/releases)) - 2026-07-14
 <br />None
-* **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.1](https://github.com/simonw/llm-meta-ai/releases/tag/0.1) - 2026-07-09
-<br />LLM plugin for the Meta AI API
 * **[sqlite-migrate](https://github.com/simonw/sqlite-migrate)**: [0.2](https://github.com/simonw/sqlite-migrate/releases/tag/0.2) - ([6 releases total](https://github.com/simonw/sqlite-migrate/releases)) - 2026-07-07
 <br />A simple database migration system for SQLite, based on sqlite-utils
 * **[llm-coding-agent](https://github.com/simonw/llm-coding-agent)**: [0.1a0](https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0) - 2026-07-02
