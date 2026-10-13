@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,292<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,293<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - ([56 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-10-13
+<br />LLM plugin to access Google's Gemini family of models
 * **[web-edit](https://github.com/simonw/web-edit)**: [0.1a1](https://github.com/simonw/web-edit/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-13
 <br />Web app for editing files in a folder
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-meta-ai/releases)) - 2026-10-12
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->2,292<!-- releases_count ends --> releases
 <br />Save data from GitHub to a SQLite database
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
 <br />LLM plugin for models hosted by OpenRouter
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.34](https://github.com/simonw/llm-gemini/releases/tag/0.34) - ([55 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-09-02
-<br />LLM plugin to access Google's Gemini family of models
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
 <br />Adds a /-/mcp MCP server to any Datasette instance
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
