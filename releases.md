@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,293<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,294<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[web-edit](https://github.com/simonw/web-edit)**: [0.1a2](https://github.com/simonw/web-edit/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-17
+<br />Web app for editing files in a folder
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - ([56 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-10-13
 <br />LLM plugin to access Google's Gemini family of models
-* **[web-edit](https://github.com/simonw/web-edit)**: [0.1a1](https://github.com/simonw/web-edit/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-13
-<br />Web app for editing files in a folder
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-meta-ai/releases)) - 2026-10-12
 <br />LLM plugin for the Meta AI API
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-10-12

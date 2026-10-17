@@ -16737,6 +16737,12 @@
     "description": "Web app for editing files in a folder",
     "releases": [
       {
+        "published_at": "2026-10-17T13:16:49Z",
+        "published_day": "2026-10-17",
+        "release": "0.1a2",
+        "url": "https://github.com/simonw/web-edit/releases/tag/0.1a2"
+      },
+      {
         "published_at": "2026-10-13T01:40:05Z",
         "published_day": "2026-10-13",
         "release": "0.1a1",
@@ -16751,7 +16757,7 @@
     ],
     "repo": "web-edit",
     "repo_url": "https://github.com/simonw/web-edit",
-    "total_releases": 2
+    "total_releases": 3
   },
   "webvtt-to-json": {
     "description": "Convert WebVTT to JSON, optionally removing duplicate lines",
