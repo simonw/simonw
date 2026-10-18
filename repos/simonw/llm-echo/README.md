@@ -98,15 +98,18 @@ chain_response = model.chain(
 )
 responses = list(chain_response.responses())
 tool_calls = responses[0].tool_calls()
+assert len(tool_calls) == 1
+tool_call_id = tool_calls[0].tool_call_id
 assert tool_calls == [
-    llm.ToolCall(name="example", arguments={"input": "test"}, tool_call_id=None)
+    llm.ToolCall(name="example", arguments={"input": "test"}, tool_call_id=tool_call_id)
 ]
 assert responses[1].prompt.tool_results == [
     llm.models.ToolResult(
-        name="example", output="Example output for test", tool_call_id=None
+        name="example", output="Example output for test", tool_call_id=tool_call_id
     )
 ]
 ```
+
 Or you can read the JSON from the last response in the chain:
 ```python
 response_info = json.loads(responses[-1].text())
