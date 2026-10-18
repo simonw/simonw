@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,295<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,296<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1) - ([4 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2026-10-18
+<br />Expose Datasette instances to LLM as a tool
 * **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5](https://github.com/simonw/llm-echo/releases/tag/0.5) - ([10 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-10-18
 <br />Debug plugin for LLM providing an echo model
 * **[web-edit](https://github.com/simonw/web-edit)**: [0.1a2](https://github.com/simonw/web-edit/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-17
@@ -299,8 +301,6 @@ Listing <!-- releases_count starts -->2,295<!-- releases_count ends --> releases
 <br />Trigger an LLM tools error, useful for testing
 * **[llm-llama-server](https://github.com/simonw/llm-llama-server)**: [0.2](https://github.com/simonw/llm-llama-server/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-llama-server/releases)) - 2025-05-28
 <br />LLM plugin for interacting with llama-server models
-* **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2025-05-27
-<br />Expose Datasette instances to LLM as a tool
 * **[llm-tools-sqlite](https://github.com/simonw/llm-tools-sqlite)**: [0.1](https://github.com/simonw/llm-tools-sqlite/releases/tag/0.1) - ([3 releases total](https://github.com/simonw/llm-tools-sqlite/releases)) - 2025-05-27
 <br />LLM tools for running queries against SQLite
 * **[llm-tools-quickjs](https://github.com/simonw/llm-tools-quickjs)**: [0.1](https://github.com/simonw/llm-tools-quickjs/releases/tag/0.1) - ([4 releases total](https://github.com/simonw/llm-tools-quickjs/releases)) - 2025-05-27

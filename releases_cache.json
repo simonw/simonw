@@ -13445,6 +13445,12 @@
     "description": "Expose Datasette instances to LLM as a tool",
     "releases": [
       {
+        "published_at": "2026-10-18T23:43:09Z",
+        "published_day": "2026-10-18",
+        "release": "0.1.1",
+        "url": "https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1"
+      },
+      {
         "published_at": "2025-05-27T20:39:18Z",
         "published_day": "2025-05-27",
         "release": "0.1",
@@ -13465,7 +13471,7 @@
     ],
     "repo": "llm-tools-datasette",
     "repo_url": "https://github.com/simonw/llm-tools-datasette",
-    "total_releases": 3
+    "total_releases": 4
   },
   "llm-tools-docker": {
     "description": "Grant LLM access to a Docker container for running commands",
