@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-10-18T23:16:16Z",
+      "published_day": "2026-10-18",
+      "release": "0.5",
+      "url": "https://github.com/simonw/llm-echo/releases/tag/0.5"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-05-05T01:31:54Z",
       "published_day": "2026-05-05",
       "release": "0.5a0",
@@ -67,6 +74,6 @@
     }
   ],
   "repo": "llm-echo",
-  "total_releases": 9,
+  "total_releases": 10,
   "url": "https://github.com/simonw/llm-echo"
 }

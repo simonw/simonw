@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,294<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,295<!-- releases_count ends --> releases across <!-- project_count starts -->403<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5](https://github.com/simonw/llm-echo/releases/tag/0.5) - ([10 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-10-18
+<br />Debug plugin for LLM providing an echo model
 * **[web-edit](https://github.com/simonw/web-edit)**: [0.1a2](https://github.com/simonw/web-edit/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-17
 <br />Web app for editing files in a folder
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - ([56 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-10-13
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->2,294<!-- releases_count ends --> releases
 <br />Generate images in Datasette Agent
 * **[datasette-referrer-policy](https://github.com/datasette/datasette-referrer-policy)**: [0.1](https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1) - 2026-05-05
 <br />Set the Referrer-Policy header for a Datasette site
-* **[llm-echo](https://github.com/simonw/llm-echo)**: [0.5a0](https://github.com/simonw/llm-echo/releases/tag/0.5a0) - ([9 releases total](https://github.com/simonw/llm-echo/releases)) - 2026-05-05
-<br />Debug plugin for LLM providing an echo model
 * **[llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex)**: [0.1a0](https://github.com/simonw/llm-openai-via-codex/releases/tag/0.1a0) - 2026-04-23
 <br />Access OpenAI models via an existing Codex subscription
 * **[datasette-public](https://github.com/datasette/datasette-public)**: [0.4a1](https://github.com/datasette/datasette-public/releases/tag/0.4a1) - ([14 releases total](https://github.com/datasette/datasette-public/releases)) - 2026-04-17
