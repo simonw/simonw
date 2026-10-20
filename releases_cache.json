@@ -417,6 +417,86 @@
     "repo_url": "https://github.com/simonw/asyncinject",
     "total_releases": 10
   },
+  "battledrones": {
+    "description": "A mobile web RTS",
+    "releases": [
+      {
+        "published_at": "2026-10-20T17:36:46Z",
+        "published_day": "2026-10-20",
+        "release": "v12: Sound duels and new models",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v12"
+      },
+      {
+        "published_at": "2026-10-15T01:22:01Z",
+        "published_day": "2026-10-15",
+        "release": "v11",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v11"
+      },
+      {
+        "published_at": "2026-10-13T21:14:10Z",
+        "published_day": "2026-10-13",
+        "release": "Goliaths and agent battles",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v10"
+      },
+      {
+        "published_at": "2026-10-11T03:55:46Z",
+        "published_day": "2026-10-11",
+        "release": "A more natural Archipelago",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v9"
+      },
+      {
+        "published_at": "2026-10-10T21:21:42Z",
+        "published_day": "2026-10-10",
+        "release": "Archipelago",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v8"
+      },
+      {
+        "published_at": "2026-10-10T21:21:41Z",
+        "published_day": "2026-10-10",
+        "release": "Robot infantry and dropships",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v7"
+      },
+      {
+        "published_at": "2026-10-10T21:21:40Z",
+        "published_day": "2026-10-10",
+        "release": "The visual polish update",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v6"
+      },
+      {
+        "published_at": "2026-10-10T21:21:39Z",
+        "published_day": "2026-10-10",
+        "release": "Battle Drones goes 3D",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v5"
+      },
+      {
+        "published_at": "2026-10-10T21:21:38Z",
+        "published_day": "2026-10-10",
+        "release": "The Fun Update",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v4"
+      },
+      {
+        "published_at": "2026-10-10T21:21:37Z",
+        "published_day": "2026-10-10",
+        "release": "Painted worlds and expanded warfare",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v3"
+      },
+      {
+        "published_at": "2026-10-10T21:21:36Z",
+        "published_day": "2026-10-10",
+        "release": "The original Battle Drones",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v2"
+      },
+      {
+        "published_at": "2026-10-10T21:21:35Z",
+        "published_day": "2026-10-10",
+        "release": "First playable prototype",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v1"
+      }
+    ],
+    "repo": "battledrones",
+    "repo_url": "https://github.com/simonw/battledrones",
+    "total_releases": 12
+  },
   "blip-caption": {
     "description": "Generate captions for images with Salesforce BLIP",
     "releases": [

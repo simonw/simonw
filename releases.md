@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,297<!-- releases_count ends --> releases across <!-- project_count starts -->404<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,309<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[battledrones](https://github.com/simonw/battledrones)**: [v12: Sound duels and new models](https://github.com/simonw/battledrones/releases/tag/v12) - ([12 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-20
+<br />A mobile web RTS
 * **[llm-public-ai](https://github.com/simonw/llm-public-ai)**: [0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
 <br />LLM models from publicai.co
 * **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1) - ([4 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2026-10-18

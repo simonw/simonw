@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[battledrones v12: Sound duels and new models](https://github.com/simonw/battledrones/releases/tag/v12) - 2026-10-20
+
 [llm-public-ai 0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
 
 [llm-tools-datasette 0.1.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1) - 2026-10-18
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-meta-ai 0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - 2026-10-12
 
 [datasette-ports 0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - 2026-10-12
-
-[ttok 1.0](https://github.com/simonw/ttok/releases/tag/1.0) - 2026-10-09
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) - 2026-10-20
+
 [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) - 2026-10-12
 
 [A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/) - 2026-10-09
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) - 2026-10-03
 
 [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) - 2026-09-29
-
-[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) - 2026-09-27
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
