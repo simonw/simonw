@@ -1,0 +1,16 @@
+{
+  "description": "LLM models from publicai.co",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-10-20T15:45:07Z",
+      "published_day": "2026-10-20",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-public-ai/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-public-ai",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-public-ai"
+}

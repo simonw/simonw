@@ -13253,6 +13253,20 @@
     "repo_url": "https://github.com/simonw/llm-pdf-to-images",
     "total_releases": 1
   },
+  "llm-public-ai": {
+    "description": "LLM models from publicai.co",
+    "releases": [
+      {
+        "published_at": "2026-10-20T15:45:07Z",
+        "published_day": "2026-10-20",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-public-ai/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-public-ai",
+    "repo_url": "https://github.com/simonw/llm-public-ai",
+    "total_releases": 1
+  },
   "llm-python": {
     "description": "\"llm python\" is a command to run a Python interpreter in the LLM virtual environment",
     "releases": [
