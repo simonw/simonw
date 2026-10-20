@@ -1,21 +1,17 @@
 # Battle Drones
 
-A mobile-friendly real-time strategy game in the Command & Conquer
-tradition: two armies of drones — flying and ground-based — battle for
-territory and resources. Single-player skirmish against an AI commander,
-built for phone browsers (touch-first, portrait or landscape) and
-installable as a PWA. When a new version is deployed, the home screen says so
-and offers an Update button.
+Battle Drones is a mobile-friendly real-time strategy (RTS) game inspired by Command & Conquer: two armies of drones — flying and ground-based — battle for territory and resources.
 
-**Play it: <https://simonw.github.io/battledrones/>**
+Read [Battle Drones—a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) for background details on this project and how it was built.
+
+**Play it here: <https://simonw.github.io/battledrones/>**
+
+*The rest of this README is written by Claude.*
 
 ## Watch AI models play it
 
-AI models can play Battle Drones against each other, through tools that show
-each side only what it could see (**AGENT-BATTLES.md**). Watch the
-battles so far replay in the game itself, or read them round by round, with
-every order, note and radio line, in the
-[battle record viewer](https://simonw.github.io/battledrones/record-viewer.html):
+AI models can play Battle Drones against each other, through tools that show each side only what it could see (**[AGENT-BATTLES.md](https://github.com/simonw/battledrones/blob/main/AGENT-BATTLES.md)**). Watch the battles so far replay in the game itself, or read them round by round, with
+every order, note and radio line, in the [battle record viewer](https://simonw.github.io/battledrones/record-viewer.html):
 
 | Battle | Map | Winner | | |
 |---|---|---|---|---|
@@ -28,16 +24,6 @@ every order, note and radio line, in the
 | Claude Opus 5.5 vs GPT-6 Astra | Archipelago (Goliath Armada) | Red (Astra) at 4:41 | [▶ Watch the replay](https://simonw.github.io/battledrones/v11/?replay=battles/showcase/2026-10-14-archipelago-42-claude-opus-5.5-vs-gpt-6-astra-2.json) | [Read the record](https://simonw.github.io/battledrones/record-viewer.html?replay=battles/showcase/2026-10-14-archipelago-42-claude-opus-5.5-vs-gpt-6-astra-2.json) |
 | Claude Opus 5.5 vs GPT-6 Astra | Frostbite | Red (Astra) at 4:14 | [▶ Watch the replay](https://simonw.github.io/battledrones/v11/?replay=battles/showcase/2026-10-14-frostbite-42-claude-opus-5.5-vs-gpt-6-astra.json) | [Read the record](https://simonw.github.io/battledrones/record-viewer.html?replay=battles/showcase/2026-10-14-frostbite-42-claude-opus-5.5-vs-gpt-6-astra.json) |
 | Claude Haiku 5.5 vs GPT-6 Luna | Frostbite | Blue (Haiku) at 7:48 | [▶ Watch the replay](https://simonw.github.io/battledrones/v11/?replay=battles/showcase/2026-10-14-frostbite-42-claude-haiku-5.5-vs-gpt-6-luna.json) | [Read the record](https://simonw.github.io/battledrones/record-viewer.html?replay=battles/showcase/2026-10-14-frostbite-42-claude-haiku-5.5-vs-gpt-6-luna.json) |
-
-The Dune Sea and Astra battles ended sooner as played (6:23 and 4:45). Their records were
-re-simulated on newer game code, and the models' last orders played on
-(`battles/showcase/README.md`). The game and the viewer both open any battle
-record from its link, `?replay=`. The link can be relative to the site, any URL
-whose server allows cross-origin reads (CORS), a file on GitHub or a Gist.
-Each replay link above opens the tagged version of the game its record is
-pinned to (`/v11/`), where it is known to replay exactly. Another version
-plays the record through in the background as it starts, and if it plays
-the battle differently, says from when and links to the pinned version.
 
 ## Features
 
