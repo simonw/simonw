@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-10-20T23:29:46Z",
+      "published_day": "2026-10-20",
+      "release": "v13: Online multiplayer",
+      "url": "https://github.com/simonw/battledrones/releases/tag/v13"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-10-20T17:36:46Z",
       "published_day": "2026-10-20",
       "release": "v12: Sound duels and new models",
@@ -88,6 +95,6 @@
     }
   ],
   "repo": "battledrones",
-  "total_releases": 12,
+  "total_releases": 13,
   "url": "https://github.com/simonw/battledrones"
 }

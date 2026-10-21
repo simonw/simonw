@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[battledrones v12: Sound duels and new models](https://github.com/simonw/battledrones/releases/tag/v12) - 2026-10-20
+[battledrones v13: Online multiplayer](https://github.com/simonw/battledrones/releases/tag/v13) - 2026-10-20
 
 [llm-public-ai 0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
 

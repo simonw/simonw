@@ -421,6 +421,12 @@
     "description": "A mobile web RTS",
     "releases": [
       {
+        "published_at": "2026-10-20T23:29:46Z",
+        "published_day": "2026-10-20",
+        "release": "v13: Online multiplayer",
+        "url": "https://github.com/simonw/battledrones/releases/tag/v13"
+      },
+      {
         "published_at": "2026-10-20T17:36:46Z",
         "published_day": "2026-10-20",
         "release": "v12: Sound duels and new models",
@@ -495,7 +501,7 @@
     ],
     "repo": "battledrones",
     "repo_url": "https://github.com/simonw/battledrones",
-    "total_releases": 12
+    "total_releases": 13
   },
   "blip-caption": {
     "description": "Generate captions for images with Salesforce BLIP",
