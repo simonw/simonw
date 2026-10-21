@@ -1,8 +1,8 @@
 # scrape-hacker-news-by-domain
 
-Scrape HN to track links from specific domains
+Track Hacker News submissions from specific domains, using the [Algolia HN Search API](https://hn.algolia.com/api).
 
-See [Scraping web pages from the command-line with shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) for details of how this works.
+This originally scraped `news.ycombinator.com/from?site=...` using shot-scraper - see [Scraping web pages from the command-line with shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) for details of how that worked.
 
 Recently scraped data from this repo is also published to this Datasette table:
 
