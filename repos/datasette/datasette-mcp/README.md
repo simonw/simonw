@@ -21,26 +21,35 @@ Start Datasette as normal, then configure an MCP client to connect to:
 http://localhost:8001/-/mcp
 ```
 
-The endpoint uses MCP Streamable HTTP and exposes three read-only tools by
-default:
+The endpoint uses MCP Streamable HTTP and exposes three read-only tools by default:
 
-- `list_databases` lists the databases available to the current Datasette
-  actor.
-- `get_database_schema` returns the complete SQL schema for a database,
-  including tables, indexes, views, and triggers.
-- `execute_sql` executes one read-only SQL statement and returns structured
-  columns, column-keyed row objects, and a truncation indicator.
+- `list_databases` lists the databases available to the current Datasette actor.
+- `get_database_schema` returns the complete SQL schema for a database, including tables, indexes, views, and triggers.
+- `execute_sql` executes one read-only SQL statement and returns structured columns, column-keyed row objects, and a truncation indicator.
 
-Datasette database visibility and `execute-sql` permissions are enforced for
-every tool call. SQL uses the same `validate_sql_select()` and read-only
-`Database.execute()` path as Datasette's custom SQL interface.
+Datasette database visibility and `execute-sql` permissions are enforced for every tool call. SQL uses the same `validate_sql_select()` and read-only `Database.execute()` path as Datasette's custom SQL interface.
+
+## Canned queries
+
+Datasette [canned queries](https://docs.datasette.io/en/stable/sql_queries.html#canned-queries) (called stored queries in Datasette 1.0), including writable canned queries, can be exposed as MCP tools by enabling this plugin setting:
+
+```yaml
+plugins:
+  datasette-mcp:
+    canned_queries: true
+```
+
+This adds three more tools:
+
+- `list_canned_queries` lists the canned queries the current actor can view, optionally filtered to one database. Each entry includes the query's name, title, description, SQL (omitted if `hide_sql` is set), the parameters it accepts and whether it writes data.
+- `execute_canned_query` runs a read-only canned query with a dictionary of parameters and returns the same structured results as `execute_sql`.
+- `execute_writable_canned_query` runs a writable canned query and returns its success message and number of affected rows. This tool is annotated as destructive, so MCP clients can ask for confirmation before running it.
+
+Canned queries follow the same permission checks as Datasette's own query pages for the actor making the MCP request: the actor needs `view-database` and `view-query` permission. On Datasette 1.0, untrusted stored queries also need `execute-sql`, or `execute-write-sql` plus the relevant table permissions for writes. Missing parameters default to empty strings, as they do in Datasette, and magic parameters such as `:_actor_id` are resolved from the MCP HTTP request.
 
 ## Registering additional MCP tools
 
-Other Datasette plugins can add tools to this MCP server by implementing the
-`register_mcp_tools(datasette, mcp)` plugin hook. The `mcp` argument is the
-`MCPServer` for that Datasette instance, so implementations use the MCP Python
-SDK's normal `@mcp.tool()` decorator:
+Other Datasette plugins can add tools to this MCP server by implementing the `register_mcp_tools(datasette, mcp)` plugin hook. The `mcp` argument is the `MCPServer` for that Datasette instance, so implementations use the MCP Python SDK's normal `@mcp.tool()` decorator:
 
 ```python
 from datasette import hookimpl
@@ -56,13 +65,9 @@ def register_mcp_tools(datasette, mcp):
         )
 ```
 
-The hook itself is synchronous because tools are registered while the MCP
-server is being constructed. Tool functions can be synchronous or asynchronous
-and can use all of the input, output, context, and annotation features provided
-by the MCP Python SDK.
+The hook itself is synchronous because tools are registered while the MCP server is being constructed. Tool functions can be synchronous or asynchronous and can use all of the input, output, context, and annotation features provided by the MCP Python SDK.
 
-Datasette-mcp registers `list_databases`, `get_database_schema`, and
-`execute_sql` through this same hook.
+Datasette-mcp registers `list_databases`, `get_database_schema`, and `execute_sql` through this same hook.
 
 ## Development
 
