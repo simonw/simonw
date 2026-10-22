@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,310<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,311<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-10-22
+<br />Adds a /-/mcp MCP server to any Datasette instance
 * **[battledrones](https://github.com/simonw/battledrones)**: [v13: Online multiplayer](https://github.com/simonw/battledrones/releases/tag/v13) - ([13 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-20
 <br />A mobile web RTS
 * **[llm-public-ai](https://github.com/simonw/llm-public-ai)**: [0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
@@ -53,8 +55,6 @@ Listing <!-- releases_count starts -->2,310<!-- releases_count ends --> releases
 <br />Save data from GitHub to a SQLite database
 * **[llm-openrouter](https://github.com/simonw/llm-openrouter)**: [0.7.1](https://github.com/simonw/llm-openrouter/releases/tag/0.7.1) - ([9 releases total](https://github.com/simonw/llm-openrouter/releases)) - 2026-09-02
 <br />LLM plugin for models hosted by OpenRouter
-* **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.2](https://github.com/datasette/datasette-mcp/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-09-01
-<br />Adds a /-/mcp MCP server to any Datasette instance
 * **[sqlite-utils](https://github.com/simonw/sqlite-utils)**: [4.2.1](https://github.com/simonw/sqlite-utils/releases/tag/4.2.1) - ([129 releases total](https://github.com/simonw/sqlite-utils/releases)) - 2026-08-13
 <br />Python CLI utility and library for manipulating SQLite databases
 * **[alchemy-utils](https://github.com/simonw/alchemy-utils)**: [0.1a1](https://github.com/simonw/alchemy-utils/releases/tag/0.1a1) - ([2 releases total](https://github.com/simonw/alchemy-utils/releases)) - 2026-08-13
