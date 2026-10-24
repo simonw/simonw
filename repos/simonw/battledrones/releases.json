@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-10-24T03:59:57Z",
+      "published_day": "2026-10-24",
+      "release": "v14: Compass Rose, a four player map",
+      "url": "https://github.com/simonw/battledrones/releases/tag/v14"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-10-20T23:29:46Z",
       "published_day": "2026-10-20",
       "release": "v13: Online multiplayer",
@@ -95,6 +102,6 @@
     }
   ],
   "repo": "battledrones",
-  "total_releases": 13,
+  "total_releases": 14,
   "url": "https://github.com/simonw/battledrones"
 }

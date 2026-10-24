@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,311<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,312<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
+<br />A mobile web RTS
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-10-22
 <br />Adds a /-/mcp MCP server to any Datasette instance
-* **[battledrones](https://github.com/simonw/battledrones)**: [v13: Online multiplayer](https://github.com/simonw/battledrones/releases/tag/v13) - ([13 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-20
-<br />A mobile web RTS
 * **[llm-public-ai](https://github.com/simonw/llm-public-ai)**: [0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
 <br />LLM models from publicai.co
 * **[llm-tools-datasette](https://github.com/simonw/llm-tools-datasette)**: [0.1.1](https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1) - ([4 releases total](https://github.com/simonw/llm-tools-datasette/releases)) - 2026-10-18

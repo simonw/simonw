@@ -27,6 +27,25 @@ the two pages by room code and stores nothing
 ([`relay/README.md`](relay/README.md)). If a phone drops its connection, it
 reconnects to its seat and the match carries on.
 
+## Battle up to three friends online
+
+**Compass Rose** is a four-player map: four bases, one in each corner of a
+frozen compass, the same corner turned four ways. Play it against three AI
+commanders, watch four AIs fight it out, or bring friends:
+
+1. On the **Skirmish** tab, pick **Compass Rose** and tap
+   **🌐 Battle friends online (up to 4)**.
+2. Each seat in the lobby has its own invite link
+   (`…/battledrones/#ffa=<code>-<seat>`, with Share, Copy and a QR code).
+   Send one to each friend.
+3. They open it, give their name and join. When you tap **Start**, any seat
+   nobody took goes to an AI commander.
+
+It's a free-for-all: a side is out when its HQ and every Goliath are gone,
+and the last one standing wins. Your page hosts the battle, so keep it open
+and in front until it's over. If a friend's connection drops, an AI plays
+their side until they're back. See [FFA.md](FFA.md) for how it works.
+
 Every end screen, for online duels and every other mode, has a
 **📋 Copy replay JSON** button. Paste the record into **🎬 Watch a replay**
 on the menu to watch the match again, or open it in the
@@ -56,6 +75,10 @@ every order, note and radio line, in the [battle record viewer](https://simonw.g
   also duel with no network at all. They talk through their speakers and
   microphones (🔊 Duel a friend (sound), SOUND-DUEL.md), but the link is a
   constant high-pitched noise that many people find unpleasant.
+- **Four-player free-for-all** on [Compass Rose](#battle-up-to-three-friends-online):
+  against three AIs, four AIs to watch, or up to four people online with AI
+  commanders in the empty seats. Each AI picks a rival to go after, and
+  turns on whoever raids its base.
 - **Pick an opener, play from second one**: every match starts on three
   cards — Blitz (Fab Plant + 3 Stingers), Industry (a third harvester +
   scrap) or Air Wing (Airpad + 3 Wasps) — and the AI picks its own.
@@ -105,8 +128,9 @@ every order, note and radio line, in the [battle record viewer](https://simonw.g
   airlift it, each one costs 25% more for every Goliath you already have,
   and a side is beaten only when its HQ and every Goliath are gone. A dead
   one topples and scatters its scrap in piles across the battlefield.
-- **6 maps in 5 biomes** — the classic Proving Grounds, Riverlands, Dune
-  Sea, Frostbite, Ashlands and the big tropical **Archipelago** — with
+- **7 maps in 5 biomes** — the classic Proving Grounds, Riverlands, Dune
+  Sea, Frostbite, Ashlands, the four-player **Compass Rose** and the big
+  tropical **Archipelago** — with
   terrain that matters: roads, mud, woods (cover), fords, bridges,
   water/lava that only hover and air units cross, open sea that only
   aircraft cross, and rich crystal fields. On a phone the map row fades and
@@ -259,7 +283,7 @@ npm run maps           # export map grids to art/maps/*.json (--ascii to preview
                        # model gallery: npm run dev, then open /tools/models.html
                        #   (?only=units|buildings|condor|condor-ring|goliath|gantry, ?anim=walk|idle|aim|fall for
                        #   the robots, ?icon=<kind> for one model alone, as shot for its HUD portrait)
-node tools/model-portraits.mjs --all  # reshoot every HUD portrait from the 3D models, blue and red (ICONS.md)
+node tools/model-portraits.mjs --all  # reshoot every HUD portrait from the 3D models, in all four sides' paint (ICONS.md)
                        # vehicles reference page: /vehicles.html (built into dist/ too)
                        # 3D models page: /models.html (built into dist/ too): every unit's model to turn
                        #   and zoom, beside its card, with its animations to play
@@ -269,6 +293,7 @@ node tools/model-portraits.mjs --all  # reshoot every HUD portrait from the 3D m
                        #   sound link, for multiplayer over audio (reports/Audio modem for lockstep multiplayer.md)
 node tools/online-smoke.mjs  # two pages play an online duel through the deployed relay (against dist/,
                        #   served as simonw.github.io, the only origin the relay accepts; --shots)
+node tools/ffa-smoke.mjs     # three pages play a four-player battle through the deployed relay (as above)
 cd relay && uv run pytest    # the relay's tests (relay/README.md: running and deploying it)
 node tools/shots.mjs   # screenshot tour against the dev server (SPECTATE=1, MAP=...)
 node tools/showcase.mjs  # staged close-up skirmish for checking weapon effects
@@ -318,7 +343,9 @@ npm run art:textures   # just the biome rock textures the 3D cliffs and crags us
   game differs from it.
 - **`ICONS.md`** — the HUD portraits: why they're shots of the 3D models,
   and how they're framed and finished.
-- **`relay/README.md`** — the online duel's WebSocket relay: its protocol,
+- **`FFA.md`** — four-player battles: Compass Rose, the free-for-all
+  rules, the AI against three rivals, and online play through the relay.
+- **`relay/README.md`** — the online games' WebSocket relay: its protocol,
   and how to run and deploy it to Fly.
 
 ## Architecture
@@ -336,6 +363,9 @@ npm run art:textures   # just the biome rock textures the 3D cliffs and crags us
   audio (`audio.ts`).
 - `src/ui/` — DOM-overlay HUD and menu, with portrait/landscape layouts in
   CSS.
+- `src/versus/`, `src/link/` — the 1v1 duel, online and over sound;
+  `src/ffa/` — four-player online battles; `src/net/` — the relay socket
+  both use. Each mode loads as its own chunk when it's wanted.
 - `src/arena/` — agent battles: each side's view of the world as text, its
   orders, the round loop and battle records. Reads the sim and changes
   nothing in it; only the dev-only battle viewer loads it in the browser.
