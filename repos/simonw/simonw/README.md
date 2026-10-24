@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-mcp 0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - 2026-10-22
+[battledrones v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - 2026-10-24
 
-[battledrones v13: Online multiplayer](https://github.com/simonw/battledrones/releases/tag/v13) - 2026-10-20
+[datasette-mcp 0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - 2026-10-22
 
 [llm-public-ai 0.1](https://github.com/simonw/llm-public-ai/releases/tag/0.1) - 2026-10-20
 
