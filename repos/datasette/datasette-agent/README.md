@@ -53,6 +53,14 @@ The "Explore with AI agent" entries that appear in the database and table action
 
 Visit `/-/agent/background` to launch background agents directly. Each one is given a goal and runs toward it without further input. The listing includes a Stop button for cancelling agents that are still running.
 
+### The canvas
+
+The conversation page can show Datasette pages - tables, query results, row pages, pages from other plugins such as datasette-apps - in a canvas next to the chat. The agent opens pages there with its built-in `show_in_canvas` tool, and links in the conversation that point at this Datasette instance open there too. You can keep clicking around inside the canvas, and each message you send tells the agent which page the canvas is showing, so you can ask about "this table".
+
+On wide screens (tablet landscape and desktop) the chat takes a third of the width and the canvas the other two thirds, with a button to hide the canvas. On narrow screens a Chat | Canvas switch in the header slides between the two; when the agent opens a page while you are reading the chat, the Canvas switch shows a dot instead of pulling you away.
+
+`show_in_canvas` only accepts paths on the same Datasette instance, checks that the page renders for the current actor before opening it, and is not offered to background agents or `datasette agent chat`.
+
 ### Saving queries
 
 The agent has a built-in `save_query` tool that saves SQL it has written as a [Datasette stored query](https://docs.datasette.io/en/latest/sql_queries.html). The query can be read-only or write SQL - Datasette analyzes it to decide which, and named `:parameters` become form fields on the saved query page.
