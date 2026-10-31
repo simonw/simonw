@@ -160,6 +160,12 @@ The `models` (global allowlist) and `blocked_models` fields remain plain string 
 
 Model options use the same configuration resolution order as custom keys: the matching purpose-specific model reference is checked first, then the global `default_model` reference if it names the same model.
 
+### Falling back to LLM's default model
+
+If neither `default_model` nor a purpose-specific `model` is configured, datasette-llm falls back to [LLM's own default model](https://llm.datasette.io/en/stable/setup.html#setting-a-custom-default-model) - the model set using `llm models default <model>`, or LLM's built-in default if none has been set.
+
+This fallback is only used if that model is available to Datasette: it must have an API key (unless `require_keys` is `false`) and must not be excluded by the `models` or `blocked_models` settings or by an `llm_filter_models` hook. Unlike `default_model`, LLM's default model is not automatically added to the `models` allowlist. If the fallback model is not available, calling `await llm.model()` without a model ID raises a `ModelNotFoundError`.
+
 ### Model filtering
 
 The `models` and `blocked_models` keys control which models are available. Use `models` to define an allowlist (only these models will be available) or `blocked_models` to define a blocklist (all models except these will be available). If both are set, the allowlist is applied first and the blocklist removes from the result. The `default_model` is automatically included in the allowlist, so you don't need to repeat it there.
@@ -220,7 +226,7 @@ Get an async model wrapped with hook support. Returns a `WrappedAsyncModel` that
 
 Parameters:
 
-- **`model_id`** (`Optional[str]`): The model to use, e.g. `"gpt-5.4-mini"` or `"claude-sonnet-4.6"`. If not provided, the default model is resolved from configuration — first checking the purpose-specific `model` setting, then the global `default_model`.
+- **`model_id`** (`Optional[str]`): The model to use, e.g. `"gpt-5.4-mini"` or `"claude-sonnet-4.6"`. If not provided, the default model is resolved from configuration — first checking the purpose-specific `model` setting, then the global `default_model`, then [LLM's own default model](#falling-back-to-llms-default-model).
 - **`purpose`** (`Optional[str]`): Identifies what this model will be used for, e.g. `"enrichments"`, `"sql-assistant"`. This selects the purpose-specific default model and is passed through to hooks like `llm_prompt_context` for auditing and accounting.
 - **`actor`** (`Optional[dict]`): The Datasette actor dictionary for the current user. Pass this to enable two things: **per-user model filtering**, where plugins using the `llm_filter_models` or `llm_default_model` hooks can restrict or customize models based on who is making the request; and **audit logging**, where auditing plugins that implement `llm_prompt_context` can record which actor ran which prompts.
 

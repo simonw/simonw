@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,312<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,313<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a9](https://github.com/datasette/datasette-llm/releases/tag/0.1a9) - ([10 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-10-31
+<br />LLM integration plugin for other plugins to depend on
 * **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
 <br />A mobile web RTS
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-10-22
@@ -117,8 +119,6 @@ Listing <!-- releases_count starts -->2,312<!-- releases_count ends --> releases
 <br />Observable Plot charts for Datasette Agent
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
 <br />LLM accounting for Datasette
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a8](https://github.com/datasette/datasette-llm/releases/tag/0.1a8) - ([9 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-05-19
-<br />LLM integration plugin for other plugins to depend on
 * **[inaturalist-clumper](https://github.com/simonw/inaturalist-clumper)**: [0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15
 <br />Group iNaturalist sightings into clumps
 * **[datasette-ip-rate-limit](https://github.com/datasette/datasette-ip-rate-limit)**: [0.1a0](https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0) - 2026-05-14
