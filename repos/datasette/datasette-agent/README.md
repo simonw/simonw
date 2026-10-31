@@ -47,11 +47,17 @@ plugins:
 
 Here `model` is the default for the agent and `models` is the allowlist offered in the picker. Without a `purposes.agent` section the picker offers every tool-capable model that datasette-llm considers available, with `default_model` preselected.
 
-The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agent/api/conversations` accepts an optional `{"model": "..."}` to pin a model when creating a conversation programmatically. Background agents and explorer reports always use the default model.
-
-The "Explore with AI agent" entries that appear in the database and table action menus launch a background agent that explores the selected database or table and writes a report. Reports live under `/-/agent/explore/`.
+The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agent/api/conversations` accepts an optional `{"model": "..."}` to pin a model when creating a conversation programmatically. Background agents always use the default model.
 
 Visit `/-/agent/background` to launch background agents directly. Each one is given a goal and runs toward it without further input. The listing includes a Stop button for cancelling agents that are still running.
+
+### Tagging tables, queries and databases with #
+
+Type `#` in the chat input (on `/-/agent` or in a conversation) to open an autocomplete list of the tables, views, stored queries and databases you have permission to see. Keep typing to filter it, use the up and down arrow keys to move through the matches, and press Enter or Tab (or tap a match) to tag it. Escape dismisses the list.
+
+A tagged resource shows as a pill above the input and as `#name` in the message text; deleting that text or clicking the pill's × removes the tag. When the message is sent, the schema of each tagged resource is attached to it for the model - the `CREATE TABLE`/`CREATE VIEW` statement for a table or view, the SQL, title, description and parameters for a stored query, and the schemas of every visible table plus a list of stored queries for a database - with a note telling the model it does not need to look them up. Permissions are checked again on the server when the message is sent. The schema note is kept out of the rendered conversation, where the tags appear as pills in the message, and the Markdown export lists them on a "Tagged:" line.
+
+The autocomplete list comes from `/-/agent/api/references?q=...`.
 
 ### The canvas
 
@@ -92,13 +98,12 @@ The approval prompt shows the SQL, parameters, required permissions and destruct
 
 ### Permissions
 
-This plugin registers three independent permissions:
+This plugin registers two independent permissions:
 
 - `datasette-agent` — required to use the chat assistant under `/-/agent`.
-- `datasette-agent-explore` — required to see the "Explore with AI agent" entries in the database/table action menus and to use the explorer routes under `/-/agent/explore/`.
 - `datasette-agent-background` — required to use the `spawn_background_agent` and `check_background_agent` tools from chat, and to access the `/-/agent/background` page and `/-/agent/api/background/*` endpoints. The background-agent endpoints require both `datasette-agent` and `datasette-agent-background`.
 
-The three permissions are independent: an actor may hold any subset. The `--root` user holds all of them.
+The two permissions are independent: an actor may hold either or both. The `--root` user holds both.
 
 ## Registering additional tools from plugins
 
