@@ -61,7 +61,7 @@ The autocomplete list comes from `/-/agent/api/references?q=...`.
 
 ### The panel
 
-The conversation page can show Datasette pages - tables, query results, row pages, pages from other plugins such as datasette-apps - in a panel next to the chat. The agent opens pages there with its built-in `show_in_panel` tool, and links in the conversation that point at this Datasette instance open there too. You can keep clicking around inside the panel, and each message you send tells the agent which page the panel is showing, so you can ask about "this table".
+The conversation page can show Datasette pages - tables, query results, row pages, pages from other plugins such as datasette-apps - in a panel next to the chat. The agent opens pages there with its built-in `show_in_panel` tool, and links in the conversation that point at this Datasette instance open there too. You can keep clicking around inside the panel, and when you send a message the agent is told if the panel has moved to a different page, so you can ask about "this table".
 
 On wide screens (tablet landscape and desktop) the chat takes a third of the width and the panel the other two thirds, with a button to hide the panel. On narrow screens a Chat | Panel switch in the header slides between the two; when the agent opens a page while you are reading the chat, the Panel switch shows a dot instead of pulling you away.
 
@@ -404,6 +404,8 @@ Output includes:
 agent:
   list_databases_and_tables
     List all available databases and their tables
+  list_tables
+    List the tables in one database. Use this if list_databases_and_tables says there are too many tables to list
   describe_table
     Get column names, types, and foreign keys for a table
   sql_query
