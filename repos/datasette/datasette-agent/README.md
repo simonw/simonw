@@ -59,13 +59,13 @@ A tagged resource shows as a pill above the input and as `#name` in the message 
 
 The autocomplete list comes from `/-/agent/api/references?q=...`.
 
-### The canvas
+### The panel
 
-The conversation page can show Datasette pages - tables, query results, row pages, pages from other plugins such as datasette-apps - in a canvas next to the chat. The agent opens pages there with its built-in `show_in_canvas` tool, and links in the conversation that point at this Datasette instance open there too. You can keep clicking around inside the canvas, and each message you send tells the agent which page the canvas is showing, so you can ask about "this table".
+The conversation page can show Datasette pages - tables, query results, row pages, pages from other plugins such as datasette-apps - in a panel next to the chat. The agent opens pages there with its built-in `show_in_panel` tool, and links in the conversation that point at this Datasette instance open there too. You can keep clicking around inside the panel, and each message you send tells the agent which page the panel is showing, so you can ask about "this table".
 
-On wide screens (tablet landscape and desktop) the chat takes a third of the width and the canvas the other two thirds, with a button to hide the canvas. On narrow screens a Chat | Canvas switch in the header slides between the two; when the agent opens a page while you are reading the chat, the Canvas switch shows a dot instead of pulling you away.
+On wide screens (tablet landscape and desktop) the chat takes a third of the width and the panel the other two thirds, with a button to hide the panel. On narrow screens a Chat | Panel switch in the header slides between the two; when the agent opens a page while you are reading the chat, the Panel switch shows a dot instead of pulling you away.
 
-`show_in_canvas` only accepts paths on the same Datasette instance, checks that the page renders for the current actor before opening it, and is not offered to background agents or `datasette agent chat`.
+`show_in_panel` only accepts paths on the same Datasette instance, checks that the page renders for the current actor before opening it, and is not offered to background agents or `datasette agent chat`.
 
 ### Saving queries
 
