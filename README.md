@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm 0.37](https://github.com/simonw/llm/releases/tag/0.37) - 2026-11-02
+
 [datasette-llm 0.1a9](https://github.com/datasette/datasette-llm/releases/tag/0.1a9) - 2026-10-31
 
 [battledrones v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - 2026-10-24
@@ -17,8 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-echo 0.5](https://github.com/simonw/llm-echo/releases/tag/0.5) - 2026-10-18
 
 [web-edit 0.1a2](https://github.com/simonw/web-edit/releases/tag/0.1a2) - 2026-10-17
-
-[llm-gemini 0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - 2026-10-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

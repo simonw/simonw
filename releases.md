@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,313<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,314<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.37](https://github.com/simonw/llm/releases/tag/0.37) - ([73 releases total](https://github.com/simonw/llm/releases)) - 2026-11-02
+<br />Access large language models from the command-line
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a9](https://github.com/datasette/datasette-llm/releases/tag/0.1a9) - ([10 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-10-31
 <br />LLM integration plugin for other plugins to depend on
 * **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->2,313<!-- releases_count ends --> releases
 <br />Python web app to help rewrite your commit messages
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a41](https://github.com/simonw/datasette/releases/tag/1.0a41) - ([176 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-24
 <br />An open source multi-tool for exploring and publishing data
-* **[llm](https://github.com/simonw/llm)**: [0.36](https://github.com/simonw/llm/releases/tag/0.36) - ([72 releases total](https://github.com/simonw/llm/releases)) - 2026-09-22
-<br />Access large language models from the command-line
 * **[llm-typesafe](https://github.com/simonw/llm-typesafe)**: [0.1a0](https://github.com/simonw/llm-typesafe/releases/tag/0.1a0) - 2026-09-22
 <br />LLM plugin for accessing Jev and other TypeSafe AI models
 * **[llm-keys-ui](https://github.com/simonw/llm-keys-ui)**: [0.1](https://github.com/simonw/llm-keys-ui/releases/tag/0.1) - 2026-09-20
