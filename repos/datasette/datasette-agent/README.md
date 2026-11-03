@@ -51,11 +51,13 @@ The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agen
 
 Visit `/-/agent/background` to launch background agents directly. Each one is given a goal and runs toward it without further input. The listing includes a Stop button for cancelling agents that are still running.
 
-### Tagging tables, queries and databases with #
+### Tagging tables, queries, databases and more with #
 
 Type `#` in the chat input (on `/-/agent` or in a conversation) to open an autocomplete list of the tables, views, stored queries and databases you have permission to see. Keep typing to filter it, use the up and down arrow keys to move through the matches, and press Enter or Tab (or tap a match) to tag it. Escape dismisses the list.
 
-A tagged resource shows as a pill above the input and as `#name` in the message text; deleting that text or clicking the pill's × removes the tag. When the message is sent, the schema of each tagged resource is attached to it for the model - the `CREATE TABLE`/`CREATE VIEW` statement for a table or view, the SQL, title, description and parameters for a stored query, and the schemas of every visible table plus a list of stored queries for a database - with a note telling the model it does not need to look them up. Permissions are checked again on the server when the message is sent. The schema note is kept out of the rendered conversation, where the tags appear as pills in the message, and the Markdown export lists them on a "Tagged:" line.
+A tagged item shows as a pill above the input and as `#name` in the message text; deleting that text or clicking the pill's × removes the tag. When the message is sent, a note listing the tagged items is attached to it for the model, with details for each item the user is allowed to see: the `CREATE TABLE`/`CREATE VIEW` statement for a table or view; the title, description, parameters and SQL (unless hidden) for a stored query; and the names of the visible tables and views for a database. Permissions are checked again on the server when the message is sent - an item the user can't see is listed without details. The model can use `describe_table` and `describe_query` to look up more. The note is kept out of the rendered conversation, where the tags appear as pills in the message, and the Markdown export lists them on a "Tagged:" line.
+
+Plugins can add their own kinds of taggable item - see [Registering reference types for # tagging](#registering-reference-types-for--tagging).
 
 The autocomplete list comes from `/-/agent/api/references?q=...`.
 
@@ -325,6 +327,56 @@ Once a task leaves the pending state its HTML is torn down and never rendered ag
 `context.supports_browser_tasks` is `True` in the web chat and `False` for background agents and CLI chat, where calling `browser_task()` raises `BrowserTasksNotSupported` - surfaced to the model as a tool error, like `QuestionsNotSupported`. Check the flag first if your tool has a browserless fallback.
 
 For tests, pass a `browser_task_callback` when constructing the `ToolContext` (or through `make_llm_tools()`): it receives `{tool_name, html, payload, label, timeout_ms}` and returns the envelope directly, synchronously or as a coroutine, without touching the database or any browser. Envelopes returned this way are normalized with `outcome: "completed"` exactly like real completions, so your tool cannot tell the executors apart.
+
+## Registering reference types for # tagging
+
+Tables, stored queries and databases are the built-in things a user can tag with `#` in a chat message. Plugins can add more - apps, documents, dashboards - by implementing the `register_agent_reference_types` hook, which returns a list of `ReferenceType` instances (or an awaitable returning one). datasette-agent registers its own three types through this same hook.
+
+```python
+from datasette import hookimpl
+from datasette_agent.references import Reference, ReferenceType
+
+
+async def search_notes(datasette, actor, q, limit):
+    # Return only items the actor is allowed to see.
+    rows = await find_notes_visible_to(datasette, actor, q, limit)
+    return [
+        Reference(
+            type="note",
+            id=str(row["id"]),
+            name=row["slug"],
+            description=row["title"],
+        )
+        for row in rows
+    ]
+
+
+@hookimpl
+def register_agent_reference_types(datasette):
+    return [
+        ReferenceType(
+            type="note",
+            label="note",
+            search=search_notes,
+            url=lambda datasette, ref: datasette.urls.path(f"/-/notes/{ref.id}"),
+            instructions="For a tagged note, call read_note with its id.",
+        )
+    ]
+```
+
+`ReferenceType` fields:
+
+- `type` - a unique string identifying the type. It is also used in the `agent-ref-<type>` CSS class on pills.
+- `label` - short label shown on pills and in the autocomplete list.
+- `search` - `async def search(datasette, actor, q, limit)` returning a list of `Reference` objects matching `q` (an empty `q` should return everything, up to `limit`). Only return items `actor` can see. An exception here is ignored so it can't break autocomplete for other types.
+- `url` - optional `def url(datasette, ref)` returning the URL a pill links to, or `None`. URLs are always computed on the server, never taken from the client.
+- `instructions` - optional text added to the model's note when an item of this type is tagged, usually telling it which tool to call with the reference's `id`.
+- `context` - optional `async def context(datasette, actor, ref)` (a plain function works too) returning text to include in the model's note under the reference, such as the item's content or schema, or `None`. It runs when the message is sent. **References come from the client, so this function must check that `actor` is allowed to see the item** and return `None` if not, or if the item doesn't exist. Text over 20,000 characters is truncated; an exception means no context.
+- `order` - optional tie-break when results of different types match equally well; built-ins use 0-2, the default is 100.
+
+`Reference` fields are `type`, `id` (an opaque string your tools can use to find the item), `name` (shown after the `#` and on the pill) and `description` (shown in the autocomplete list and included in the model's note).
+
+When a message is sent, datasette-agent checks each reference's shape and that its type is registered, then lists it for the model along with any `context` text. Since anyone can send any id, both `context` and the tools the model uses to read an item must do their own permission checks.
 
 ## Rendering custom HTML from tools
 
