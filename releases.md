@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,314<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,315<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.37](https://github.com/simonw/llm/releases/tag/0.37) - ([73 releases total](https://github.com/simonw/llm/releases)) - 2026-11-02
+* **[llm](https://github.com/simonw/llm)**: [0.37.1](https://github.com/simonw/llm/releases/tag/0.37.1) - ([74 releases total](https://github.com/simonw/llm/releases)) - 2026-11-03
 <br />Access large language models from the command-line
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a9](https://github.com/datasette/datasette-llm/releases/tag/0.1a9) - ([10 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-10-31
 <br />LLM integration plugin for other plugins to depend on

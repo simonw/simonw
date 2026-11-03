@@ -368,7 +368,7 @@ def register_agent_reference_types(datasette):
 
 - `type` - a unique string identifying the type. It is also used in the `agent-ref-<type>` CSS class on pills.
 - `label` - short label shown on pills and in the autocomplete list.
-- `search` - `async def search(datasette, actor, q, limit)` returning a list of `Reference` objects matching `q` (an empty `q` should return everything, up to `limit`). Only return items `actor` can see. An exception here is ignored so it can't break autocomplete for other types.
+- `search` - `async def search(datasette, actor, q, limit)` (a plain function works too) returning a list of `Reference` objects matching `q` (an empty `q` should return everything, up to `limit`). Only return items `actor` can see. An exception here is ignored so it can't break autocomplete for other types.
 - `url` - optional `def url(datasette, ref)` returning the URL a pill links to, or `None`. URLs are always computed on the server, never taken from the client.
 - `instructions` - optional text added to the model's note when an item of this type is tagged, usually telling it which tool to call with the reference's `id`.
 - `context` - optional `async def context(datasette, actor, ref)` (a plain function works too) returning text to include in the model's note under the reference, such as the item's content or schema, or `None`. It runs when the message is sent. **References come from the client, so this function must check that `actor` is allowed to see the item** and return `None` if not, or if the item doesn't exist. Text over 20,000 characters is truncated; an exception means no context.
