@@ -4,13 +4,13 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-llm 0.1a10](https://github.com/datasette/datasette-llm/releases/tag/0.1a10) - 2026-11-04
+
 [datasette-apps 0.3a0](https://github.com/datasette/datasette-apps/releases/tag/0.3a0) - 2026-11-04
 
 [datasette-agent 0.5a0](https://github.com/datasette/datasette-agent/releases/tag/0.5a0) - 2026-11-03
 
 [llm 0.37.1](https://github.com/simonw/llm/releases/tag/0.37.1) - 2026-11-03
-
-[datasette-llm 0.1a9](https://github.com/datasette/datasette-llm/releases/tag/0.1a9) - 2026-10-31
 
 [battledrones v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - 2026-10-24
 
