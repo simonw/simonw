@@ -420,6 +420,8 @@ Influence the models that are returned from the `await llm.models()` method. Plu
 
 The `actor` and `purpose` are the ones that were passed to the `llm.models(actor=..., purpose=...)` method.
 
+All filter hooks receive the same initial list of models after API key filtering. Their returned lists are intersected by model ID, so a model must be allowed by every hook that returns a list. Return `None` to leave availability unchanged, or an empty list to make no models available. A hook cannot restore a model excluded by another hook.
+
 ```python
 @hookimpl
 async def llm_filter_models(datasette, models, actor, purpose):
