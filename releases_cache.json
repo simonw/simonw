@@ -2039,6 +2039,12 @@
     "description": "An LLM-powered agent for Datasette",
     "releases": [
       {
+        "published_at": "2026-11-03T23:13:45Z",
+        "published_day": "2026-11-03",
+        "release": "0.5a0",
+        "url": "https://github.com/datasette/datasette-agent/releases/tag/0.5a0"
+      },
+      {
         "published_at": "2026-07-31T14:14:23Z",
         "published_day": "2026-07-31",
         "release": "0.4a0",
@@ -2089,7 +2095,7 @@
     ],
     "repo": "datasette-agent",
     "repo_url": "https://github.com/datasette/datasette-agent",
-    "total_releases": 8
+    "total_releases": 9
   },
   "datasette-agent-charts": {
     "description": "Observable Plot charts for Datasette Agent",
@@ -2415,6 +2421,12 @@
     "description": "Apps that live inside Datasette",
     "releases": [
       {
+        "published_at": "2026-11-04T00:29:36Z",
+        "published_day": "2026-11-04",
+        "release": "0.3a0",
+        "url": "https://github.com/datasette/datasette-apps/releases/tag/0.3a0"
+      },
+      {
         "published_at": "2026-08-01T21:23:56Z",
         "published_day": "2026-08-01",
         "release": "0.2a0",
@@ -2453,7 +2465,7 @@
     ],
     "repo": "datasette-apps",
     "repo_url": "https://github.com/datasette/datasette-apps",
-    "total_releases": 6
+    "total_releases": 7
   },
   "datasette-atom": {
     "description": "Datasette plugin that adds a .atom output format",

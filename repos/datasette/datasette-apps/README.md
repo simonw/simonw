@@ -115,6 +115,10 @@ The create and edit pages use Datasette's existing bundled CodeMirror editor for
 
 The edit page includes a private checkbox, SQL query database access, stored query access, and allowed network origins. The network origins control is a free-form list for users with the `apps-set-csp` permission, a set of checkboxes when an `allowed_csp_origins` allow-list is configured, and hidden otherwise.
 
+### Tagging apps in datasette-agent
+
+If [datasette-agent](https://github.com/datasette/datasette-agent) is installed, apps can be tagged with `#` in a chat message. The autocomplete lists the apps you have permission to view, including external apps. The agent is told the tagged app's ID and URL and whether you can edit it. Its HTML source is not attached: the agent reads that using the `app_view` tool, which requires `edit-app` permission.
+
 ### External apps from plugins
 
 Datasette plugins can register their own apps that are independent of the HTML sandbox system. This allows apps with more complex requirements to still participate in other features built around the app registry.

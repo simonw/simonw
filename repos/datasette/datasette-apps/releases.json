@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-04T00:29:36Z",
+      "published_day": "2026-11-04",
+      "release": "0.3a0",
+      "url": "https://github.com/datasette/datasette-apps/releases/tag/0.3a0"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-08-01T21:23:56Z",
       "published_day": "2026-08-01",
       "release": "0.2a0",
@@ -46,6 +53,6 @@
     }
   ],
   "repo": "datasette-apps",
-  "total_releases": 6,
+  "total_releases": 7,
   "url": "https://github.com/datasette/datasette-apps"
 }
