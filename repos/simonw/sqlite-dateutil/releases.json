@@ -1,0 +1,8 @@
+{
+  "description": "A SQLite C extension imitating Python's dateutil library",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "sqlite-dateutil",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/sqlite-dateutil"
+}
