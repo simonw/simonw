@@ -54,12 +54,16 @@ with other tools.
 
 ### Pyodide
 
-There are also wheels for [Pyodide](https://pyodide.org/):
+`sqlite-dateutil` also works in [Pyodide](https://pyodide.org/) 0.29.4 and later, installed
+from PyPI with micropip:
 
 | Pyodide | Wheel tag |
 | --- | --- |
 | 314.x | `pyemscripten_2026_0_wasm32` |
-| 0.28.x, 0.29.x | `pyodide_2025_0_wasm32` |
+| 0.29.4, 0.29.5 | `pyemscripten_2025_0_wasm32` |
+
+Older Pyodide releases (0.29.3 and earlier) aren't supported. Their micropip can't install
+wheels with these PEP 783 tags, and those are the only Pyodide tags PyPI accepts.
 
 Pyodide's `sqlite3` module can't load extensions, so in Pyodide `import sqlite_dateutil`
 registers the functions with SQLite's `sqlite3_auto_extension()` instead. Every connection
@@ -68,7 +72,7 @@ opened **after the import** has them, and `load(conn)` just checks that:
 ```python
 import micropip
 await micropip.install("sqlite-dateutil")
-# Pyodide 0.28/0.29 only: sqlite3 is a separate package there
+# Pyodide 0.29 only: sqlite3 is a separate package there
 # await micropip.install("sqlite3")
 
 import sqlite3
@@ -78,10 +82,10 @@ db = sqlite3.connect(":memory:")
 print(db.execute("select dateutil_parse('Sep 25 2003 5pm')").fetchone()[0])
 ```
 
-All of these Pyodide releases link in SQLite 3.39.0, older than the headers in
-`vendor/sqlite`, but the extension only uses APIs that SQLite had long before that version.
-Pyodide 0.28/0.29 build SQLite without load-extension support, so SQLite hands extensions no
-table of its API functions. `tools/pyodide_shim.c` gets those function addresses from Python
+Both Pyodide series link in SQLite 3.39.0, older than the headers in `vendor/sqlite`, but
+the extension only uses APIs that SQLite had long before that version. Pyodide 0.29 builds
+SQLite without load-extension support, so SQLite hands extensions no table of its API
+functions. `tools/pyodide_shim.c` gets those function addresses from Python
 instead.
 
 There are also plugins that add the functions to every connection:
@@ -227,7 +231,7 @@ On macOS the wheel targets macOS 11 (arm64) or 10.13 (x86_64), unless
 a newer macOS than its wheel tag claims.
 
 Each Pyodide wheel needs the exact Emscripten version its Pyodide ABI uses (see
-`PYODIDE_TARGETS` in `tools/build_wheels.py`): 4.0.9 for ABI `2025_0` (Pyodide 0.28/0.29),
+`PYODIDE_TARGETS` in `tools/build_wheels.py`): 4.0.9 for ABI `2025_0` (Pyodide 0.29.4+),
 5.0.3 for `2026_0` (Pyodide 314). With that Emscripten active:
 
 ```bash
@@ -240,8 +244,9 @@ point `EMCC` at the right `upstream/emscripten/emcc`.
 
 `tests/pyodide/test.mjs` picks the Pyodide release from the wheel's tag, installs the wheel
 with micropip under Node, and checks every hand-picked case against python-dateutil running
-in that Pyodide. On 0.28/0.29 it also checks that importing without `sqlite3` explains what
-to do. CI runs it for every ABI on every push. Adding a Pyodide ABI means a new
-`PYODIDE_TARGETS` entry, a matching entry in the `test.yml` Pyodide matrix (with its emsdk
-commit), a `pyodide-<ABI>` alias in `tests/pyodide/package.json`, and the wheel count and
-publish step in `release.yml`.
+in that Pyodide. It tests the oldest supported release of each ABI (0.29.4 and 314.0.7). On
+0.29 it also checks that importing without `sqlite3` explains what to do. CI runs it for
+every ABI on every push. Adding a Pyodide ABI means a new `PYODIDE_TARGETS` entry with a
+PEP 783 `pyemscripten_` tag, a matching entry in the `test.yml` Pyodide matrix (with its
+emsdk commit), a `pyodide-<ABI>` alias in `tests/pyodide/package.json`, and the wheel count
+in `release.yml`.
