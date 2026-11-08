@@ -1,4 +1,4 @@
-# sqlite-dateutil-parse
+# sqlite-dateutil
 
 A SQLite extension, written in C, that ports [python-dateutil](https://github.com/dateutil/dateutil)'s
 `dateutil.parser.parse()` to a set of SQL functions.
@@ -28,6 +28,68 @@ The function names match the [datasette-dateutil](https://github.com/simonw/data
 Where dateutil raises an exception, these functions return `NULL`. Missing fields come from
 today's local date at midnight, as in dateutil (so `dateutil_parse('10:30')` is today at 10:30).
 That also means the functions aren't marked deterministic.
+
+## Installation
+
+The extension is packaged for Python, with prebuilt wheels for macOS (Apple Silicon and
+Intel), Linux (x86_64 and aarch64) and Windows (x64):
+
+```bash
+pip install sqlite-dateutil
+```
+
+```python
+import sqlite3
+import sqlite_dateutil
+
+db = sqlite3.connect(":memory:")
+sqlite_dateutil.load(db)
+print(db.execute("select dateutil_parse('Sep 25 2003 5pm')").fetchone()[0])
+# 2003-09-25T17:00:00
+```
+
+`load()` turns extension loading on just long enough to load the extension, then turns it
+off again. `sqlite_dateutil.loadable_path()` gives the path to the bundled library for use
+with other tools.
+
+### Pyodide
+
+There are also wheels for [Pyodide](https://pyodide.org/):
+
+| Pyodide | Wheel tag |
+| --- | --- |
+| 314.x | `pyemscripten_2026_0_wasm32` |
+| 0.28.x, 0.29.x | `pyodide_2025_0_wasm32` |
+
+Pyodide's `sqlite3` module can't load extensions, so in Pyodide `import sqlite_dateutil`
+registers the functions with SQLite's `sqlite3_auto_extension()` instead. Every connection
+opened **after the import** has them, and `load(conn)` just checks that:
+
+```python
+import micropip
+await micropip.install("sqlite-dateutil")
+# Pyodide 0.28/0.29 only: sqlite3 is a separate package there
+# await micropip.install("sqlite3")
+
+import sqlite3
+import sqlite_dateutil  # import before connecting
+
+db = sqlite3.connect(":memory:")
+print(db.execute("select dateutil_parse('Sep 25 2003 5pm')").fetchone()[0])
+```
+
+All of these Pyodide releases link in SQLite 3.39.0, older than the headers in
+`vendor/sqlite`, but the extension only uses APIs that SQLite had long before that version.
+Pyodide 0.28/0.29 build SQLite without load-extension support, so SQLite hands extensions no
+table of its API functions. `tools/pyodide_shim.c` gets those function addresses from Python
+instead.
+
+There are also plugins that add the functions to every connection:
+
+```bash
+datasette install datasette-sqlite-dateutil
+sqlite-utils install sqlite-utils-sqlite-dateutil
+```
 
 ## Building
 
@@ -90,7 +152,7 @@ raises. It covers:
 - Limits on input size and running time, behavior in SQL queries, and the known differences below.
 
 The parser core is also fuzzed with libFuzzer + ASan + UBSan on Linux, for 3 minutes on every
-push and 30 minutes nightly in CI. See [fuzz/README.md](fuzz/README.md).
+push, and for 30 minutes daily if `main` has changed in the last 24 hours. See [fuzz/README.md](fuzz/README.md).
 
 During development, a further 1.35 million generated comparisons found zero mismatches with
 dateutil 2.9.0.
@@ -138,7 +200,48 @@ dateutil_unicode.h      generated character-class table
 tools/gen_unicode.py    regenerates the table from Python's Unicode data
 tools/du_cli.c          SQLite-free driver used for sanitizer tests
 tools/build.py          cross-platform build script (used by the tests)
+tools/build_wheels.py   packages the built extension as wheels, plus the plugin wheels
 fuzz/                   libFuzzer harness, dictionary and seed generator
 vendor/sqlite/          SQLite 3.53.2 public-domain headers
-tests/                  pytest differential test suite
+tests/                  pytest differential test suite, plus wheel packaging tests
+tests/pyodide/          installs each Pyodide wheel with micropip under Node and checks it
+tools/pyodide_shim.c    Pyodide entry point that copes with SQLite built without extension support
 ```
+
+## Releasing
+
+Bump `version` in `pyproject.toml`, then publish a GitHub release with that version as its
+tag. `.github/workflows/release.yml` runs the tests, builds a wheel on each platform
+(in the `manylinux_2_28` images on Linux), installs and tests each one, then uploads them and
+the two plugin wheels to PyPI through trusted publishing.
+
+To build wheels locally:
+
+```bash
+uv run python tools/build_wheels.py            # this platform, into dist/
+uv run python tools/build_wheels.py --plugins  # datasette- and sqlite-utils- plugins
+```
+
+On macOS the wheel targets macOS 11 (arm64) or 10.13 (x86_64), unless
+`MACOSX_DEPLOYMENT_TARGET` says otherwise. The script refuses to package a binary built for
+a newer macOS than its wheel tag claims.
+
+Each Pyodide wheel needs the exact Emscripten version its Pyodide ABI uses (see
+`PYODIDE_TARGETS` in `tools/build_wheels.py`): 4.0.9 for ABI `2025_0` (Pyodide 0.28/0.29),
+5.0.3 for `2026_0` (Pyodide 314). With that Emscripten active:
+
+```bash
+uv run python tools/build_wheels.py --pyodide 2026_0   # or 2025_0
+cd tests/pyodide && npm ci && node test.mjs ../../dist/sqlite_dateutil-*_2026_0_wasm32.whl
+```
+
+emsdk keeps one active version per checkout, so use a separate emsdk directory for each, or
+point `EMCC` at the right `upstream/emscripten/emcc`.
+
+`tests/pyodide/test.mjs` picks the Pyodide release from the wheel's tag, installs the wheel
+with micropip under Node, and checks every hand-picked case against python-dateutil running
+in that Pyodide. On 0.28/0.29 it also checks that importing without `sqlite3` explains what
+to do. CI runs it for every ABI on every push. Adding a Pyodide ABI means a new
+`PYODIDE_TARGETS` entry, a matching entry in the `test.yml` Pyodide matrix (with its emsdk
+commit), a `pyodide-<ABI>` alias in `tests/pyodide/package.json`, and the wheel count and
+publish step in `release.yml`.

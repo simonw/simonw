@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,318<!-- releases_count ends --> releases across <!-- project_count starts -->405<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,319<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
+<br />A SQLite C extension imitating Python's dateutil library
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a10](https://github.com/datasette/datasette-llm/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-04
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.3a0](https://github.com/datasette/datasette-apps/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-04
