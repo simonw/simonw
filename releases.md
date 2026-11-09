@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,319<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,320<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a42](https://github.com/simonw/datasette/releases/tag/1.0a42) - ([177 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-08
+<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
 <br />A SQLite C extension imitating Python's dateutil library
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a10](https://github.com/datasette/datasette-llm/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-04
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->2,319<!-- releases_count ends --> releases
 <br />LLM access to models by Anthropic, including the Claude series
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.2](https://github.com/simonw/commit-rewriter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/commit-rewriter/releases)) - 2026-09-24
 <br />Python web app to help rewrite your commit messages
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a41](https://github.com/simonw/datasette/releases/tag/1.0a41) - ([176 releases total](https://github.com/simonw/datasette/releases)) - 2026-09-24
-<br />An open source multi-tool for exploring and publishing data
 * **[llm-typesafe](https://github.com/simonw/llm-typesafe)**: [0.1a0](https://github.com/simonw/llm-typesafe/releases/tag/0.1a0) - 2026-09-22
 <br />LLM plugin for accessing Jev and other TypeSafe AI models
 * **[llm-keys-ui](https://github.com/simonw/llm-keys-ui)**: [0.1](https://github.com/simonw/llm-keys-ui/releases/tag/0.1) - 2026-09-20

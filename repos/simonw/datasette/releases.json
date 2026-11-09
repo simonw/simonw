@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-08T23:55:18Z",
+      "published_day": "2026-11-08",
+      "release": "1.0a42",
+      "url": "https://github.com/simonw/datasette/releases/tag/1.0a42"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-09-24T19:15:23Z",
       "published_day": "2026-09-24",
       "release": "1.0a41",
@@ -1236,6 +1243,6 @@
     }
   ],
   "repo": "datasette",
-  "total_releases": 176,
+  "total_releases": 177,
   "url": "https://github.com/simonw/datasette"
 }
