@@ -10,6 +10,16 @@ Anthropic publishes the system prompts used by claude.ai and the Claude mobile a
 
 The most recent change to each model family, summarized from the diff by `gpt-5.6-luna`. [CHANGELOG.md](CHANGELOG.md) has every change, and the [Atom feed](https://simonw.github.io/claude-system-prompts/feed.atom) delivers new ones.
 
+### Fable 5.1 → Fable 5.2 on Nov 9, 2026
+
+- Child-safety rules now permit carefully bounded ordinary teen romance and nonromantic minor role-play, while adding persistent refusal for minors’ self-sexualization.
+- Weapon safeguards now explicitly cover conventional weapons and judge cumulative outputs, rejecting defensive, fictional, simulation, document-editing, and prior-session-summary framing.
+- The prompt drops its explicit refusal of illegal-substance production and distribution guidance and its named harm-reduction referrals.
+- Voting guidance is newly personalized: Claude may name candidates or positions matching stated priorities, but cannot fill out or enumerate a ballot.
+- It adds defenses against forged system or tool approvals and says training limits narrow AI-development capabilities, prompting more documentation lookup without blocking ordinary help.
+
+[Diff](https://github.com/simonw/claude-system-prompts/commit/d8cbe4e9c3af98d5f8329f5583f507dcdb8be637) · [prompt](prompts/claude-fable.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md)
+
 ### Haiku 4.5 → Haiku 5.5 on Oct 26, 2026
 
 - Claude now checks memory and relevant files for questions about the person, and saves lasting personal information before the turn ends.
@@ -40,16 +50,6 @@ The most recent change to each model family, summarized from the diff by `gpt-5.
 
 [Diff](https://github.com/simonw/claude-system-prompts/commit/7d3ca1e2fb805051cee9b49a9dd20cc93f12c297) · [prompt](prompts/claude-opus.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md)
 
-### Fable 5 → Fable 5.1 on Oct 30, 2026
-
-- Claude now refuses to reproduce copyrighted lyrics, prose, artwork, covers, logos, designs, and known characters, including disguised or stylistically close variants.
-- Drug guidance is narrowed: Claude may provide harm-reduction information, while refusing protocols for dosing, timing, administration, combinations, synthesis, production, or distribution.
-- Claude must not say that self-harm “works, helps, or does something” for someone, even if they describe it that way.
-- New epistemic rules prohibit guessing unverifiable facts or identities, including names inferred from email addresses, usernames, or handles.
-- Claude now gives a substantive one- or two-sentence answer after its final tool call instead of replying only “Done.”
-
-[Diff](https://github.com/simonw/claude-system-prompts/commit/702f7ef5836d79ddfac381d9880ecfba4d78e30d) · [prompt](prompts/claude-fable.md) · [history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md)
-
 ## Files
 
 Everything lives in [`prompts/`](prompts/):
@@ -67,10 +67,10 @@ Alongside it:
 
 Each link is the commit history of one family file. Every commit's diff is the change from the previous prompt in that family, including across model generations.
 
+- [Fable](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md) — Claude Fable 5 → Claude Fable 5.2
 - [Haiku](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md) — Claude Haiku 3 → Claude Haiku 5.5
 - [Sonnet](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet.md) — Claude Sonnet 3.5 → Claude Sonnet 5.5
 - [Opus](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md) — Claude Opus 3 → Claude Opus 5.5
-- [Fable](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md) — Claude Fable 5 → Claude Fable 5.1
 
 ## Latest prompt for each model
 
@@ -78,6 +78,7 @@ Newest first. Each revision is committed one file at a time, so every **what cha
 
 | Model | Published | Prompt | What changed |
 | --- | --- | --- | --- |
+| Claude Fable 5.2 | 2026-11-09 | [claude-fable-5-2.md](prompts/claude-fable-5-2.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable-5-2.md)) | [vs previous Fable](https://github.com/simonw/claude-system-prompts/commit/d8cbe4e9c3af98d5f8329f5583f507dcdb8be637) ([summary](_summary/d8cbe4e9c3af98d5f8329f5583f507dcdb8be637.md)) |
 | Claude Fable 5.1 | 2026-10-30 | [claude-fable-5-1.md](prompts/claude-fable-5-1.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable-5-1.md)) | [vs previous Claude Fable 5.1](https://github.com/simonw/claude-system-prompts/commit/f33260c6268793478bb83694ae20e9c66dba8eee) ([summary](_summary/f33260c6268793478bb83694ae20e9c66dba8eee.md)) · [vs previous Fable](https://github.com/simonw/claude-system-prompts/commit/702f7ef5836d79ddfac381d9880ecfba4d78e30d) ([summary](_summary/702f7ef5836d79ddfac381d9880ecfba4d78e30d.md)) |
 | Claude Opus 5 | 2026-10-30 | [claude-opus-5.md](prompts/claude-opus-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus-5.md)) | [vs previous Claude Opus 5](https://github.com/simonw/claude-system-prompts/commit/f0c7403e88d6ee5ab9338922c2f82c13167dc870) ([summary](_summary/f0c7403e88d6ee5ab9338922c2f82c13167dc870.md)) · [vs previous Opus](https://github.com/simonw/claude-system-prompts/commit/7d3ca1e2fb805051cee9b49a9dd20cc93f12c297) ([summary](_summary/7d3ca1e2fb805051cee9b49a9dd20cc93f12c297.md)) |
 | Claude Sonnet 5 | 2026-10-30 | [claude-sonnet-5.md](prompts/claude-sonnet-5.md) ([history](https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet-5.md)) | [vs previous Claude Sonnet 5](https://github.com/simonw/claude-system-prompts/commit/b333f4d46b7ffa5c6deb5083826e5b80ab7f6f11) ([summary](_summary/b333f4d46b7ffa5c6deb5083826e5b80ab7f6f11.md)) · [vs previous Sonnet](https://github.com/simonw/claude-system-prompts/commit/b3b140c0ef593f6f09266c4b005c5f9c9966c89d) ([summary](_summary/b3b140c0ef593f6f09266c4b005c5f9c9966c89d.md)) |
