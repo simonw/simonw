@@ -4,6 +4,8 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[llm-anthropic 0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - 2026-11-09
+
 [datasette 1.0a42](https://github.com/simonw/datasette/releases/tag/1.0a42) - 2026-11-08
 
 [sqlite-dateutil 0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
@@ -17,14 +19,14 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm 0.37.1](https://github.com/simonw/llm/releases/tag/0.37.1) - 2026-11-03
 
 [battledrones v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - 2026-10-24
-
-[datasette-mcp 0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - 2026-10-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
+[Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) - 2026-11-09
+
 [Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) - 2026-11-09
 
 [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) - 2026-11-03
@@ -34,8 +36,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/) - 2026-10-28
 
 [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) - 2026-10-20
-
-[Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) - 2026-10-12
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">

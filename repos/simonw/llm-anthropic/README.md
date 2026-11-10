@@ -32,18 +32,20 @@ llm anthropic models
 ```
 Example output:
 ```
+claude-fable-5-2: Claude Fable 5.2 (created 2026-11-09)
 claude-sonnet-5-5: Claude Sonnet 5.5 (created 2026-09-28)
 claude-opus-5-5: Claude Opus 5.5 (created 2026-09-21)
-claude-fable-5-1: Claude Fable 5.1 (created 2026-08-28)
 ```
 Add `--json` to see the full JSON returned by the API, including details of each model's capabilities. Use `--key` to pass a different API key.
 
 Run prompts like this:
 ```bash
+llm -m claude-fable-5.2 'Fun facts about otters'
 llm -m claude-opus-5.5 'Fun facts about walruses'
 llm -m claude-sonnet-5.5 'Fun facts about pelicans'
 llm -m claude-haiku-4.5 'Fun facts about cormorants'
 ```
+`claude-mythos-5.2` is also registered, but only works for API keys belonging to organizations in Anthropic's [verification programs](https://www.anthropic.com/claude-fable-and-mythos-5-2).
 Image attachments are supported too:
 ```bash
 llm -m claude-sonnet-5.5 'describe this image' -a https://static.simonwillison.net/static/2024/pelicans.jpg
@@ -326,7 +328,7 @@ Claude Opus 5 and the Fable models run [safety classifiers](https://platform.cla
 import llm
 from llm_anthropic import ClaudeRefusal
 
-model = llm.get_model("claude-fable-5.1")
+model = llm.get_model("claude-fable-5.2")
 try:
     print(model.prompt("...").text())
 except ClaudeRefusal as ex:

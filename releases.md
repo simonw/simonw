@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,320<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,321<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
+<br />LLM access to models by Anthropic, including the Claude series
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a42](https://github.com/simonw/datasette/releases/tag/1.0a42) - ([177 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-08
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
@@ -43,8 +45,6 @@ Listing <!-- releases_count starts -->2,320<!-- releases_count ends --> releases
 <br />Datasette plugin that adds a .atom output format
 * **[pwasm](https://github.com/simonw/pwasm)**: [0.2a0](https://github.com/simonw/pwasm/releases/tag/0.2a0) - ([2 releases total](https://github.com/simonw/pwasm/releases)) - 2026-10-01
 <br />A WebAssembly engine in pure Python
-* **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.30](https://github.com/simonw/llm-anthropic/releases/tag/0.30) - ([28 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-09-28
-<br />LLM access to models by Anthropic, including the Claude series
 * **[commit-rewriter](https://github.com/simonw/commit-rewriter)**: [0.2](https://github.com/simonw/commit-rewriter/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/commit-rewriter/releases)) - 2026-09-24
 <br />Python web app to help rewrite your commit messages
 * **[llm-typesafe](https://github.com/simonw/llm-typesafe)**: [0.1a0](https://github.com/simonw/llm-typesafe/releases/tag/0.1a0) - 2026-09-22
