@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,321<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,322<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.36](https://github.com/simonw/llm-gemini/releases/tag/0.36) - ([57 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-10
+<br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
 <br />LLM access to models by Anthropic, including the Claude series
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a42](https://github.com/simonw/datasette/releases/tag/1.0a42) - ([177 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-08
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->2,321<!-- releases_count ends --> releases
 <br />Debug plugin for LLM providing an echo model
 * **[web-edit](https://github.com/simonw/web-edit)**: [0.1a2](https://github.com/simonw/web-edit/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/web-edit/releases)) - 2026-10-17
 <br />Web app for editing files in a folder
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.35](https://github.com/simonw/llm-gemini/releases/tag/0.35) - ([56 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-10-13
-<br />LLM plugin to access Google's Gemini family of models
 * **[llm-meta-ai](https://github.com/simonw/llm-meta-ai)**: [0.2](https://github.com/simonw/llm-meta-ai/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/llm-meta-ai/releases)) - 2026-10-12
 <br />LLM plugin for the Meta AI API
 * **[datasette-ports](https://github.com/datasette/datasette-ports)**: [0.4](https://github.com/datasette/datasette-ports/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-ports/releases)) - 2026-10-12
