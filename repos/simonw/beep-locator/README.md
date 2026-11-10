@@ -1,5 +1,7 @@
 # beep-locator
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/beep-locator/blob/main/LICENSE)
+
 For background on this project, see [Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/).
 
 *The rest of this README was written by Claude.*
