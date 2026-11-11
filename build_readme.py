@@ -41,11 +41,18 @@ def execute_query(query):
 
 TOKEN = os.environ.get("SIMONW_TOKEN", "")
 
-OWNERS = "owner:simonw owner:dogsheep owner:datasette"
+OWNERS = ["simonw", "dogsheep", "datasette"]
 
 # How many hours back the scheduled (incremental) run looks at. The workflow
-# runs hourly, so 3 hours gives a comfortable overlap in case a run is skipped.
-INCREMENTAL_HOURS = 3
+# runs hourly, so 24 hours gives plenty of overlap if runs are skipped or fail.
+INCREMENTAL_HOURS = 24
+
+# Repos fetched per page. Each one carries its README and up to 100 releases,
+# which makes big pages slow: 100 per page reliably times out with a 502 and
+# 50 takes around 8 seconds. The incremental run uses smaller pages still,
+# since it usually stops within the first one or two.
+FULL_PAGE_SIZE = 25
+INCREMENTAL_PAGE_SIZE = 10
 
 SKIP_REPOS = {
     "playing-with-actions",
@@ -70,22 +77,32 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-# Single search query template. QUERY_STRING and AFTER are substituted in. Each
-# repo node carries its README (a few common filename spellings are requested as
-# aliases) so we never need a second fetch to mirror it.
-GRAPHQL_SEARCH_QUERY = """
+# Lists one owner's public, non-fork repos, most recently pushed first. LOGIN,
+# PAGE_SIZE and AFTER are substituted in. This deliberately uses the
+# repositories connection rather than search: the search index can lag hours
+# behind a push, which made the incremental run miss brand new releases. Each
+# repo node carries its README (a few common filename spellings are requested
+# as aliases) so we never need a second fetch to mirror it.
+GRAPHQL_REPOS_QUERY = """
 query {
-  search(first: 100, type: REPOSITORY, query: "QUERY_STRING", after: AFTER) {
-    pageInfo {
-      hasNextPage
-      endCursor
-    }
-    nodes {
-      __typename
-      ... on Repository {
+  repositoryOwner(login: "LOGIN") {
+    repositories(
+      first: PAGE_SIZE
+      privacy: PUBLIC
+      isFork: false
+      ownerAffiliations: OWNER
+      orderBy: {field: PUSHED_AT, direction: DESC}
+      after: AFTER
+    ) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      nodes {
         name
         description
         url
+        pushedAt
         owner {
           login
         }
@@ -140,22 +157,18 @@ query {
 """
 
 
-def everything_query():
-    """Search query matching every public repo across the owners."""
-    return "is:public {} sort:updated".format(OWNERS)
-
-
-def incremental_query(hours=INCREMENTAL_HOURS):
-    """Search query limited to repos pushed within the last `hours` hours."""
-    since = (datetime.now(timezone.utc) - timedelta(hours=hours)).strftime(
+def incremental_cutoff(hours=INCREMENTAL_HOURS):
+    """ISO timestamp `hours` ago; repos pushed since then get scanned."""
+    return (datetime.now(timezone.utc) - timedelta(hours=hours)).strftime(
         "%Y-%m-%dT%H:%M:%SZ"
     )
-    return "is:public {} pushed:>{} sort:updated".format(OWNERS, since)
 
 
-def build_search_query(query_string, after_cursor):
-    return GRAPHQL_SEARCH_QUERY.replace("QUERY_STRING", query_string).replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+def build_repos_query(login, page_size, after_cursor):
+    return (
+        GRAPHQL_REPOS_QUERY.replace("LOGIN", login)
+        .replace("PAGE_SIZE", str(page_size))
+        .replace("AFTER", '"{}"'.format(after_cursor) if after_cursor else "null")
     )
 
 
@@ -318,27 +331,43 @@ def write_repo_files(repo, all_releases):
     )
 
 
-def fetch_repos(query_string):
-    """Paginate the repo search and return every matching repo node."""
+def fetch_owner_repos(login, since=None):
+    """Return one owner's repo nodes, most recently pushed first.
+
+    If `since` (an ISO timestamp) is given, stop at the first repo that was
+    last pushed before it; otherwise return every repo.
+    """
     nodes = []
     after_cursor = None
-    has_next_page = True
+    page_size = INCREMENTAL_PAGE_SIZE if since else FULL_PAGE_SIZE
 
-    while has_next_page:
-        data = execute_query(build_search_query(query_string, after_cursor))
-        search = data["data"]["search"]
-        nodes.extend(search["nodes"])
-        page_info = search["pageInfo"]
-        has_next_page = page_info["hasNextPage"]
+    while True:
+        data = execute_query(build_repos_query(login, page_size, after_cursor))
+        repositories = data["data"]["repositoryOwner"]["repositories"]
+        for repo in repositories["nodes"]:
+            # Timestamps share one ISO format, so they compare as strings.
+            # Never-pushed (empty) repos have no pushedAt and sort last.
+            if since and (not repo["pushedAt"] or repo["pushedAt"] < since):
+                return nodes
+            nodes.append(repo)
+        page_info = repositories["pageInfo"]
+        if not page_info["hasNextPage"]:
+            return nodes
         after_cursor = page_info["endCursor"]
 
+
+def fetch_repos(since=None):
+    """Return repo nodes across all OWNERS, optionally only those pushed since."""
+    nodes = []
+    for login in OWNERS:
+        nodes.extend(fetch_owner_repos(login, since))
     return nodes
 
 
-def build(query_string, full_release_pagination):
-    """Scan repos matching query_string, mirror their files, update the cache."""
+def build(since, full_release_pagination):
+    """Scan repos (all, or those pushed since `since`), mirror files, update cache."""
     cache = load_releases_cache()
-    repo_nodes = fetch_repos(query_string)
+    repo_nodes = fetch_repos(since)
 
     written = 0
     for repo in repo_nodes:
@@ -410,14 +439,14 @@ if __name__ == "__main__":
         or not RELEASES_CACHE_PATH.exists()
     ):
         print("Running full scan against every repo...")
-        cache = build(everything_query(), full_release_pagination=True)
+        cache = build(None, full_release_pagination=True)
     else:
         print(
             "Running incremental scan (repos pushed in the last {} hours)...".format(
                 INCREMENTAL_HOURS
             )
         )
-        cache = build(incremental_query(), full_release_pagination=False)
+        cache = build(incremental_cutoff(), full_release_pagination=False)
 
     releases = most_recent_releases(cache)
     releases.sort(key=lambda r: r["published_at"], reverse=True)

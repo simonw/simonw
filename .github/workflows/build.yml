@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       all:
-        description: 'Run against every repo (full scan, ignores the 3-hour window)'
+        description: 'Run against every repo (full scan, ignores the 24-hour window)'
         required: false
         type: boolean
         default: false
