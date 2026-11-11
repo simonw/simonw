@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,322<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,323<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.37.2](https://github.com/simonw/llm/releases/tag/0.37.2) - ([75 releases total](https://github.com/simonw/llm/releases)) - 2026-11-11
+<br />Access large language models from the command-line
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.36](https://github.com/simonw/llm-gemini/releases/tag/0.36) - ([57 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-10
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->2,322<!-- releases_count ends --> releases
 <br />Apps that live inside Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.5a0](https://github.com/datasette/datasette-agent/releases/tag/0.5a0) - ([9 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-03
 <br />An LLM-powered agent for Datasette
-* **[llm](https://github.com/simonw/llm)**: [0.37.1](https://github.com/simonw/llm/releases/tag/0.37.1) - ([74 releases total](https://github.com/simonw/llm/releases)) - 2026-11-03
-<br />Access large language models from the command-line
 * **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
 <br />A mobile web RTS
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-10-22
