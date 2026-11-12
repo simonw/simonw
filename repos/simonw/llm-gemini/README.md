@@ -52,6 +52,8 @@ result = runner.invoke(cli.cli, ["models", "-q", "gemini/"])
 lines = reversed(result.output.strip().split("\n"))
 to_output = []
 NOTES = {
+    "gemini/gemini-4-carbon": "Gemini 4 Carbon",
+    "gemini/gemini-4-hydrogen": "Gemini 4 Hydrogen",
     "gemini/gemini-4-argon": "Gemini 4 Argon",
     "gemini/gemini-3.8-flash": "Gemini 3.8 Flash",
     "gemini/gemini-3.7-flash": "Gemini 3.7 Flash",
@@ -79,7 +81,8 @@ for line in lines:
     )
 cog.out("\n".join(to_output))
 ]]] -->
-- `gemini/gemini-4-carbon`
+- `gemini/gemini-4-hydrogen`: Gemini 4 Hydrogen
+- `gemini/gemini-4-carbon`: Gemini 4 Carbon
 - `gemini/gemini-4-argon`: Gemini 4 Argon
 - `gemini/gemini-3.8-flash`: Gemini 3.8 Flash
 - `gemini/gemini-3.7-flash`: Gemini 3.7 Flash
@@ -184,6 +187,7 @@ for model_id, levels in MODEL_THINKING_LEVELS.items():
 | `gemini-3.5-flash-lite` | `minimal`, `low`, `medium`, `high` |
 | `gemini-4-argon` | `low`, `medium`, `high` |
 | `gemini-4-carbon` | `low`, `medium`, `high` |
+| `gemini-4-hydrogen` | `low`, `medium`, `high` |
 <!-- [[[end]]] -->
 
 The `gemini-2.5-flash`, `gemini-flash-latest` and `gemini-flash-lite-latest` models instead take a thinking budget in tokens, using `-o thinking_budget X`. Set it to `0` to disable thinking.
