@@ -50,6 +50,8 @@ import('{{ datasette_leaflet_url }}')
 
 Importing the module also sets a global `window.L` object with the same contents. Leaflet plugins that expect that global, such as [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster), can be loaded once the import has completed. Anything a plugin adds to `L` is available on that global, not on the imported `leaflet` module.
 
+The bundled copy of Leaflet differs from the official release in one other way: tile layers send a `Referer` header by default. See [Tile layers and the Referer header](#tile-layers-and-the-referer-header).
+
 You can load the CSS like this:
 
 ```html+jinja
@@ -94,3 +96,45 @@ import('{{ datasette_leaflet_url }}')
   });
 </script>
 ```
+
+## Tile layers and the Referer header
+
+Datasette serves many of its pages, including table pages, with a `Referrer-Policy: no-referrer` header, so by default a browser will not send a `Referer` header when it loads map tiles for those pages. Some tile servers block requests like that. The OpenStreetMap tile server at `tile.openstreetmap.org` is one of them: its [usage policy](https://operations.osmfoundation.org/policies/tiles/) requires a valid `Referer`, and it returns "Access blocked" tiles without one.
+
+To avoid this, the copy of Leaflet bundled with this plugin changes the default for the [referrerPolicy](https://leafletjs.com/reference.html#tilelayer-referrerpolicy) tile layer option from `false` to `"strict-origin-when-cross-origin"`. Tile requests then include a `Referer` header containing just the origin of your Datasette instance, such as `https://example.com/`. The path and query string of the page showing the map are never sent.
+
+This applies to every `L.tileLayer()` and `L.tileLayer.wms()` created using the bundled Leaflet, including those created by other plugins.
+
+### Changing the policy for a Datasette instance
+
+Use the `tile_referrer_policy` plugin setting. Set it to `false` to go back to sending no `Referer` header for tiles:
+
+```yaml
+plugins:
+  datasette-leaflet:
+    tile_referrer_policy: false
+```
+
+Or set it to any other [referrer policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy#directives), such as `origin`:
+
+```yaml
+plugins:
+  datasette-leaflet:
+    tile_referrer_policy: origin
+```
+
+This goes in `datasette.yaml` for Datasette 1.0, or in `metadata.yaml` for earlier versions.
+
+The value in use is available to JavaScript as `datasette.leaflet.TILE_REFERRER_POLICY`. Leaflet reads it once, when the JavaScript is first loaded.
+
+### Changing the policy for a single tile layer
+
+Pass the `referrerPolicy` option when you create the layer. This takes precedence over the plugin setting:
+
+```javascript
+let tiles = leaflet.tileLayer("https://tiles.example.com/{z}/{x}/{y}.png", {
+    referrerPolicy: false
+});
+```
+
+To change the default for every layer created after that point, use `leaflet.TileLayer.mergeOptions({referrerPolicy: false})`.

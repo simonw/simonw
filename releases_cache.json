@@ -3349,6 +3349,12 @@
     "description": "Datasette plugin that shows a map for any data with latitude/longitude columns",
     "releases": [
       {
+        "published_at": "2026-11-13T23:02:45Z",
+        "published_day": "2026-11-13",
+        "release": "0.19",
+        "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.19"
+      },
+      {
         "published_at": "2024-06-13T23:06:02Z",
         "published_day": "2024-06-13",
         "release": "0.18.2",
@@ -3495,7 +3501,7 @@
     ],
     "repo": "datasette-cluster-map",
     "repo_url": "https://github.com/simonw/datasette-cluster-map",
-    "total_releases": 24
+    "total_releases": 25
   },
   "datasette-codespaces": {
     "description": "Conveniences for running Datasette on GitHub Codespaces",
@@ -6007,6 +6013,12 @@
     "description": "Datasette plugin adding the Leaflet JavaScript library",
     "releases": [
       {
+        "published_at": "2026-11-13T22:30:54Z",
+        "published_day": "2026-11-13",
+        "release": "0.3",
+        "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.3"
+      },
+      {
         "published_at": "2021-02-01T22:20:28Z",
         "published_day": "2021-02-01",
         "release": "0.2.2",
@@ -6033,7 +6045,7 @@
     ],
     "repo": "datasette-leaflet",
     "repo_url": "https://github.com/simonw/datasette-leaflet",
-    "total_releases": 4
+    "total_releases": 5
   },
   "datasette-leaflet-freedraw": {
     "description": "Draw polygons on maps in Datasette",

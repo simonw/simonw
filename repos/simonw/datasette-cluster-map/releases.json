@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-13T23:02:45Z",
+      "published_day": "2026-11-13",
+      "release": "0.19",
+      "url": "https://github.com/simonw/datasette-cluster-map/releases/tag/0.19"
+    },
+    {
+      "author": "simonw",
       "published_at": "2024-06-13T23:06:02Z",
       "published_day": "2024-06-13",
       "release": "0.18.2",
@@ -172,6 +179,6 @@
     }
   ],
   "repo": "datasette-cluster-map",
-  "total_releases": 24,
+  "total_releases": 25,
   "url": "https://github.com/simonw/datasette-cluster-map"
 }

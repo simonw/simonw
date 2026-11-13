@@ -10,7 +10,7 @@ More about this project: [Datasette plugins, and building a clustered map visual
 
 ## Demo
 
-[global-power-plants.datasettes.com](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants) hosts a demo of this plugin running against a database of 33,000 power plants around the world.
+[datasette.io/global-power-plants/global-power-plants](https://datasette.io/global-power-plants/global-power-plants) hosts a demo of this plugin running against a database of 33,000 power plants around the world.
 
 ![Cluster map demo](https://static.simonwillison.net/static/2020/global-power-plants.png)
 
@@ -30,6 +30,8 @@ If any of your tables have one of the following pairs of columns a map will be a
 - `lat` and `long`
 - `*_latitude` and `*_longitude`
 - `*_lat` and `*_lng` for any of the three variants of `lng`
+
+The map is added to the page once the first row with a valid latitude and longitude has loaded. If none of the rows have a location, no map is shown.
 
 ## Configuration
 
@@ -106,6 +108,12 @@ If your tile server provides retina tiles, add `"detectRetina": true` to `tile_l
 
 The [Leaflet Providers preview list](https://leaflet-extras.github.io/leaflet-providers/preview/index.html) has details of many other tile layers you can use.
 
+### Tile layers and the Referer header
+
+The default OpenStreetMap tile server [requires requests to include a Referer header](https://operations.osmfoundation.org/policies/tiles/). Tile requests send the origin of your Datasette instance, such as `https://example.com/`, but never the URL of the page showing the map. This applies to custom tile layers too.
+
+This is handled by [datasette-leaflet](https://datasette.io/plugins/datasette-leaflet): see [Tile layers and the Referer header](https://github.com/simonw/datasette-leaflet#tile-layers-and-the-referer-header) in its documentation for how to change or disable it.
+
 ## Custom marker popups
 
 The marker popup defaults to displaying the data for the underlying database row.
@@ -147,30 +155,13 @@ where id in (26, 27) order by id
 
 [Try that example here](https://www.niche-museums.com/browse?sql=select+json_object%28%0D%0A++%27image%27%2C+photo_url+%7C%7C+%27%3Fw%3D800%26h%3D400%26fit%3Dcrop%27%2C%0D%0A++%27title%27%2C+name%2C%0D%0A++%27description%27%2C+substr%28description%2C+0%2C+200%29%2C%0D%0A++%27link%27%2C+%27%2Fbrowse%2Fmuseums%2F%27+%7C%7C+id%0D%0A++%29+as+popup%2C%0D%0A++latitude%2C+longitude+from+museums) or take a look at [this demo built using a SQL view](https://dogsheep-photos.dogsheep.net/public/photos_on_a_map).
 
-## How I deployed the demo
-
-    datasette publish cloudrun global-power-plants.db \
-        --service global-power-plants \
-        --metadata metadata.json \
-        --install=datasette-cluster-map \
-        --extra-options="--config facet_time_limit_ms:1000"
-
 ## Development
 
-To set up this plugin locally, first checkout the code. Then create a new virtual environment:
+To set up this plugin locally, first checkout the code. Then run the tests using [uv](https://docs.astral.sh/uv/):
 
     cd datasette-cluster-map
-    python3 -mvenv venv
-    source venv/bin/activate
+    uv run pytest
 
-Or if you are using `pipenv`:
+Some of the tests use [Playwright](https://playwright.dev/python/) to drive a real browser. If they fail because the browser is missing, install it like this:
 
-    pipenv shell
-
-Now install the dependencies and tests:
-
-    pip install -e '.[test]'
-
-To run the tests:
-
-    pytest
+    uv run playwright install chromium

@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,324<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,326<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19) - ([25 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-13
+<br />Datasette plugin that shows a map for any data with latitude/longitude columns
+* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.3](https://github.com/simonw/datasette-leaflet/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2026-11-13
+<br />Datasette plugin adding the Leaflet JavaScript library
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.37](https://github.com/simonw/llm-gemini/releases/tag/0.37) - ([58 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-12
 <br />LLM plugin to access Google's Gemini family of models
 * **[llm](https://github.com/simonw/llm)**: [0.37.2](https://github.com/simonw/llm/releases/tag/0.37.2) - ([75 releases total](https://github.com/simonw/llm/releases)) - 2026-11-11
@@ -417,8 +421,6 @@ Listing <!-- releases_count starts -->2,324<!-- releases_count ends --> releases
 <br />Run a Python interpreter in the Datasette virtual environment
 * **[datasette-faiss](https://github.com/simonw/datasette-faiss)**: [0.2.1](https://github.com/simonw/datasette-faiss/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-faiss/releases)) - 2024-06-17
 <br />Maintain a FAISS index for specified Datasette tables
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.18.2](https://github.com/simonw/datasette-cluster-map/releases/tag/0.18.2) - ([24 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2024-06-13
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-permissions-metadata](https://github.com/datasette/datasette-permissions-metadata)**: [0.1](https://github.com/datasette/datasette-permissions-metadata/releases/tag/0.1) - 2024-05-15
 <br />Configure permissions for Datasette 0.x in metadata.json
 * **[datasette-enrichments-gpt](https://github.com/datasette/datasette-enrichments-gpt)**: [0.5](https://github.com/datasette/datasette-enrichments-gpt/releases/tag/0.5) - ([5 releases total](https://github.com/datasette/datasette-enrichments-gpt/releases)) - 2024-05-15
@@ -755,8 +757,6 @@ Listing <!-- releases_count starts -->2,324<!-- releases_count ends --> releases
 <br />Mapping tile server for Datasette, serving tiles from MBTiles packages
 * **[datasette-basemap](https://github.com/simonw/datasette-basemap)**: [0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-basemap/releases)) - 2021-02-02
 <br />A basemap for Datasette and datasette-leaflet
-* **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.2.2](https://github.com/simonw/datasette-leaflet/releases/tag/0.2.2) - ([4 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2021-02-01
-<br />Datasette plugin adding the Leaflet JavaScript library
 * **[datasette-css-properties](https://github.com/simonw/datasette-css-properties)**: [0.2](https://github.com/simonw/datasette-css-properties/releases/tag/0.2) - ([3 releases total](https://github.com/simonw/datasette-css-properties/releases)) - 2021-01-07
 <br />Experimental Datasette output plugin using CSS properties
 * **[datasette-column-inspect](https://github.com/simonw/datasette-column-inspect)**: [0.2a](https://github.com/simonw/datasette-column-inspect/releases/tag/0.2a) - ([2 releases total](https://github.com/simonw/datasette-column-inspect/releases)) - 2020-12-09

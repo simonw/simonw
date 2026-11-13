@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-13T22:30:54Z",
+      "published_day": "2026-11-13",
+      "release": "0.3",
+      "url": "https://github.com/simonw/datasette-leaflet/releases/tag/0.3"
+    },
+    {
+      "author": "simonw",
       "published_at": "2021-02-01T22:20:28Z",
       "published_day": "2021-02-01",
       "release": "0.2.2",
@@ -32,6 +39,6 @@
     }
   ],
   "repo": "datasette-leaflet",
-  "total_releases": 4,
+  "total_releases": 5,
   "url": "https://github.com/simonw/datasette-leaflet"
 }
