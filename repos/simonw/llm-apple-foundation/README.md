@@ -16,7 +16,8 @@ Prompts and responses stay on your Mac. No API key is required.
 - A Mac that supports Apple Intelligence
 - Apple Intelligence turned on, with its model downloaded
 - Xcode 26 or later, with the Xcode and Apple SDKs agreement accepted
-- Python 3.10 or later
+- Python 3.11 or later
+- [LLM](https://llm.datasette.io/) 0.37.2 or later
 
 ## Installation
 
@@ -57,8 +58,9 @@ llm -m apple-foundation \
 
 ### Conversations
 
-Apple's native session transcript is stored in LLM's response metadata. This
-allows conversations to continue even when separate CLI invocations are used.
+The plugin rebuilds an Apple Foundation Models session transcript from LLM's
+conversation history on every prompt. That history includes your system
+prompt, previous prompts and responses, and any tool calls and their results.
 
 Start an interactive chat:
 
@@ -72,6 +74,50 @@ Or continue the most recent logged conversation:
 llm -m apple-foundation "Remember that my favorite bird is the puffin"
 llm -c "What is my favorite bird?"
 ```
+
+Because the transcript is built from LLM's own history, you can also switch
+to the Apple model partway through a conversation that started with a
+different model:
+
+```bash
+llm -m gpt-5-mini "Suggest a name for a pet cormorant"
+llm -c -m apple-foundation "Why is that a good name?"
+```
+
+The same applies to the Python API, including explicit message lists and
+`response.reply()`:
+
+```python
+import llm
+
+model = llm.get_model("apple-foundation")
+response = model.prompt(
+    messages=[
+        llm.user("My favorite bird is the puffin."),
+        llm.assistant("Puffins are great!"),
+        llm.user("What is my favorite bird?"),
+    ]
+)
+print(response.text())
+print(response.reply("Where do they nest?").text())
+```
+
+Conversations that include image or other attachments cannot be continued
+with this model.
+
+The on-device model has a small context window (4,096 tokens at the time of
+writing). Long conversations will eventually exceed it, at which point the
+plugin reports an error and you will need to start a new conversation.
+
+Each logged response stores the Apple transcript entries for that turn,
+including tool calls, in its `response_json`. View them with:
+
+```bash
+llm logs -c --json
+```
+
+On macOS 27 and later the name of the on-device model variant, such as
+`AFM 3 Core`, is recorded as the response's resolved model.
 
 ### Options
 
@@ -158,6 +204,11 @@ response = llm.get_model("afm").prompt(
 print(response.text())
 ```
 
+Apple's SDK runs tools itself while it generates a response, using LLM to
+execute each call. Those tool calls and their results are recorded on the
+response, so they show up in `llm logs` and are included when the conversation
+continues. LLM does not run them a second time.
+
 ### Async Python API
 
 An async model is registered alongside the synchronous CLI model:
@@ -175,15 +226,17 @@ async def generate():
 ## Current scope
 
 This initial version supports text generation, streaming, system instructions,
-generation options, structured output, tools, persistent conversations, and
-both the synchronous and asynchronous LLM APIs.
+generation options, structured output, tools, conversations (including ones
+started with other models), and both the synchronous and asynchronous LLM
+APIs.
 
 Image attachments are not yet supported by this plugin.
 
 ## Development
 
-The tests use the actual on-device Apple Foundation model. They are skipped if
-the SDK or model is unavailable.
+Most of the tests use the actual on-device Apple Foundation model. They are
+skipped if the SDK or model is unavailable. Tests for converting LLM's message
+history into Apple transcripts run without the model.
 
 ```bash
 cd llm-apple-foundation
