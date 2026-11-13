@@ -48,6 +48,8 @@ import('{{ datasette_leaflet_url }}')
 </script>
 ```
 
+Importing the module also sets a global `window.L` object with the same contents. Leaflet plugins that expect that global, such as [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster), can be loaded once the import has completed. Anything a plugin adds to `L` is available on that global, not on the imported `leaflet` module.
+
 You can load the CSS like this:
 
 ```html+jinja
