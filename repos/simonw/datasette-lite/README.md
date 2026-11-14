@@ -58,6 +58,23 @@ Or for a specific release pass the version number as `?ref=`:
 
 `?ref=pre` used to be how you asked for a preview release. It still works, and is now the same as leaving `?ref=` out.
 
+### Unreleased code: a branch, tag or commit
+
+Any other `?ref=` is treated as a branch, tag or commit in the [simonw/datasette](https://github.com/simonw/datasette) repository on GitHub, and Datasette is run from that source code instead of from a PyPI release:
+
+- https://lite.datasette.io/?ref=main - the latest development code
+- https://lite.datasette.io/?ref=dfeec630f86b4cbd06d24a090e654bd130344b71 - an exact commit
+
+To try out a pull request, use the SHA of its most recent commit - this works for pull requests from forks too. A short SHA made up only of digits would be read as a version number, so use the full 40 character SHA.
+
+A `?ref=` that looks like a version number, such as `1.0a11`, is always installed from PyPI, even though the repository has a tag of the same name.
+
+The loading screen shows the version number and commit that was loaded. `?install=` plugins work as usual, and get their most recent preview releases.
+
+This needs a commit that has a `pyproject.toml`, so it does not work for old releases - use their version number instead.
+
+GitHub does not serve its source zip files with CORS headers, so Datasette Lite downloads them through a small Cloudflare Worker that adds those headers. The proxy only serves repositories owned by `simonw`, and only to pages on `lite.datasette.io` and `localhost`. If you host your own copy of Datasette Lite on another domain you will need your own proxy: change `GITHUB_ZIP_PROXY` at the top of `webworker.js`.
+
 ## Loading CSV data
 
 You can load data from a CSV file hosted online (provided it allows `access-control-allow-origin: *`) by passing that URL as a `?csv=` parameter - or by clicking the "Load CSV by URL" button and pasting in a URL.
