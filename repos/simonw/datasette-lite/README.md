@@ -33,6 +33,8 @@ Datasette's pages are displayed in a full-window `<iframe>` pointing at URLs und
 
 The page you are on mirrors the iframe's location into its `#fragment`, so URLs like `https://lite.datasette.io/?url=...#/fixtures/facetable?_facet=state` can be bookmarked and shared, and the back button works. Links to other sites open in a new window, with `noopener` so the linked site gets no reference back to the Datasette Lite page. Each tab gets its own random `<session>` so multiple Datasette Lite tabs with different data can be open at once.
 
+A response that Datasette sends over time - [server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events), a streaming CSV export - reaches the page as it is produced rather than once it is complete. If the page stops reading one, by navigating away or aborting the `fetch()`, Datasette is told the client has disconnected.
+
 Cookies are kept in a cookie jar inside the Python ASGI bridge (service workers cannot read or set cookies), so they last until the tab is closed or reloaded - as does all of the data.
 
 If the tab that owns a session goes away, requests for that session fail with an error rather than hanging: a `503` if the tab has already been closed or reloaded, a `504` if it stops answering part way through a request (after four minutes, to leave room for slow SQL queries) and a `500` if the Pyodide worker itself fails. A tab that was opened before Datasette Lite was updated to an incompatible release gets a `409` asking for a reload.
@@ -284,5 +286,6 @@ uv run --python 3.12 \
 - `tests/test_datasette_lite.py` - the original browser tests, loading the default databases.
 - `tests/test_url_patterns.py` - every supported `?` option and `#` URL pattern, using the small files in `tests/fixtures/`.
 - `tests/test_plugins_and_post.py` - JavaScript (core and plugins), POST forms, CSRF, sign-in, uploads, downloads, the 1.0 alpha write API, multiple tabs, other pages open on the same origin, worker failures, a cross-origin page in the iframe and service worker restarts.
+- `tests/test_streaming.py` - responses that arrive over time, using the plugin in `tests/plugins/`.
 
 Tests that download from third-party hosts beyond Pyodide, PyPI and the default databases are marked `network`; skip them with `-m "not network"`. To use an existing Chromium binary set `CHROMIUM_EXECUTABLE=/path/to/chrome`. If the browser needs an HTTPS proxy set `DATASETTE_LITE_TEST_PROXY` (or `HTTPS_PROXY`).
