@@ -37,7 +37,9 @@ Cookies are kept in a cookie jar inside the Python ASGI bridge (service workers 
 
 If the tab that owns a session goes away, requests for that session fail with an error rather than hanging: a `503` if the tab has already been closed or reloaded, a `504` if it stops answering part way through a request (after four minutes, to leave room for slow SQL queries) and a `500` if the Pyodide worker itself fails. A tab that was opened before Datasette Lite was updated to an incompatible release gets a `409` asking for a reload.
 
-A browser with service worker support is required. Some private browsing modes (Firefox private windows for example) disable service workers.
+A browser with service worker support is required. Some private browsing modes (Firefox private windows for example) disable service workers. The Web Worker is a [module worker](https://developer.mozilla.org/en-US/docs/Web/API/Worker/Worker#type), which Pyodide needs: Chrome 80, Safari 15 and Firefox 114 or later.
+
+Python is version 3.14, from Pyodide 314.0.8.
 
 ## Load a different Datasette version
 
