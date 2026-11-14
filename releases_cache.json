@@ -9337,6 +9337,12 @@
     "description": "Datasette plugin for visualizing data using Vega",
     "releases": [
       {
+        "published_at": "2026-11-14T17:09:09Z",
+        "published_day": "2026-11-14",
+        "release": "0.7",
+        "url": "https://github.com/simonw/datasette-vega/releases/tag/0.7"
+      },
+      {
         "published_at": "2018-07-10T03:44:51Z",
         "published_day": "2018-07-10",
         "release": "0.6.1",
@@ -9357,7 +9363,7 @@
     ],
     "repo": "datasette-vega",
     "repo_url": "https://github.com/simonw/datasette-vega",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-verify": {
     "description": "Verify that files can be opened by Datasette",

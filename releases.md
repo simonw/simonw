@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,326<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,327<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - ([4 releases total](https://github.com/simonw/datasette-vega/releases)) - 2026-11-14
+<br />Datasette plugin for visualizing data using Vega
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19) - ([25 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-13
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.3](https://github.com/simonw/datasette-leaflet/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2026-11-13
@@ -813,6 +815,4 @@ Listing <!-- releases_count starts -->2,326<!-- releases_count ends --> releases
 <br />Datasette plugin that adds a custom SQL function for executing matches using the Rust regular expression engine
 * **[datasette-bplist](https://github.com/simonw/datasette-bplist)**: [0.1](https://github.com/simonw/datasette-bplist/releases/tag/0.1) - 2019-06-09
 <br />Datasette plugin for working with Apple's binary plist format
-* **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.6.1](https://github.com/simonw/datasette-vega/releases/tag/0.6.1) - ([3 releases total](https://github.com/simonw/datasette-vega/releases)) - 2018-07-10
-<br />Datasette plugin for visualizing data using Vega
 <!-- recent_releases ends -->

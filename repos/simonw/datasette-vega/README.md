@@ -8,7 +8,7 @@ for generating charts using [Vega](https://vega.github.io/).
 
 ![Datasette Vega interface](https://raw.githubusercontent.com/simonw/datasette-vega/main/datasette-vega.png)
 
-The latest release is installed on [datasette.io](https://datasette.io/). Try it out with [this scatter chart](https://datasette.io/global-power-plants/global-power-plants?_size=1000#g.mark=circle&g.x_column=longitude&g.x_type=quantitative&g.y_column=latitude&g.y_type=quantitative&g.color_column=primary_fuel) of power plant locations, colored by fuel type.
+Try it out in your browser using [Datasette Lite](https://lite.datasette.io/?install=datasette-vega&csv=https%3A%2F%2Fraw.githubusercontent.com%2Ffivethirtyeight%2Fdata%2Fmaster%2Fairline-safety%2Fairline-safety.csv#/data/airline-safety?_size=max#g.mark=bar&g.x_column=airline&g.x_type=ordinal&g.y_column=fatalities_00_14&g.y_type=quantitative), which installs the latest release of this plugin and charts fatalities per airline from 2000 to 2014, using [FiveThirtyEight's airline safety data](https://github.com/fivethirtyeight/data/tree/master/airline-safety).
 
 To add this to your Datasette installation, install the plugin like so:
 
