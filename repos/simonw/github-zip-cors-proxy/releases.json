@@ -1,0 +1,8 @@
+{
+  "description": "Make GitHub zips available via CORS to specific origins",
+  "owner": "simonw",
+  "releases": [],
+  "repo": "github-zip-cors-proxy",
+  "total_releases": 0,
+  "url": "https://github.com/simonw/github-zip-cors-proxy"
+}
