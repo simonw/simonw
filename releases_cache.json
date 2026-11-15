@@ -3741,6 +3741,12 @@
     "description": "Datasette plugin for outputting tables in formats suitable for copy and paste",
     "releases": [
       {
+        "published_at": "2026-11-15T05:03:28Z",
+        "published_day": "2026-11-15",
+        "release": "0.3.3",
+        "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.3.3"
+      },
+      {
         "published_at": "2022-11-18T06:10:59Z",
         "published_day": "2022-11-18",
         "release": "0.3.2",
@@ -3773,7 +3779,7 @@
     ],
     "repo": "datasette-copyable",
     "repo_url": "https://github.com/simonw/datasette-copyable",
-    "total_releases": 5
+    "total_releases": 6
   },
   "datasette-cors": {
     "description": "Datasette plugin for configuring CORS headers",

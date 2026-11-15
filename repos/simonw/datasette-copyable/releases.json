@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-15T05:03:28Z",
+      "published_day": "2026-11-15",
+      "release": "0.3.3",
+      "url": "https://github.com/simonw/datasette-copyable/releases/tag/0.3.3"
+    },
+    {
+      "author": "simonw",
       "published_at": "2022-11-18T06:10:59Z",
       "published_day": "2022-11-18",
       "release": "0.3.2",
@@ -39,6 +46,6 @@
     }
   ],
   "repo": "datasette-copyable",
-  "total_releases": 5,
+  "total_releases": 6,
   "url": "https://github.com/simonw/datasette-copyable"
 }

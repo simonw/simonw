@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,330<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,331<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3.3) - ([6 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2026-11-15
+<br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-15
 <br />Apps that live inside Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.6a0](https://github.com/datasette/datasette-agent/releases/tag/0.6a0) - ([10 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-15
@@ -611,8 +613,6 @@ Listing <!-- releases_count starts -->2,330<!-- releases_count ends --> releases
 <br />Datasette authentication using IndieAuth and RelMeAuth
 * **[datasette-import-table](https://github.com/datasette/datasette-import-table)**: [0.3.1](https://github.com/datasette/datasette-import-table/releases/tag/0.3.1) - ([7 releases total](https://github.com/datasette/datasette-import-table/releases)) - 2022-11-18
 <br />Datasette plugin for importing tables from other Datasette instances
-* **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.2](https://github.com/simonw/datasette-copyable/releases/tag/0.3.2) - ([5 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2022-11-18
-<br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-socrata](https://github.com/simonw/datasette-socrata)**: [0.3.1](https://github.com/simonw/datasette-socrata/releases/tag/0.3.1) - ([5 releases total](https://github.com/simonw/datasette-socrata/releases)) - 2022-11-18
 <br />Import data from Socrata into Datasette
 * **[datasette-screenshots](https://github.com/simonw/datasette-screenshots)**: [0.62](https://github.com/simonw/datasette-screenshots/releases/tag/0.62) - 2022-10-14

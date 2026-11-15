@@ -14,7 +14,7 @@ Install this plugin in the same environment as Datasette.
 
 ## Demo
 
-You can try this plugin on [fivethirtyeight.datasettes.com](https://fivethirtyeight.datasettes.com/) - browse for tables or queries there and look for the "copyable" link. Here's an example for a table of [airline safety data](https://fivethirtyeight.datasettes.com/fivethirtyeight/airline-safety~2Fairline-safety.copyable).
+You can try this plugin in [Datasette Lite](https://lite.datasette.io/?install=datasette-copyable#/content/stats.copyable) - that link installs the plugin and shows the copyable interface for an example table. Browse for other tables or queries there and look for the "copyable" link.
 
 ## Usage
 
