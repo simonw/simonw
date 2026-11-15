@@ -5,6 +5,9 @@
 [![Tests](https://github.com/simonw/datasette-seaborn/workflows/Test/badge.svg)](https://github.com/simonw/datasette-seaborn/actions?query=workflow%3ATest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/datasette-seaborn/blob/main/LICENSE)
 
+> [!WARNING]
+> **This plugin has been retired** and is no longer maintained. It will not receive further updates or fixes.
+
 Statistical visualizations for Datasette using Seaborn
 
 ## Installation
