@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,328<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,330<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-15
+<br />Apps that live inside Datasette
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.6a0](https://github.com/datasette/datasette-agent/releases/tag/0.6a0) - ([10 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-15
+<br />An LLM-powered agent for Datasette
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a11](https://github.com/datasette/datasette-llm/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-14
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - ([4 releases total](https://github.com/simonw/datasette-vega/releases)) - 2026-11-14
@@ -21,10 +25,6 @@ Listing <!-- releases_count starts -->2,328<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
 <br />A SQLite C extension imitating Python's dateutil library
-* **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.3a0](https://github.com/datasette/datasette-apps/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-04
-<br />Apps that live inside Datasette
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.5a0](https://github.com/datasette/datasette-agent/releases/tag/0.5a0) - ([9 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-03
-<br />An LLM-powered agent for Datasette
 * **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
 <br />A mobile web RTS
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.3](https://github.com/datasette/datasette-mcp/releases/tag/0.3) - ([3 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-10-22

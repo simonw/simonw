@@ -29,7 +29,7 @@ plugins:
 
 ### Choosing a model
 
-When more than one model is available, the new-chat form on `/-/agent` (and the "Start a new agent chat" section on other Datasette pages) shows a model picker. The choice is made when a conversation starts and is pinned for that conversation's whole life - later messages keep using the same model even if the configured default changes, and the model cannot be switched mid-conversation. Start a new chat to use a different model. The conversation page shows the model it is using next to the title.
+When more than one model is available, the new-chat form on `/-/agent` (and the "Start a new agent chat" section on other Datasette pages) shows a model picker. The choice is made when a conversation starts and is pinned for that conversation's whole life - later messages keep using the same model even if the configured default changes, and the model cannot be switched mid-conversation. Start a new chat to use a different model. The conversation page shows the model it is using next to the title. If a pinned model is later blocked, removed from the allowlist or loses its API key, the conversation stops with an error asking you to start a new chat.
 
 The list comes from datasette-llm's model list for the `agent` purpose: models whose API key is available, minus any excluded by datasette-llm's allowlist and blocklist configuration, and minus any that cannot call tools (the agent needs tool calling). The configured default is preselected. To offer a specific set of models for the agent, configure the purpose in `datasette.yml`:
 
@@ -47,7 +47,7 @@ plugins:
 
 Here `model` is the default for the agent and `models` is the allowlist offered in the picker. Without a `purposes.agent` section the picker offers every tool-capable model that datasette-llm considers available, with `default_model` preselected.
 
-The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agent/api/conversations` accepts an optional `{"model": "..."}` to pin a model when creating a conversation programmatically. Background agents always use the default model.
+The same list is available as JSON from `/-/agent/api/models`, and `POST /-/agent/api/conversations` accepts an optional `{"model": "..."}` to pin a model when creating a conversation programmatically. Background agents and `datasette agent chat` use the default model. If no default is configured they use the first model in the list, the one the picker preselects.
 
 Visit `/-/agent/background` to launch background agents directly. Each one is given a goal and runs toward it without further input. The listing includes a Stop button for cancelling agents that are still running.
 
@@ -432,10 +432,29 @@ datasette agent chat mydata.db -m gpt-5.4-mini
 datasette agent chat mydata.db -m gpt-5.4-mini -p "List all tables"
 ```
 
+Use `-c` / `--config` to load a Datasette JSON or YAML configuration file, with the same behavior as `datasette serve`:
+
+```bash
+datasette agent chat mydata.db -c datasette.yml -p "List all tables"
+datasette agent chat mydata.db --config datasette.json
+```
+
+Use repeatable `-s` / `--setting` options to supply individual configuration values, using the same nested keys and JSON values as `datasette serve`. For example, to use Qwen3.8 27B in LM Studio through the OpenAI-compatible Responses API with an endpoint-capable version of datasette-llm:
+
+```bash
+datasette agent chat :memory: \
+  -s plugins.datasette-llm.default_model '{"model":"lmstudio-qwen","model_name":"qwen/qwen3.8-27b","api_base":"http://localhost:1234/v1","responses":true}' \
+  -p "Use SQL to calculate 21 * 2"
+```
+
+Configuration is loaded from `-c` first, then `-s` values are merged recursively so other nested values are preserved. `-m` overrides a `default_model` supplied using either option, regardless of option order. Other settings are preserved.
+
 Options:
 
 - `-p`, `--prompt` — Send a single prompt and exit (non-interactive mode)
 - `-m`, `--model` — LLM model to use
+- `-c`, `--config` — Path to a JSON/YAML Datasette configuration file
+- `-s`, `--setting` — Repeatable configuration key and value, with support for nested keys and JSON values
 - `--root` — Run as the Datasette root actor, allowing all permissions
 - `--yes` — Automatically approve yes/no confirmation prompts
 - `--unsafe` — Equivalent to `--root --yes`
