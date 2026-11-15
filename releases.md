@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,327<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,328<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a11](https://github.com/datasette/datasette-llm/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-14
+<br />LLM integration plugin for other plugins to depend on
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - ([4 releases total](https://github.com/simonw/datasette-vega/releases)) - 2026-11-14
 <br />Datasette plugin for visualizing data using Vega
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19) - ([25 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-13
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->2,327<!-- releases_count ends --> releases
 <br />An open source multi-tool for exploring and publishing data
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
 <br />A SQLite C extension imitating Python's dateutil library
-* **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a10](https://github.com/datasette/datasette-llm/releases/tag/0.1a10) - ([11 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-04
-<br />LLM integration plugin for other plugins to depend on
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.3a0](https://github.com/datasette/datasette-apps/releases/tag/0.3a0) - ([7 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-04
 <br />Apps that live inside Datasette
 * **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.5a0](https://github.com/datasette/datasette-agent/releases/tag/0.5a0) - ([9 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-03
