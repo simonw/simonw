@@ -57,7 +57,42 @@ Entries without a scheme are treated as `https://` origins.
 
 The iframe bridge reports JavaScript errors, unhandled promise rejections, CSP violations, failed resources, fetch failures, `console.error()` calls, and failed Datasette data queries back to the parent page. The app page shows these in a small expandable error panel above the iframe. It also captures `console.log()` messages and Datasette data helper calls in a collapsed log panel below the iframe.
 
-The bridge also replaces `history.replaceState()`, `history.pushState()`, `history.back()`, `history.forward()`, and `history.go()` with no-op functions inside the sandboxed iframe, avoiding browser errors from apps that try to manage URL state.
+The bridge also replaces `history.back()`, `history.forward()`, and `history.go()` with no-op functions inside the sandboxed iframe, avoiding browser errors from apps that try to manage URL state. `history.pushState()` and `history.replaceState()` are no-ops too, unless they are passed a fragment-only URL such as `#/customer/42`, which sets `location.hash`. `replaceState()` does this without adding a browser history entry.
+
+### Fragment URLs and links between apps
+
+Apps can keep view state in the URL fragment. `location.hash`, the `hashchange` event and ordinary `<a href="#/customer/42">` links all work inside the sandbox, and the bridge mirrors the fragment to the page URL in both directions:
+
+- `/-/apps/ULID#/customer/42` opens the app with `location.hash` already set to `#/customer/42` when its first script runs.
+- When the app changes its fragment the address bar follows, so the current view can be bookmarked, reloaded or shared. The browser back and forward buttons step through the app's fragments.
+- Editing the fragment in the address bar fires `hashchange` inside the app.
+
+An app can link to a view in another app using a root-relative URL, for example `<a href="/-/apps/ULID#/customer/42">`. Links that stay inside the Datasette instance navigate directly, without the confirmation dialog shown for external links. A full screen app that links to another app opens it full screen.
+
+A fragment arrives from whoever wrote the link, so apps should treat it as untrusted input that selects what to show, and should never write data just because a fragment was loaded.
+
+#### Advertising links
+
+An app declares the fragment URLs it supports with a JSON manifest in its HTML:
+
+```html
+<script type="application/json" id="datasette-app-links">
+[
+  {
+    "template": "#/customer/{id}",
+    "description": "Detail view for one customer",
+    "params": {"id": {"column": "sales/customers/id"}}
+  },
+  {"template": "#/overview", "description": "All customers"}
+]
+</script>
+```
+
+Each `template` starts with `#` and can contain `{placeholder}` values. `params` optionally describes each placeholder: a `description`, and a `column` in `database/table/column` form naming where its values come from. The manifest is extracted into the `app_links` table every time the app's HTML is saved. Invalid entries are skipped.
+
+External apps advertise links by passing the same list as `metadata={"links": [...]}` to `Registry.add_app()`.
+
+[datasette-agent](https://github.com/datasette/datasette-agent) uses these manifests to connect apps together. The `app_links` tool lists the links advertised by every app the current user can view, optionally filtered to those that accept a value from a given database table, so that when the agent builds a new app it can link rows to views in existing apps. Tagging an app with `#` in a chat message also tells the agent which links that app advertises, and the `app_debug` tool accepts a `hash` to check that a link shows the right view.
 
 ### Data access
 
