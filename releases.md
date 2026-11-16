@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,331<!-- releases_count ends --> releases across <!-- project_count starts -->406<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,334<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-maplibre](https://github.com/datasette/datasette-maplibre)**: [0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
+<br />Visualize geospatial data in Datasette using MapLibre GL and OpenFreeMap
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a43](https://github.com/simonw/datasette/releases/tag/1.0a43) - ([179 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-15
+<br />An open source multi-tool for exploring and publishing data
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3.3) - ([6 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2026-11-15
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-15
@@ -23,8 +27,6 @@ Listing <!-- releases_count starts -->2,331<!-- releases_count ends --> releases
 <br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
 <br />LLM access to models by Anthropic, including the Claude series
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a42](https://github.com/simonw/datasette/releases/tag/1.0a42) - ([177 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-08
-<br />An open source multi-tool for exploring and publishing data
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
 <br />A SQLite C extension imitating Python's dateutil library
 * **[battledrones](https://github.com/simonw/battledrones)**: [v14: Compass Rose, a four player map](https://github.com/simonw/battledrones/releases/tag/v14) - ([14 releases total](https://github.com/simonw/battledrones/releases)) - 2026-10-24
