@@ -4,6 +4,10 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-maplibre 0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
+
+[datasette 1.0a43](https://github.com/simonw/datasette/releases/tag/1.0a43) - 2026-11-15
+
 [datasette-copyable 0.3.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3.3) - 2026-11-15
 
 [datasette-apps 0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - 2026-11-15
@@ -15,10 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-vega 0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - 2026-11-14
 
 [datasette-cluster-map 0.19](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19) - 2026-11-13
-
-[datasette-leaflet 0.3](https://github.com/simonw/datasette-leaflet/releases/tag/0.3) - 2026-11-13
-
-[llm-gemini 0.37](https://github.com/simonw/llm-gemini/releases/tag/0.37) - 2026-11-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

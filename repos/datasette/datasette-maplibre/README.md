@@ -58,6 +58,7 @@ The map also has zoom, compass and fullscreen controls. To tilt it into 3D, drag
 Other things to know:
 
 - Clicking a point or shape shows a popup with the row, and highlights that row in the table if it is on the current page.
+- Rows that share exactly the same location are drawn as one numbered disc at every zoom level, in every view. Clicking it opens a popup with arrows for stepping through each of those rows.
 - Hovering over a table row highlights its point or shape on the map.
 - The map shows every row, where the table shows one page of them. When the map has more, the line under it says "All 171 rows are on the map".
 - Shapes that are too small to see at the current zoom level are marked with a circle.
