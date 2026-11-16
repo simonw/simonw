@@ -75,6 +75,20 @@ This needs a commit that has a `pyproject.toml`, so it does not work for old rel
 
 GitHub does not serve its source zip files with CORS headers, so Datasette Lite downloads them through a small Cloudflare Worker that adds those headers. The proxy only serves repositories owned by `simonw`, and only to pages on `lite.datasette.io` and `localhost`. If you host your own copy of Datasette Lite on another domain you will need your own proxy: change `GITHUB_ZIP_PROXY` at the top of `webworker.js`.
 
+## Load a different SQLite version
+
+Datasette Lite uses the SQLite that is built into Pyodide, which is version 3.39.0. Add `?sqlite=` with a version number to use a different version of SQLite:
+
+- https://lite.datasette.io/?sqlite=3.54.1
+
+The versions you can use are listed on https://datasette.github.io/pysqlite3-wasm-wheels/. Each is a [pysqlite3](https://github.com/coleifer/pysqlite3) wheel with that version of SQLite compiled in, built for Pyodide by [datasette/pysqlite3-wasm-wheels](https://github.com/datasette/pysqlite3-wasm-wheels). Asking for a version that is not there shows an error that lists the versions that are.
+
+The chosen version is used for everything: by Datasette, by plugins that `import sqlite3`, and for loading `?csv=`, `?json=`, `?parquet=` and `?sql=` files. `/-/versions` and `select sqlite_version()` both report it. It can be combined with any of the other options, for example to run a specific Datasette release on a specific SQLite:
+
+- https://lite.datasette.io/?ref=stable&sqlite=3.54.1
+
+Old versions of SQLite are not blocked. If Datasette cannot run on one, you will see the error from Datasette.
+
 ## Loading CSV data
 
 You can load data from a CSV file hosted online (provided it allows `access-control-allow-origin: *`) by passing that URL as a `?csv=` parameter - or by clicking the "Load CSV by URL" button and pasting in a URL.
