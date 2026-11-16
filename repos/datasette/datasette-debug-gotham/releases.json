@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "asg017",
+      "published_at": "2026-11-16T02:02:34Z",
+      "published_day": "2026-11-16",
+      "release": "0.1.0a4",
+      "url": "https://github.com/datasette/datasette-debug-gotham/releases/tag/0.1.0a4"
+    },
+    {
+      "author": "asg017",
       "published_at": "2026-06-16T04:02:40Z",
       "published_day": "2026-06-16",
       "release": "0.1.0a3",
@@ -25,6 +32,6 @@
     }
   ],
   "repo": "datasette-debug-gotham",
-  "total_releases": 3,
+  "total_releases": 4,
   "url": "https://github.com/datasette/datasette-debug-gotham"
 }

@@ -13,6 +13,8 @@ It can be hard to test or debug Datasette plugins that use the new permissions s
 
 Once you select an actor like "Clark Kent" or "Bruce Wayne", the page will refresh and Datasette will recognize the actor in `request.actor`. You can change actors however you like:
 
+The switcher also has a "Signed out (no actor)" choice, which removes the cookie so you can see what a logged-out visitor sees. That is also the state it shows before you have picked anyone.
+
 
 ![](https://private-user-images.githubusercontent.com/15178711/565209598-0853e911-bd89-46c5-9bbe-270626a482de.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3OTI4NjYsIm5iZiI6MTc3Mzc5MjU2NiwicGF0aCI6Ii8xNTE3ODcxMS81NjUyMDk1OTgtMDg1M2U5MTEtYmQ4OS00NmM1LTliYmUtMjcwNjI2YTQ4MmRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE4VDAwMDkyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3ZDZlYzIzODJjMDQwOGIyZTYyZjc4YjEyMTYxM2RkMGM4N2ZhYTQ5ZGVhYjMxMzhhM2JhNTU3NTA0YWZkNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ym3sgnkoIXgA8Z8K48cxFInkeyETISx7o8wjP7lGh-s)
 
