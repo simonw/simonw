@@ -1,0 +1,8 @@
+{
+  "description": "Builds Python pysqlite3 WASM wheels for different releases of SQLite",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "pysqlite3-wasm-wheels",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/pysqlite3-wasm-wheels"
+}
