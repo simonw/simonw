@@ -18,18 +18,7 @@ When you launch the demo, your browser will download and start executing a full 
 
 Datasette's pages are displayed in a full-window `<iframe>` pointing at URLs under `/app/<session>/`. Those URLs don't exist on the server: a [service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) (`sw.js`) intercepts every request for them - link clicks, GET and POST form submissions, `fetch()` calls made by JavaScript, static assets - and the page relays each one to Datasette's [ASGI](https://asgi.readthedocs.io/) application running in Pyodide. This means Datasette's own JavaScript and the JavaScript and CSS provided by plugins work, as do POST forms, CSRF protection, sign-in cookies, file uploads and downloads.
 
-```
-  index.html + shell.js (the page)                webworker.js (Web Worker)
-  ┌───────────────────────────────────┐  relay   ┌──────────────────────────┐
-  │  owns the Web Worker  ────────────┼─────────►│ Pyodide                  │
-  │                                   │◄─────────┼ Datasette ASGI app       │
-  │  <iframe src="app/<session>/..."> │          │ ASGI bridge + cookie jar │
-  │    Datasette pages, JS, forms     │          └──────────────────────────┘
-  └────────┬──────────────────▲───────┘
-   requests│                  │responses
-           ▼                  │
-  sw.js (service worker): finds the tab that owns <session>, asks it to relay
-```
+![Diagram of one request in Datasette Lite. The page you opened contains an iframe showing Datasette and the shell.js script. 1: the iframe requests /app/&lt;session&gt;/fixtures. 2: the sw.js service worker intercepts it and posts it to the owning tab. 3: shell.js forwards it to the Web Worker. 4: Python in Pyodide adds cookies and calls the Datasette ASGI app, which queries SQLite. 5 to 7: the response returns through shell.js and sw.js to the iframe.](diagrams/request-flow.svg)
 
 The page you are on mirrors the iframe's location into its `#fragment`, so URLs like `https://lite.datasette.io/?url=...#/fixtures/facetable?_facet=state` can be bookmarked and shared, and the back button works. Links to other sites open in a new window, with `noopener` so the linked site gets no reference back to the Datasette Lite page. Each tab gets its own random `<session>` so multiple Datasette Lite tabs with different data can be open at once.
 
