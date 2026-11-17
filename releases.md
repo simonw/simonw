@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,335<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,336<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm](https://github.com/simonw/llm)**: [0.37.3](https://github.com/simonw/llm/releases/tag/0.37.3) - ([76 releases total](https://github.com/simonw/llm/releases)) - 2026-11-16
+* **[llm](https://github.com/simonw/llm)**: [0.38](https://github.com/simonw/llm/releases/tag/0.38) - ([77 releases total](https://github.com/simonw/llm/releases)) - 2026-11-17
 <br />Access large language models from the command-line
 * **[datasette-maplibre](https://github.com/datasette/datasette-maplibre)**: [0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
 <br />Visualize geospatial data in Datasette using MapLibre GL and OpenFreeMap

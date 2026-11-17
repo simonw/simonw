@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-17T19:00:11Z",
+      "published_day": "2026-11-17",
+      "release": "0.38",
+      "url": "https://github.com/simonw/llm/releases/tag/0.38"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-11-16T23:57:26Z",
       "published_day": "2026-11-16",
       "release": "0.37.3",
@@ -536,6 +543,6 @@
     }
   ],
   "repo": "llm",
-  "total_releases": 76,
+  "total_releases": 77,
   "url": "https://github.com/simonw/llm"
 }
