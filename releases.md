@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,334<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,335<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm](https://github.com/simonw/llm)**: [0.37.3](https://github.com/simonw/llm/releases/tag/0.37.3) - ([76 releases total](https://github.com/simonw/llm/releases)) - 2026-11-16
+<br />Access large language models from the command-line
 * **[datasette-maplibre](https://github.com/datasette/datasette-maplibre)**: [0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
 <br />Visualize geospatial data in Datasette using MapLibre GL and OpenFreeMap
 * **[datasette](https://github.com/simonw/datasette)**: [1.0a43](https://github.com/simonw/datasette/releases/tag/1.0a43) - ([179 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-15
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->2,334<!-- releases_count ends --> releases
 <br />Datasette plugin adding the Leaflet JavaScript library
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.37](https://github.com/simonw/llm-gemini/releases/tag/0.37) - ([58 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-12
 <br />LLM plugin to access Google's Gemini family of models
-* **[llm](https://github.com/simonw/llm)**: [0.37.2](https://github.com/simonw/llm/releases/tag/0.37.2) - ([75 releases total](https://github.com/simonw/llm/releases)) - 2026-11-11
-<br />Access large language models from the command-line
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
 <br />LLM access to models by Anthropic, including the Claude series
 * **[sqlite-dateutil](https://github.com/simonw/sqlite-dateutil)**: [0.1a0](https://github.com/simonw/sqlite-dateutil/releases/tag/0.1a0) - 2026-11-08
