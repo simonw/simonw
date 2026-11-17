@@ -12,6 +12,8 @@ Given one or more iNaturalist user logins, this CLI fetches every public observa
 
 See [simonw/inaturalist-clumps/blob/main/clumps.json](https://github.com/simonw/inaturalist-clumps/blob/main/clumps.json) for example output from this tool.
 
+Observations with [obscured locations](https://help.inaturalist.org/en/support/solutions/articles/151000169938) are published as a random point within a 0.2° grid cell, so their coordinates alone would split a single outing into several clumps. An obscured observation is instead assumed to be in the same location as any other observation that falls inside its grid cell (or is obscured to the same cell), and is otherwise measured from the nearest edge of that cell — so only the time threshold separates obscured sightings from the same area.
+
 The output JSON file records, for every clump:
 
 - start/end timestamps, duration, centroid, bounding box, span
