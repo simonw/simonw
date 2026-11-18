@@ -214,6 +214,16 @@ Datasette 1.0 alphas take [configuration](https://docs.datasette.io/en/latest/co
 
 This needs Datasette 1.0a8 or later, so it does not work with `?ref=stable` while the stable release is 0.65.
 
+You can also set individual configuration values in the URL using `?s.key=value`, the equivalent of the `datasette -s key value` [command-line option](https://docs.datasette.io/en/latest/configuration.html#configuration-via-the-command-line). This can be used multiple times. A setting can be given by its name:
+
+    https://lite.datasette.io/?s.template_debug=1&s.default_page_size=10
+
+Other keys are a path into the configuration, with values that are valid JSON treated as JSON:
+
+    https://lite.datasette.io/?s.settings.sql_time_limit_ms=3500&s.plugins.datasette-cluster-map.latitude_column=lat
+
+These are applied on top of any `?config=` file, and also need Datasette 1.0a8 or later.
+
 Datasette Lite always sets the `base_url` and `num_sql_threads` settings itself.
 
 ## Signing in as root
