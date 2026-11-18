@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,336<!-- releases_count ends --> releases across <!-- project_count starts -->407<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,337<!-- releases_count ends --> releases across <!-- project_count starts -->408<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-arrows](https://github.com/datasette/datasette-arrows)**: [0.1a0](https://github.com/datasette/datasette-arrows/releases/tag/0.1a0) - 2026-11-18
+<br />Streaming exports for Datasette using Arrow IPC.
 * **[llm](https://github.com/simonw/llm)**: [0.38](https://github.com/simonw/llm/releases/tag/0.38) - ([77 releases total](https://github.com/simonw/llm/releases)) - 2026-11-17
 <br />Access large language models from the command-line
 * **[datasette-maplibre](https://github.com/datasette/datasette-maplibre)**: [0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15

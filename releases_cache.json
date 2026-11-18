@@ -2497,6 +2497,20 @@
     "repo_url": "https://github.com/datasette/datasette-apps",
     "total_releases": 8
   },
+  "datasette-arrows": {
+    "description": "Streaming exports for Datasette using Arrow IPC.",
+    "releases": [
+      {
+        "published_at": "2026-11-18T17:09:59Z",
+        "published_day": "2026-11-18",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-arrows/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-arrows",
+    "repo_url": "https://github.com/datasette/datasette-arrows",
+    "total_releases": 1
+  },
   "datasette-atom": {
     "description": "Datasette plugin that adds a .atom output format",
     "releases": [
