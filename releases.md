@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,338<!-- releases_count ends --> releases across <!-- project_count starts -->408<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,339<!-- releases_count ends --> releases across <!-- project_count starts -->408<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.38](https://github.com/simonw/llm-gemini/releases/tag/0.38) - ([59 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-18
+* **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.38.1](https://github.com/simonw/llm-gemini/releases/tag/0.38.1) - ([60 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-20
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-arrows](https://github.com/datasette/datasette-arrows)**: [0.1a0](https://github.com/datasette/datasette-arrows/releases/tag/0.1a0) - 2026-11-18
 <br />Streaming exports for Datasette using Arrow IPC.

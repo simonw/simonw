@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[llm-gemini 0.38](https://github.com/simonw/llm-gemini/releases/tag/0.38) - 2026-11-18
+[llm-gemini 0.38.1](https://github.com/simonw/llm-gemini/releases/tag/0.38.1) - 2026-11-20
 
 [datasette-arrows 0.1a0](https://github.com/datasette/datasette-arrows/releases/tag/0.1a0) - 2026-11-18
 
