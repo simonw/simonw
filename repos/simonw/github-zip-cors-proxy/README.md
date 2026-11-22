@@ -33,7 +33,7 @@ directory named `{repo}-{ref}` (with any `/` in the ref replaced by `-`).
 | Rule | Value | Where to change it |
 |---|---|---|
 | Browser origins | `https://lite.datasette.io`, plus `http://localhost` and `http://127.0.0.1` on any port | `PRODUCTION_ORIGINS` and `LOCALHOST` in `src/index.js` |
-| Repository owner | `simonw` | `ALLOWED_OWNER` in `wrangler.toml` |
+| Repository owners | `simonw`, `datasette` | `ALLOWED_OWNERS` (comma-separated) in `wrangler.toml` |
 | Refs | Branches, tags and commit SHAs, up to 200 characters of letters, digits, `.`, `_`, `-` and `/` | `PATH` and `isValidRef` in `src/index.js` |
 | Methods | `GET`, `HEAD`, `OPTIONS` | `src/index.js` |
 
@@ -41,7 +41,7 @@ Everything else is refused before any request is made to GitHub:
 
 | Status | Meaning |
 |---|---|
-| 403 | Missing or disallowed `Origin` header, or a repository owner other than `ALLOWED_OWNER` |
+| 403 | Missing or disallowed `Origin` header, or a repository owner not in `ALLOWED_OWNERS` |
 | 400 | Path is not `/{owner}/{repo}/{ref}`, or the ref has disallowed characters |
 | 405 | Method other than `GET`, `HEAD` or `OPTIONS` |
 | 404 | GitHub has no such repository, branch, tag or commit |
@@ -76,7 +76,7 @@ limit, so on a paid account abuse could cost money.
 
 The origin check does not stop non-browser clients, which can send any
 `Origin` header they like. It doesn't need to: all such a client can get is a
-zip of a public `simonw` repository, which GitHub serves directly anyway.
+zip of a public `simonw` or `datasette` repository, which GitHub serves directly anyway.
 
 ## Use from Pyodide
 
@@ -117,7 +117,7 @@ curl -i -H "Origin: http://localhost:8000" \
 ## Files
 
 - `src/index.js`: the Worker
-- `wrangler.toml`: Worker name and `ALLOWED_OWNER`
+- `wrangler.toml`: Worker name and `ALLOWED_OWNERS`
 - `deploy.sh`: test, deploy and smoke-test
 - `test/index.test.js`: unit tests
 
