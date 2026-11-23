@@ -12865,6 +12865,20 @@
     "repo_url": "https://github.com/simonw/llm-gguf",
     "total_releases": 2
   },
+  "llm-glm": {
+    "description": "Access models via the Z.ai API",
+    "releases": [
+      {
+        "published_at": "2026-11-23T20:19:15Z",
+        "published_day": "2026-11-23",
+        "release": "0.1",
+        "url": "https://github.com/simonw/llm-glm/releases/tag/0.1"
+      }
+    ],
+    "repo": "llm-glm",
+    "repo_url": "https://github.com/simonw/llm-glm",
+    "total_releases": 1
+  },
   "llm-gpt4all": {
     "description": "Plugin for LLM adding support for the GPT4All collection of models",
     "releases": [

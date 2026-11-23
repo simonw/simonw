@@ -1,0 +1,16 @@
+{
+  "description": "Access models via the Z.ai API",
+  "owner": "simonw",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-11-23T20:19:15Z",
+      "published_day": "2026-11-23",
+      "release": "0.1",
+      "url": "https://github.com/simonw/llm-glm/releases/tag/0.1"
+    }
+  ],
+  "repo": "llm-glm",
+  "total_releases": 1,
+  "url": "https://github.com/simonw/llm-glm"
+}

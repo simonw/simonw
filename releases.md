@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,350<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,351<!-- releases_count ends --> releases across <!-- project_count starts -->410<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[llm-glm](https://github.com/simonw/llm-glm)**: [0.1](https://github.com/simonw/llm-glm/releases/tag/0.1) - 2026-11-23
+<br />Access models via the Z.ai API
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.2](https://github.com/datasette/ready-for-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/ready-for-datasette/releases)) - 2026-11-23
 <br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2026-11-23
