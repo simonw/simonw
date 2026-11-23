@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,345<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,347<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19.1) - ([26 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-23
+<br />Datasette plugin that shows a map for any data with latitude/longitude columns
+* **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2.1](https://github.com/simonw/datasette-psutil/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2026-11-23
+<br />Datasette plugin adding a /-/psutil debugging endpoint
 * **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [Release 0.1a1](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent-micropython/releases)) - 2026-11-23
 <br />MicroPython in a WASM sandbox as a tool for Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a3](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-11-23
@@ -31,8 +35,6 @@ Listing <!-- releases_count starts -->2,345<!-- releases_count ends --> releases
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - ([4 releases total](https://github.com/simonw/datasette-vega/releases)) - 2026-11-14
 <br />Datasette plugin for visualizing data using Vega
-* **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19) - ([25 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-13
-<br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-leaflet](https://github.com/simonw/datasette-leaflet)**: [0.3](https://github.com/simonw/datasette-leaflet/releases/tag/0.3) - ([5 releases total](https://github.com/simonw/datasette-leaflet/releases)) - 2026-11-13
 <br />Datasette plugin adding the Leaflet JavaScript library
 * **[llm-anthropic](https://github.com/simonw/llm-anthropic)**: [0.31](https://github.com/simonw/llm-anthropic/releases/tag/0.31) - ([29 releases total](https://github.com/simonw/llm-anthropic/releases)) - 2026-11-09
@@ -797,8 +799,6 @@ Listing <!-- releases_count starts -->2,345<!-- releases_count ends --> releases
 <br />Demo for https://github.com/simonw/click-app
 * **[datasette-plugin-template-demo](https://github.com/simonw/datasette-plugin-template-demo)**: [0.1](https://github.com/simonw/datasette-plugin-template-demo/releases/tag/0.1) - 2020-06-19
 <br />Demonstrating https://github.com/simonw/datasette-plugin
-* **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2](https://github.com/simonw/datasette-psutil/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2020-06-13
-<br />Datasette plugin adding a /-/psutil debugging endpoint
 * **[datasette-permissions-sql](https://github.com/simonw/datasette-permissions-sql)**: [0.3a](https://github.com/simonw/datasette-permissions-sql/releases/tag/0.3a) - ([4 releases total](https://github.com/simonw/datasette-permissions-sql/releases)) - 2020-06-12
 <br />Datasette plugin for configuring permission checks using SQL queries
 * **[asgi-auth-github](https://github.com/simonw/asgi-auth-github)**: [0.1](https://github.com/simonw/asgi-auth-github/releases/tag/0.1) - 2020-06-10
