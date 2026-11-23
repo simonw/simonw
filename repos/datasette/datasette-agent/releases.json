@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-23T02:38:41Z",
+      "published_day": "2026-11-23",
+      "release": "0.7a0",
+      "url": "https://github.com/datasette/datasette-agent/releases/tag/0.7a0"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-11-15T03:49:47Z",
       "published_day": "2026-11-15",
       "release": "0.6a0",
@@ -74,6 +81,6 @@
     }
   ],
   "repo": "datasette-agent",
-  "total_releases": 10,
+  "total_releases": 11,
   "url": "https://github.com/datasette/datasette-agent"
 }

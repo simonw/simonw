@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,342<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,345<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [Release 0.1a1](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a1) - ([2 releases total](https://github.com/datasette/datasette-agent-micropython/releases)) - 2026-11-23
+<br />MicroPython in a WASM sandbox as a tool for Datasette Agent
+* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a3](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-11-23
+<br />Observable Plot charts for Datasette Agent
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.7a0](https://github.com/datasette/datasette-agent/releases/tag/0.7a0) - ([11 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-23
+<br />An LLM-powered agent for Datasette
 * **[datasette-charts](https://github.com/datasette/datasette-charts)**: [0.1a0](https://github.com/datasette/datasette-charts/releases/tag/0.1a0) - 2026-11-23
 <br />A charting plugin for Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1) - ([22 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2026-11-23
@@ -21,8 +27,6 @@ Listing <!-- releases_count starts -->2,342<!-- releases_count ends --> releases
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-15
 <br />Apps that live inside Datasette
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.6a0](https://github.com/datasette/datasette-agent/releases/tag/0.6a0) - ([10 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-15
-<br />An LLM-powered agent for Datasette
 * **[datasette-llm](https://github.com/datasette/datasette-llm)**: [0.1a11](https://github.com/datasette/datasette-llm/releases/tag/0.1a11) - ([12 releases total](https://github.com/datasette/datasette-llm/releases)) - 2026-11-14
 <br />LLM integration plugin for other plugins to depend on
 * **[datasette-vega](https://github.com/simonw/datasette-vega)**: [0.7](https://github.com/simonw/datasette-vega/releases/tag/0.7) - ([4 releases total](https://github.com/simonw/datasette-vega/releases)) - 2026-11-14
@@ -127,14 +131,10 @@ Listing <!-- releases_count starts -->2,342<!-- releases_count ends --> releases
 <br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
 <br />Python library for running a MicroPython sandbox using WebAssembly
-* **[datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython)**: [0.1a0](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0) - 2026-06-02
-<br />MicroPython in a WASM sandbox as a tool for Datasette Agent
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
 <br />Add a fixtures test database to Datasette
 * **[datasette-agent-sprites](https://github.com/datasette/datasette-agent-sprites)**: [0.1a0](https://github.com/datasette/datasette-agent-sprites/releases/tag/0.1a0) - 2026-05-21
 <br />Datasette Agent tools for working with Fly Sprites
-* **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a2](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-05-21
-<br />Observable Plot charts for Datasette Agent
 * **[datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant)**: [0.1a4](https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-llm-accountant/releases)) - 2026-05-19
 <br />LLM accounting for Datasette
 * **[inaturalist-clumper](https://github.com/simonw/inaturalist-clumper)**: [0.1](https://github.com/simonw/inaturalist-clumper/releases/tag/0.1) - 2026-05-15

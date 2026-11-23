@@ -69,6 +69,19 @@ On wide screens (tablet landscape and desktop) the chat takes a third of the wid
 
 `show_in_panel` only accepts paths on the same Datasette instance, checks that the page renders for the current actor before opening it, and is not offered to background agents or `datasette agent chat`.
 
+### Custom system prompt
+
+You can layer your own instructions on top of the agent's built-in system prompt by setting a `system_prompt` value in the plugin's configuration, for example in `datasette.yml`:
+
+```yaml
+plugins:
+  datasette-agent:
+    system_prompt: |
+      You are a sales analytics assistant. Always use USD for revenue reporting.
+```
+
+The text is appended to the built-in system prompt (which covers tool usage, markdown escaping, etc), so your custom prompt is added without losing the default behaviour. The custom prompt applies to the chat assistant, to background agents and to `datasette agent chat` when it is passed a configuration file with `-c`.
+
 ### Saving queries
 
 The agent has a built-in `save_query` tool that saves SQL it has written as a [Datasette stored query](https://docs.datasette.io/en/latest/sql_queries.html). The query can be read-only or write SQL - Datasette analyzes it to decide which, and named `:parameters` become form fields on the saved query page.

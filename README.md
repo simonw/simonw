@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[datasette-agent-micropython Release 0.1a1](https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a1) - 2026-11-23
+
+[datasette-agent-charts 0.1a3](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a3) - 2026-11-23
+
+[datasette-agent 0.7a0](https://github.com/datasette/datasette-agent/releases/tag/0.7a0) - 2026-11-23
+
 [datasette-charts 0.1a0](https://github.com/datasette/datasette-charts/releases/tag/0.1a0) - 2026-11-23
 
 [datasette-enrichments 0.6a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1) - 2026-11-23
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [llm-gemini 0.38.1](https://github.com/simonw/llm-gemini/releases/tag/0.38.1) - 2026-11-20
 
 [datasette-arrows 0.1a0](https://github.com/datasette/datasette-arrows/releases/tag/0.1a0) - 2026-11-18
-
-[llm 0.38](https://github.com/simonw/llm/releases/tag/0.38) - 2026-11-17
-
-[datasette-maplibre 0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
-
-[datasette-copyable 0.3.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3.3) - 2026-11-15
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
