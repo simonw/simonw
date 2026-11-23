@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,347<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,350<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.2](https://github.com/datasette/ready-for-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/ready-for-datasette/releases)) - 2026-11-23
+<br />Tracking which Datasette plugins are ready for Datasette 1.0
+* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2) - ([4 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2026-11-23
+<br />Periodically refresh Datasette metadata from a remote URL
+* **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.2a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.2a0) - ([2 releases total](https://github.com/datasette/datasette-agent-edit/releases)) - 2026-11-23
+<br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[datasette-cluster-map](https://github.com/simonw/datasette-cluster-map)**: [0.19.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19.1) - ([26 releases total](https://github.com/simonw/datasette-cluster-map/releases)) - 2026-11-23
 <br />Datasette plugin that shows a map for any data with latitude/longitude columns
 * **[datasette-psutil](https://github.com/simonw/datasette-psutil)**: [0.2.1](https://github.com/simonw/datasette-psutil/releases/tag/0.2.1) - ([3 releases total](https://github.com/simonw/datasette-psutil/releases)) - 2026-11-23
@@ -105,8 +111,6 @@ Listing <!-- releases_count starts -->2,347<!-- releases_count ends --> releases
 <br />Datasette agent plugin adding tools for creating 3D models
 * **[mcp-explorer](https://github.com/simonw/mcp-explorer)**: [0.3](https://github.com/simonw/mcp-explorer/releases/tag/0.3) - ([3 releases total](https://github.com/simonw/mcp-explorer/releases)) - 2026-07-29
 <br />CLI tool for exploring an MCP server
-* **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.1](https://github.com/datasette/ready-for-datasette/releases/tag/0.1) - 2026-07-20
-<br />Tracking which Datasette plugins are ready for Datasette 1.0
 * **[datasette-backup](https://github.com/simonw/datasette-backup)**: [0.1.1](https://github.com/simonw/datasette-backup/releases/tag/0.1.1) - ([3 releases total](https://github.com/simonw/datasette-backup/releases)) - 2026-07-15
 <br />Plugin adding backup options to Datasette
 * **[datasette-block-robots](https://github.com/simonw/datasette-block-robots)**: [1.1.1](https://github.com/simonw/datasette-block-robots/releases/tag/1.1.1) - ([7 releases total](https://github.com/simonw/datasette-block-robots/releases)) - 2026-07-14
@@ -129,8 +133,6 @@ Listing <!-- releases_count starts -->2,347<!-- releases_count ends --> releases
 <br />Luau packaged as a Pyodide WebAssembly wheel
 * **[asyncinject](https://github.com/simonw/asyncinject)**: [0.7](https://github.com/simonw/asyncinject/releases/tag/0.7) - ([10 releases total](https://github.com/simonw/asyncinject/releases)) - 2026-06-11
 <br />Run async workflows using pytest-fixtures-style dependency injection
-* **[datasette-agent-edit](https://github.com/datasette/datasette-agent-edit)**: [0.1a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0) - 2026-06-07
-<br />Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins
 * **[micropython-wasm](https://github.com/simonw/micropython-wasm)**: [0.1a2](https://github.com/simonw/micropython-wasm/releases/tag/0.1a2) - ([3 releases total](https://github.com/simonw/micropython-wasm/releases)) - 2026-06-06
 <br />Python library for running a MicroPython sandbox using WebAssembly
 * **[datasette-fixtures](https://github.com/datasette/datasette-fixtures)**: [0.1a0](https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0) - 2026-05-24
@@ -425,8 +427,6 @@ Listing <!-- releases_count starts -->2,347<!-- releases_count ends --> releases
 <br />Datasette plugin for authentication using passwords
 * **[django-http-debug](https://github.com/simonw/django-http-debug)**: [0.2](https://github.com/simonw/django-http-debug/releases/tag/0.2) - ([2 releases total](https://github.com/simonw/django-http-debug/releases)) - 2024-08-07
 <br />Django app for creating endpoints that log incoming request and return mock data
-* **[datasette-remote-metadata](https://github.com/simonw/datasette-remote-metadata)**: [0.2a0](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2a0) - ([3 releases total](https://github.com/simonw/datasette-remote-metadata/releases)) - 2024-08-05
-<br />Periodically refresh Datasette metadata from a remote URL
 * **[fetch-github-issues](https://github.com/simonw/fetch-github-issues)**: [0.1.2](https://github.com/simonw/fetch-github-issues/releases/tag/0.1.2) - ([3 releases total](https://github.com/simonw/fetch-github-issues/releases)) - 2024-07-29
 <br />Fetch all GitHub issues for a repository
 * **[datasette-python](https://github.com/datasette/datasette-python)**: [0.1](https://github.com/datasette/datasette-python/releases/tag/0.1) - 2024-07-12

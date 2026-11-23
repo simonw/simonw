@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-23T05:50:34Z",
+      "published_day": "2026-11-23",
+      "release": "0.2",
+      "url": "https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2"
+    },
+    {
+      "author": "simonw",
       "published_at": "2024-08-05T22:45:57Z",
       "published_day": "2024-08-05",
       "release": "0.2a0",
@@ -25,6 +32,6 @@
     }
   ],
   "repo": "datasette-remote-metadata",
-  "total_releases": 3,
+  "total_releases": 4,
   "url": "https://github.com/simonw/datasette-remote-metadata"
 }

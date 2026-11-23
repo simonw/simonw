@@ -25,6 +25,54 @@ any storage layer — SQLite, the local filesystem, S3, the GitHub contents API,
    - `render` optionally injects presentation (e.g. an `_html` iframe preview);
      omit it and no `*_render` tool is registered.
 
+## What the tools do
+
+With `name_prefix="file"` the toolset registers `file_view`, `file_str_replace`,
+`file_insert` and `file_edit`, plus `file_render` if you pass a `render` hook.
+
+Every tool returns a JSON object. Success includes the id (under `id_field`)
+and the current `version`; any failure is `{"error": "..."}` and saves
+nothing. Bad input from the model — a malformed range, an out-of-range line
+number, an edit with missing keys, a ref the store rejects — comes back as an
+error rather than raising.
+
+- **view** returns the content with `N:<tab>` line-number prefixes, plus
+  `metadata` and `version`. `view_range` is `"start,end"`, 1-indexed and
+  inclusive, with `-1` meaning end-of-file. Trailing whitespace is shown as-is
+  so the text can be pasted into `str_replace`.
+- **str_replace** replaces `old_str`, which must appear exactly once.
+- **insert** adds `insert_text` as whole lines after line `insert_line` (`0`
+  for the start, the line count for the end). A line break is added if the
+  text would otherwise run into a neighbouring line.
+- **edit** applies an array of `str_replace` / `insert` operations in order as
+  one atomic change. If any of them fails, none are saved and the error names
+  the failing edit.
+
+Only `\n` (and so `\r\n`) ends a line, so line numbers match what an editor
+shows.
+
+The `render` hook's result is merged into the output of `edit` and `render`.
+It cannot override the id, `version` or `status` fields. Because the hook runs
+after a batch edit has been saved, a hook that raises does not fail the edit:
+the result reports the edits as saved and adds a `render_error` key.
+
+## Backend notes
+
+Both bundled backends raise `FileExistsError` from `create()` if the ref is
+taken, and leave `version` untouched when an edit returns the content
+unchanged.
+
+`SqliteVersionedStore` appends a row to its versions table for every change.
+
+`DiskStore` treats a ref as a path under its root directory:
+
+- Symlinks are resolved first, so a ref cannot reach outside the root.
+- Metadata lives in a `<path>.meta.json` sidecar, so refs ending in
+  `.meta.json` are reserved and rejected.
+- Files must be UTF-8 text. Line endings are preserved byte-for-byte and an
+  edited file keeps its permission bits.
+- Locking is per-process; see the module docstring for cross-process use.
+
 ## Why `transform` is synchronous
 
 The transform sits *between* a backend's awaits, never inside them — the SQLite
@@ -61,3 +109,6 @@ agent_tools = toolset.tools()   # list of AgentTool, ready to register
 ```bash
 uv run pytest
 ```
+
+The tests need Python 3.11 or later. `datasette-agent` is a development
+dependency, used to test `EditToolset.tools()` against the real `AgentTool`.

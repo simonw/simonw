@@ -68,20 +68,11 @@ plugins:
 
 ## Development
 
-To set up this plugin locally, first checkout the code. Then create a new virtual environment:
+To set up this plugin locally, first checkout the code. You can confirm it is available like this:
 
     cd datasette-remote-metadata
-    python3 -mvenv venv
-    source venv/bin/activate
-
-Or if you are using `pipenv`:
-
-    pipenv shell
-
-Now install the dependencies and test dependencies:
-
-    pip install -e '.[test]'
+    uv run datasette plugins
 
 To run the tests:
 
-    pytest
+    uv run pytest

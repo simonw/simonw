@@ -4,6 +4,12 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
+[ready-for-datasette 0.2](https://github.com/datasette/ready-for-datasette/releases/tag/0.2) - 2026-11-23
+
+[datasette-remote-metadata 0.2](https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2) - 2026-11-23
+
+[datasette-agent-edit 0.2a0](https://github.com/datasette/datasette-agent-edit/releases/tag/0.2a0) - 2026-11-23
+
 [datasette-cluster-map 0.19.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.19.1) - 2026-11-23
 
 [datasette-psutil 0.2.1](https://github.com/simonw/datasette-psutil/releases/tag/0.2.1) - 2026-11-23
@@ -13,12 +19,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 [datasette-agent-charts 0.1a3](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a3) - 2026-11-23
 
 [datasette-agent 0.7a0](https://github.com/datasette/datasette-agent/releases/tag/0.7a0) - 2026-11-23
-
-[datasette-charts 0.1a0](https://github.com/datasette/datasette-charts/releases/tag/0.1a0) - 2026-11-23
-
-[datasette-enrichments 0.6a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1) - 2026-11-23
-
-[datasette 1.0a44](https://github.com/simonw/datasette/releases/tag/1.0a44) - 2026-11-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">

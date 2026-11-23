@@ -2169,6 +2169,12 @@
     "description": "Storage-agnostic file-editing tools (view / str_replace / insert) for Datasette Agent plugins",
     "releases": [
       {
+        "published_at": "2026-11-23T05:28:13Z",
+        "published_day": "2026-11-23",
+        "release": "0.2a0",
+        "url": "https://github.com/datasette/datasette-agent-edit/releases/tag/0.2a0"
+      },
+      {
         "published_at": "2026-06-07T23:56:38Z",
         "published_day": "2026-06-07",
         "release": "0.1a0",
@@ -2177,7 +2183,7 @@
     ],
     "repo": "datasette-agent-edit",
     "repo_url": "https://github.com/datasette/datasette-agent-edit",
-    "total_releases": 1
+    "total_releases": 2
   },
   "datasette-agent-micropython": {
     "description": "MicroPython in a WASM sandbox as a tool for Datasette Agent",
@@ -7779,6 +7785,12 @@
     "description": "Periodically refresh Datasette metadata from a remote URL",
     "releases": [
       {
+        "published_at": "2026-11-23T05:50:34Z",
+        "published_day": "2026-11-23",
+        "release": "0.2",
+        "url": "https://github.com/simonw/datasette-remote-metadata/releases/tag/0.2"
+      },
+      {
         "published_at": "2024-08-05T22:45:57Z",
         "published_day": "2024-08-05",
         "release": "0.2a0",
@@ -7799,7 +7811,7 @@
     ],
     "repo": "datasette-remote-metadata",
     "repo_url": "https://github.com/simonw/datasette-remote-metadata",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-remove-database": {
     "description": "Remove a database from Datasette",
@@ -14435,6 +14447,12 @@
     "description": "Tracking which Datasette plugins are ready for Datasette 1.0",
     "releases": [
       {
+        "published_at": "2026-11-23T06:21:13Z",
+        "published_day": "2026-11-23",
+        "release": "0.2",
+        "url": "https://github.com/datasette/ready-for-datasette/releases/tag/0.2"
+      },
+      {
         "published_at": "2026-07-20T20:43:42Z",
         "published_day": "2026-07-20",
         "release": "0.1",
@@ -14443,7 +14461,7 @@
     ],
     "repo": "ready-for-datasette",
     "repo_url": "https://github.com/datasette/ready-for-datasette",
-    "total_releases": 1
+    "total_releases": 2
   },
   "research-llm-apis": {
     "description": "Research into the HTTP APIs from various LLM providers.",
