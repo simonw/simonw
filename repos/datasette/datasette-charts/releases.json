@@ -1,0 +1,16 @@
+{
+  "description": "A charting plugin for Datasette",
+  "owner": "datasette",
+  "releases": [
+    {
+      "author": "simonw",
+      "published_at": "2026-11-23T00:37:20Z",
+      "published_day": "2026-11-23",
+      "release": "0.1a0",
+      "url": "https://github.com/datasette/datasette-charts/releases/tag/0.1a0"
+    }
+  ],
+  "repo": "datasette-charts",
+  "total_releases": 1,
+  "url": "https://github.com/datasette/datasette-charts"
+}

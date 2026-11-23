@@ -901,6 +901,12 @@
     "description": "An open source multi-tool for exploring and publishing data",
     "releases": [
       {
+        "published_at": "2026-11-23T00:00:40Z",
+        "published_day": "2026-11-23",
+        "release": "1.0a44",
+        "url": "https://github.com/simonw/datasette/releases/tag/1.0a44"
+      },
+      {
         "published_at": "2026-11-15T23:20:27Z",
         "published_day": "2026-11-15",
         "release": "1.0a43",
@@ -1977,7 +1983,7 @@
     ],
     "repo": "datasette",
     "repo_url": "https://github.com/simonw/datasette",
-    "total_releases": 179
+    "total_releases": 180
   },
   "datasette-acl": {
     "description": "Advanced permission management for Datasette",
@@ -3255,6 +3261,20 @@
     "repo_url": "https://github.com/datasette/datasette-build",
     "total_releases": 1
   },
+  "datasette-charts": {
+    "description": "A charting plugin for Datasette",
+    "releases": [
+      {
+        "published_at": "2026-11-23T00:37:20Z",
+        "published_day": "2026-11-23",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-charts/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-charts",
+    "repo_url": "https://github.com/datasette/datasette-charts",
+    "total_releases": 1
+  },
   "datasette-chatgpt-plugin": {
     "description": "A Datasette plugin that turns a Datasette instance into a ChatGPT plugin",
     "releases": [
@@ -4333,6 +4353,12 @@
     "description": "Tools for running enrichments against data stored in Datasette",
     "releases": [
       {
+        "published_at": "2026-11-23T00:31:02Z",
+        "published_day": "2026-11-23",
+        "release": "0.6a1",
+        "url": "https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1"
+      },
+      {
         "published_at": "2025-11-06T00:10:36Z",
         "published_day": "2025-11-06",
         "release": "0.6a0",
@@ -4461,7 +4487,7 @@
     ],
     "repo": "datasette-enrichments",
     "repo_url": "https://github.com/datasette/datasette-enrichments",
-    "total_releases": 21
+    "total_releases": 22
   },
   "datasette-enrichments-gpt": {
     "description": "Datasette enrichment for analyzing row data using OpenAI's GPT models",

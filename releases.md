@@ -1,8 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,339<!-- releases_count ends --> releases across <!-- project_count starts -->408<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,342<!-- releases_count ends --> releases across <!-- project_count starts -->409<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-charts](https://github.com/datasette/datasette-charts)**: [0.1a0](https://github.com/datasette/datasette-charts/releases/tag/0.1a0) - 2026-11-23
+<br />A charting plugin for Datasette
+* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1) - ([22 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2026-11-23
+<br />Tools for running enrichments against data stored in Datasette
+* **[datasette](https://github.com/simonw/datasette)**: [1.0a44](https://github.com/simonw/datasette/releases/tag/1.0a44) - ([180 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-23
+<br />An open source multi-tool for exploring and publishing data
 * **[llm-gemini](https://github.com/simonw/llm-gemini)**: [0.38.1](https://github.com/simonw/llm-gemini/releases/tag/0.38.1) - ([60 releases total](https://github.com/simonw/llm-gemini/releases)) - 2026-11-20
 <br />LLM plugin to access Google's Gemini family of models
 * **[datasette-arrows](https://github.com/datasette/datasette-arrows)**: [0.1a0](https://github.com/datasette/datasette-arrows/releases/tag/0.1a0) - 2026-11-18
@@ -11,8 +17,6 @@ Listing <!-- releases_count starts -->2,339<!-- releases_count ends --> releases
 <br />Access large language models from the command-line
 * **[datasette-maplibre](https://github.com/datasette/datasette-maplibre)**: [0.1a0](https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0) - 2026-11-15
 <br />Visualize geospatial data in Datasette using MapLibre GL and OpenFreeMap
-* **[datasette](https://github.com/simonw/datasette)**: [1.0a43](https://github.com/simonw/datasette/releases/tag/1.0a43) - ([179 releases total](https://github.com/simonw/datasette/releases)) - 2026-11-15
-<br />An open source multi-tool for exploring and publishing data
 * **[datasette-copyable](https://github.com/simonw/datasette-copyable)**: [0.3.3](https://github.com/simonw/datasette-copyable/releases/tag/0.3.3) - ([6 releases total](https://github.com/simonw/datasette-copyable/releases)) - 2026-11-15
 <br />Datasette plugin for outputting tables in formats suitable for copy and paste
 * **[datasette-apps](https://github.com/datasette/datasette-apps)**: [0.4a0](https://github.com/datasette/datasette-apps/releases/tag/0.4a0) - ([8 releases total](https://github.com/datasette/datasette-apps/releases)) - 2026-11-15
@@ -289,8 +293,6 @@ Listing <!-- releases_count starts -->2,339<!-- releases_count ends --> releases
 <br />Datasette plugin for trying out the actors_from_ids hook
 * **[datasette-checkbox](https://github.com/datasette/datasette-checkbox)**: [0.1a4](https://github.com/datasette/datasette-checkbox/releases/tag/0.1a4) - ([5 releases total](https://github.com/datasette/datasette-checkbox/releases)) - 2025-11-06
 <br />Add interactive checkboxes to columns in Datasette
-* **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a0](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a0) - ([21 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2025-11-06
-<br />Tools for running enrichments against data stored in Datasette
 * **[datasette-tail](https://github.com/datasette/datasette-tail)**: [0.1a2](https://github.com/datasette/datasette-tail/releases/tag/0.1a2) - ([3 releases total](https://github.com/datasette/datasette-tail/releases)) - 2025-11-04
 <br />Tools for tailing your database
 * **[datasette-search-all](https://github.com/simonw/datasette-search-all)**: [1.1.5a0](https://github.com/simonw/datasette-search-all/releases/tag/1.1.5a0) - ([13 releases total](https://github.com/simonw/datasette-search-all/releases)) - 2025-11-03
