@@ -27,15 +27,17 @@ datasette install datasette-charts
 ```
 ## Usage
 
-Every table, view and SQL query page gets a **Charts** panel at the top. It shows a row of suggested charts, best first, each with a thumbnail, a title and the reason it was suggested. Select one to see it at full size.
+Every table, view and SQL query page gets a **Suggested charts** panel at the top. It shows a row of charts, best first, each with a thumbnail, a title and the reason it was suggested. Select one to see it at full size.
 
 Beside the full-size chart is a builder for changing the chart type, columns, aggregates, time units and bins. "Build a chart" at the end of the row starts from scratch. Anything the plugin can suggest can be built by hand.
 
 The chart you are looking at is kept in the page's URL fragment, so the address bar always holds a link to it.
 
-When nothing is suggested for a table, the panel starts collapsed. Opening it still offers "Build a chart".
+Collapsing the panel hides the suggestions but not the chart you have open. The panel stays collapsed on other pages until you open it again.
 
-Charts never fetch every row. Each one compiles to a SQL query that returns a small, aggregated result, and that query is what "View and edit this chart's SQL" links to.
+When nothing is suggested for a table, the panel starts collapsed and is labelled **Charts**. Opening it still offers "Build a chart".
+
+Charts never fetch every row. Each one compiles to a SQL query that returns a small, aggregated result, and that query is what "This chart's SQL" links to.
 
 ### Filters and facets
 
@@ -163,7 +165,7 @@ A filtered table is a table source with the filters from the table page's query 
 
 When [datasette-agent](https://github.com/datasette/datasette-agent) is installed as well, the agent gets two tools:
 
-- `suggest_charts` returns the role of each column and the ranked suggestions for a table, view, stored query or SQL query: the same ones the Charts panel shows.
+- `suggest_charts` returns the role of each column and the ranked suggestions for a table, view, stored query or SQL query: the same ones the Suggested charts panel shows.
 - `chart` draws a chart in the chat from a spec, and returns the rows it plots to the model so it can comment on them. A spec that does not fit the data comes back as a list of errors for the model to correct.
 
 Both take `database` and one of `table`, `sql` or `query_name`, with optional `filters` for a table (`{"state": "CA", "price__gt": "5"}`) and `params` for a query.
