@@ -159,6 +159,38 @@ A filtered table is a table source with the filters from the table page's query 
 }
 ```
 
+## Using charts from Datasette Agent
+
+When [datasette-agent](https://github.com/datasette/datasette-agent) is installed as well, the agent gets two tools:
+
+- `suggest_charts` returns the role of each column and the ranked suggestions for a table, view, stored query or SQL query: the same ones the Charts panel shows.
+- `chart` draws a chart in the chat from a spec, and returns the rows it plots to the model so it can comment on them. A spec that does not fit the data comes back as a list of errors for the model to correct.
+
+Both take `database` and one of `table`, `sql` or `query_name`, with optional `filters` for a table (`{"state": "CA", "price__gt": "5"}`) and `params` for a query.
+
+The model writes specs in the same JSON format as the rest of this plugin. It writes no JavaScript, and no SQL unless it charts a query. The description of the `chart` tool is built from the registered chart types, so a chart type added with `register_chart_types` is available to the agent too.
+
+Each chart in the chat has an "Open in the chart builder" link. It opens the table or query page in the agent's panel with that chart selected, where it can be changed. When you change a chart there and then send a message, the agent is told the address of the page, which holds the chart you are looking at.
+
+The tools apply the permissions of whoever is chatting, as listed under [Permissions](#permissions). Charting a table needs `view-table` and not `execute-sql`.
+
+The chart in the chat is not a picture stored with the conversation. It is drawn again from current data each time the conversation is opened.
+
+### Embedding a chart from another plugin
+
+The agent tools are built on a small Python API, which other plugins can use to put a chart on their own pages:
+
+```python
+from datasette_charts import api
+
+source = await api.resolve(
+    datasette, actor, {"database": "shop", "kind": "table", "table": "orders"}
+)
+html = api.embed_html(datasette, source, spec)
+```
+
+`resolve()` checks the source against what the actor may see. `embed_html()` returns a `<datasette-chart>` element with the script and stylesheet it needs. `api.chart_data()`, `api.suggest()` and `api.chart_path()` return what the HTTP endpoints return, and a link to a chart. This interface is not stable yet.
+
 ## Adding chart types
 
 A chart type is a Python class that proposes charts and compiles them to SQL, plus a JavaScript module that draws the result. Other plugins register theirs with the `register_chart_types` hook, which is how the built-in ones are registered too:

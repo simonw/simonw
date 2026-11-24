@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,351<!-- releases_count ends --> releases across <!-- project_count starts -->410<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,352<!-- releases_count ends --> releases across <!-- project_count starts -->410<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.7a1](https://github.com/datasette/datasette-agent/releases/tag/0.7a1) - ([12 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-24
+<br />An LLM-powered agent for Datasette
 * **[llm-glm](https://github.com/simonw/llm-glm)**: [0.1](https://github.com/simonw/llm-glm/releases/tag/0.1) - 2026-11-23
 <br />Access models via the Z.ai API
 * **[ready-for-datasette](https://github.com/datasette/ready-for-datasette)**: [0.2](https://github.com/datasette/ready-for-datasette/releases/tag/0.2) - ([2 releases total](https://github.com/datasette/ready-for-datasette/releases)) - 2026-11-23
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->2,351<!-- releases_count ends --> releases
 <br />MicroPython in a WASM sandbox as a tool for Datasette Agent
 * **[datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)**: [0.1a3](https://github.com/datasette/datasette-agent-charts/releases/tag/0.1a3) - ([4 releases total](https://github.com/datasette/datasette-agent-charts/releases)) - 2026-11-23
 <br />Observable Plot charts for Datasette Agent
-* **[datasette-agent](https://github.com/datasette/datasette-agent)**: [0.7a0](https://github.com/datasette/datasette-agent/releases/tag/0.7a0) - ([11 releases total](https://github.com/datasette/datasette-agent/releases)) - 2026-11-23
-<br />An LLM-powered agent for Datasette
 * **[datasette-charts](https://github.com/datasette/datasette-charts)**: [0.1a0](https://github.com/datasette/datasette-charts/releases/tag/0.1a0) - 2026-11-23
 <br />A charting plugin for Datasette
 * **[datasette-enrichments](https://github.com/datasette/datasette-enrichments)**: [0.6a1](https://github.com/datasette/datasette-enrichments/releases/tag/0.6a1) - ([22 releases total](https://github.com/datasette/datasette-enrichments/releases)) - 2026-11-23
