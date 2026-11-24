@@ -1,0 +1,8 @@
+{
+  "description": "Experimental prototype for a new Database backend abstraction",
+  "owner": "datasette",
+  "releases": [],
+  "repo": "dblayer",
+  "total_releases": 0,
+  "url": "https://github.com/datasette/dblayer"
+}
