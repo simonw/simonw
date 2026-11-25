@@ -7,18 +7,6 @@
 
 Suggests charts for any Datasette table, view or SQL query, and lets you build your own.
 
-This is an early version of the design in [spec.md](spec.md): enough to try the idea out against small tables and queries. See [What is not built yet](#what-is-not-built-yet).
-
-## Requirements
-
-This needs a Datasette newer than 1.0a43: commit `56e02c1` or later, which is not yet in a release. Until it is, run against a checkout of Datasette's `main` branch. From a checkout of this repository:
-
-```bash
-uv run --no-project --with-editable ~/dev/datasette --with-editable . datasette content.db
-```
-
-`--no-project` matters here. Without it, uv also installs the latest stable Datasette into this project's own environment, and that copy is the one that gets imported.
-
 ## Installation
 
 Install this plugin in the same environment as Datasette.
@@ -33,17 +21,7 @@ Beside the full-size chart is a builder for changing the chart type, columns, ag
 
 The chart you are looking at is kept in the page's URL fragment, so the address bar always holds a link to it.
 
-Collapsing the panel hides the suggestions but not the chart you have open. The panel stays collapsed on other pages until you open it again.
-
-When nothing is suggested for a table, the panel starts collapsed and is labelled **Charts**. Opening it still offers "Build a chart".
-
-Charts never fetch every row. Each one compiles to a SQL query that returns a small, aggregated result, and that query is what "This chart's SQL" links to.
-
-### Filters and facets
-
-On a filtered table page the charts cover the rows the page shows. Column filters such as `?state=CA` and `?price__gt=5`, `?_search=`, `?_where=` and `?_through=` all apply, and so does anything you click in a facet. The suggestions are worked out again for the filtered rows, so a column that the filter has narrowed to a single value is no longer suggested.
-
-The chart you select stays selected as you filter, facet, sort and page through a table: each new page opens with the same chart, now drawn from that page's rows. Close the chart to stop it coming back. This is remembered per table, in the browser tab.
+Charts never fetch every row. Each one compiles to a SQL query that returns a small, aggregated result, available through the "This chart's SQL" link.
 
 ### Chart types
 
@@ -132,6 +110,55 @@ datasette charts profile data.db orders
 
 `suggest` prints the ranked suggestions with the signals behind each score. `profile` prints the facts gathered about each column. Both take `--json`, and `--time-limit-ms 10000` to run with a longer SQL time limit.
 
+### Annotations
+
+A chart can carry notes: a dashed line where a rule changed, a target line, a shaded range for a recession, a callout on one data point or a free-floating note. In the builder, **Annotations** lists them, with buttons to add, edit and remove them. Editing one opens a dialog with a live preview of the chart. The dialog is Datasette's own `<datasette-modal>`.
+
+Annotations are part of the chart's spec, so they are kept in the `#chart=` link, drawn by `<datasette-chart>` embeds and written by Datasette Agent. They change nothing about the chart's SQL. They are listed under `annotations`:
+
+```json
+{
+  "v": 1,
+  "type": "bar",
+  "encoding": {
+    "x": {"column": "year", "sort": "key", "limit": 50, "other": false},
+    "y": {"column": "delays", "aggregate": "sum"}
+  },
+  "options": {"orientation": "vertical"},
+  "annotations": [
+    {"type": "line", "x": 2009, "position": "after", "text": "Tarmac delay rule enacted"}
+  ]
+}
+```
+
+| Type | Example | Draws |
+|------|---------|-------|
+| `line` at x | `{"type": "line", "x": 2009, "position": "after", "text": "Rule enacted"}` | A line across the chart at an x value |
+| `line` at y | `{"type": "line", "y": 100, "text": "Target", "stroke": "solid"}` | A line at a y value, such as a threshold |
+| `range` | `{"type": "range", "x": "2007-12", "x2": "2009-06", "text": "Recession"}` | A shaded band between two x values, or `y` and `y2` |
+| `point` | `{"type": "point", "x": "2020-04", "text": "Pandemic spike"}` | A callout on a data point, with a dot and a line to the text |
+| `text` | `{"type": "text", "left": 0.02, "top": 0.05, "text": "Source: FAA"}` | A note placed by fractions of the plot area |
+
+- `x` and `y` are the spec's own x and y channels. On a horizontal bar chart x is the category axis, down the side, so a line at an x value there is horizontal.
+- x values are written the way the chart shows them: a category, a year (`2009`), a month (`"2009-06"`), a date or time (`"2009-06-15"`, `"2009-06-15T10:30"`), or a number.
+- `position` places a line at an x category or time: `before`, `center` or `after`. Before or after a category puts the line between it and its neighbour. On a time axis a value names a period, and the line goes at its start (the default), middle or end: `"x": 2009, "position": "after"` is the end of 2009.
+- A `range` over categories or periods covers both ends whole.
+- A `point` with no `y` uses the chart's own value at x. `series` picks a series on a line or stacked bar chart. Scatter plots need `y`.
+- Every annotation's label is laid out together with the others, in one of three ways picked each time the chart is drawn, including when it is resized. No label is ever drawn over the data or another label, and text is wrapped at word boundaries, never cut short.
+  1. **Beside what it labels**, when every label fits there clear of the data, the other labels and the edges of the plot, and callouts read in the same order as their points.
+  2. **In lanes**, when they do not. Labels for callouts, ranges and lines across the x axis move to a band above the plot, in order along the axis, each with a thin leader to what it labels; labels on lines and ranges across the y axis that still fit stay where they are, and the rest go in a column at the right (on a flat bar chart the two swap). The chart grows to make room rather than drawing over the data. At most 3 lanes above (2 at the side), and the band may add at most half the plot's height (or 40% of the chart's width, at the side). Text notes become captions under the chart.
+  3. **As a numbered key**, when lanes would not fit either, as on a phone with several long labels: a small numbered badge on each point, line or range, numbered across the chart, and the texts listed under it, after any captions.
+
+  A label with an `anchor` stays where its author put it, if it fits there clear of the data; otherwise it moves like the rest. Callout text wraps narrowly, to about 12 to 17 characters a line, and labels in lanes may take up to twice that width for longer text.
+- Optional styling: `anchor` is where the text sits from what it labels (`top-left`, `top`, `top-right`, `left`, `center`, `right`, `bottom-left`, `bottom`, `bottom-right`); `color` is `blue`, `orange`, `green`, `yellow`, `pink`, `red`, `purple`, `gray` (all following the chart's light or dark palette) or a hex color; lines take `stroke`: `dashed` (the default), `solid` or `dotted`; points take `"marker": false` for text with no dot.
+- Text is at most 200 characters. It wraps to stay inside the plot, and a line break in it starts a new line. A chart takes at most 20 annotations.
+
+Bar, line, histogram, scatter and stacked bar charts take every type. Maps take `text` only, since they have no x or y axis. A chart type from another plugin takes none unless it says which it draws, with `annotation_types`.
+
+Annotations are checked on the server like the rest of the spec, and a mistake comes back as an error naming the annotation, such as `annotations[0]: a line needs x (a vertical line on most charts) or y (a horizontal line), not both`. An annotation at a value the chart does not show, such as a year outside its range, is not drawn, and a note under the chart says so.
+
+Bar charts take an `orientation` option, `horizontal` (the default) or `vertical`, for upright bars such as one per year. When upright bars are too narrow for their labels to sit level, the labels are turned, then made smaller (down to 9px), then turned further, up to upright. Only as a last resort, and only for ordered values such as years, every second (or Nth) label is left out. Named categories always keep every label.
+
 ## HTTP API
 
 | Endpoint | Returns |
@@ -163,10 +190,13 @@ A filtered table is a table source with the filters from the table page's query 
 
 ## Using charts from Datasette Agent
 
-When [datasette-agent](https://github.com/datasette/datasette-agent) is installed as well, the agent gets two tools:
+When [datasette-agent](https://github.com/datasette/datasette-agent) is installed as well, the agent gets three tools:
 
 - `suggest_charts` returns the role of each column and the ranked suggestions for a table, view, stored query or SQL query: the same ones the Suggested charts panel shows.
-- `chart` draws a chart in the chat from a spec, and returns the rows it plots to the model so it can comment on them. A spec that does not fit the data comes back as a list of errors for the model to correct.
+- `chart` draws a chart in the chat from a spec, and returns the rows it plots to the model so it can comment on them. A spec that does not fit the data comes back as a list of errors for the model to correct. Its description teaches the model the [annotation](#annotations) format, with an example.
+- `annotate_chart` adds, changes or removes the annotations on a chart that has been drawn, and draws it again. It takes the `chart_path` from an earlier result, or the address of a chart page the user has open in the panel, with `add`, `update` (`[{"index": 0, "text": "..."}]`), `remove` (indexes) or `annotations` (a whole new list).
+
+An annotation that names a category the chart does not show is valid, but is not drawn, so `chart` and `annotate_chart` return an `annotation_warnings` list for those, with the values that are there.
 
 Both take `database` and one of `table`, `sql` or `query_name`, with optional `filters` for a table (`{"state": "CA", "price__gt": "5"}`) and `params` for a query.
 
@@ -214,14 +244,13 @@ def register_chart_types(datasette):
 
 The built-in chart types in `datasette_charts/chart_types/` are the reference for now. This interface is not stable yet.
 
-## What is not built yet
+## Potential future improvements
 
 From the spec, in rough order of how much it matters:
 
 - **The background full tier and stored profiles.** Nothing is written to the internal database and no background task runs. Profiles are kept in memory for a few minutes. A source too large to profile under the time limit gets suggestions from a sample, or none.
 - **The verify stage.** Candidates go straight from propose to rank, so nothing checks whether a time series is flat or two measures are related.
 - **Precomputed thumbnails.** Every thumbnail runs its query when it scrolls into view.
-- **The snapshot harness, contact sheet and benchmarks.**
 - **Magic parameters in stored queries**, such as `:_actor_id`.
 
 The map draws points over a coarse world land outline, which needs no network access. The spec leaves the choice of basemap open.
@@ -234,10 +263,9 @@ To set up this plugin locally, first checkout the code. You can confirm it is av
 ```bash
 cd datasette-charts
 # Confirm the plugin is visible
-uv run --no-project --with-editable ~/dev/datasette --with-editable . datasette plugins
+uv run datasette plugins
 ```
-To run the tests, which also need Datasette's `main` branch for now:
+To run the tests:
 ```bash
-uv run --no-project --with-editable ~/dev/datasette --with-editable . \
-  --with pytest --with pytest-asyncio pytest
+uv run pytest
 ```
