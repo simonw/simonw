@@ -13,6 +13,10 @@ Install this plugin in the same environment as Datasette.
 ```bash
 datasette install datasette-charts
 ```
+## Screenshot
+
+![A vertical bar chart of total capacity_mw by decade from 1950 to 2010, with three annotations. A gray shaded range covers 1950 through 1990, labeled "Much smaller summed capacity in earlier decades": those bars run from 80.9K to 446.4K. A dashed horizontal line labeled "1,000,000 MW reference" crosses the chart, level with the top of the 2010 bar at 1M. A callout with a dot on the tallest bar, 2000 at 1.2M, reads "Largest decade total in these records: 1.157 million MW". A caption under the chart reads "Global plant records with commissioning years 1950–2019; coverage and missing years may affect comparisons."](https://raw.githubusercontent.com/datasette/datasette-charts/main/chart-with-annotations.webp)
+
 ## Usage
 
 Every table, view and SQL query page gets a **Suggested charts** panel at the top. It shows a row of charts, best first, each with a thumbnail, a title and the reason it was suggested. Select one to see it at full size.
