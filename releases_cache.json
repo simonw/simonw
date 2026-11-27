@@ -6593,6 +6593,12 @@
     "description": "Adds a /-/mcp MCP server to any Datasette instance",
     "releases": [
       {
+        "published_at": "2026-11-27T00:26:17Z",
+        "published_day": "2026-11-27",
+        "release": "0.4",
+        "url": "https://github.com/datasette/datasette-mcp/releases/tag/0.4"
+      },
+      {
         "published_at": "2026-10-22T21:24:08Z",
         "published_day": "2026-10-22",
         "release": "0.3",
@@ -6613,7 +6619,7 @@
     ],
     "repo": "datasette-mcp",
     "repo_url": "https://github.com/datasette/datasette-mcp",
-    "total_releases": 3
+    "total_releases": 4
   },
   "datasette-media": {
     "description": "Datasette plugin for serving media based on a SQL query",
