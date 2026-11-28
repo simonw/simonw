@@ -229,24 +229,9 @@ html = api.embed_html(datasette, source, spec)
 
 ## Adding chart types
 
-A chart type is a Python class that proposes charts and compiles them to SQL, plus a JavaScript module that draws the result. Other plugins register theirs with the `register_chart_types` hook, which is how the built-in ones are registered too:
+Other plugins can add chart types. A chart type is a Python class that proposes charts and compiles them to SQL, plus a JavaScript module that draws the result, registered with the `register_chart_types` hook. The built-in chart types are registered the same way.
 
-```python
-from datasette import hookimpl
-from datasette_charts import ChartType
-
-
-class SankeyChart(ChartType):
-    name = "sankey"
-    ...
-
-
-@hookimpl
-def register_chart_types(datasette):
-    return [SankeyChart]
-```
-
-The built-in chart types in `datasette_charts/chart_types/` are the reference for now. This interface is not stable yet.
+[Writing chart type plugins](docs/plugins.md) has a tutorial that builds one from start to finish, and a reference for the Python classes, the profile that suggestions are worked out from, and the JavaScript helpers every renderer is handed. This interface is not stable yet.
 
 ## Potential future improvements
 

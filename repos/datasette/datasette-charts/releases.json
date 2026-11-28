@@ -4,6 +4,13 @@
   "releases": [
     {
       "author": "simonw",
+      "published_at": "2026-11-27T23:57:17Z",
+      "published_day": "2026-11-27",
+      "release": "0.4a0",
+      "url": "https://github.com/datasette/datasette-charts/releases/tag/0.4a0"
+    },
+    {
+      "author": "simonw",
       "published_at": "2026-11-25T18:16:50Z",
       "published_day": "2026-11-25",
       "release": "0.3a0",
@@ -32,6 +39,6 @@
     }
   ],
   "repo": "datasette-charts",
-  "total_releases": 4,
+  "total_releases": 5,
   "url": "https://github.com/datasette/datasette-charts"
 }
