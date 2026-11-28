@@ -4,9 +4,9 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette-mcp 0.4](https://github.com/datasette/datasette-mcp/releases/tag/0.4) - 2026-11-27
+[datasette-charts 0.4a0](https://github.com/datasette/datasette-charts/releases/tag/0.4a0) - 2026-11-27
 
-[datasette-charts 0.3a0](https://github.com/datasette/datasette-charts/releases/tag/0.3a0) - 2026-11-25
+[datasette-mcp 0.4](https://github.com/datasette/datasette-mcp/releases/tag/0.4) - 2026-11-27
 
 [datasette-agent 0.7a1](https://github.com/datasette/datasette-agent/releases/tag/0.7a1) - 2026-11-24
 
