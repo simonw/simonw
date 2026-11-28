@@ -3335,6 +3335,20 @@
     "repo_url": "https://github.com/datasette/datasette-charts",
     "total_releases": 6
   },
+  "datasette-charts-pie": {
+    "description": "Pie, Donut, Sunburst, and Rose charts for datasette-charts",
+    "releases": [
+      {
+        "published_at": "2026-11-28T06:28:23Z",
+        "published_day": "2026-11-28",
+        "release": "0.1a0",
+        "url": "https://github.com/datasette/datasette-charts-pie/releases/tag/0.1a0"
+      }
+    ],
+    "repo": "datasette-charts-pie",
+    "repo_url": "https://github.com/datasette/datasette-charts-pie",
+    "total_releases": 1
+  },
   "datasette-chatgpt-plugin": {
     "description": "A Datasette plugin that turns a Datasette instance into a ChatGPT plugin",
     "releases": [

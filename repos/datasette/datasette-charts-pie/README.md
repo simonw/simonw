@@ -28,7 +28,11 @@ All of these chart types can be constructed by hand in the chart builder. Pie an
 
 <img src="screenshots/pie.png" width="580" alt="A pie chart of orders by status. Delivered is the largest slice, at 69%, running clockwise from 12 o'clock, then Shipped at 17%, Cancelled at 9% and Returned at 5%, whose share is written outside its thin slice with a short leader line. A legend on the right lists each status with its count and share: Delivered 2,079, Shipped 505, Cancelled 265 and Returned 151.">
 
+[Live demo](https://lite.datasette.io/?install=datasette-charts-pie#/content/pypi_packages#chart=%7B%22v%22%3A1%2C%22type%22%3A%22pie%22%2C%22encoding%22%3A%7B%22x%22%3A%7B%22column%22%3A%22license%22%2C%22limit%22%3A10%2C%22other%22%3Atrue%7D%2C%22y%22%3A%7B%22aggregate%22%3A%22count%22%7D%7D%2C%22options%22%3A%7B%22labels%22%3A%22percent%22%2C%22sweep%22%3A%22full%22%7D%7D): PyPI packages by license, in Datasette Lite.
+
 <img src="screenshots/donut.png" width="580" alt="A donut chart of the total amount of orders by sales channel, with 164.9K and Total amount written in the hole. Website is 45%, Mobile app 28%, Marketplace 15%, Phone 8% and In store 4%, which is too thin for a label. The legend on the right gives each channel's total, from 74,313.87 for Website down to 6,248.85 for In store, and its share.">
+
+[Live demo](https://lite.datasette.io/?install=datasette-charts-pie#/content/stats#chart=%7B%22v%22%3A1%2C%22type%22%3A%22donut%22%2C%22encoding%22%3A%7B%22x%22%3A%7B%22column%22%3A%22package%22%2C%22limit%22%3A6%2C%22other%22%3Atrue%7D%2C%22y%22%3A%7B%22column%22%3A%22downloads%22%2C%22aggregate%22%3A%22sum%22%7D%7D%2C%22options%22%3A%7B%22labels%22%3A%22percent%22%2C%22sweep%22%3A%22full%22%2C%22center%22%3A%22total%22%7D%7D): total PyPI downloads by package.
 
 ```json
 {
@@ -54,6 +58,8 @@ All of these chart types can be constructed by hand in the chart builder. Pie an
 
 <img src="screenshots/sunburst.png" width="580" alt="A sunburst chart of customers by country, then city. The inner ring has a slice for each country, in the series colors: United Kingdom 33%, United States 24%, Germany 14%, France 9%, Japan 9%, Brazil 5% and a gray Other. The outer ring breaks each country down by city, in paler tints of the country's color, largest first, with the names written along the radius where they fit: London, Manchester shortened to Manc…, Leeds and Bristol for the United Kingdom, New York, Chicago, Austin and Seattle for the United States, and so on. The legend on the right lists the countries with their counts and shares.">
 
+[Live demo](https://lite.datasette.io/?install=datasette-charts-pie#/content/releases#chart=%7B%22v%22%3A1%2C%22type%22%3A%22sunburst%22%2C%22encoding%22%3A%7B%22x%22%3A%7B%22column%22%3A%22author%22%2C%22limit%22%3A6%7D%2C%22series%22%3A%7B%22column%22%3A%22repo%22%2C%22limit%22%3A5%7D%2C%22y%22%3A%7B%22aggregate%22%3A%22count%22%7D%7D%7D): GitHub releases by author, then repository.
+
 ```json
 {
   "v": 1,
@@ -75,6 +81,8 @@ All of these chart types can be constructed by hand in the chart builder. Pie an
 ### `rose`
 
 <img src="screenshots/rose.png" width="580" alt="A rose chart of orders by hour of the day. Twenty-four wedges run clockwise from midnight at the top, each reaching out as far as its number of orders, with hours labelled 00, 03, 06 and so on around the outside like a clock. The wedges are short overnight, from about 01:00 to 06:00, and longest around 12:00 and again from 19:00 to 21:00. Rings at 50, 100 and 150 orders are labelled up the 12 o'clock line, and Rows is written under the chart.">
+
+[Live demo](https://lite.datasette.io/?install=datasette-charts-pie#/content/releases#chart=%7B%22v%22%3A1%2C%22type%22%3A%22rose%22%2C%22encoding%22%3A%7B%22x%22%3A%7B%22column%22%3A%22published_at%22%7D%2C%22y%22%3A%7B%22aggregate%22%3A%22count%22%7D%7D%2C%22options%22%3A%7B%22cycle%22%3A%22hour%22%7D%7D): GitHub releases by hour of the day, in UTC.
 
 ```json
 {
