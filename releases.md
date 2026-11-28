@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->2,357<!-- releases_count ends --> releases across <!-- project_count starts -->410<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->2,358<!-- releases_count ends --> releases across <!-- project_count starts -->410<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[datasette-charts](https://github.com/datasette/datasette-charts)**: [0.4a0](https://github.com/datasette/datasette-charts/releases/tag/0.4a0) - ([5 releases total](https://github.com/datasette/datasette-charts/releases)) - 2026-11-27
+* **[datasette-charts](https://github.com/datasette/datasette-charts)**: [0.5a0](https://github.com/datasette/datasette-charts/releases/tag/0.5a0) - ([6 releases total](https://github.com/datasette/datasette-charts/releases)) - 2026-11-28
 <br />A charting plugin for Datasette
 * **[datasette-mcp](https://github.com/datasette/datasette-mcp)**: [0.4](https://github.com/datasette/datasette-mcp/releases/tag/0.4) - ([4 releases total](https://github.com/datasette/datasette-mcp/releases)) - 2026-11-27
 <br />Adds a /-/mcp MCP server to any Datasette instance

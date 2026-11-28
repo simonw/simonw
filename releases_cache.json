@@ -3295,6 +3295,12 @@
     "description": "A charting plugin for Datasette",
     "releases": [
       {
+        "published_at": "2026-11-28T02:50:55Z",
+        "published_day": "2026-11-28",
+        "release": "0.5a0",
+        "url": "https://github.com/datasette/datasette-charts/releases/tag/0.5a0"
+      },
+      {
         "published_at": "2026-11-27T23:57:17Z",
         "published_day": "2026-11-27",
         "release": "0.4a0",
@@ -3327,7 +3333,7 @@
     ],
     "repo": "datasette-charts",
     "repo_url": "https://github.com/datasette/datasette-charts",
-    "total_releases": 5
+    "total_releases": 6
   },
   "datasette-chatgpt-plugin": {
     "description": "A Datasette plugin that turns a Datasette instance into a ChatGPT plugin",

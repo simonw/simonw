@@ -37,6 +37,9 @@ Charts never fetch every row. Each one compiles to a SQL query that returns a sm
 | `scatter` | Two numeric columns: points for small sources, a binned heatmap for large ones | There are two measures |
 | `map` | Latitude and longitude: points for small sources, grid cells for large ones | A latitude/longitude pair exists |
 | `stacked_bar` | Stacked or grouped bars for two categories, or a category over time | There are two categories |
+| `calendar_heatmap` | A count or an aggregate for each day, as a calendar with one block per year. The `years` option (1, 2, 3, 5 or 10) picks how many, counted back from the year of the latest date, not from today | A date or timestamp column has rows on many of the days it spans |
+| `box_plot` | Box plots of a numeric column for each of the most common values of a category: minimum, quartiles, median and maximum | There is a measure and a category with enough rows for each value |
+| `active_count` | How many rows are active at each point in time, from a start and an end column, optionally split by a category | Two date columns are named like a start and an end, such as `start_date` and `end_date` |
 
 ### How large sources are handled
 
@@ -143,11 +146,11 @@ Annotations are part of the chart's spec, so they are kept in the `#chart=` link
 | `point` | `{"type": "point", "x": "2020-04", "text": "Pandemic spike"}` | A callout on a data point, with a dot and a line to the text |
 | `text` | `{"type": "text", "left": 0.02, "top": 0.05, "text": "Source: FAA"}` | A note placed by fractions of the plot area |
 
-- `x` and `y` are the spec's own x and y channels. On a horizontal bar chart x is the category axis, down the side, so a line at an x value there is horizontal.
+- `x` and `y` are the spec's own x and y channels. On a horizontal bar chart and a box plot x is the category axis, down the side, so a line at an x value there is horizontal. On an `active_count` chart x is time, from its `start` column.
 - x values are written the way the chart shows them: a category, a year (`2009`), a month (`"2009-06"`), a date or time (`"2009-06-15"`, `"2009-06-15T10:30"`), or a number.
 - `position` places a line at an x category or time: `before`, `center` or `after`. Before or after a category puts the line between it and its neighbour. On a time axis a value names a period, and the line goes at its start (the default), middle or end: `"x": 2009, "position": "after"` is the end of 2009.
 - A `range` over categories or periods covers both ends whole.
-- A `point` with no `y` uses the chart's own value at x. `series` picks a series on a line or stacked bar chart. Scatter plots need `y`.
+- A `point` with no `y` uses the chart's own value at x: on a box plot, the median. `series` picks a series on a line or stacked bar chart. Scatter plots need `y`.
 - Every annotation's label is laid out together with the others, in one of three ways picked each time the chart is drawn, including when it is resized. No label is ever drawn over the data or another label, and text is wrapped at word boundaries, never cut short.
   1. **Beside what it labels**, when every label fits there clear of the data, the other labels and the edges of the plot, and callouts read in the same order as their points.
   2. **In lanes**, when they do not. Labels for callouts, ranges and lines across the x axis move to a band above the plot, in order along the axis, each with a thin leader to what it labels; labels on lines and ranges across the y axis that still fit stay where they are, and the rest go in a column at the right (on a flat bar chart the two swap). The chart grows to make room rather than drawing over the data. At most 3 lanes above (2 at the side), and the band may add at most half the plot's height (or 40% of the chart's width, at the side). Text notes become captions under the chart.
@@ -157,7 +160,7 @@ Annotations are part of the chart's spec, so they are kept in the `#chart=` link
 - Optional styling: `anchor` is where the text sits from what it labels (`top-left`, `top`, `top-right`, `left`, `center`, `right`, `bottom-left`, `bottom`, `bottom-right`); `color` is `blue`, `orange`, `green`, `yellow`, `pink`, `red`, `purple`, `gray` (all following the chart's light or dark palette) or a hex color; lines take `stroke`: `dashed` (the default), `solid` or `dotted`; points take `"marker": false` for text with no dot.
 - Text is at most 200 characters. It wraps to stay inside the plot, and a line break in it starts a new line. A chart takes at most 20 annotations.
 
-Bar, line, histogram, scatter and stacked bar charts take every type. Maps take `text` only, since they have no x or y axis. A chart type from another plugin takes none unless it says which it draws, with `annotation_types`.
+Bar, line, histogram, scatter, stacked bar, box plot and active count charts take every type. Maps take `text` only, since they have no x or y axis, and so do calendar heatmaps, whose weeks wrap from one column to the next with no straight time axis to draw on. A chart type from another plugin takes none unless it says which it draws, with `annotation_types`.
 
 Annotations are checked on the server like the rest of the spec, and a mistake comes back as an error naming the annotation, such as `annotations[0]: a line needs x (a vertical line on most charts) or y (a horizontal line), not both`. An annotation at a value the chart does not show, such as a year outside its range, is not drawn, and a note under the chart says so.
 
